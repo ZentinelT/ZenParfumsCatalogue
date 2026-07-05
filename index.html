@@ -7,7 +7,7 @@
 <title>Zen Parfums</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600&family=Marcellus+SC&display=swap" rel="stylesheet">
 <style>
 :root{
   --bg:#0a0a0b;
@@ -54,7 +54,7 @@ nav{
 .nav-inner{
   max-width:1360px;
   margin:0 auto;
-  padding:20px 32px;
+  padding:16px 32px;
   display:flex;
   align-items:center;
   justify-content:space-between;
@@ -124,7 +124,7 @@ nav{
 /* HERO */
 .hero-banner{
   position:relative;
-  padding:70px 32px 20px;
+  padding:32px 32px 4px;
   text-align:center;
   overflow:hidden;
 }
@@ -141,7 +141,7 @@ nav{
   position:relative;
   display:block;
   margin:0 auto;
-  width:270px;
+  width:170px;
   max-width:70%;
   height:auto;
   opacity:.96;
@@ -149,7 +149,7 @@ nav{
 
 .hero-copy{
   position:relative;
-  padding:40px 32px 90px;
+  padding:8px 32px 30px;
   text-align:center;
   overflow:hidden;
 }
@@ -165,24 +165,24 @@ nav{
 .hero-copy h1{
   font-family:'Cormorant', serif;
   font-weight:300;
-  font-size:clamp(30px, 4.6vw, 50px);
+  font-size:clamp(25px, 3.4vw, 38px);
   line-height:1.15;
   letter-spacing:.5px;
-  max-width:760px;
-  margin:16px auto 0;
+  max-width:680px;
+  margin:8px auto 0;
   position:relative;
 }
 .hero-copy h1 em{font-style:italic; color:var(--gold-soft); font-weight:400;}
 .hero-copy p{
-  margin:22px auto 0;
-  max-width:520px;
+  margin:10px auto 0;
+  max-width:480px;
   color:var(--muted);
-  font-size:14.5px;
+  font-size:13.5px;
   letter-spacing:.3px;
   position:relative;
 }
 .hero-cta{
-  margin-top:36px;
+  margin-top:18px;
   display:inline-flex;
   align-items:center;
   gap:10px;
@@ -205,38 +205,38 @@ nav{
 .trust-inner{
   max-width:1200px;
   margin:0 auto;
-  padding:44px 32px;
+  padding:16px 32px;
   display:grid;
   grid-template-columns:repeat(4, 1fr);
-  gap:32px;
+  gap:18px;
 }
 .trust-item{text-align:center;}
-.trust-item svg{margin:0 auto 14px; opacity:.85;}
+.trust-item svg{width:18px; height:18px; margin:0 auto 6px; opacity:.78;}
 .trust-item h3{
   font-family:'Cormorant', serif;
   font-weight:500;
-  font-size:16px;
+  font-size:14px;
   letter-spacing:.5px;
-  margin-bottom:6px;
+  margin-bottom:2px;
   color:var(--ink);
 }
 .trust-item p{
-  font-size:12px;
+  font-size:10.5px;
   color:var(--muted);
-  line-height:1.55;
+  line-height:1.35;
 }
 
 /* CATALOG */
-.wrap{max-width:1360px; margin:0 auto; padding:64px 32px 100px;}
+.wrap{max-width:1360px; margin:0 auto; padding:20px 32px 100px;}
 .wrap-head{
   display:flex;
   align-items:baseline;
   justify-content:space-between;
-  margin-bottom:36px;
+  margin-bottom:18px;
   flex-wrap:wrap;
   gap:12px;
   border-bottom:1px solid var(--line);
-  padding-bottom:20px;
+  padding-bottom:12px;
 }
 .wrap-head h2{
   font-family:'Cormorant', serif;
@@ -383,6 +383,12 @@ select#brand, select#gender, select#priceSort{
   letter-spacing:.2px;
   color:var(--gold-soft);
 }
+.card-price.out-of-stock{
+  color:var(--muted-2);
+  letter-spacing:1.4px;
+  text-transform:uppercase;
+  font-size:11px;
+}
 
 .empty{
   text-align:center;
@@ -406,7 +412,14 @@ footer{
   margin-bottom:10px;
 }
 .footer-mark em{color:var(--gold-soft); font-style:normal;}
-footer p{font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:600; color:var(--muted-2); letter-spacing:1.5px;}
+footer p{
+  font-family:'Marcellus SC', 'Cormorant', serif;
+  font-size:12px;
+  font-weight:400;
+  color:var(--gold-soft);
+  letter-spacing:3.2px;
+  text-transform:uppercase;
+}
 
 @media (max-width:860px){
   .trust-inner{grid-template-columns:repeat(2, 1fr); gap:28px 20px;}
@@ -417,16 +430,19 @@ footer p{font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:6
   .nav-inner{padding:14px 16px; flex-wrap:wrap; row-gap:10px;}
   .wordmark{order:1;}
   .nav-search{order:2; width:100%;}
-  .hero-banner{max-width:100%; padding:44px 20px 12px;}
-  .hero-mark{width:200px;}
-  .hero-copy{padding:32px 20px 60px;}
-  .wrap{padding:44px 20px 70px;}
+  .hero-banner{max-width:100%; padding:24px 20px 4px;}
+  .hero-mark{width:145px;}
+  .hero-copy{padding:10px 20px 28px;}
+  .wrap{padding:26px 20px 70px;}
   .wrap-controls{flex-wrap:wrap; gap:10px;}
   #brand, #gender, #priceSort{width:100%;}
   .grid{grid-template-columns:repeat(2, 1fr); gap:14px;}
   .card-name{font-size:14.5px; min-height:38px;}
   .card-price{font-size:17px;}
-  .trust-inner{grid-template-columns:1fr 1fr; padding:32px 20px;}
+  .trust-inner{grid-template-columns:1fr 1fr; padding:16px 20px; gap:16px;}
+  .trust-item p{display:none;}
+  .trust-item h3{font-size:13.5px; line-height:1.15; margin-bottom:0;}
+  .trust-item svg{margin-bottom:5px;}
 }
 @media (max-width:380px){
   .grid{grid-template-columns:1fr;}
@@ -543,7 +559,13 @@ function genderOf(d){
 DATA.forEach(d => { if (!d.gender) d.gender = genderOf(d); });
 
 function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function isOutOfStock(d){ return d.price === 15000; }
 function fmtPrice(p){ return '$' + p.toLocaleString('es-AR'); }
+function priceHtml(d){
+  return isOutOfStock(d)
+    ? '<span class="card-price out-of-stock">Sin stock</span>'
+    : '<span class="card-price">'+fmtPrice(d.price)+'</span>';
+}
 
 function notesHtml(d){
   let rows = '';
@@ -565,8 +587,8 @@ function render(){
     if (fq && !(d.brand+' '+d.name).toLowerCase().includes(fq)) return false;
     return true;
   });
-  if (fs === 'asc') filtered.sort((a,b)=>a.price-b.price);
-  if (fs === 'desc') filtered.sort((a,b)=>b.price-a.price);
+  if (fs === 'asc') filtered.sort((a,b)=>(isOutOfStock(a)-isOutOfStock(b)) || a.price-b.price);
+  if (fs === 'desc') filtered.sort((a,b)=>(isOutOfStock(a)-isOutOfStock(b)) || b.price-a.price);
   count.innerHTML = '<b>' + filtered.length + '</b> piezas';
   empty.style.display = filtered.length ? 'none' : 'block';
   let html = '';
@@ -580,7 +602,7 @@ function render(){
         + notesHtml(d)
         + '<div class="card-foot">'
           + '<span class="card-ml">'+(d.ml ? d.ml+' ml' : '&nbsp;')+'</span>'
-          + '<span class="card-price">'+fmtPrice(d.price)+'</span>'
+          + priceHtml(d)
         + '</div>'
       + '</div>'
     + '</div>';
