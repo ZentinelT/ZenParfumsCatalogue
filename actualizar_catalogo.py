@@ -1,206 +1,116 @@
 import os
+import re
+import json
 import requests
 import pandas as pd
 
 # ---------- CONFIG ----------
-API_KEY = os.environ["SUPABASE_KEY"]  # se toma de un GitHub Secret
+API_KEY = os.environ["SUPABASE_KEY"]
 API_URL = "https://syylbuvjuekkanxynpps.supabase.co/rest/v1/productos"
 
 MARGEN_NORMAL = 15000
 MARGEN_TUBBEES = 10000
+SIN_STOCK_PRECIO = 15000  # sentinela ya usado en el sitio para "Sin stock"
 
-OUTPUT_HTML = "index.html"
+HTML_PATH = "index.html"
+
+CAT_MAP = {
+    "arabes": "Árabe",
+    "internacionales": "Internacional",
+}
 
 # ---------- 1. DESCARGAR DATOS ----------
-headers = {
-    "apikey": API_KEY,
-    "Authorization": f"Bearer {API_KEY}",
-}
+headers = {"apikey": API_KEY, "Authorization": f"Bearer {API_KEY}"}
 params = {"select": "*"}
 
 print("Descargando productos...")
 response = requests.get(API_URL, headers=headers, params=params)
-
 if response.status_code != 200:
     print("Error:", response.status_code, response.text)
     exit(1)
 
-productos = response.json()
-df = pd.DataFrame(productos)
+df = pd.DataFrame(response.json())
 print(f"Productos descargados: {len(df)}")
 
-# ---------- 2. FILTRAR Y CALCULAR PRECIOS ----------
+# ---------- 2. FILTRAR ----------
 df = df[(df["tipo"] == "perfume") & (df["activo"] == True)].copy()
 
 def calcular_precio(row):
-    base = row["precio_min_ars"]
+    if pd.isna(row.get("stock_actual")) or row["stock_actual"] <= 0:
+        return SIN_STOCK_PRECIO
+    base = row.get("precio_min_ars")
     if pd.isna(base):
-        return None
-    if str(row["empresa"]).strip().upper() == "TUBBEES":
-        return base + MARGEN_TUBBEES
-    return base + MARGEN_NORMAL
+        return SIN_STOCK_PRECIO
+    if str(row.get("empresa", "")).strip().upper() == "TUBBEES":
+        return int(base + MARGEN_TUBBEES)
+    return int(base + MARGEN_NORMAL)
 
-df["precio_final"] = df.apply(calcular_precio, axis=1)
-df["stock_estado"] = df["stock_actual"].apply(
-    lambda x: "Sin stock" if pd.isna(x) or x <= 0 else "Disponible"
-)
+def genero_map(g):
+    g = str(g or "").strip()
+    if "♀" in g:
+        return "Mujer"
+    if "♂" in g:
+        return "Hombre"
+    return "Unisex"
 
-resultado = df[[
-    "nombre", "empresa", "genero", "cat_catalogo",
-    "descripcion", "imagen_url", "precio_final", "stock_estado"
-]].rename(columns={
-    "nombre": "producto",
-    "empresa": "marca",
-    "cat_catalogo": "categoria",
-    "descripcion": "notas",
-    "imagen_url": "foto",
-})
+def partir_nombre(empresa, nombre):
+    empresa = str(empresa or "").strip()
+    nombre = str(nombre or "").strip()
+    prefijo = empresa + " - "
+    if nombre.startswith(prefijo):
+        return nombre[len(prefijo):].strip()
+    return nombre
 
-print(f"Perfumes activos: {len(resultado)}")
+def parsear_notas(desc):
+    desc = str(desc or "")
+    top = heart = base = ""
+    m = re.search(r"Notas? de [Ss]alida:?\s*(.*?)(?=Notas? de |$)", desc)
+    if m: top = m.group(1).strip(" .")
+    m = re.search(r"Notas? de [Cc]oraz[oó]n:?\s*(.*?)(?=Notas? de |$)", desc)
+    if m: heart = m.group(1).strip(" .")
+    m = re.search(r"Notas? de [Ff]ondo:?\s*(.*?)(?=Notas? de |$)", desc)
+    if m: base = m.group(1).strip(" .")
+    return top, heart, base
 
-# ---------- 3. GENERAR HTML ----------
-cards = ""
-for _, row in resultado.iterrows():
-    nombre = row.get("producto", "")
-    marca = row.get("marca", "")
-    genero = row.get("genero", "")
-    categoria = row.get("categoria", "")
-    notas = str(row.get("notas", "") or "")
-    foto = row.get("foto", "")
-    precio = row.get("precio_final", 0)
-    stock_estado = row.get("stock_estado", "Disponible")
-    sin_stock = stock_estado == "Sin stock"
-
+registros = []
+for _, row in df.iterrows():
+    top, heart, base = parsear_notas(row.get("descripcion"))
+    ml = row.get("ml")
     try:
-        precio_fmt = f"${precio:,.0f}".replace(",", ".")
+        ml = int(ml) if pd.notna(ml) else None
     except Exception:
-        precio_fmt = str(precio)
+        ml = None
 
-    clase_extra = " sin-stock" if sin_stock else ""
-    aviso = '<p class="aviso-stock">SIN STOCK</p>' if sin_stock else ""
-    precio_html = "" if sin_stock else f'<p class="precio">{precio_fmt}</p>'
+    registros.append({
+        "brand": str(row.get("empresa", "")).strip(),
+        "name": partir_nombre(row.get("empresa"), row.get("nombre")),
+        "ml": ml,
+        "cat": CAT_MAP.get(str(row.get("cat_catalogo", "")).strip(), str(row.get("cat_catalogo", "")).strip()),
+        "price": calcular_precio(row),
+        "img": str(row.get("imagen_url", "") or ""),
+        "top": top,
+        "heart": heart,
+        "base": base,
+        "gender": genero_map(row.get("genero")),
+    })
 
-    cards += f"""
-    <div class="card{clase_extra}">
-        <img src="{foto}" alt="{nombre}" loading="lazy" onerror="this.src='https://via.placeholder.com/300x300?text=Sin+foto'">
-        <div class="info">
-            <span class="badge">{categoria} {genero}</span>
-            <h3>{nombre}</h3>
-            <p class="marca">{marca}</p>
-            <p class="notas">{notas}</p>
-            {aviso}
-            {precio_html}
-        </div>
-    </div>
-    """
+print(f"Perfumes activos: {len(registros)}")
 
-html = f"""<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<title>Catálogo de Perfumes</title>
-<style>
-  body {{
-    font-family: Arial, sans-serif;
-    background: #0d0d0d;
-    color: #f2f2f2;
-    margin: 0;
-    padding: 20px;
-  }}
-  h1 {{
-    text-align: center;
-    color: #d4af37;
-    font-weight: 300;
-    letter-spacing: 2px;
-  }}
-  .grid {{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 20px;
-    max-width: 1400px;
-    margin: 30px auto;
-  }}
-  .card {{
-    background: #1a1a1a;
-    border: 1px solid #333;
-    border-radius: 10px;
-    overflow: hidden;
-    transition: transform 0.2s;
-  }}
-  .card:hover {{
-    transform: translateY(-5px);
-    border-color: #d4af37;
-  }}
-  .card img {{
-    width: 100%;
-    height: 260px;
-    object-fit: cover;
-    background: #000;
-  }}
-  .info {{
-    padding: 12px 14px;
-  }}
-  .badge {{
-    font-size: 11px;
-    color: #d4af37;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }}
-  h3 {{
-    margin: 6px 0 2px;
-    font-size: 15px;
-    font-weight: 600;
-  }}
-  .marca {{
-    font-size: 12px;
-    color: #aaa;
-    margin: 0 0 8px;
-  }}
-  .notas {{
-    font-size: 11px;
-    color: #888;
-    max-height: 60px;
-    overflow: hidden;
-    margin-bottom: 10px;
-  }}
-  .precio {{
-    font-size: 18px;
-    color: #fff;
-    font-weight: bold;
-    border-top: 1px solid #333;
-    padding-top: 8px;
-    margin: 0;
-  }}
-  .card.sin-stock img {{
-    opacity: 0.4;
-    filter: grayscale(60%);
-  }}
-  .card.sin-stock {{
-    opacity: 0.7;
-  }}
-  .aviso-stock {{
-    display: inline-block;
-    background: #b03030;
-    color: #fff;
-    font-size: 11px;
-    font-weight: bold;
-    letter-spacing: 1px;
-    padding: 3px 8px;
-    border-radius: 4px;
-    margin: 4px 0 8px;
-  }}
-</style>
-</head>
-<body>
-  <h1>Catálogo de Perfumes</h1>
-  <div class="grid">
-    {cards}
-  </div>
-</body>
-</html>
-"""
+# ---------- 3. REEMPLAZAR SOLO EL ARRAY DATA EN EL HTML ----------
+with open(HTML_PATH, "r", encoding="utf-8") as f:
+    html = f.read()
 
-with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
-    f.write(html)
+nuevo_json = json.dumps(registros, ensure_ascii=False)
+nuevo_bloque = f"const DATA = {nuevo_json};"
 
-print(f"Listo: {OUTPUT_HTML}")
+patron = re.compile(r"const DATA = \[.*?\];", re.DOTALL)
+if not patron.search(html):
+    print("No se encontró el array DATA en el HTML. Abortando sin modificar nada.")
+    exit(1)
+
+html_actualizado = patron.sub(lambda m: nuevo_bloque, html, count=1)
+
+with open(HTML_PATH, "w", encoding="utf-8") as f:
+    f.write(html_actualizado)
+
+print("Listo: DATA actualizado dentro de index.html (diseño intacto)")
