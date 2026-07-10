@@ -2,7 +2,7 @@ name: Actualizar catálogo
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # cada 6 horas
+    - cron: "0 */18 * * *"   # cada 6 horas
   workflow_dispatch:         # permite correrlo manualmente desde GitHub
 
 permissions:
