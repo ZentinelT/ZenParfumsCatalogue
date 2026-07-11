@@ -11,7 +11,9 @@ API_URL = "https://syylbuvjuekkanxynpps.supabase.co/rest/v1/productos"
 MARGEN_NORMAL = 15000
 MARGEN_TUBBEES = 10000
 
-HTML_PATH = "index.html"  # el nuevo zen-parfums-v5.html renombrado como index.html
+HTML_PATHS = [p for p in ["zen-parfums-v5.html", "index.html"] if os.path.exists(p)]
+if not HTML_PATHS:
+    raise FileNotFoundError("No se encontró ningún archivo HTML objetivo para actualizar")
 
 CAT_MAP = {
     "arabes": "arabes",
@@ -151,22 +153,23 @@ for i, (_, row) in enumerate(df.iterrows(), start=1):
 print(f"Productos activos: {len(registros)}")
 
 # ---------- 3. REEMPLAZAR SOLO EL BLOQUE pdata EN EL HTML ----------
-with open(HTML_PATH, "r", encoding="utf-8") as f:
-    html = f.read()
-
 nuevo_json = json.dumps(registros, ensure_ascii=False, separators=(",", ":"))
-
 patron = re.compile(
     r'(<script type="application/json" id="pdata">)(.*?)(</script>)',
     re.DOTALL
 )
-if not patron.search(html):
-    print("No se encontró el bloque pdata en el HTML. Abortando sin modificar nada.")
-    exit(1)
 
-html_actualizado = patron.sub(lambda m: m.group(1) + nuevo_json + m.group(3), html, count=1)
+for html_path in HTML_PATHS:
+    with open(html_path, "r", encoding="utf-8") as f:
+        html = f.read()
 
-with open(HTML_PATH, "w", encoding="utf-8") as f:
-    f.write(html_actualizado)
+    if not patron.search(html):
+        print(f"No se encontró el bloque pdata en {html_path}. Se omite.")
+        continue
 
-print("Listo: pdata actualizado dentro de index.html (diseño intacto)")
+    html_actualizado = patron.sub(lambda m: m.group(1) + nuevo_json + m.group(3), html, count=1)
+
+    with open(html_path, "w", encoding="utf-8") as f:
+        f.write(html_actualizado)
+
+    print(f"Listo: pdata actualizado dentro de {html_path}")
