@@ -62,9 +62,19 @@ def genero_map(g):
     return "unisex"
 
 def parsear_notas(desc):
-    desc = str(desc or "").strip()
+    if desc is None:
+        return "—"
+    if pd.isna(desc):
+        return "—"
+
+    desc = str(desc).strip()
     if not desc:
         return "—"
+
+    placeholders = {"nan", "none", "null", "n/a", "na", "undefined", "sin datos", "sin notas", "no data"}
+    if desc.lower() in placeholders:
+        return "—"
+
     top = heart = base = ""
     m = re.search(r"Notas? de [Ss]alida:?\s*(.*?)(?=Notas? de |$)", desc)
     if m: top = m.group(1).strip(" .")
@@ -76,7 +86,7 @@ def parsear_notas(desc):
     if top: partes.append("Salida  " + top)
     if heart: partes.append("Corazón  " + heart)
     if base: partes.append("Fondo  " + base)
-    return "    ".join(partes) if partes else desc
+    return "    ".join(partes) if partes else "—"
 
 def fmt_precio(p):
     if not p:
