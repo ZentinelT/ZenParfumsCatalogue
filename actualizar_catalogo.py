@@ -67,26 +67,46 @@ def parsear_notas(desc):
     if pd.isna(desc):
         return "—"
 
-    desc = str(desc).strip()
-    if not desc:
+    text = str(desc).strip()
+    if not text:
         return "—"
 
     placeholders = {"nan", "none", "null", "n/a", "na", "undefined", "sin datos", "sin notas", "no data"}
-    if desc.lower() in placeholders:
+    if text.lower() in placeholders:
         return "—"
 
-    top = heart = base = ""
-    m = re.search(r"Notas? de [Ss]alida:?\s*(.*?)(?=Notas? de |$)", desc)
-    if m: top = m.group(1).strip(" .")
-    m = re.search(r"Notas? de [Cc]oraz[oó]n:?\s*(.*?)(?=Notas? de |$)", desc)
-    if m: heart = m.group(1).strip(" .")
-    m = re.search(r"Notas? de [Ff]ondo:?\s*(.*?)(?=Notas? de |$)", desc)
-    if m: base = m.group(1).strip(" .")
-    partes = []
-    if top: partes.append("Salida  " + top)
-    if heart: partes.append("Corazón  " + heart)
-    if base: partes.append("Fondo  " + base)
-    return "    ".join(partes) if partes else "—"
+    text = re.sub(r"\s+", " ", text).strip()
+
+    # Intento 1: detectar etiquetas tipo "Salida: ...", "Corazón: ...", "Fondo: ..."
+    matches = list(re.finditer(
+        r"(?:^|[.;\n])\s*(?:notas?\s+de\s+)?(salida|coraz[oó]n|fondo|base)\b\s*[:\-–/]*\s*([^.;\n]+)",
+        text,
+        re.IGNORECASE,
+    ))
+
+    if matches:
+        partes = []
+        label_map = {
+            "salida": "Salida",
+            "coraz\u00f3n": "Coraz\u00f3n",
+            "corazon": "Coraz\u00f3n",
+            "fondo": "Fondo",
+            "base": "Fondo",
+        }
+        for m in matches:
+            label = m.group(1).strip().lower()
+            value = re.sub(r"\s+", " ", m.group(2)).strip(" .:-")
+            if value:
+                partes.append(label_map.get(label, label.title()) + " " + value)
+        if partes:
+            return " · ".join(partes)
+
+    # Intento 2: si no hay etiquetas, devolver el texto limpio si parece ser una descripción de notas
+    cleaned = re.sub(r"\s+", " ", text).strip(" .;:-")
+    if cleaned and len(cleaned) < 400:
+        return cleaned
+
+    return "—"
 
 def fmt_precio(p):
     if not p:
@@ -104,6 +124,16 @@ for i, (_, row) in enumerate(df.iterrows(), start=1):
 
     precio = calcular_precio(row)
 
+    nota_texto = ""
+    for key in ["descripcion", "descripcion_olfativa", "descripcion_olf", "notas", "notas_olfativas", "notas_olf", "notes", "notes_olfativas"]:
+        if key in df.columns:
+            val = row.get(key)
+            if val is not None and not pd.isna(val):
+                texto = str(val).strip()
+                if texto and texto.lower() not in {"nan", "none", "null", "n/a", "na", "undefined", "sin datos", "sin notas", "no data"}:
+                    nota_texto = texto
+                    break
+
     registros.append({
         "id": i,
         "b": str(row.get("empresa", "")).strip(),
@@ -114,7 +144,7 @@ for i, (_, row) in enumerate(df.iterrows(), start=1):
         "g": genero_map(row.get("genero")),
         "st": calcular_stock(row),
         "i": str(row.get("imagen_url", "") or ""),
-        "nt": parsear_notas(row.get("descripcion")),
+        "nt": parsear_notas(nota_texto),
         "p1": fmt_precio(precio),
     })
 
