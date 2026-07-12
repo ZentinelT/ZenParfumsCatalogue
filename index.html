@@ -214,6 +214,7 @@ body:not([data-theme="dark"]) .cc:hover .cc-l{color:var(--go)}
   .pc:hover .pw{opacity:1;transform:translateY(0)}
   .pw:hover{color:#e74c3c}
 }
+.pw.on{opacity:1;color:#e74c3c;transform:translateY(0)}
 .pc-bd{padding:16px}
 .pc-br{font-size:10px;font-weight:500;letter-spacing:.15em;text-transform:uppercase;color:var(--go);margin-bottom:3px}
 .pc-nm{font-family:var(--fd);font-size:17px;font-weight:400;color:var(--bk);margin-bottom:3px;line-height:1.3}
@@ -239,6 +240,9 @@ body[data-theme="dark"] .pm-add svg{stroke:#f6e7b0 !important}
 body[data-theme="dark"] .pm-add:hover svg{stroke:#15120c !important}
 body[data-theme="dark"] .pm-add[disabled]{background:#232834 !important;color:#7a7f88 !important;border-color:rgba(255,255,255,.08) !important;box-shadow:none !important;opacity:1 !important}
 body[data-theme="dark"] .pm-add[disabled] svg{stroke:#7a7f88 !important}
+body[data-theme="dark"] .pag-btn.cur{background:#2d3440 !important;border-color:rgba(255,255,255,.16) !important;color:#f6e7b0 !important}
+body[data-theme="dark"] .fwa-tt{background:#2d3440 !important;color:#f6e7b0 !important;border:1px solid rgba(255,255,255,.16) !important}
+body[data-theme="dark"] .notif{background:#2d3440 !important;color:#f6e7b0 !important;border:1px solid rgba(255,255,255,.16) !important}
 .pag{display:flex;justify-content:center;align-items:center;gap:8px;margin-top:44px;flex-wrap:wrap}
 .pag-btn{padding:8px 14px;font-size:12px;font-weight:500;letter-spacing:.06em;border:1px solid var(--lg);border-radius:var(--r4);background:var(--w);color:var(--dg);cursor:pointer;transition:all .2s}
 .pag-btn:hover{border-color:var(--bk);color:var(--bk)}
@@ -407,6 +411,10 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
       <button class="hbur" id="burBtn" aria-label="Men&#250;" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
+      <button class="hib" id="wishBtnMobile" aria-label="Favoritos">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 21s-7-4.35-9.5-8.5C.5 8.5 2.5 5 6 5c2 0 3.5 1 6 3.5C14.5 6 16 5 18 5c3.5 0 5.5 3.5 3.5 7.5C19 16.65 12 21 12 21z"/></svg>
+        <span class="cbadge" id="wbadgeMobile">0</span>
+      </button>
       <button class="hib hib-mob-cart" id="cartBtnMobile" aria-label="Carrito">
         <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
         <span class="cbadge" id="cbadgeMobile">0</span>
@@ -425,6 +433,10 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
       <div class="hact">
         <button class="hib theme-toggle" id="themeToggle" type="button" aria-label="Activar modo oscuro" title="Activar modo oscuro">
           <svg class="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3v2m0 14v2m9-9h-2M5 12H3m9-6 1.4-1.4M9.6 14.4 8.2 15.8m6.2-1.4 1.4 1.4M9.6 9.6 8.2 8.2"></path><circle cx="12" cy="12" r="3.5"></circle></svg>
+        </button>
+        <button class="hib" id="wishBtn" aria-label="Favoritos">
+          <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 21s-7-4.35-9.5-8.5C.5 8.5 2.5 5 6 5c2 0 3.5 1 6 3.5C14.5 6 16 5 18 5c3.5 0 5.5 3.5 3.5 7.5C19 16.65 12 21 12 21z"/></svg>
+          <span class="cbadge" id="wbadge">0</span>
         </button>
         <button class="hib" id="cartBtn" aria-label="Carrito">
           <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
@@ -614,6 +626,15 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
   </div>
 </aside>
 
+<div class="ov" id="wishOv" onclick="closeWish()"></div>
+<aside class="cd" id="wishD" role="dialog" aria-modal="true">
+  <div class="cdh"><h2 class="cdt">Favoritos</h2><button class="cdc" onclick="closeWish()"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M18 6 6 18M6 6l12 12"/></svg></button></div>
+  <div class="cdb" id="wdb">
+    <div class="cde" id="wde"><div class="cdei"><svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M12 21s-7-4.35-9.5-8.5C.5 8.5 2.5 5 6 5c2 0 3.5 1 6 3.5C14.5 6 16 5 18 5c3.5 0 5.5 3.5 3.5 7.5C19 16.65 12 21 12 21z"/></svg></div><div class="cdet">No tenés favoritos</div><p class="cdep">Toc&#225; el coraz&#243;n en cualquier perfume para guardarlo ac&#225;.</p><button class="btn btn-dk" onclick="closeWish()" style="margin-top:8px">Ver Cat&#225;logo</button></div>
+    <div id="wdItems" style="display:none"></div>
+  </div>
+</aside>
+
 <div class="notif" id="notif"><span class="nico">&#10003;</span><span id="ntxt">Agregado</span></div>
 
 <!-- PRODUCTS DATA (parsed safely at runtime) -->
@@ -675,7 +696,28 @@ var PRODS = JSON.parse(document.getElementById("pdata").textContent);
 var PS = 24;
 var cart = [];
 try { cart = JSON.parse(localStorage.getItem("zp2") || "[]"); } catch(e) {}
+var wish = [];
+try { wish = JSON.parse(localStorage.getItem("zp-wish") || "[]"); } catch(e) {}
 var cFil = "todos", cSrch = "", cPg = 1;
+
+/* ---- WISHLIST ---- */
+function isWished(id) { return wish.indexOf(id) > -1; }
+function toggleWish(id) {
+  var i = wish.indexOf(id);
+  var added = i === -1;
+  if (added) { wish.push(id); } else { wish.splice(i, 1); }
+  try { localStorage.setItem("zp-wish", JSON.stringify(wish)); } catch(e) {}
+  document.querySelectorAll('.pw[data-id="' + id + '"]').forEach(function(btn){
+    btn.classList.toggle("on", added);
+    btn.innerHTML = added ? "&#9829;" : "&#9825;";
+  });
+  if (typeof renderWish === "function") renderWish();
+  var p = PRODS.find(function(x){ return x.id === id; });
+  if (p) {
+    var nm = p.n.indexOf("-") > -1 ? p.n.split("-").slice(1).join("-").split("|")[0].trim() : p.n.split("|")[0].trim();
+    notify(added ? (nm + " agregado a favoritos") : (nm + " quitado de favoritos"));
+  }
+}
 
 /* ---- CART ---- */
 function saveCart() {
@@ -751,6 +793,47 @@ function closeCart() { $("cartOv").classList.remove("on"); $("cartD").classList.
 $("cartBtn").addEventListener("click", openCart);
 $("cartBtnMobile").addEventListener("click", openCart);
 
+/* ---- WISHLIST DRAWER ---- */
+function renderWish() {
+  var cnt = wish.length;
+  var b = $("wbadge");
+  if (b) { b.textContent = cnt; b.style.display = cnt > 0 ? "flex" : "none"; }
+  var bm = $("wbadgeMobile");
+  if (bm) { bm.textContent = cnt; bm.style.display = cnt > 0 ? "flex" : "none"; }
+  var items = wish.map(function(id){ return PRODS.find(function(x){ return x.id === id; }); }).filter(Boolean);
+  if (!items.length) {
+    $("wde").style.display = "flex";
+    $("wdItems").style.display = "none";
+  } else {
+    $("wde").style.display = "none";
+    $("wdItems").style.display = "block";
+    $("wdItems").innerHTML = items.map(function(p) {
+      var nm = cleanName(p.n);
+      var priceTxt = p.st === "out" ? "Sin stock" : (p.p > 0 ? fmt(p.p) : esc(p.p1));
+      var dis = p.st === "out" ? " disabled" : "";
+      return "<div class=\"cdi\">" +
+        "<div class=\"cdi-ig\">" +
+          (p.i ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"\" loading=\"lazy\" onerror=\"this.style.display=&quot;none&quot;\">" : "") +
+        "</div>" +
+        "<div class=\"cdi-inf\">" +
+          "<div class=\"cdi-b\">" + esc(p.b) + "</div>" +
+          "<div class=\"cdi-n\">" + esc(nm) + "</div>" +
+          "<div class=\"cdi-s\">" + esc(p.s) + "</div>" +
+          "<div class=\"cdi-r\">" +
+            "<button class=\"qb\" onclick=\"toggleWish(" + p.id + ")\" title=\"Quitar de favoritos\">&#10005;</button>" +
+            "<button class=\"qb\" onclick=\"addCart(" + p.id + ")\"" + dis + " title=\"Agregar al carrito\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg></button>" +
+          "</div>" +
+        "</div>" +
+        "<div class=\"cdi-p\">" + priceTxt + "</div>" +
+      "</div>";
+    }).join("");
+  }
+}
+function openWish()  { renderWish(); $("wishOv").classList.add("on"); $("wishD").classList.add("on"); document.body.style.overflow="hidden"; }
+function closeWish() { $("wishOv").classList.remove("on"); $("wishD").classList.remove("on"); document.body.style.overflow=""; }
+$("wishBtn").addEventListener("click", openWish);
+$("wishBtnMobile").addEventListener("click", openWish);
+
 /* ---- MOB MENU ---- */
 function closeMob() {
   $("mobOv").classList.remove("on");
@@ -816,7 +899,7 @@ function renderProds() {
       ? "<div><span class=\"pc-pr\" style=\"font-size:13px;letter-spacing:.08em;color:var(--gr);font-weight:600\">SIN STOCK</span></div>"
       : "<div><span class=\"pc-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span></div>";
     return "<article class=\"pc\" onclick=\"openProduct(" + p.id + ")\" style=\"cursor:pointer\">" +
-      "<div class=\"pc-img\">" + imgH + svg + "<button class=\"pw\" onclick=\"event.stopPropagation()\">&#9825;</button></div>" +
+      "<div class=\"pc-img\">" + imgH + svg + "<button class=\"pw" + (isWished(p.id) ? " on" : "") + "\" data-id=\"" + p.id + "\" onclick=\"event.stopPropagation();toggleWish(" + p.id + ")\">" + (isWished(p.id) ? "&#9829;" : "&#9825;") + "</button></div>" +
       "<div class=\"pc-bd\">" +
         "<div class=\"pc-br\">" + esc(p.b) + "</div>" +
         "<div class=\"pc-nm\">" + esc(nm) + "</div>" +
@@ -942,6 +1025,7 @@ function notify(txt) {
 document.addEventListener("DOMContentLoaded", function() {
   renderProds();
   renderCart();
+  renderWish();
   document.querySelectorAll(".rev").forEach(function(el){ revObs.observe(el); });
 });
 </script>
