@@ -96,8 +96,8 @@ body[data-theme="dark"] .theme-toggle{border-color:rgba(255,255,255,.12)}
 .cbadge{position:absolute;top:5px;right:5px;min-width:16px;height:16px;background:var(--go);color:#fff;font-size:9px;font-weight:600;border-radius:8px;padding:0 4px;display:none;align-items:center;justify-content:center}
 .mob-theme{display:flex;align-items:center;gap:10px;padding:10px 0;margin-top:18px;border-top:1px solid var(--lg);color:var(--bk);font-size:13px}
 .theme-icon{width:18px;height:18px;display:block}
-.hbur{display:none;width:40px;height:40px;align-items:center;justify-content:center;flex-direction:column;gap:5px}
-.hib-mob-cart{display:none}
+.hbur{display:flex;width:40px;height:40px;align-items:center;justify-content:center;flex-direction:column;gap:5px}
+.hmob-l{display:none;align-items:center;gap:4px}
 .hbur span{display:block;width:20px;height:1.5px;background:var(--bk)}
 /* BTNS */
 .btn{display:inline-flex;align-items:center;gap:8px;padding:13px 28px;font-size:11px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;border-radius:var(--r4);transition:all var(--t) var(--e);white-space:nowrap}
@@ -353,7 +353,7 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
 /* RESPONSIVE */
 @media(max-width:1100px){.pg{grid-template-columns:repeat(3,1fr)}.cg{grid-template-columns:repeat(3,1fr)}.sg{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:960px){.ft{grid-template-columns:1fr 1fr}.tg2{grid-template-columns:1fr}}
-@media(max-width:768px){.sec{padding:56px 20px}.hnav,.hmeta{display:none}.hbur{display:flex}.hib-mob-cart{display:flex;grid-column:3}.hdr-in{grid-template-columns:auto 1fr auto}.logo{grid-column:2}.logo-n{font-size:20px}.cg{grid-template-columns:repeat(2,1fr);gap:10px}.pg{grid-template-columns:repeat(2,1fr);gap:12px}.pc-bd{padding:14px}.bg3{grid-template-columns:1fr;gap:16px}.sg{grid-template-columns:repeat(2,1fr);gap:16px}.ft{grid-template-columns:1fr;gap:32px}.fb2{flex-direction:column;gap:8px;text-align:center}.tbar-in{flex-direction:row;flex-wrap:wrap}.ti{max-width:100%}.ti+.ti{border-left:1px solid var(--lg)}}
+@media(max-width:768px){.sec{padding:56px 20px}.hnav,.hmeta{display:none}.hmob-l{display:flex}.hdr-in{grid-template-columns:auto 1fr auto}.logo{grid-column:2}.logo-n{font-size:20px}.cg{grid-template-columns:repeat(2,1fr);gap:10px}.pg{grid-template-columns:repeat(2,1fr);gap:12px}.pc-bd{padding:14px}.bg3{grid-template-columns:1fr;gap:16px}.sg{grid-template-columns:repeat(2,1fr);gap:16px}.ft{grid-template-columns:1fr;gap:32px}.fb2{flex-direction:column;gap:8px;text-align:center}.tbar-in{flex-direction:row;flex-wrap:wrap}.ti{max-width:100%}.ti+.ti{border-left:1px solid var(--lg)}}
 @media(max-width:480px){.hero-h1{font-size:34px}.hero-l{padding:40px 18px}.hero-btns{flex-direction:column;align-items:center}.hero-btns .btn{width:100%;max-width:280px;justify-content:center}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 </style>
@@ -372,13 +372,15 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
       <a href="#catalogo">Cat&#225;logo</a>
       <a href="#categorias">Categor&#237;as</a>
     </nav>
-    <button class="hbur" id="burBtn" aria-label="Men&#250;" aria-expanded="false">
-      <span></span><span></span><span></span>
-    </button>
-    <button class="hib hib-mob-cart" id="cartBtnMobile" aria-label="Carrito">
-      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
-      <span class="cbadge" id="cbadgeMobile">0</span>
-    </button>
+    <div class="hmob-l" id="hmobL">
+      <button class="hbur" id="burBtn" aria-label="Men&#250;" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <button class="hib hib-mob-cart" id="cartBtnMobile" aria-label="Carrito">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+        <span class="cbadge" id="cbadgeMobile">0</span>
+      </button>
+    </div>
     <a class="logo" href="#">
       <span class="logo-n">ZEN PARFUMS</span>
       <span class="logo-s">Online Fragance
