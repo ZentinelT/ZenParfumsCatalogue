@@ -228,6 +228,12 @@ body[data-theme="dark"] .badd:hover{background:#c89d4d !important;color:#15120c 
 body[data-theme="dark"] .badd svg{stroke:#f6e7b0 !important}
 body[data-theme="dark"] .badd[disabled]{background:#232834 !important;color:#7a7f88 !important;border-color:rgba(255,255,255,.08) !important;box-shadow:none !important;opacity:1 !important}
 body[data-theme="dark"] .badd[disabled] svg{stroke:#7a7f88 !important}
+body[data-theme="dark"] .pm-add{background:#2d3440 !important;color:#f6e7b0 !important;border:1px solid rgba(255,255,255,.16) !important;box-shadow:0 0 0 1px rgba(255,255,255,.04),0 8px 20px rgba(0,0,0,.28) !important}
+body[data-theme="dark"] .pm-add:hover{background:#c89d4d !important;color:#15120c !important;border-color:#f7df9f !important;box-shadow:0 0 0 1px rgba(255,255,255,.12),0 10px 24px rgba(200,157,77,.34) !important}
+body[data-theme="dark"] .pm-add svg{stroke:#f6e7b0 !important}
+body[data-theme="dark"] .pm-add:hover svg{stroke:#15120c !important}
+body[data-theme="dark"] .pm-add[disabled]{background:#232834 !important;color:#7a7f88 !important;border-color:rgba(255,255,255,.08) !important;box-shadow:none !important;opacity:1 !important}
+body[data-theme="dark"] .pm-add[disabled] svg{stroke:#7a7f88 !important}
 .pag{display:flex;justify-content:center;align-items:center;gap:8px;margin-top:44px;flex-wrap:wrap}
 .pag-btn{padding:8px 14px;font-size:12px;font-weight:500;letter-spacing:.06em;border:1px solid var(--lg);border-radius:var(--r4);background:var(--w);color:var(--dg);cursor:pointer;transition:all .2s}
 .pag-btn:hover{border-color:var(--bk);color:var(--bk)}
@@ -334,6 +340,28 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
 .cdck:hover{background:var(--go)}
 .cdwa{width:100%;padding:13px;background:#25D366;color:#fff;font-size:12px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;border-radius:var(--r4);display:flex;align-items:center;justify-content:center;gap:8px;transition:all var(--t);cursor:pointer}
 .cdwa:hover{background:#1ebe5a}
+/* PRODUCT MODAL */
+.pmov{position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:1100;opacity:0;visibility:hidden;transition:all var(--t);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;padding:24px}
+.pmov.on{opacity:1;visibility:visible}
+.pm{background:var(--w);border-radius:var(--r16);max-width:760px;width:100%;max-height:88vh;overflow-y:auto;display:grid;grid-template-columns:1fr 1fr;transform:scale(.94);transition:transform var(--t) var(--e);position:relative}
+.pmov.on .pm{transform:scale(1)}
+.pm-cl{position:absolute;top:14px;right:14px;width:36px;height:36px;border-radius:50%;background:var(--w);box-shadow:0 2px 10px rgba(0,0,0,.12);display:flex;align-items:center;justify-content:center;color:var(--dg);cursor:pointer;z-index:2}
+.pm-img{position:relative;aspect-ratio:1;background:#111;display:flex;align-items:center;justify-content:center;border-radius:var(--r16) 0 0 var(--r16);overflow:hidden}
+.pm-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.pm-bd{padding:36px 32px;display:flex;flex-direction:column}
+.pm-br{font-size:11px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;color:var(--go);margin-bottom:6px}
+.pm-nm{font-family:var(--fd);font-size:26px;font-weight:400;color:var(--bk);line-height:1.25;margin-bottom:6px}
+.pm-sz{font-size:13px;color:var(--gr);margin-bottom:16px;font-weight:300}
+.pm-stk{display:flex;align-items:center;gap:6px;margin-bottom:18px}
+.pm-nt-t{font-size:10px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--dg);margin-bottom:6px}
+.pm-nt{font-size:13px;color:var(--gr);line-height:1.7;font-weight:300;margin-bottom:24px}
+.pm-ft{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:16px;border-top:1px solid var(--lg)}
+.pm-pr{font-size:26px;font-weight:600;color:var(--bk)}
+.pm-add{padding:14px 26px;background:var(--bk);color:#fff;font-size:11px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;border-radius:var(--r4);display:flex;align-items:center;gap:8px;cursor:pointer;transition:all var(--t)}
+.pm-add:hover{background:var(--go)}
+.pm-add:disabled{background:var(--lg);color:var(--mg);cursor:not-allowed}
+@media(max-width:640px){.pm{grid-template-columns:1fr;max-height:92vh}.pm-img{border-radius:var(--r16) var(--r16) 0 0;aspect-ratio:1.2}.pm-bd{padding:24px 20px}}
+
 /* MOB */
 .mob{position:fixed;top:0;left:0;bottom:0;width:280px;background:var(--w);z-index:1001;transform:translateX(-100%);transition:transform var(--ts) var(--e);padding:80px 32px 32px;display:flex;flex-direction:column}
 .mob.on{transform:translateX(0)}
@@ -548,8 +576,7 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
         <div class="fl">ZEN PARFUMS</div><span class="fls">Online Fragrance Boutique</span>
         <p class="ftag">Fragancias premium 100% originales. M&#225;s de 500 perfumes &#225;rabes e internacionales con garant&#237;a de autenticidad.</p>
         <div class="fsoc">
-          <a href="#" class="fsc"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
-          <a href="#" class="fsc"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+          <a href="https://www.instagram.com/zenparfumscba" target="_blank" rel="noopener" class="fsc"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
           <a href="https://wa.me/543515911990" target="_blank" rel="noopener" class="fsc"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.554 4.112 1.524 5.836L0 24l6.344-1.483A11.945 11.945 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.851 0-3.584-.5-5.075-1.374l-.364-.215-3.767.881.897-3.668-.237-.378A9.945 9.945 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg></a>
         </div>
       </div>
@@ -564,6 +591,10 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
   <span class="fwa-tt">Consult&#225; por WhatsApp</span>
   <svg width="26" height="26" viewBox="0 0 24 24" fill="white"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.554 4.112 1.524 5.836L0 24l6.344-1.483A11.945 11.945 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.851 0-3.584-.5-5.075-1.374l-.364-.215-3.767.881.897-3.668-.237-.378A9.945 9.945 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
 </a>
+
+<div class="pmov" id="pmOv" onclick="if(event.target===this)closeProduct()">
+  <div class="pm" id="pmBox"></div>
+</div>
 
 <div class="ov" id="cartOv" onclick="closeCart()"></div>
 <aside class="cd" id="cartD" role="dialog" aria-modal="true">
@@ -779,8 +810,8 @@ function renderProds() {
     var priceHtml = p.st === "out"
       ? "<div><span class=\"pc-pr\" style=\"font-size:13px;letter-spacing:.08em;color:var(--gr);font-weight:600\">SIN STOCK</span></div>"
       : "<div><span class=\"pc-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span></div>";
-    return "<article class=\"pc\">" +
-      "<div class=\"pc-img\">" + imgH + svg + "<button class=\"pw\">&#9825;</button></div>" +
+    return "<article class=\"pc\" onclick=\"openProduct(" + p.id + ")\" style=\"cursor:pointer\">" +
+      "<div class=\"pc-img\">" + imgH + svg + "<button class=\"pw\" onclick=\"event.stopPropagation()\">&#9825;</button></div>" +
       "<div class=\"pc-bd\">" +
         "<div class=\"pc-br\">" + esc(p.b) + "</div>" +
         "<div class=\"pc-nm\">" + esc(nm) + "</div>" +
@@ -789,7 +820,7 @@ function renderProds() {
         "<div class=\"pc-stk\"><span class=\"sdot " + sdot + "\"></span><span class=\"stxt\">" + stxt + "</span></div>" +
         "<div class=\"pc-ft\">" +
           priceHtml +
-          "<button class=\"badd\" onclick=\"addCart(" + p.id + ")\"" + dis + ">" +
+          "<button class=\"badd\" onclick=\"event.stopPropagation();addCart(" + p.id + ")\"" + dis + ">" +
             "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>" +
           "</button>" +
         "</div>" +
@@ -826,6 +857,46 @@ function renderProds() {
     }
     if (cPg < pages) pag.appendChild(mkBtn("&#8250;", cPg+1));
   }
+}
+
+function openProduct(id) {
+  var p = PRODS.find(function(x){ return x.id === id; });
+  if (!p) return;
+  var sdot = p.st === "ok" ? "s-ok" : p.st === "low" ? "s-low" : "s-out";
+  var stxt = p.st === "ok" ? "En stock" : p.st === "low" ? "\u00DAltimas unidades" : "Sin stock";
+  var nm   = cleanName(p.n);
+  var dis  = p.st === "out" ? " disabled" : "";
+  var imgH = p.i
+    ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" onerror=\"this.style.display='none'\">"
+    : "";
+  var ntH  = p.nt ? "<div class=\"pm-nt-t\">Pir\u00E1mide olfativa</div><div class=\"pm-nt\">" + esc(p.nt) + "</div>" : "";
+  var priceHtml = p.st === "out"
+    ? "<span class=\"pm-pr\" style=\"font-size:15px;letter-spacing:.06em;color:var(--gr)\">SIN STOCK</span>"
+    : "<span class=\"pm-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span>";
+
+  $("pmBox").innerHTML =
+    "<button class=\"pm-cl\" onclick=\"closeProduct()\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M18 6 6 18M6 6l12 12\"/></svg></button>" +
+    "<div class=\"pm-img\">" + imgH + "</div>" +
+    "<div class=\"pm-bd\">" +
+      "<div class=\"pm-br\">" + esc(p.b) + "</div>" +
+      "<div class=\"pm-nm\">" + esc(nm) + "</div>" +
+      "<div class=\"pm-sz\">" + esc(p.s) + "</div>" +
+      "<div class=\"pm-stk\"><span class=\"sdot " + sdot + "\"></span><span class=\"stxt\">" + stxt + "</span></div>" +
+      ntH +
+      "<div class=\"pm-ft\">" +
+        priceHtml +
+        "<button class=\"pm-add\" onclick=\"addCart(" + p.id + ")\"" + dis + ">" +
+          "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>Agregar" +
+        "</button>" +
+      "</div>" +
+    "</div>";
+
+  $("pmOv").classList.add("on");
+  document.body.style.overflow = "hidden";
+}
+function closeProduct() {
+  $("pmOv").classList.remove("on");
+  document.body.style.overflow = "";
 }
 
 function filterBy(cat, btn) {
