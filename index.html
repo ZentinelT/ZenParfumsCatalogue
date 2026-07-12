@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -964,7 +962,7 @@ function openProduct(id) {
 
   $("pmBox").innerHTML =
     "<button class=\"pm-cl\" onclick=\"closeProduct()\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M18 6 6 18M6 6l12 12\"/></svg></button>" +
-    "<div class=\"pm-img\">" + imgH + "</div>" +
+    "<div class=\"pm-img\">" + imgH + "<button class=\"pw" + (isWished(p.id) ? " on" : "") + "\" data-id=\"" + p.id + "\" style=\"opacity:1\" onclick=\"toggleWish(" + p.id + ")\">" + (isWished(p.id) ? "&#9829;" : "&#9825;") + "</button></div>" +
     "<div class=\"pm-bd\">" +
       "<div class=\"pm-br\">" + esc(p.b) + "</div>" +
       "<div class=\"pm-nm\">" + esc(nm) + "</div>" +
