@@ -692,7 +692,7 @@ function $(id) { return document.getElementById(id); }
 function fmt(n) { return "$" + Number(n).toLocaleString("es-AR"); }
 // El margen ya viene aplicado desde Python (calcular_precio). No se vuelve a sumar acá.
 var PRODS = JSON.parse(document.getElementById("pdata").textContent);
-var PS = 24;
+var PS = 48;
 var cart = [];
 try { cart = JSON.parse(localStorage.getItem("zp2") || "[]"); } catch(e) {}
 var wish = [];
