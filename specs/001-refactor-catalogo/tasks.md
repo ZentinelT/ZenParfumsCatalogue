@@ -5,28 +5,28 @@
 
 ## Fase 0 — Preparación
 
-- [ ] **T001** Crear branch `refactor/nuxt` desde `main`.
+- [x] **T001** Crear branch `refactor/nuxt` desde `main`.
 - [ ] **T002** [P] Verificar en la config de GitHub Pages si hay dominio custom; registrar en `plan.md` el valor definitivo de `app.baseURL` (`/` o `/ZenParfumsCatalogue/`).
 - [ ] **T003** [P] En Supabase: crear vista `catalogo_publico` (id/nombre, `stock_actual`, `precio_min_ars`, `activo`) y política RLS de SELECT anónimo solo sobre esa vista; verificar que la anon key NO puede leer `productos` ni fichas directamente. Anotar la anon key para runtime.
-- [ ] **T004** [P] Extraer un dump de los JSON embebidos actuales (`#pdata` y `#fdata` de `index.html`) a `tests/fixtures/legacy-pdata.json` y `tests/fixtures/legacy-fdata.json` — servirán como fixtures del test de paridad (T016).
+- [x] **T004** [P] Extraer un dump de los JSON embebidos actuales (`#pdata` y `#fdata` de `index.html`) a `tests/fixtures/legacy-pdata.json` y `tests/fixtures/legacy-fdata.json` — servirán como fixtures del test de paridad (T016).
 
 ## Fase 1 — Fundaciones
 
-- [ ] **T005** Scaffold del proyecto: Nuxt 4 + TypeScript estricto + pnpm en la raíz del repo; `nuxt.config.ts` con `ssr: true`, prerender de todas las rutas, `app.baseURL` según T002; `.gitignore` para `data/`, `.output/`, `node_modules/`.
-- [ ] **T006** [P] Configurar ESLint (`@nuxt/eslint`, flat config) y scripts `lint`, `typecheck`.
-- [ ] **T007** [P] Configurar Vitest + `@vue/test-utils`; script `test`.
+- [x] **T005** Scaffold del proyecto: Nuxt 4 + TypeScript estricto + pnpm en la raíz del repo; `nuxt.config.ts` con `ssr: true`, prerender de todas las rutas, `app.baseURL` según T002; `.gitignore` para `data/`, `.output/`, `node_modules/`.
+- [x] **T006** [P] Configurar ESLint (`@nuxt/eslint`, flat config) y scripts `lint`, `typecheck`.
+- [x] **T007** [P] Configurar Vitest + `@vue/test-utils`; script `test`.
 - [ ] **T008** [P] Instalar y configurar Pinia + `pinia-plugin-persistedstate` y `@nuxtjs/color-mode` (atributo `data-theme` en `<body>`, clave de storage `zp-theme`).
-- [ ] **T009** [P] Portar los design tokens del `<style>` actual (index.html:15-37) a `app/assets/css/tokens.css` con variantes light/dark por `data-theme` — sin `!important`; cargar fuentes Cormorant Garamond + Inter.
-- [ ] **T010** [P] Definir tipos en `shared/types.ts`: `Product`, `Ficha`, `StockStatus`, `Categoria`, `Genero`, `CartItem`.
+- [x] **T009** [P] Portar los design tokens del `<style>` actual (index.html:15-37) a `app/assets/css/tokens.css` con variantes light/dark por `data-theme` — sin `!important`; cargar fuentes Cormorant Garamond + Inter.
+- [x] **T010** [P] Definir tipos en `shared/types.ts`: `Product`, `Ficha`, `StockStatus`, `Categoria`, `Genero`, `CartItem`.
 
 ## Fase 2 — Data pipeline (port Python → TS)
 
-- [ ] **T011** [P] `shared/transform/precio.ts`: `calcularPrecio` con márgenes desde env (`MARGEN_NORMAL=15000`, `MARGEN_TUBBEES=10000`) + tests con casos de `actualizar_catalogo.py` (empresa TUBBEES, precio nulo → 0). *(FR-007)*
-- [ ] **T012** [P] `shared/transform/stock.ts`: `calcularStock` (≤0→out, ≤2→low, resto ok) + tests. *(FR-006)*
-- [ ] **T013** [P] `shared/transform/genero.ts`: mapeo ♀/♂/unisex + tests. *(FR-003)*
-- [ ] **T014** [P] `shared/transform/notas.ts`: única implementación de `parseNotas` (unifica la versión Python `parsear_notas` y la JS `parseNotes`): etiquetas salida/corazón/fondo, placeholders ("nan", "sin datos", …) → null, texto libre < 400 chars → tal cual + tests con notas reales del fixture. *(FR-005, edge cases)*
-- [ ] **T015** [P] `shared/transform/slug.ts`: `normName` (quita sufijos `| N ML`), `cleanName` (quita prefijo de código y sufijos `|`), `getConcentracion` (EDP/EDT/Elixir/Parfum/Extrait) y `slugify` para rutas + tests. *(FR-005, HU-3)*
-- [ ] **T016** `scripts/fetch-catalog.ts`: descarga `productos` y fichas de Supabase (misma lógica de candidatos de tabla), filtra activos/ocultos, aplica transforms, joinea fichas por `normName` con **advertencia de huérfanas en stdout**, valida `imagenUrl` (solo https), emite `data/catalog.json` + `data/fichas.json` con ids estables de Supabase. Modo `--fixture` que lee los fixtures de T004 en lugar de la red. *(HU-2, FR-004)*
+- [x] **T011** [P] `shared/transform/precio.ts`: `calcularPrecio` con márgenes desde env (`MARGEN_NORMAL=15000`, `MARGEN_TUBBEES=10000`) + tests con casos de `actualizar_catalogo.py` (empresa TUBBEES, precio nulo → 0). *(FR-007)*
+- [x] **T012** [P] `shared/transform/stock.ts`: `calcularStock` (≤0→out, ≤2→low, resto ok) + tests. *(FR-006)*
+- [x] **T013** [P] `shared/transform/genero.ts`: mapeo ♀/♂/unisex + tests. *(FR-003)*
+- [x] **T014** [P] `shared/transform/notas.ts`: única implementación de `parseNotas` (unifica la versión Python `parsear_notas` y la JS `parseNotes`): etiquetas salida/corazón/fondo, placeholders ("nan", "sin datos", …) → null, texto libre < 400 chars → tal cual + tests con notas reales del fixture. *(FR-005, edge cases)*
+- [x] **T015** [P] `shared/transform/slug.ts`: `normName` (quita sufijos `| N ML`), `cleanName` (quita prefijo de código y sufijos `|`), `getConcentracion` (EDP/EDT/Elixir/Parfum/Extrait) y `slugify` para rutas + tests. *(FR-005, HU-3)*
+- [x] **T016** `scripts/fetch-catalog.ts`: descarga `productos` y fichas de Supabase (misma lógica de candidatos de tabla), filtra activos/ocultos, aplica transforms, joinea fichas por `normName` con **advertencia de huérfanas en stdout**, valida `imagenUrl` (solo https), emite `data/catalog.json` + `data/fichas.json` con ids estables de Supabase. Modo `--fixture` que lee los fixtures de T004 en lugar de la red. *(HU-2, FR-004)*
 - [ ] **T017** Test de paridad: correr el pipeline en modo fixture y comparar precio/stock/género/notas contra `legacy-pdata.json`; documentar y justificar cualquier diferencia intencional (p.ej. ids estables).
 
 ## Fase 3 — UI
@@ -55,8 +55,8 @@
 
 ## Fase 6 — Infra y calidad
 
-- [ ] **T033** [P] `.github/workflows/ci.yml`: lint + typecheck + vitest + `nuxi generate --fixture` en PRs y push a `main`.
-- [ ] **T034** [P] `.github/workflows/deploy.yml`: cron `0 */3 * * *` + `workflow_dispatch` + push a `main` → fetch-catalog (secrets `SUPABASE_KEY`, env de márgenes) → generate → `actions/deploy-pages`; permisos `pages: write`, `id-token: write`, **sin** `contents: write`. *(FR-015, HU-2.4)*
+- [x] **T033** [P] `.github/workflows/ci.yml`: lint + typecheck + vitest + `nuxi generate --fixture` en PRs y push a `main`.
+- [x] **T034** [P] `.github/workflows/deploy.yml`: cron `0 */3 * * *` + `workflow_dispatch` + push a `main` → fetch-catalog (secrets `SUPABASE_KEY`, env de márgenes) → generate → `actions/deploy-pages`; permisos `pages: write`, `id-token: write`, **sin** `contents: write`. *(FR-015, HU-2.4)*
 - [ ] **T035** [P] Sitemap (`@nuxtjs/sitemap`) con todas las rutas de producto + `robots.txt`. *(HU-3.2)*
 - [ ] **T036** [P] CSP por meta tag según plan.md; auditar que ninguna imagen/estilo/conexión quede bloqueada.
 - [ ] **T037** Playwright e2e: filtrar → buscar → modal → agregar → drawer → mensaje de WhatsApp interceptado; tema oscuro persistente; `/perfume/<slug>` navegable. *(criterios HU-1)*
