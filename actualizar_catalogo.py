@@ -35,7 +35,7 @@ df = pd.DataFrame(response.json())
 print(f"Productos descargados: {len(df)}")
 
 # ---------- 1b. DESCARGAR FICHAS TÉCNICAS ----------
-FICHAS_TABLE_CANDIDATES = ["fichas_tecnicas", "fichas", "ficha_producto", "fichas_productos", "producto_fichas"]
+FICHAS_TABLE_CANDIDATES = ["fichas_perfume", "fichas_perfumes", "fichas_tecnicas", "fichas", "ficha_producto", "fichas_productos", "producto_fichas"]
 fichas_json = []
 fichas_tabla_usada = None
 for tabla in FICHAS_TABLE_CANDIDATES:
