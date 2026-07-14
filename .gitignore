@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Artefactos de build (NFR-007: no se commitean)
+.nuxt/
+.output/
+dist/
+data/
+
+# Datos generados / caché
+.data/
+coverage/
+test-results/
+playwright-report/
+
+# Python legacy
+__pycache__/
+*.pyc
+
+# Entorno / sistema
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log

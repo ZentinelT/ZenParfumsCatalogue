@@ -1,0 +1,90 @@
+/* Design tokens portados de index.html (líneas 15-37).
+   Variantes light/dark por [data-theme] en <html> (via @nuxtjs/color-mode).
+   Sin !important — el dark se resuelve por cascada de custom properties. */
+
+:root {
+  --w: #f6f2eb;
+  --ow: #f1ebdf;
+  --lg: #e5dbce;
+  --mg: #b8aa9d;
+  --gr: #7a6f64;
+  --dg: #514a43;
+  --bk: #1f1b17;
+  --go: #b8965a;
+  --gl: #d1b17b;
+  --gp: #efe2c8;
+
+  --fd: "Cormorant Garamond", Georgia, serif;
+  --fb: "Inter", system-ui, sans-serif;
+
+  --r4: 4px;
+  --r8: 8px;
+  --r16: 16px;
+
+  --sh: 0 2px 20px rgba(0, 0, 0, .05);
+  --shh: 0 10px 40px rgba(0, 0, 0, .12);
+  --sho: 0 6px 24px rgba(184, 150, 90, .28);
+
+  --e: cubic-bezier(.4, 0, .2, 1);
+  --t: .28s;
+  --ts: .5s;
+  --mw: 1280px;
+
+  --surface-strong: #efe7dc;
+  --header-bg: rgba(246, 242, 235, .96);
+}
+
+:root[data-theme="dark"] {
+  --w: #171b24;
+  --ow: #1e2430;
+  --lg: #2a3241;
+  --mg: #6f7988;
+  --gr: #a7afbf;
+  --dg: #d6dce7;
+  --bk: #f6f7fb;
+  --go: #c8a66a;
+  --gl: #e0c089;
+  --gp: #2b2218;
+
+  --sh: 0 2px 20px rgba(0, 0, 0, .18);
+  --shh: 0 10px 40px rgba(0, 0, 0, .24);
+  --sho: 0 6px 24px rgba(200, 166, 106, .14);
+
+  --surface-strong: #1d2330;
+  --header-bg: rgba(23, 27, 36, .95);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: .001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .001ms !important;
+  }
+}
+
+body {
+  font-family: var(--fb);
+  color: var(--bk);
+  background: var(--w);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  transition: background-color var(--t) var(--e), color var(--t) var(--e);
+}

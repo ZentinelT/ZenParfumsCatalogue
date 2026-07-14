@@ -1,0 +1,63 @@
+name: Deploy a GitHub Pages
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # cada 3 horas: refresca stock/precio del build
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+# Sin `contents: write`: el sitio se publica como artefacto de Pages,
+# no se commitea nada al repo (NFR-007, HU-2.4).
+permissions:
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Instalar dependencias
+        run: pnpm install --frozen-lockfile
+
+      - name: Descargar catálogo de Supabase
+        env:
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          MARGEN_NORMAL: "15000"
+          MARGEN_TUBBEES: "10000"
+        run: pnpm fetch-catalog
+
+      - name: Generar sitio estático
+        env:
+          # Project page: '/ZenParfumsCatalogue/'. Con dominio custom: '/'.
+          NUXT_APP_BASE_URL: ${{ vars.NUXT_APP_BASE_URL || '/' }}
+          NUXT_SITE_URL: ${{ vars.NUXT_SITE_URL }}
+        run: pnpm generate
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .output/public
+
+      - name: Desplegar
+        id: deployment
+        uses: actions/deploy-pages@v4
