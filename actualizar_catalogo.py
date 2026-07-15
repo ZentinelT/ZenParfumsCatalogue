@@ -152,7 +152,16 @@ def fmt_precio(p):
     return "$" + f"{p:,}".replace(",", ".")
 
 registros = []
-for i, (_, row) in enumerate(df.iterrows(), start=1):
+for _, row in df.iterrows():
+    raw_id = row.get("id")
+    try:
+        pid = int(raw_id) if pd.notna(raw_id) else None
+    except Exception:
+        pid = None
+    if pid is None:
+        print(f"ADVERTENCIA: producto sin id de Supabase, se omite: {row.get('nombre')}")
+        continue
+
     ml = row.get("ml")
     try:
         ml = int(ml) if pd.notna(ml) else None
@@ -173,7 +182,7 @@ for i, (_, row) in enumerate(df.iterrows(), start=1):
                     break
 
     registros.append({
-        "id": i,
+        "id": pid,
         "b": str(row.get("empresa", "")).strip(),
         "n": str(row.get("nombre", "")).strip(),
         "s": size,
@@ -185,6 +194,8 @@ for i, (_, row) in enumerate(df.iterrows(), start=1):
         "nt": parsear_notas(nota_texto),
         "p1": fmt_precio(precio),
     })
+
+registros.sort(key=lambda r: r["id"])
 
 print(f"Productos activos: {len(registros)}")
 
