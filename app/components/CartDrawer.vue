@@ -34,7 +34,10 @@ const { checkout } = useWhatsAppCheckout();
           <div class="cdi-inf">
             <div class="cdi-b">{{ i.marca }}</div>
             <div class="cdi-n">{{ i.nombre }}</div>
-            <div class="cdi-s">{{ i.tamano }}</div>
+            <div class="cdi-s">
+              {{ i.tamano }}
+              <span v-if="i.agotado" style="color:var(--gr);font-weight:600"> · SIN STOCK</span>
+            </div>
             <div class="cdi-r">
               <button class="qb" aria-label="Quitar uno" @click="cart.changeQty(i.id, -1)">−</button>
               <span class="qv">{{ i.qty }}</span>

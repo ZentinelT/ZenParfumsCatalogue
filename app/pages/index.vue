@@ -11,6 +11,7 @@ useSeoMeta({
 <template>
   <div>
     <TheHero />
+    <TrustBar />
     <CatalogGrid />
     <TrustSections />
   </div>

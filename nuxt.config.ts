@@ -39,6 +39,19 @@ export default defineNuxtConfig({
 
   css: ["~/assets/css/tokens.css", "~/assets/css/components.css"],
 
+  runtimeConfig: {
+    public: {
+      // Revalidación de stock/precio en runtime (FR-016).
+      // La anon key solo puede leer la vista pública `catalogo_publico` (RLS, T003).
+      // Si falta, la revalidación se desactiva y quedan los datos del build.
+      supabaseUrl: SUPABASE_ORIGIN,
+      supabaseAnonKey: "",
+      catalogoPublicoTable: "catalogo_publico",
+      margenNormal: 15000,
+      margenTubbees: 10000,
+    },
+  },
+
   app: {
     baseURL,
     head: {
@@ -48,6 +61,12 @@ export default defineNuxtConfig({
         { name: "viewport", content: "width=device-width, initial-scale=1.0" },
         { name: "referrer", content: "no-referrer" },
         // CSP por meta (plan.md §Seguridad). connect-src incluye Supabase (revalidación).
+        //
+        // script-src necesita 'unsafe-inline': Nuxt emite scripts inline para
+        // hidratación, payload y el tema sin flash, y una CSP por <meta> no
+        // admite nonces (requeriría cabeceras HTTP, que GitHub Pages no permite).
+        // La inyección de HTML crudo que motivaba esta regla ya no existe: Vue
+        // escapa todo por templating (NFR-005).
         {
           "http-equiv": "Content-Security-Policy",
           content: [
@@ -56,7 +75,10 @@ export default defineNuxtConfig({
             `connect-src 'self' ${SUPABASE_ORIGIN}`,
             "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
             "font-src https://fonts.gstatic.com",
-            "script-src 'self'",
+            "script-src 'self' 'unsafe-inline'",
+            "base-uri 'none'",
+            "object-src 'none'",
+            // frame-ancestors se ignora vía <meta>; requiere cabecera HTTP.
           ].join("; "),
         },
       ],

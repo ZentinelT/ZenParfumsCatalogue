@@ -72,6 +72,12 @@ export const useCartStore = defineStore("cart", () => {
     items.value = items.value.filter((i) => i.id !== id);
   }
 
+  /** La revalidación detectó que este producto se agotó (FR-016). */
+  function marcarAgotado(id: number) {
+    const it = items.value.find((i) => i.id === id);
+    if (it) it.agotado = true;
+  }
+
   /** Reasigna ids por marca+nombre contra el catálogo actual (ids cambiaron vs legacy). */
   function remapIds(catalog: Product[]) {
     const byKey = new Map<string, Product>();
@@ -83,7 +89,7 @@ export const useCartStore = defineStore("cart", () => {
   }
 
   return {
-    items, count, total, add, changeQty, remove, remapIds,
+    items, count, total, add, changeQty, remove, remapIds, marcarAgotado,
     _migrar: migrarItems,
   };
 }, {

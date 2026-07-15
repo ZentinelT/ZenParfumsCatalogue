@@ -50,15 +50,15 @@
 
 ## Fase 5 — Híbrido runtime
 
-- [ ] **T031** `useStockRevalidation.ts`: al montar el catálogo, GET a la vista `catalogo_publico` con anon key; recalcular stock/precio con los transforms de `shared/`; pisar estado en memoria; timeout corto y degradación silenciosa ante error; deshabilitar compra si el producto pasó a `out`. *(FR-016, HU-5)*
-- [ ] **T032** Tests del composable: respuesta ok, Supabase caído, producto que pasa a out con ítem en carrito.
+- [x] **T031** `useStockRevalidation.ts`: al montar el catálogo, GET a la vista `catalogo_publico` con anon key; recalcular stock/precio con los transforms de `shared/`; pisar estado en memoria; timeout corto y degradación silenciosa ante error; deshabilitar compra si el producto pasó a `out`. *(FR-016, HU-5)*
+- [x] **T032** Tests del composable: respuesta ok, Supabase caído, producto que pasa a out con ítem en carrito.
 
 ## Fase 6 — Infra y calidad
 
 - [x] **T033** [P] `.github/workflows/ci.yml`: lint + typecheck + vitest + `nuxi generate --fixture` en PRs y push a `main`.
 - [x] **T034** [P] `.github/workflows/deploy.yml`: cron `0 */3 * * *` + `workflow_dispatch` + push a `main` → fetch-catalog (secrets `SUPABASE_KEY`, env de márgenes) → generate → `actions/deploy-pages`; permisos `pages: write`, `id-token: write`, **sin** `contents: write`. *(FR-015, HU-2.4)*
 - [ ] **T035** [P] Sitemap (`@nuxtjs/sitemap`) con todas las rutas de producto + `robots.txt`. *(HU-3.2)*
-- [ ] **T036** [P] CSP por meta tag según plan.md; auditar que ninguna imagen/estilo/conexión quede bloqueada.
+- [x] **T036** [P] CSP por meta tag según plan.md; auditar que ninguna imagen/estilo/conexión quede bloqueada.
 - [ ] **T037** Playwright e2e: filtrar → buscar → modal → agregar → drawer → mensaje de WhatsApp interceptado; tema oscuro persistente; `/perfume/<slug>` navegable. *(criterios HU-1)*
 - [ ] **T038** Lighthouse sobre el build generado: HTML inicial < 100 KB, LCP < 2,5 s (3G rápido), accesibilidad ≥ 90. *(NFR-001, NFR-002)*
 

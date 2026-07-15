@@ -88,4 +88,6 @@ export interface CartItem {
   precio: number;
   imagenUrl: string;
   qty: number;
+  /** Se agotó según la revalidación en runtime (FR-016); no bloquea el carrito. */
+  agotado?: boolean;
 }

@@ -25,3 +25,6 @@ __pycache__/
 !.env.example
 .DS_Store
 *.log
+
+# Playwright MCP
+.playwright-mcp/

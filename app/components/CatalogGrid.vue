@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const { productos } = useCatalogData();
 const cart = useCartStore();
+const { revalidar } = useStockRevalidation();
 
 const { filtro, busqueda, pagina, visibles, contador, paginas, setPagina } = useCatalog(productos);
 
@@ -9,6 +10,8 @@ const section = ref<HTMLElement | null>(null);
 onMounted(() => {
   // Migración: reasigna ids del carrito legacy contra el catálogo actual.
   cart.remapIds(productos);
+  // Modo híbrido: stock/precio frescos tras la carga inicial (FR-016).
+  revalidar();
 });
 
 function scrollToTop() {
