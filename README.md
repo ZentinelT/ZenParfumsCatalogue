@@ -80,8 +80,14 @@ Hecho: **Fases 0–5**. El sitio se genera completo (1006 rutas) y funciona.
 ### Bloqueantes externos (requieren consola, no código)
 
 - **T002**: definir `NUXT_APP_BASE_URL` según dominio custom o project page.
-- **T003**: crear la vista `catalogo_publico` + RLS y cargar `NUXT_PUBLIC_SUPABASE_ANON_KEY`.
-  **Sin esto la revalidación queda desactivada** (el sitio usa los datos del build).
+- **T003**: correr [`t003-rls.sql`](specs/001-refactor-catalogo/t003-rls.sql) y recién ahí
+  activar `NUXT_PUBLIC_SUPABASE_ANON_KEY`. **Sin esto la revalidación queda desactivada**
+  (el sitio usa los datos del build; no rompe nada).
+  Estado verificado el 2026-07-15: `catalogo_publico` no existe y la anon key lee las 57
+  columnas de `productos` (costos, márgenes, ventas) y las fichas. Como `NUXT_PUBLIC_*` se
+  compila en el JS del cliente, activar la key antes del SQL publicaría todo eso.
+  Ojo: confirmar que el secret `SUPABASE_KEY` sea la **service_role** key antes de cerrar
+  el acceso a `anon`, o el pipeline de build deja de leer `productos`.
 - **T040**: cambiar la fuente de GitHub Pages a "GitHub Actions" en el cutover.
 
 ### Nota de seguridad (CSP)
