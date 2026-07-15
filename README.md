@@ -53,15 +53,43 @@ pnpm generate:fixture
 pnpm preview
 ```
 
-## Estado del scaffold
+## Estado
 
-Hecho: Fase 0–2 (fundaciones + pipeline de datos portado y verificado).
+Hecho: **Fases 0–5**. El sitio se genera completo (1006 rutas) y funciona.
 
-- ✅ `shared/types.ts`, `shared/transform/*` (precio, stock, género, notas, slug) + tests
-- ✅ `scripts/fetch-catalog.ts` con join de fichas y modo `--fixture`
-- ✅ Config Nuxt/ESLint/Vitest, tokens de diseño, workflows CI + deploy
-- ⏳ Fase 3+ (componentes Vue, stores, revalidación runtime, SEO por producto): pendiente,
-  ver [`tasks.md`](specs/001-refactor-catalogo/tasks.md) T018–T038.
+- ✅ Pipeline de datos portado de Python a TS (`shared/transform/*`), con test de
+  paridad contra el `#pdata` real del sitio legacy
+- ✅ UI completa con paridad visual verificada contra el legacy en navegador
+- ✅ Carrito/favoritos persistidos en las claves legacy (`zp2`, `zp-wish`) con migración
+- ✅ SEO: 500 páginas `/perfume/<slug>` con JSON-LD `Product` + `sitemap.xml`
+- ✅ Revalidación de stock/precio en runtime (requiere la anon key, ver T003)
+
+### Pendientes conocidos
+
+| # | Pendiente | Task |
+|---|---|---|
+| 1 | **HTML inicial 143 KB** (objetivo <100 KB). El catálogo (369 KB) sigue en el bundle JS porque el filtrado en cliente lo necesita: separarlo a recurso aparte es la optimización que falta. Ya bajó de 1 MB. | T038 |
+| 2 | **Focus trap** en modales y drawers. Escape, `aria-modal` y click en overlay ya funcionan. | T021, T027 |
+| 3 | **Animaciones de reveal** al hacer scroll (`.rev`), respetando `prefers-reduced-motion`. El CSS está portado; falta el IntersectionObserver. | T023 |
+| 4 | **robots.txt** | T035 |
+| 5 | **Links de categoría del footer** no aplican el filtro (van a `#catalogo` sin filtrar). | — |
+| 6 | **favicon** ausente (404 en consola). El legacy tampoco tenía. | — |
+| 7 | **e2e con Playwright** y medición Lighthouse. | T037, T038 |
+| 8 | **Test de paridad sobre inputs crudos** de `productos` (requiere un dump real de Supabase). | T017 |
+
+### Bloqueantes externos (requieren consola, no código)
+
+- **T002**: definir `NUXT_APP_BASE_URL` según dominio custom o project page.
+- **T003**: crear la vista `catalogo_publico` + RLS y cargar `NUXT_PUBLIC_SUPABASE_ANON_KEY`.
+  **Sin esto la revalidación queda desactivada** (el sitio usa los datos del build).
+- **T040**: cambiar la fuente de GitHub Pages a "GitHub Actions" en el cutover.
+
+### Nota de seguridad (CSP)
+
+`script-src` incluye `'unsafe-inline'`: Nuxt emite scripts inline (hidratación, payload,
+tema sin flash) y una CSP por `<meta>` no admite nonces — GitHub Pages no permite
+cabeceras HTTP. La inyección de HTML crudo que motivaba la regla estricta ya no existe:
+Vue escapa todo por templating (NFR-005).
 
 ## Variables de entorno
 
