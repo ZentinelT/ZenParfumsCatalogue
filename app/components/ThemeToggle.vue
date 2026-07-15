@@ -2,10 +2,10 @@
 defineProps<{ variant?: "icon" | "menu" }>();
 
 const colorMode = useColorMode();
-const mounted = ref(false);
-onMounted(() => { mounted.value = true; });
+// El tema sale de localStorage/prefers-color-scheme: gate hasta montar (ver useHydrated).
+const hydrated = useHydrated();
 
-const isDark = computed(() => mounted.value && colorMode.value === "dark");
+const isDark = computed(() => hydrated.value && colorMode.value === "dark");
 const label = computed(() => (isDark.value ? "Activar modo claro" : "Activar modo oscuro"));
 
 function toggle() {

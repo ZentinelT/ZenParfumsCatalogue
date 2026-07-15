@@ -16,7 +16,12 @@ Reemplazar el monolito `index.html` (1 MB con datos embebidos, actualizado por r
 **Testing**: Vitest (+ @vue/test-utils), Playwright (e2e)
 **Lint**: ESLint flat config + `@nuxt/eslint`
 **Datos**: Supabase REST (`https://syylbuvjuekkanxynpps.supabase.co/rest/v1/`), tablas `productos` y fichas técnicas
-**Hosting**: GitHub Pages (verificar dominio custom vs project page para `app.baseURL`)
+**Hosting**: GitHub Pages — **project page, sin dominio custom** (T002 resuelto vía
+`gh api repos/ZentinelT/ZenParfumsCatalogue/pages`: `cname: null`,
+`html_url: https://zentinelt.github.io/ZenParfumsCatalogue/`). Valores definitivos:
+`app.baseURL = /ZenParfumsCatalogue/` y `site.url = https://zentinelt.github.io`
+(solo el origen: sitemap y canonical le suman el baseURL).
+Hoy Pages sirve `source: branch main` (el sitio legacy); el cutover a "GitHub Actions" es T040.
 **Restricción clave**: todo lo dinámico post-build ocurre en el navegador; no hay backend propio.
 
 ## Arquitectura

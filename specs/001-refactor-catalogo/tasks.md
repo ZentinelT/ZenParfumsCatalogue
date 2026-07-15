@@ -6,7 +6,7 @@
 ## Fase 0 — Preparación
 
 - [x] **T001** Crear branch `refactor/nuxt` desde `main`.
-- [ ] **T002** [P] Verificar en la config de GitHub Pages si hay dominio custom; registrar en `plan.md` el valor definitivo de `app.baseURL` (`/` o `/ZenParfumsCatalogue/`).
+- [x] **T002** [P] Verificar en la config de GitHub Pages si hay dominio custom; registrar en `plan.md` el valor definitivo de `app.baseURL` (`/` o `/ZenParfumsCatalogue/`).
 - [ ] **T003** [P] En Supabase: crear vista `catalogo_publico` (id/nombre, `stock_actual`, `precio_min_ars`, `activo`) y política RLS de SELECT anónimo solo sobre esa vista; verificar que la anon key NO puede leer `productos` ni fichas directamente. Anotar la anon key para runtime.
 - [x] **T004** [P] Extraer un dump de los JSON embebidos actuales (`#pdata` y `#fdata` de `index.html`) a `tests/fixtures/legacy-pdata.json` y `tests/fixtures/legacy-fdata.json` — servirán como fixtures del test de paridad (T016).
 

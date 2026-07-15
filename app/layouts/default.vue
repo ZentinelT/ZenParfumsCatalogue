@@ -29,8 +29,14 @@ watch(() => ui.algunoAbierto, (abierto) => {
     <SiteFooter />
     <WhatsAppButton />
 
-    <CartDrawer />
-    <WishlistDrawer />
+    <!-- Carrito y favoritos salen de localStorage: el SSR los renderiza vacíos
+         y el cliente los restaura, lo que rompe la hidratación para cualquier
+         usuario que vuelva con un carrito guardado (HU-4). Son UI puramente de
+         cliente y están fuera de pantalla, así que no cuesta nada en SEO/LCP. -->
+    <ClientOnly>
+      <CartDrawer />
+      <WishlistDrawer />
+    </ClientOnly>
     <ProductModal />
     <FichaTecnica />
     <NotificationToast />

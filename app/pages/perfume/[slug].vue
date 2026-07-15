@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { joinURL } from "ufo";
+
 const route = useRoute();
 const { productos } = useCatalogData();
 
@@ -16,8 +18,11 @@ const { data: ficha } = await useAsyncData(
 
 const disponible = computed(() => product.stock !== "out");
 
+// El canonical necesita origen + baseURL: en project page de GitHub Pages el
+// sitio cuelga de /ZenParfumsCatalogue/, no de la raíz.
 const site = useSiteConfig();
-const canonical = computed(() => `${site.url}/perfume/${product!.slug}`);
+const baseURL = useRuntimeConfig().app.baseURL;
+const canonical = computed(() => joinURL(site.url, baseURL, `/perfume/${product.slug}`));
 
 useSeoMeta({
   title: () => `${product!.marca} ${product!.nombre} — Zen Parfums`,

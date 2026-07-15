@@ -93,6 +93,14 @@ export default defineNuxtConfig({
     },
   },
 
+  // El módulo de persistedstate usa COOKIES por defecto. El sitio legacy guarda
+  // carrito y favoritos en localStorage (`zp2`, `zp-wish`) y la migración sin
+  // pérdida es requisito (HU-4.2, NFR-006). Además las cookies viajan en cada
+  // request y topan en ~4 KB, lo que rompería un carrito grande.
+  piniaPluginPersistedstate: {
+    storage: "localStorage",
+  },
+
   colorMode: {
     preference: "system",
     fallback: "light",
@@ -102,15 +110,20 @@ export default defineNuxtConfig({
 
   nitro: {
     prerender: {
-      crawlLinks: true,
+      // Sin crawler: las rutas se enumeran completas más abajo. Con baseURL de
+      // project page el crawler seguía el href del logo (`/ZenParfumsCatalogue/`)
+      // y lo registraba como una ruta extra, metiendo un <loc> duplicado
+      // (…/ZenParfumsCatalogue/ZenParfumsCatalogue) en el sitemap.
+      crawlLinks: false,
       routes: ["/", "/sitemap.xml", ...productRoutes()],
     },
   },
 
   site: {
-    // Ajustar al dominio real de producción para sitemap/canonical (HU-3).
+    // Solo el ORIGEN (sin path): sitemap y canonical le suman app.baseURL.
     url: process.env.NUXT_SITE_URL || "https://example.com",
   },
+
 
   typescript: {
     strict: true,

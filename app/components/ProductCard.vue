@@ -9,7 +9,9 @@ const ui = useUiStore();
 const notifications = useNotificationsStore();
 
 const imgError = ref(false);
-const wished = computed(() => wishlist.has(props.product.id));
+// Favoritos salen de localStorage: gate hasta montar para no romper la hidratación.
+const hydrated = useHydrated();
+const wished = computed(() => hydrated.value && wishlist.has(props.product.id));
 const sinStock = computed(() => props.product.stock === "out");
 
 const stockClass = computed(() =>

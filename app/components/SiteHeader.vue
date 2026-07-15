@@ -31,11 +31,11 @@ const heartPath = "M12 21s-7-4.35-9.5-8.5C.5 8.5 2.5 5 6 5c2 0 3.5 1 6 3.5C14.5 
         </button>
         <button class="hib" aria-label="Favoritos" @click="ui.openWish()">
           <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path :d="heartPath" /></svg>
-          <span v-show="wishlist.count > 0" class="cbadge">{{ wishlist.count }}</span>
+          <ClientOnly><span v-show="wishlist.count > 0" class="cbadge">{{ wishlist.count }}</span></ClientOnly>
         </button>
         <button class="hib hib-mob-cart" aria-label="Carrito" @click="ui.openCart()">
           <IconCart :size="19" />
-          <span v-show="cart.count > 0" class="cbadge">{{ cart.count }}</span>
+          <ClientOnly><span v-show="cart.count > 0" class="cbadge">{{ cart.count }}</span></ClientOnly>
         </button>
       </div>
 
@@ -53,11 +53,11 @@ const heartPath = "M12 21s-7-4.35-9.5-8.5C.5 8.5 2.5 5 6 5c2 0 3.5 1 6 3.5C14.5 
           <ThemeToggle />
           <button class="hib" aria-label="Favoritos" @click="ui.openWish()">
             <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path :d="heartPath" /></svg>
-            <span v-show="wishlist.count > 0" class="cbadge">{{ wishlist.count }}</span>
+            <ClientOnly><span v-show="wishlist.count > 0" class="cbadge">{{ wishlist.count }}</span></ClientOnly>
           </button>
           <button class="hib" aria-label="Carrito" @click="ui.openCart()">
             <IconCart :size="19" />
-            <span v-show="cart.count > 0" class="cbadge">{{ cart.count }}</span>
+            <ClientOnly><span v-show="cart.count > 0" class="cbadge">{{ cart.count }}</span></ClientOnly>
           </button>
         </div>
       </div>
