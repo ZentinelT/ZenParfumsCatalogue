@@ -75,6 +75,10 @@ df = df[df["activo"] == True].copy()
 if "oculto" in df.columns:
     df = df[(df["oculto"].isna()) | (df["oculto"] == False)]
 
+CATEGORIAS_PERMITIDAS = ["arabes", "internacionales"]
+df = df[df["cat_catalogo"].astype(str).str.strip().isin(CATEGORIAS_PERMITIDAS)]
+print(f"Productos tras filtrar por categoría {CATEGORIAS_PERMITIDAS}: {len(df)}")
+
 def calcular_precio(row):
     base = row.get("precio_min_ars")
     if pd.isna(base):
