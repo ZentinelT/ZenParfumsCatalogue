@@ -7,6 +7,7 @@ node_modules/
 dist/
 dist
 data/
+public/data/
 
 # Datos generados / caché
 .data/

@@ -15,7 +15,7 @@
 - [x] **T005** Scaffold del proyecto: Nuxt 4 + TypeScript estricto + pnpm en la raíz del repo; `nuxt.config.ts` con `ssr: true`, prerender de todas las rutas, `app.baseURL` según T002; `.gitignore` para `data/`, `.output/`, `node_modules/`.
 - [x] **T006** [P] Configurar ESLint (`@nuxt/eslint`, flat config) y scripts `lint`, `typecheck`.
 - [x] **T007** [P] Configurar Vitest + `@vue/test-utils`; script `test`.
-- [ ] **T008** [P] Instalar y configurar Pinia + `pinia-plugin-persistedstate` y `@nuxtjs/color-mode` (atributo `data-theme` en `<body>`, clave de storage `zp-theme`).
+- [x] **T008** [P] Instalar y configurar Pinia + `pinia-plugin-persistedstate` y `@nuxtjs/color-mode` (atributo `data-theme` en `<body>`, clave de storage `zp-theme`).
 - [x] **T009** [P] Portar los design tokens del `<style>` actual (index.html:15-37) a `app/assets/css/tokens.css` con variantes light/dark por `data-theme` — sin `!important`; cargar fuentes Cormorant Garamond + Inter.
 - [x] **T010** [P] Definir tipos en `shared/types.ts`: `Product`, `Ficha`, `StockStatus`, `Categoria`, `Genero`, `CartItem`.
 
@@ -31,22 +31,22 @@
 
 ## Fase 3 — UI
 
-- [ ] **T018** [P] Componentes estáticos: `SiteHeader` (sticky + badges), `MobileMenu`, `TheHero`, `TrustSections`, `SiteFooter`, botón flotante de WhatsApp — paridad visual con las secciones actuales (index.html:456-700). *(NFR-003)*
-- [ ] **T019** [P] `ProductCard.vue`: imagen con lazy + fallback a placeholder SVG, marca, nombre limpio, badges de concentración/tamaño, notas resumidas, indicador de stock, precio (o "SIN STOCK"), acciones (favorito / ficha / carrito). *(FR-005, FR-006)*
-- [ ] **T020** `useCatalog.ts` + `CatalogGrid.vue` + `CatalogSearch.vue` + `CatalogFilters.vue` + `PaginationBar.vue`: filtros excluyentes, búsqueda marca+nombre+notas, exclusión de accesorios, paginación de 48 con elipsis y contador. *(FR-001…FR-004)*
+- [x] **T018** [P] Componentes estáticos: `SiteHeader` (sticky + badges), `MobileMenu`, `TheHero`, `TrustSections`, `SiteFooter`, botón flotante de WhatsApp — paridad visual con las secciones actuales (index.html:456-700). *(NFR-003)*
+- [x] **T019** [P] `ProductCard.vue`: imagen con lazy + fallback a placeholder SVG, marca, nombre limpio, badges de concentración/tamaño, notas resumidas, indicador de stock, precio (o "SIN STOCK"), acciones (favorito / ficha / carrito). *(FR-005, FR-006)*
+- [x] **T020** `useCatalog.ts` + `CatalogGrid.vue` + `CatalogSearch.vue` + `CatalogFilters.vue` + `PaginationBar.vue`: filtros excluyentes, búsqueda marca+nombre+notas, exclusión de accesorios, paginación de 48 con elipsis y contador. *(FR-001…FR-004)*
 - [ ] **T021** [P] `ProductModal.vue`: detalle con pirámide olfativa, acceso a ficha; focus trap, cierre con Escape y click en overlay, `aria-modal`. *(FR-008, NFR-004)*
-- [ ] **T022** [P] `FichaTecnica.vue`: todos los campos de ficha omitiendo vacíos, inspiraciones con imagen, rango de edad compuesto. *(FR-009)*
+- [x] **T022** [P] `FichaTecnica.vue`: todos los campos de ficha omitiendo vacíos, inspiraciones con imagen, rango de edad compuesto. *(FR-009)*
 - [ ] **T023** `pages/index.vue`: composición landing + catálogo; animaciones de reveal con IntersectionObserver respetando `prefers-reduced-motion`. *(NFR-004)*
-- [ ] **T024** `pages/perfume/[slug].vue`: página estática por producto reutilizando el detalle + `useSeoMeta` (título, description, OG) + JSON-LD `Product` con precio y disponibilidad; prerender desde `data/catalog.json`. *(HU-3, FR-008)*
+- [x] **T024** `pages/perfume/[slug].vue`: página estática por producto reutilizando el detalle + `useSeoMeta` (título, description, OG) + JSON-LD `Product` con precio y disponibilidad; prerender desde `data/catalog.json`. *(HU-3, FR-008)*
 
 ## Fase 4 — Estado e interacción
 
-- [ ] **T025** [P] `stores/cart.ts`: agregar (rechaza `out`), incrementar/decrementar con eliminación en 0, total, contador; persistencia en clave `zp2` + **migración del formato legacy** (matcheo por marca+nombre por el cambio de ids); tolerante a localStorage corrupto. *(FR-010, HU-4, NFR-006)*
-- [ ] **T026** [P] `stores/wishlist.ts`: toggle, persistencia `zp-wish` + migración legacy; pasar favorito a carrito. *(FR-011)*
+- [x] **T025** [P] `stores/cart.ts`: agregar (rechaza `out`), incrementar/decrementar con eliminación en 0, total, contador; persistencia en clave `zp2` + **migración del formato legacy** (matcheo por marca+nombre por el cambio de ids); tolerante a localStorage corrupto. *(FR-010, HU-4, NFR-006)*
+- [x] **T026** [P] `stores/wishlist.ts`: toggle, persistencia `zp-wish` + migración legacy; pasar favorito a carrito. *(FR-011)*
 - [ ] **T027** `CartDrawer.vue` + `WishlistDrawer.vue`: estados vacíos, cantidades, totales, accesibilidad de drawer (focus trap, Escape). *(FR-010, FR-011, NFR-004)*
-- [ ] **T028** [P] `useWhatsAppCheckout.ts`: mensaje con formato exacto actual (`- {marca} {nombre} ({tamaño}) x{qty} = {subtotal}` + total) y apertura de `wa.me/543515911990`. *(FR-012)*
-- [ ] **T029** [P] `NotificationToast.vue` + integración con acciones de carrito/favoritos. *(FR-014)*
-- [ ] **T030** Toggle de tema en header y menú móvil vía color-mode, verificando ausencia de flash y migración de `zp-theme`. *(FR-013, HU-4.3)*
+- [x] **T028** [P] `useWhatsAppCheckout.ts`: mensaje con formato exacto actual (`- {marca} {nombre} ({tamaño}) x{qty} = {subtotal}` + total) y apertura de `wa.me/543515911990`. *(FR-012)*
+- [x] **T029** [P] `NotificationToast.vue` + integración con acciones de carrito/favoritos. *(FR-014)*
+- [x] **T030** Toggle de tema en header y menú móvil vía color-mode, verificando ausencia de flash y migración de `zp-theme`. *(FR-013, HU-4.3)*
 
 ## Fase 5 — Híbrido runtime
 

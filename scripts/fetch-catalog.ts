@@ -202,11 +202,18 @@ async function main() {
 
   joinFichas(productos, fichas);
 
+  // catalog.json: se importa en build para el SSR de la grilla.
   const dataDir = resolve(ROOT, "data");
   await mkdir(dataDir, { recursive: true });
   await writeFile(resolve(dataDir, "catalog.json"), JSON.stringify(productos), "utf8");
-  await writeFile(resolve(dataDir, "fichas.json"), JSON.stringify(fichas), "utf8");
-  console.log(`Escritos ${productos.length} productos y ${fichas.length} fichas en data/.`);
+
+  // fichas.json: recurso separado cacheable, se baja on-demand al abrir una
+  // ficha (NFR-001). No se empaqueta en el bundle JS.
+  const publicDataDir = resolve(ROOT, "public/data");
+  await mkdir(publicDataDir, { recursive: true });
+  await writeFile(resolve(publicDataDir, "fichas.json"), JSON.stringify(fichas), "utf8");
+
+  console.log(`Escritos ${productos.length} productos en data/ y ${fichas.length} fichas en public/data/.`);
 }
 
 main().catch((e) => {
