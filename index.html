@@ -1144,7 +1144,7 @@ function openProduct(id) {
       "</div>" +
       "<div class=\"pm-stk\"><span class=\"sdot " + sdot + "\"></span><span class=\"stxt\">" + stxt + "</span></div>" +
       ntH +
-      (getFicha(p) ? "<button class=\"pm-ficha\" onclick=\"openFicha(" + p.id + ")\">Ver ficha t\u00E9cnica completa</button>" : "") +
+      (getFicha(p) ? "<button class=\"pm-ficha\" title=\"Ficha t\u00E9cnica\" aria-label=\"Ficha t\u00E9cnica\" onclick=\"openFicha(" + p.id + ")\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><line x1=\"12\" y1=\"11\" x2=\"12\" y2=\"16\"/><circle cx=\"12\" cy=\"7.5\" r=\"0.6\" fill=\"currentColor\" stroke=\"none\"/></svg></button>" : "") +
       "<div class=\"pm-ft\">" +
         priceHtml +
         "<button class=\"pm-add\" onclick=\"addCart(" + p.id + ")\"" + dis + ">" +
