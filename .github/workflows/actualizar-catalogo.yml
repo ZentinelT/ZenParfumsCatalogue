@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add index.html
+          git add data/products.json data/fichas.json
           git diff --quiet --cached || git commit -m "Actualizar catálogo automáticamente"
           git push

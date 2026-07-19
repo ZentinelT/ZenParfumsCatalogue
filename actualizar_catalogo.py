@@ -11,10 +11,6 @@ API_URL = "https://syylbuvjuekkanxynpps.supabase.co/rest/v1/productos"
 MARGEN_NORMAL = 15000
 MARGEN_TUBBEES = 10000
 
-HTML_PATHS = [p for p in ["zen-parfums-v5.html", "index.html"] if os.path.exists(p)]
-if not HTML_PATHS:
-    raise FileNotFoundError("No se encontró ningún archivo HTML objetivo para actualizar")
-
 CAT_MAP = {
     "arabes": "arabes",
     "internacionales": "internacional",
@@ -203,36 +199,13 @@ registros.sort(key=lambda r: r["id"])
 
 print(f"Productos activos: {len(registros)}")
 
-# ---------- 3. REEMPLAZAR SOLO EL BLOQUE pdata EN EL HTML ----------
-nuevo_json = json.dumps(registros, ensure_ascii=False, separators=(",", ":"))
-patron = re.compile(
-    r'(<script type="application/json" id="pdata">)(.*?)(</script>)',
-    re.DOTALL
-)
+# ---------- 3. ESCRIBIR LOS JSON DE DATOS ----------
+os.makedirs("data", exist_ok=True)
 
-nuevo_json_fichas = json.dumps(fichas_registros, ensure_ascii=False, separators=(",", ":"))
-patron_fichas = re.compile(
-    r'(<script type="application/json" id="fdata">)(.*?)(</script>)',
-    re.DOTALL
-)
+with open("data/products.json", "w", encoding="utf-8") as f:
+    json.dump(registros, f, ensure_ascii=False, indent=2)
 
-for html_path in HTML_PATHS:
-    with open(html_path, "r", encoding="utf-8") as f:
-        html = f.read()
+with open("data/fichas.json", "w", encoding="utf-8") as f:
+    json.dump(fichas_registros, f, ensure_ascii=False, indent=2)
 
-    if not patron.search(html):
-        print(f"No se encontró el bloque pdata en {html_path}. Se omite.")
-        continue
-
-    html_actualizado = patron.sub(lambda m: m.group(1) + nuevo_json + m.group(3), html, count=1)
-
-    if patron_fichas.search(html_actualizado):
-        html_actualizado = patron_fichas.sub(lambda m: m.group(1) + nuevo_json_fichas + m.group(3), html_actualizado, count=1)
-        print(f"Listo: fdata actualizado dentro de {html_path}")
-    else:
-        print(f"No se encontró el bloque fdata en {html_path}. Se omite (agregalo manualmente una vez).")
-
-    with open(html_path, "w", encoding="utf-8") as f:
-        f.write(html_actualizado)
-
-    print(f"Listo: pdata actualizado dentro de {html_path}")
+print("Listo: data/products.json y data/fichas.json actualizados")
