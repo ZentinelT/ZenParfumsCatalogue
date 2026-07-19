@@ -463,7 +463,9 @@ body[data-theme="dark"] .hero::before{background:linear-gradient(180deg,rgba(10,
 .hero-ti svg{width:14px;height:14px;flex-shrink:0}
 .hero-tr .hero-ti:nth-child(2),.hero-tr .hero-ti:nth-child(3){display:none}
 .hdot{display:none}
-.mob-fab{background:transparent;backdrop-filter:none;box-shadow:none;padding:0;top:16px;right:14px;left:auto;bottom:auto}
+.mob-fab{background:transparent!important;backdrop-filter:none!important;box-shadow:none!important;border-radius:0!important;padding:0!important;top:16px;right:14px;left:auto;bottom:auto;gap:2px}
+.mob-fab .hib{filter:drop-shadow(0 1px 6px rgba(0,0,0,.55))}
+.mob-fab .hib:hover{background:transparent!important}
 .fwa{bottom:20px;right:16px;width:50px;height:50px}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
