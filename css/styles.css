@@ -27,13 +27,16 @@ body[data-theme="dark"]{
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{font-family:var(--fb);color:var(--bk);background:var(--w);-webkit-font-smoothing:antialiased;overflow-x:hidden;transition:background-color var(--t) var(--e),color var(--t) var(--e)}
+body{
+  font-family:var(--fb);color:var(--bk);background-color:#f3ebdf;-webkit-font-smoothing:antialiased;overflow-x:hidden;
+  transition:background-color var(--t) var(--e),color var(--t) var(--e);
+  background-image:var(--hero-photo-light);background-size:100% auto;background-position:top center;background-repeat:no-repeat;
+}
 body[data-theme="dark"] .theme-toggle{background:rgba(255,255,255,.06)}
 body[data-theme="dark"] .ann{background:var(--surface-strong)}
-body[data-theme="dark"] .hero{
+body[data-theme="dark"]{
   background-color:#0c0a08;
   background-image:var(--hero-photo);
-  background-size:cover;background-position:center;background-repeat:no-repeat;
 }
 body[data-theme="dark"] .hero::before{
   background:linear-gradient(90deg,rgba(0,0,0,.78) 0%,rgba(0,0,0,.48) 30%,rgba(0,0,0,.08) 52%,transparent 65%),linear-gradient(-90deg,rgba(0,0,0,.55) 0%,rgba(0,0,0,.25) 14%,transparent 30%),linear-gradient(0deg,rgba(0,0,0,.6) 0%,transparent 30%);
@@ -92,9 +95,6 @@ body:not([data-theme="dark"]) .btn-dk:hover{background:#b68e47}
 /* HERO */
 .hero{
   min-height:100vh;overflow:hidden;
-  background-color:#f3ebdf;
-  background-image:var(--hero-photo-light);
-  background-size:cover;background-position:center;background-repeat:no-repeat;
   position:relative;
 }
 .hero::before{
@@ -419,13 +419,13 @@ body[data-theme="dark"] .pm-ficha-ico:hover{background:#c89d4d !important;color:
 /* RESPONSIVE */
 @media(max-width:1100px){.pg{grid-template-columns:repeat(3,1fr)}.cg{grid-template-columns:repeat(3,1fr)}.sg{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:960px){.ft{grid-template-columns:1fr 1fr}.tg2{grid-template-columns:1fr}}
-@media(max-width:768px){.sec{padding:56px 20px}.site-header-links{display:none}.site-burger{display:flex}.cg{grid-template-columns:repeat(2,1fr);gap:10px}.pg{grid-template-columns:repeat(2,1fr);gap:12px}.pc-bd{padding:14px}.bg3{grid-template-columns:1fr;gap:16px}.sg{grid-template-columns:repeat(2,1fr);gap:16px}.ft{grid-template-columns:1fr;gap:32px}.fb2{flex-direction:column;gap:8px;text-align:center}.tbar-in{flex-direction:row;flex-wrap:wrap}.ti{max-width:100%}.ti+.ti{border-left:1px solid var(--lg)}.pc-ft{flex-direction:column;align-items:stretch;gap:10px}.pc-seg{width:100%;max-width:100%}.pc-seg-i{flex:1 1 0;min-width:0;width:auto;height:40px}.pc-seg .pw,.pc-seg .badd{width:auto;height:40px}.hero{background-image:var(--hero-photo-light-mobile);background-position:center}body[data-theme="dark"] .hero{background-image:var(--hero-photo-mobile);background-position:center}}
+@media(max-width:768px){.sec{padding:56px 20px}.site-header-links{display:none}.site-burger{display:flex}.cg{grid-template-columns:repeat(2,1fr);gap:10px}.pg{grid-template-columns:repeat(2,1fr);gap:12px}.pc-bd{padding:14px}.bg3{grid-template-columns:1fr;gap:16px}.sg{grid-template-columns:repeat(2,1fr);gap:16px}.ft{grid-template-columns:1fr;gap:32px}.fb2{flex-direction:column;gap:8px;text-align:center}.tbar-in{flex-direction:row;flex-wrap:wrap}.ti{max-width:100%}.ti+.ti{border-left:1px solid var(--lg)}.pc-ft{flex-direction:column;align-items:stretch;gap:10px}.pc-seg{width:100%;max-width:100%}.pc-seg-i{flex:1 1 0;min-width:0;width:auto;height:40px}.pc-seg .pw,.pc-seg .badd{width:auto;height:40px}body{background-image:var(--hero-photo-light-mobile)}body[data-theme="dark"]{background-image:var(--hero-photo-mobile)}}
 @media(max-width:480px){
 .hero::before{background:linear-gradient(180deg,rgba(20,16,11,.22) 0%,rgba(20,16,11,.78) 12%,rgba(20,16,11,.42) 24%,rgba(20,16,11,.24) 44%,rgba(20,16,11,.52) 76%,rgba(20,16,11,.78) 100%)}
 body[data-theme="dark"] .hero::before{background:linear-gradient(180deg,rgba(10,9,7,.22) 0%,rgba(10,9,7,.78) 12%,rgba(10,9,7,.42) 24%,rgba(10,9,7,.24) 44%,rgba(10,9,7,.52) 76%,rgba(10,9,7,.8) 100%)}
 .hdot{display:none}
 .site-header-top-in{padding:10px 16px;gap:10px}
-.site-header-welcome{display:none}
+.site-header-welcome{font-size:11px}
 .site-header-nav-in{padding:10px 16px}
 .fwa{bottom:20px;right:16px;width:50px;height:50px}
 }
