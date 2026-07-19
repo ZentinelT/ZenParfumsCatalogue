@@ -33,8 +33,6 @@ function renderWish() {
   var cnt = wish.length;
   var b = $("wbadge");
   if (b) { b.textContent = cnt; b.style.display = cnt > 0 ? "flex" : "none"; }
-  var bm = $("wbadgeMobile");
-  if (bm) { bm.textContent = cnt; bm.style.display = cnt > 0 ? "flex" : "none"; }
   var items = wish.map(function(id){ return PRODS.find(function(x){ return x.id === id; }); }).filter(Boolean);
   if (!items.length) {
     $("wde").style.display = "flex";
@@ -67,4 +65,3 @@ function renderWish() {
 function openWish()  { renderWish(); $("wishOv").classList.add("on"); $("wishD").classList.add("on"); document.body.style.overflow="hidden"; }
 function closeWish() { $("wishOv").classList.remove("on"); $("wishD").classList.remove("on"); document.body.style.overflow=""; }
 $("wishBtn").addEventListener("click", openWish);
-$("wishBtnMobile").addEventListener("click", openWish);

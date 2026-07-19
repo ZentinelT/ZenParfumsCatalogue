@@ -43,8 +43,6 @@ function renderCart() {
   var b = $("cbadge");
   b.textContent = cnt;
   b.style.display = cnt > 0 ? "flex" : "none";
-  var bm = $("cbadgeMobile");
-  if (bm) { bm.textContent = cnt; bm.style.display = cnt > 0 ? "flex" : "none"; }
   $("cdtv").textContent = fmt(tot);
   if (!items.length) {
     $("cde").style.display = "flex";
@@ -89,4 +87,3 @@ function checkoutWA() {
 function openCart()  { $("cartOv").classList.add("on"); $("cartD").classList.add("on"); document.body.style.overflow="hidden"; }
 function closeCart() { $("cartOv").classList.remove("on"); $("cartD").classList.remove("on"); document.body.style.overflow=""; }
 $("cartBtn").addEventListener("click", openCart);
-$("cartBtnMobile").addEventListener("click", openCart);
