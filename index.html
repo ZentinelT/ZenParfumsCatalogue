@@ -75,17 +75,27 @@
 <section class="sec sec-p" id="catalogo">
   <div class="sec-in">
     <div class="sh rev"><span class="sey">Cat&#225;logo</span><h2 class="st">Fragancias <em>Premium</em></h2><p class="sub">+500 perfumes originales. &#193;rabes e internacionales, para &#233;l, para ella y unisex.</p><div class="gr"></div></div>
-    <div class="srch-wrap">
-      <svg class="srch-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-      <input class="srch" id="srch" type="search" placeholder="Buscar perfume, marca, notas&#8230;" oninput="onSearch(this.value)" autocomplete="off">
-    </div>
-    <div class="filters">
-      <button class="fb on" onclick="filterBy('todos',this)">Todos</button>
-      <button class="fb" onclick="filterBy('hombre',this)">Hombre</button>
-      <button class="fb" onclick="filterBy('mujer',this)">Mujer</button>
-      <button class="fb" onclick="filterBy('unisex',this)">Unisex</button>
-      <button class="fb" onclick="filterBy('arabes',this)">&#193;rabes</button>
-      <button class="fb" onclick="filterBy('internacional',this)">Internacional</button>
+    <div class="ctrl-row">
+      <div class="srch-wrap">
+        <svg class="srch-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input class="srch" id="srch" type="search" placeholder="Buscar perfume, marca, notas&#8230;" oninput="onSearch(this.value)" autocomplete="off">
+      </div>
+      <div class="sort-bar">
+        <label class="sort-lb" for="sortSel">Ordenar por</label>
+        <div class="sel-wrap">
+          <select id="sortSel" class="sel-sort" onchange="setSort(this.value)">
+            <option value="todos">Todos</option>
+            <option value="hombre">Hombre</option>
+            <option value="mujer">Mujer</option>
+            <option value="unisex">Unisex</option>
+            <option value="arabes">&#193;rabes</option>
+            <option value="internacional">Internacional</option>
+            <option value="precio-asc">Menor precio</option>
+            <option value="precio-desc">Mayor precio</option>
+          </select>
+          <svg class="sel-chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
     </div>
     <div class="pg" id="pg"></div>
     <div class="pag" id="pag"></div>
@@ -200,7 +210,7 @@
 <script src="js/cart.js"></script>
 <script src="js/wishlist.js"></script>
 <script src="js/mobmenu.js"></script>
-<script src="js/catalog.js"></script>
+<script src="js/catalog.js?v=2"></script>
 <script src="js/app.js"></script>
 </body>
 </html>

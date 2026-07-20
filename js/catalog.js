@@ -1,5 +1,5 @@
 var PS = 48;
-var cFil = "todos", cSrch = "", cPg = 1;
+var cFil = "todos", cSrch = "", cPg = 1, cSort = "none";
 
 
 /* ---- SEGMENTED CONTROL FEEDBACK ---- */
@@ -65,6 +65,16 @@ function getList() {
   if (cSrch) {
     var q = cSrch;
     l = l.filter(function(p){ return (p.b+" "+p.n+" "+p.nt).toLowerCase().indexOf(q) > -1; });
+  }
+  if (cSort === "asc" || cSort === "desc") {
+    l = l.slice().sort(function(a,b){
+      var ap = a.p > 0 ? a.p : Infinity;
+      var bp = b.p > 0 ? b.p : Infinity;
+      if (ap === Infinity && bp === Infinity) return 0;
+      if (ap === Infinity) return 1;
+      if (bp === Infinity) return -1;
+      return cSort === "asc" ? ap - bp : bp - ap;
+    });
   }
   return l;
 }
@@ -288,18 +298,15 @@ function closeFicha() {
   document.body.style.overflow = "";
 }
 
-function filterBy(cat, btn) {
-  document.querySelectorAll(".fb").forEach(function(b){ b.classList.remove("on"); });
-  if (btn) { btn.classList.add("on"); }
-  else {
-    document.querySelectorAll(".fb").forEach(function(b){
-      if ((cat === "todos" && b.textContent.trim() === "Todos") ||
-          b.textContent.trim().toLowerCase() === cat) b.classList.add("on");
-    });
-  }
-  cFil = cat; cPg = 1; cSrch = "";
+function setSort(v) {
+  if (v === "precio-asc") { cSort = "asc"; cFil = "todos"; }
+  else if (v === "precio-desc") { cSort = "desc"; cFil = "todos"; }
+  else { cSort = "none"; cFil = v; }
+  cPg = 1; cSrch = "";
   var si = $("srch"); if (si) si.value = "";
+  var sel = $("sortSel"); if (sel) sel.value = v;
   renderProds();
-  if (cat !== "todos") setTimeout(function(){ $("catalogo").scrollIntoView({behavior:"smooth",block:"start"}); }, 80);
+  if (v !== "todos") setTimeout(function(){ $("catalogo").scrollIntoView({behavior:"smooth",block:"start"}); }, 80);
 }
+function filterBy(cat) { setSort(cat); }
 function onSearch(v) { cSrch = v.toLowerCase().trim(); cPg = 1; renderProds(); }
