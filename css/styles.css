@@ -95,6 +95,7 @@ body:not([data-theme="dark"]) .btn-dk:hover{background:#b68e47}
   min-height:calc(100vw * var(--hero-ar) - var(--header-h));overflow:hidden;
   position:relative;
 }
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:48px;background:linear-gradient(to bottom,transparent,var(--ow));pointer-events:none}
 .hero-r{display:none}
 .hdot{position:absolute;border-radius:50%;background:var(--go);opacity:.12;animation:fdot 6s ease-in-out infinite}
 .hdot:nth-child(1){width:8px;height:8px;top:20%;left:15%}
