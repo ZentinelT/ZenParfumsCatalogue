@@ -20,6 +20,7 @@ function notify(txt) {
 /* ---- INIT ---- */
 document.addEventListener("DOMContentLoaded", function() {
   loadCatalogData().then(function() {
+    populateBrandOptions();
     renderProds();
     renderCart();
     renderWish();

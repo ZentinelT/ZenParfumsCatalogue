@@ -62,6 +62,7 @@ function getList() {
   else if (cFil === "unisex")  l = l.filter(function(p){ return p.g === "unisex"; });
   else if (cFil === "arabes")  l = l.filter(function(p){ return p.c === "arabes"; });
   else if (cFil === "internacional") l = l.filter(function(p){ return p.c === "internacional"; });
+  else if (cFil.indexOf("marca:") === 0) { var brand = cFil.slice(6); l = l.filter(function(p){ return p.b === brand; }); }
   if (cSrch) {
     var q = cSrch;
     l = l.filter(function(p){ return (p.b+" "+p.n+" "+p.nt).toLowerCase().indexOf(q) > -1; });
@@ -309,4 +310,16 @@ function setSort(v) {
   if (v !== "todos") setTimeout(function(){ $("catalogo").scrollIntoView({behavior:"smooth",block:"start"}); }, 80);
 }
 function filterBy(cat) { setSort(cat); }
+function populateBrandOptions() {
+  var grp = $("brandGroup");
+  if (!grp) return;
+  var brands = PRODS
+    .filter(function(p){ return p.c !== "accesorios"; })
+    .map(function(p){ return p.b; })
+    .filter(function(b, i, arr){ return b && arr.indexOf(b) === i; })
+    .sort();
+  grp.innerHTML = brands.map(function(b){
+    return "<option value=\"marca:" + esc(b) + "\">" + esc(b) + "</option>";
+  }).join("");
+}
 function onSearch(v) { cSrch = v.toLowerCase().trim(); cPg = 1; renderProds(); }
