@@ -514,7 +514,7 @@
     "p": 89200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_911331-MLA73471472140_122023-F.webp",
     "nt": "Salida Pomelo, limón, menta, pimienta rosa, cilantro Notas de corazón: Jengibre, nuez moscada, melón, jazmín Notas de fondo: Sándalo, ámbar, pachulí, incienso, cedro, ládano",
     "p1": "$89.200"
@@ -969,7 +969,7 @@
     "p": 54300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_824522-MLU76118437587_052024-F.webp",
     "nt": "Salida Jazmín, Madreselva Notas de corazón: Lavanda, Pimienta, Azafrán Notas de fondo: Cardamomo, Albahaca, Menta",
     "p1": "$54.300"
@@ -1086,7 +1086,7 @@
     "p": 91300,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_858218-MLA104661704947_012026-F.webp",
     "nt": "Salida Manzana verde, bergamota, mandarina Notas de corazón: Cedro, petitgrain, cachemira, violeta Notas de fondo: Almizcle, musgo de roble, Amberwood",
     "p1": "$91.300"
@@ -1395,13 +1395,13 @@
     "b": "FRENCH AVENUE",
     "n": "FRENCH AVENUE - Vulcan Feu | EDP",
     "s": "100ml",
-    "p": 93600,
+    "p": 94400,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_847351-MLA91303926035_082025-F.webp",
     "nt": "Salida Mango, Limón, Jengibre, Ruibarbo Notas de corazón: Jazmín, Violeta, Praliné, Pimienta rosa Notas de fondo: Haba tonka, Cedro, Ámbar gris, Musgo",
-    "p1": "$93.600"
+    "p1": "$94.400"
   },
   {
     "id": 2090,
@@ -1528,7 +1528,7 @@
     "p": 53300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_856969-MLU76407104647_052024-F.webp",
     "nt": "Salida Lavanda, pimienta negra Notas de corazón: Agua de coco, iris, sal Notas de fondo: Vainilla, incienso",
     "p1": "$53.300"
@@ -1632,7 +1632,7 @@
     "p": 52700,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_814761-MLA101188341595_122025-F.webp",
     "nt": "Salida Cítricos, Bergamota, Ciprés, Pimienta negra Notas de corazón: notas marinas, Maderas, incienso de olibano Notas de fondo: Ámbar gris, Almizcle, Ládano, Musgo",
     "p1": "$52.700"
@@ -2175,13 +2175,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Pride Nebras | EDP",
     "s": "100ml",
-    "p": 78600,
+    "p": 79400,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_621585-MLU54978398824_042023-F.webp",
-    "nt": "Salida Notas de salida: bayas rojas y mandarina Notas de corazón: vainilla, cacao y rosa Notas de fondo: azúcar, haba tonka, ámbar y almizcle",
-    "p1": "$78.600"
+    "nt": "Salida bayas rojas, mandarina Notas de corazón: vainilla, cacao, rosa Notas de fondo: azúcar, haba tonka, ámbar, almizcle",
+    "p1": "$79.400"
   },
   {
     "id": 2150,
@@ -2334,7 +2334,7 @@
     "p": 55300,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_903190-MLA92466005756_092025-F.webp",
     "nt": "Salida Oud, Azafrán, Canela Notas de corazón: Rosa, Sándalo Notas de fondo: Vainilla, Ámbar, Cuero, Incienso, Almizcle",
     "p1": "$55.300"
@@ -2422,13 +2422,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Teriaq | EDP",
     "s": "100ml",
-    "p": 73100,
+    "p": 69300,
     "c": "arabes",
     "g": "mujer",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_699934-MLA93035954178_092025-F.webp",
     "nt": "Salida Pimienta, caramelo, especias Notas de corazón: Vainilla, rosa, pachulí Notas de fondo: maderas, ámbar, almizcle",
-    "p1": "$73.100"
+    "p1": "$69.300"
   },
   {
     "id": 2169,
@@ -2513,13 +2513,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Yara Moi | EDP",
     "s": "100ml",
-    "p": 64700,
+    "p": 61400,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_640261-MLU75151471585_032024-F.webp",
     "nt": "Salida Fresa, grosella negra Notas de corazón: Gourmand, frutas tropicales Notas de fondo: Caramelo, almizcle, ámbar",
-    "p1": "$64.700"
+    "p1": "$61.400"
   },
   {
     "id": 2176,
@@ -3218,7 +3218,7 @@
     "p": 93000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_944227-MLA109563199949_032026-F.webp",
     "nt": "Salida Manzana, limón, bergamota, Anís Notas de corazón: Ciruela, flor de azahar, cardamomo Notas de fondo: Almizcle, ámbar, driftwood, musgo",
     "p1": "$93.000"
@@ -5087,13 +5087,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Angham Second Song | EDP",
     "s": "100ml",
-    "p": 97000,
+    "p": 75200,
     "c": "arabes",
     "g": "mujer",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_775492-MLA107655226055_022026-F.webp",
     "nt": "Salida Flor del peral, bergamota Notas de corazón: Peonía, flor de azahar del naranjo, praliné Notas de fondo: Vainilla, almizcle, haba tonka, ambroxan",
-    "p1": "$97.000"
+    "p1": "$75.200"
   },
   {
     "id": 2378,
@@ -5438,13 +5438,13 @@
     "b": "ZIMAYA",
     "n": "ZIMAYA - Tiramisu Caramel | EDP",
     "s": "100ml",
-    "p": 75100,
+    "p": 82700,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_792964-MLA82854962512_032025-F.webp",
     "nt": "Salida caramelo Notas de corazón: miel, cumarina, Maderas Notas de fondo: vainilla, whisky, Almizcle",
-    "p1": "$75.100"
+    "p1": "$82.700"
   },
   {
     "id": 2408,
@@ -5503,13 +5503,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Yum Yum | EDP",
     "s": "100ml",
-    "p": 89000,
+    "p": 88100,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_933770-MLA103897847549_012026-F.webp",
     "nt": "Salida bayas silvestres, cereza, naranja, bergamota Notas de corazón: rosa, flores blancas, vainilla Notas de fondo: notas atalcadas, Almizcle, ambar",
-    "p1": "$89.000"
+    "p1": "$88.100"
   },
   {
     "id": 2413,
@@ -6260,7 +6260,7 @@
     "p": 85200,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_674349-MLA87450674742_072025-F.webp",
     "nt": "Salida frutas tropical, toronja Notas de corazón: guayaba, agua de mar Notas de fondo: almizcle, maderas",
     "p1": "$85.200"

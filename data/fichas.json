@@ -1891,8 +1891,9 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Teriaq | EDP | 100ml",
+    "nombre_completo": "LATTAFA - Teriaq | EDP",
     "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
     "familia_olfativa": "Caramelo / Oriental Empolvado",
     "inspirado_en": "Composición propia",
     "notas_salida": "Pimienta, caramelo, especias",
@@ -7282,6 +7283,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Angham Second Song | EDP",
+    "marca": "Lattafa",
+    "concentracion": "EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Florales, Dulce, Avainillado, Fresco, Almizclado, Cítrico, Floral blanco, Ámbar, Atalcado, Rosas",
+    "inspirado_en": "Dolce & Gabbana My Devotion",
+    "notas_salida": "Flor del peral, bergamota",
+    "notas_corazon": "Peonía, flor de azahar del naranjo, praliné",
+    "notas_fondo": "Vainilla, almizcle, haba tonka, ambroxan",
+    "descripcion": "\n​\"Angham Second Song es una composición romántica y aterciopelada. La apertura es fresca y ligeramente frutal gracias a la flor del peral, que rápidamente da paso a un corazón floral suave de peonía. El fondo es donde reside su magia: una base cremosa de praliné y vainilla que le otorga un carácter acogedor, dulce y muy femenino.\"",
+    "momento_dia": "Dia/Noche",
+    "estacion": "Primavera/Otoño/Verano",
+    "ocasion": "Casual/Trabajo/Salidas",
+    "clima": "Templado/Calor moderado",
+    "proyeccion": "Moderada",
+    "duracion": "6-8hs",
+    "estela": "Moderada",
+    "perfil_usuario": "\n​\"Diseñado para la mujer que prefiere fragancias florales con un toque dulce y moderno. Es un perfume ideal para quien busca elegancia sin ser intrusivo, manteniendo una estela delicada pero persistente que transmite pulcritud y dulzura.\" 20 a 45 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "​\"Diseñado para la mujer que prefiere fragancias florales con un toque dulce y moderno. Es un perfume ideal para quien busca elegancia sin ser intrusivo, manteniendo una estela delicada pero persistente que transmite pulcritud y dulzura.\"",
+    "inspirado_en_nombre": "Dolce & Gabbana My Devotion",
+    "inspiraciones": [
+      {
+        "texto": "Dolce & Gabbana My Devotion",
+        "nombre": "Dolce & Gabbana My Devotion",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "EMPER - Mandora (+ decan 20ml) | EDP",
     "marca": "Emper — UAE",
     "genero": "Masculino",
@@ -7337,6 +7369,37 @@
       {
         "texto": "Prada Paradoxe",
         "nombre": "Prada Paradoxe",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ZIMAYA - Tiramisu Caramel | EDP",
+    "marca": "Zimaya — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Avainillado, Dulce, Caramelo, Amaderado, Amielado, Atalcado, Whisky, Balsámico, Almizclado, Cálido especiado",
+    "inspirado_en": "Bianco Latte Giardini Di Toscana",
+    "notas_salida": "caramelo",
+    "notas_corazon": "miel, cumarina, Maderas",
+    "notas_fondo": "vainilla, whisky, Almizcle",
+    "descripcion": "​Una fragancia indulgente y profundamente dulce que captura la esencia de un postre recién horneado. Abre con una nota vibrante de azúcar tostado y un toque de café expreso, que evoluciona hacia un corazón cremoso de caramelo salado y crema de vainilla. El fondo es cálido y persistente, con matices de haba tonka y un toque de chocolate amargo que equilibra la dulzura. Es un aroma denso, \"pegajoso\" en el buen sentido, y extremadamente acogedor.",
+    "momento_dia": "Noche",
+    "estacion": "Invierno/Otoño",
+    "ocasion": "Citas romanticas, salidas nocturnas, eventos informales en invierno",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Larga duracion (8 a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Marrón cobrizo",
+    "perfil_usuario": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De 18 a 45 años",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De",
+    "inspirado_en_nombre": "Giardini di Toscana Bianco Latte",
+    "inspiraciones": [
+      {
+        "texto": "Bianco Latte Giardini Di Toscana",
+        "nombre": "Giardini di Toscana Bianco Latte",
         "imagen_url": ""
       }
     ]
@@ -9579,37 +9642,6 @@
       {
         "texto": "Creed Aventus (DNA similar con piña, cedro, oud propio)",
         "nombre": "Creed Aventus",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "ZIMAYA - Tiramisu Caramel | EDP | 100ml",
-    "marca": "Zimaya — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Avainillado, Dulce, Caramelo, Amaderado, Amielado, Atalcado, Whisky, Balsámico, Almizclado, Cálido especiado",
-    "inspirado_en": "Bianco Latte Giardini Di Toscana",
-    "notas_salida": "caramelo",
-    "notas_corazon": "miel, cumarina, Maderas",
-    "notas_fondo": "vainilla, whisky, Almizcle",
-    "descripcion": "​Una fragancia indulgente y profundamente dulce que captura la esencia de un postre recién horneado. Abre con una nota vibrante de azúcar tostado y un toque de café expreso, que evoluciona hacia un corazón cremoso de caramelo salado y crema de vainilla. El fondo es cálido y persistente, con matices de haba tonka y un toque de chocolate amargo que equilibra la dulzura. Es un aroma denso, \"pegajoso\" en el buen sentido, y extremadamente acogedor.",
-    "momento_dia": "Noche",
-    "estacion": "Invierno/Otoño",
-    "ocasion": "Citas romanticas, salidas nocturnas, eventos informales en invierno",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Larga duracion (8 a 10h)",
-    "estela": "Intensa",
-    "color_liquido": "Marrón cobrizo",
-    "perfil_usuario": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De 18 a 45 años",
-    "rango_edad_min": 18,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De",
-    "inspirado_en_nombre": "Giardini di Toscana Bianco Latte",
-    "inspiraciones": [
-      {
-        "texto": "Bianco Latte Giardini Di Toscana",
-        "nombre": "Giardini di Toscana Bianco Latte",
         "imagen_url": ""
       }
     ]
@@ -11912,37 +11944,6 @@
       {
         "texto": "Xerjoff Tony Iommi Deified",
         "nombre": "Xerjoff Tony Iommi Deified",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Angham Second Song | EDP | 100ml",
-    "marca": "Lattafa",
-    "concentracion": "EDP",
-    "genero": "Femenino",
-    "familia_olfativa": "Florales, Dulce, Avainillado, Fresco, Almizclado, Cítrico, Floral blanco, Ámbar, Atalcado, Rosas",
-    "inspirado_en": "Dolce & Gabbana My Devotion",
-    "notas_salida": "Flor del peral, bergamota",
-    "notas_corazon": "Peonía, flor de azahar del naranjo, praliné",
-    "notas_fondo": "Vainilla, almizcle, haba tonka, ambroxan",
-    "descripcion": "\n​\"Angham Second Song es una composición romántica y aterciopelada. La apertura es fresca y ligeramente frutal gracias a la flor del peral, que rápidamente da paso a un corazón floral suave de peonía. El fondo es donde reside su magia: una base cremosa de praliné y vainilla que le otorga un carácter acogedor, dulce y muy femenino.\"",
-    "momento_dia": "Dia/Noche",
-    "estacion": "Primavera/Otoño/Verano",
-    "ocasion": "Casual/Trabajo/Salidas",
-    "clima": "Templado/Calor moderado",
-    "proyeccion": "Moderada",
-    "duracion": "6-8hs",
-    "estela": "Moderada",
-    "perfil_usuario": "\n​\"Diseñado para la mujer que prefiere fragancias florales con un toque dulce y moderno. Es un perfume ideal para quien busca elegancia sin ser intrusivo, manteniendo una estela delicada pero persistente que transmite pulcritud y dulzura.\" 20 a 45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "​\"Diseñado para la mujer que prefiere fragancias florales con un toque dulce y moderno. Es un perfume ideal para quien busca elegancia sin ser intrusivo, manteniendo una estela delicada pero persistente que transmite pulcritud y dulzura.\"",
-    "inspirado_en_nombre": "Dolce & Gabbana My Devotion",
-    "inspiraciones": [
-      {
-        "texto": "Dolce & Gabbana My Devotion",
-        "nombre": "Dolce & Gabbana My Devotion",
         "imagen_url": ""
       }
     ]
