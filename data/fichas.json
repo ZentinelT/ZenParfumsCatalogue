@@ -414,6 +414,7 @@
   },
   {
     "nombre_completo": "ARMAF - Beach Party | EDP",
+    "marca": "ARMAF",
     "genero": "Masculino",
     "familia_olfativa": "Tropical, Afrutados, Marino, Fresco, Aromático, Cítrico, Almizclado, Salado",
     "inspirado_en": "Réplica espectacular, densa y súper fiel de una de las fragancias de ultra nicho italianas más virales, potentes y elogiadas para el calor. Captura a la perfección ese ADN arrollador que simula un cocktail playero masivo de frutas exóticas (donde estalla la guayaba jugosa) combinado con el golpe salado y ozónico del agua de mar, suspendidos sobre una base pesadísima de almizcle y maderas. Una pócima hiper-atractiva diseñada para el tipo que exige facha desmedida y un rendimiento atómico bajo el sol.",
@@ -1679,6 +1680,7 @@
   },
   {
     "nombre_completo": "LATTAFA - Pride Brioche Vanille | EDP",
+    "marca": "LATTAFA",
     "genero": "Unisex",
     "familia_olfativa": "Avainillado, Dulce, Ámbar, Fesco especiado, Amaderado, Aromático, Atalcado, Conifera, Fresco, Balsámico",
     "inspirado_en": "Réplica monumental, densa y de una fidelidad absoluta de uno de los perfumes de ultra nicho americanos más codiciados y virales del mundo gourmand. Captura de forma magistral ese ADN revolucionario basado en recrear la textura dorada, mantecosa y crujiente de un brioche o croissant recién horneado con praliné, pero madurado de forma brillante con el toque místico del abeto balsámico y resinas finas. Una pócima de autor diseñada exclusivamente para los fanáticos de los aromas dulces hiper-realistas de alta costura.",
@@ -3126,8 +3128,9 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Khamrah Qahwa | EDP | 100 Ml",
+    "nombre_completo": "LATTAFA - Khamrah Qahwa | EDP",
     "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
     "familia_olfativa": "Oriental Gourmand / Café Especiado",
     "inspirado_en": "Angel's Share DNA + café árabe (qahwa = café turco)",
     "notas_salida": "Canela, cardamomo, jengibre",
@@ -3373,36 +3376,6 @@
     ]
   },
   {
-    "nombre_completo": "Asdaaf - Ameer Al Arab Imperium | EDP | 100 ml",
-    "marca": "Asdaaf (Lattafa group) — UAE",
-    "familia_olfativa": "Aromático Fresco / DNA Y EDP / Acuático",
-    "inspirado_en": "YSL Y EDP / Invictus Aqua 2016 (similitudes, no 1:1)",
-    "notas_salida": "Jengibre, bergamota, salvia",
-    "notas_corazon": "Manzana verde, cachemira, geranio",
-    "notas_fondo": "Almizcle, ámbar, sándalo",
-    "descripcion": "Fresco y limpio con manzana y cachemira. Muy agradable y cotidiano. Proyección 9/10, longevidad 7/10. Gran sillage por su precio.",
-    "momento_dia": "Día",
-    "estacion": "Todo el año",
-    "ocasion": "Cotidiano, trabajo, casual",
-    "clima": "Todo",
-    "proyeccion": "Alta",
-    "duracion": "Media-larga (7h)",
-    "estela": "Moderada",
-    "color_liquido": "Azul claro",
-    "perfil_usuario": "Hombres 18-35 años. Frescos, activos, modernos.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Hombres Frescos, activos, modernos.",
-    "inspirado_en_nombre": "YSL Y EDP / Invictus Aqua 2016",
-    "inspiraciones": [
-      {
-        "texto": "YSL Y EDP / Invictus Aqua 2016 (similitudes, no 1:1)",
-        "nombre": "YSL Y EDP / Invictus Aqua 2016",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "AL WATANIAH - Amethyst | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Unisex",
@@ -3431,6 +3404,37 @@
         "texto": "Captura a la perfección el ADN de ultra nicho más caro y deseado del planeta: la fusión perfecta entre la alta costura francesa y la opulencia de las noches de Arabia. Agarra el combo letal de rosa y madera de oud, y lo suaviza con una base cremosa de vainilla y almizcle blanco, logrando un aroma magnético que huele a jeque millonario.Captura a la perfección el ADN de ultra nicho más caro y deseado del planeta: la fusión perfecta entre la alta costura francesa y la opulencia de las noches de Arabia. Agarra el combo letal de rosa y madera de oud, y lo suaviza con una base cremosa de vainilla y almizcle blanco, logrando un aroma magnético que huele a jeque millonario.",
         "nombre": "Oud Satin Mood de Maison Francis Kurkdjian",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30352.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ASDAAF - Ameer Al Arab Imperium | EDP",
+    "marca": "Asdaaf (Lattafa group) — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Fresco / DNA Y EDP / Acuático",
+    "inspirado_en": "YSL Y EDP / Invictus Aqua 2016 (similitudes, no 1:1)",
+    "notas_salida": "Jengibre, bergamota, salvia",
+    "notas_corazon": "Manzana verde, cachemira, geranio",
+    "notas_fondo": "Almizcle, ámbar, sándalo",
+    "descripcion": "Fresco y limpio con manzana y cachemira. Muy agradable y cotidiano. Proyección 9/10, longevidad 7/10. Gran sillage por su precio.",
+    "momento_dia": "Día",
+    "estacion": "Todo el año",
+    "ocasion": "Cotidiano, trabajo, casual",
+    "clima": "Todo",
+    "proyeccion": "Alta",
+    "duracion": "Media-larga (7h)",
+    "estela": "Moderada",
+    "color_liquido": "Azul claro",
+    "perfil_usuario": "Hombres 18-35 años. Frescos, activos, modernos.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Hombres Frescos, activos, modernos.",
+    "inspirado_en_nombre": "YSL Y EDP / Invictus Aqua 2016",
+    "inspiraciones": [
+      {
+        "texto": "YSL Y EDP / Invictus Aqua 2016 (similitudes, no 1:1)",
+        "nombre": "YSL Y EDP / Invictus Aqua 2016",
+        "imagen_url": ""
       }
     ]
   },
@@ -4472,36 +4476,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Fakhar Platino Silver | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Frutal / Oriental Moderno",
-    "inspirado_en": "Composición propia (2025, muy nuevo)",
-    "notas_salida": "Guayaba, cítricos",
-    "notas_corazon": "Incienso, palo santo",
-    "notas_fondo": "Ámbar, maderas, almizcle",
-    "descripcion": "Guayaba tropical con incienso y palo santo. Una combinación inesperada y fascinante. Nuevo de 2025, datos limitados disponibles.",
-    "momento_dia": "Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, salidas",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Plateado / gris",
-    "perfil_usuario": "Hombres y mujeres 20-40 años. Exploradores de lo nuevo.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres y mujeres Exploradores de lo nuevo.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia (2025, muy nuevo)",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "AL WATANIAH - Zaeem | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Masculino",
@@ -4530,6 +4504,37 @@
         "texto": "Réplica imponente, mística y recontra lograda de una de las joyas más exclusivas, caras y codiciadas de la colección privada (Velvet Collection) de D&G. Captura de forma espectacular esa atmósfera desértica, cálida y profundamente amaderada. Su genialidad radica en usar la fuerza ahumada y rústica del abedul junto al ámbar gris para recrear ese efecto de \"oud suntuoso e inciensado\", entregando una vibración de jeque árabe, sumamente plantado y con una facha imponente.",
         "nombre": "Velvet Desert Oud de Dolce&Gabbana (Italia)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18165.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Fakhar Platino Silver | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Frutal / Oriental Moderno",
+    "inspirado_en": "Composición propia (2025, muy nuevo)",
+    "notas_salida": "Guayaba, cítricos",
+    "notas_corazon": "Incienso, palo santo",
+    "notas_fondo": "Ámbar, maderas, almizcle",
+    "descripcion": "Guayaba tropical con incienso y palo santo. Una combinación inesperada y fascinante. Nuevo de 2025, datos limitados disponibles.",
+    "momento_dia": "Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Casual, salidas",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "estela": "Moderada",
+    "color_liquido": "Plateado / gris",
+    "perfil_usuario": "Hombres y mujeres 20-40 años. Exploradores de lo nuevo.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres y mujeres Exploradores de lo nuevo.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia (2025, muy nuevo)",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
@@ -6841,6 +6846,29 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Philos Pura | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral / Pura Femenino",
+    "inspirado_en": "Xerjoff Erba Pura",
+    "notas_salida": "Notas de salida: Sicilian Lemon, Sicilian Orange, Calabrian Bergamot Notas de corazón: Frutas (acorde fruity) Notas de fondo: Vanilla, Amber, White Musk",
+    "descripcion": "Floral puro y limpio. La versión femenina de la línea Philos.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 20-45 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Xerjoff Erba Pura",
+    "inspiraciones": [
+      {
+        "texto": "Xerjoff Erba Pura",
+        "nombre": "Xerjoff Erba Pura",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - Yara Rosa | EDP | 100 ml",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -6883,28 +6911,6 @@
       {
         "texto": "Tom Ford Neroli Portofino",
         "nombre": "Tom Ford Neroli Portofino",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Maison Alhambra - Philos Pura | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral / Pura Femenino",
-    "inspirado_en": "Xerjoff Erba Pura",
-    "descripcion": "Floral puro y limpio. La versión femenina de la línea Philos.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Xerjoff Erba Pura",
-    "inspiraciones": [
-      {
-        "texto": "Xerjoff Erba Pura",
-        "nombre": "Xerjoff Erba Pura",
         "imagen_url": ""
       }
     ]
@@ -8451,37 +8457,6 @@
     ]
   },
   {
-    "nombre_completo": "AL HARAMAIN - Amber Oud Private Edition | EDP | 120ml",
-    "marca": "AL HARAMAIN",
-    "genero": "Unisex",
-    "familia_olfativa": "Ámbar, Dulce, Amaderado, Atalcado, Avainillado, Balsámico, Afrutados, Almizclado, ozonico, Verde",
-    "inspirado_en": "Esta joya comparte el adictivo y mega-exitoso ADN frutal-ambarado de Erba Pura y de su hermano el Gold Edition, pero la Private Edition va un paso más allá en sofisticación. Agarra esa explosión tropical de melón y piña y la vuelve mucho más exclusiva, madura y misteriosa, dándole un soporte majestuoso de mirra, maderas nobles y resinas orientales. Es un perfume de nicho puro, opulento y con un magnetismo fuera de serie.",
-    "notas_salida": "Bergamota, notas verdes",
-    "notas_corazon": "melon, notas dulces, ambar, piña, cedro",
-    "notas_fondo": "mirra, resina, vainilla, almizcle, notas amaderadas",
-    "descripcion": "La definición perfecta de la opulencia oriental y la exclusividad contemporánea. Amber Oud Private Edition abre con un chispazo radiante de bergamota y notas verdes que rápidamente abre paso a un corazón verdaderamente adictivo, donde la jugosidad tropical del melón y la piña se sumergen en un mar de notas dulces y ámbar cálido. Su evolución final en la piel es una obra maestra de la perfumería de autor: una base densa y majestuosa de mirra y resinas preciosas, abrazada por la cremosidad celestial de la vainilla y el almizcle, dejando una estela misteriosa, costosa y de un magnetismo animal que paraliza el ambiente.",
-    "momento_dia": "Noche / Dia",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Eventos VIP, salidas nocturnas de gala, boliches premium, citas de alto impacto o cualquier situación donde el objetivo absoluto sea destacar, oler costoso y ser el centro de atención",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Atómica (10h+ - 12h+)",
-    "estela": "Intensa",
-    "color_liquido": "Dorado Intenso / Ámbar",
-    "rango_edad_min": 22,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Diseñado para hombres y mujeres de fuerte presencia, personalidad arrolladora y amantes del lujo que buscan un perfume de firma imponente y totalmente exclusivo. Es ideal para quienes exigen fragancias que se hagan notar a metros de distancia, transmitiendo estatus, sensualidad refinada y un gusto impecable por la perfumería de ultra nicho.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55157.2x.avif",
-    "inspirado_en_nombre": "Xerjoff Erba Pura",
-    "inspiraciones": [
-      {
-        "texto": "Esta joya comparte el adictivo y mega-exitoso ADN frutal-ambarado de Erba Pura y de su hermano el Gold Edition, pero la Private Edition va un paso más allá en sofisticación. Agarra esa explosión tropical de melón y piña y la vuelve mucho más exclusiva, madura y misteriosa, dándole un soporte majestuoso de mirra, maderas nobles y resinas orientales. Es un perfume de nicho puro, opulento y con un magnetismo fuera de serie.",
-        "nombre": "Xerjoff Erba Pura",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55157.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Ana Abiyedh Rouge | EDP | 60 ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Frutal Floral / Pera Caramelo",
@@ -8508,6 +8483,37 @@
         "texto": "Maison Francis Kurkdjian Baccarat Rouge 540 (uno de los dupes más reconocidos)",
         "nombre": "Maison Francis Kurkdjian Baccarat Rouge 540",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "AL HARAMAIN - Amber Oud Private Edition | EDP",
+    "marca": "AL HARAMAIN",
+    "genero": "Unisex",
+    "familia_olfativa": "Ámbar, Dulce, Amaderado, Atalcado, Avainillado, Balsámico, Afrutados, Almizclado, ozonico, Verde",
+    "inspirado_en": "Esta joya comparte el adictivo y mega-exitoso ADN frutal-ambarado de Erba Pura y de su hermano el Gold Edition, pero la Private Edition va un paso más allá en sofisticación. Agarra esa explosión tropical de melón y piña y la vuelve mucho más exclusiva, madura y misteriosa, dándole un soporte majestuoso de mirra, maderas nobles y resinas orientales. Es un perfume de nicho puro, opulento y con un magnetismo fuera de serie.",
+    "notas_salida": "Bergamota, notas verdes",
+    "notas_corazon": "melon, notas dulces, ambar, piña, cedro",
+    "notas_fondo": "mirra, resina, vainilla, almizcle, notas amaderadas",
+    "descripcion": "La definición perfecta de la opulencia oriental y la exclusividad contemporánea. Amber Oud Private Edition abre con un chispazo radiante de bergamota y notas verdes que rápidamente abre paso a un corazón verdaderamente adictivo, donde la jugosidad tropical del melón y la piña se sumergen en un mar de notas dulces y ámbar cálido. Su evolución final en la piel es una obra maestra de la perfumería de autor: una base densa y majestuosa de mirra y resinas preciosas, abrazada por la cremosidad celestial de la vainilla y el almizcle, dejando una estela misteriosa, costosa y de un magnetismo animal que paraliza el ambiente.",
+    "momento_dia": "Noche / Dia",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Eventos VIP, salidas nocturnas de gala, boliches premium, citas de alto impacto o cualquier situación donde el objetivo absoluto sea destacar, oler costoso y ser el centro de atención",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Atómica (10h+ - 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Dorado Intenso / Ámbar",
+    "rango_edad_min": 22,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para hombres y mujeres de fuerte presencia, personalidad arrolladora y amantes del lujo que buscan un perfume de firma imponente y totalmente exclusivo. Es ideal para quienes exigen fragancias que se hagan notar a metros de distancia, transmitiendo estatus, sensualidad refinada y un gusto impecable por la perfumería de ultra nicho.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55157.2x.avif",
+    "inspirado_en_nombre": "Xerjoff Erba Pura",
+    "inspiraciones": [
+      {
+        "texto": "Esta joya comparte el adictivo y mega-exitoso ADN frutal-ambarado de Erba Pura y de su hermano el Gold Edition, pero la Private Edition va un paso más allá en sofisticación. Agarra esa explosión tropical de melón y piña y la vuelve mucho más exclusiva, madura y misteriosa, dándole un soporte majestuoso de mirra, maderas nobles y resinas orientales. Es un perfume de nicho puro, opulento y con un magnetismo fuera de serie.",
+        "nombre": "Xerjoff Erba Pura",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55157.2x.avif"
       }
     ]
   },
@@ -10122,37 +10128,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Chants Tenderina | EDP | 100ml",
-    "marca": "Maison Alhambra",
-    "genero": "Femenino",
-    "familia_olfativa": "Cítrico, Floral Blanco, Atalcado, Almizclado, Rosa, Amaderado, Floral, Afrutados, Aromático, Terrosos",
-    "inspirado_en": "Chance Eau Tendre de Chanel",
-    "notas_salida": "bergamota, Flor de Pomelo, durazno",
-    "notas_corazon": "rosa, jazmín, iris",
-    "notas_fondo": "Almizcle, vainilla, vetiver, pachuli",
-    "descripcion": "​Una fragancia que es sinónimo de frescura y optimismo. Se siente como un jardín de flores blancas en una mañana de primavera, con toques cítricos que te llenan de energía. Es un aroma suave, radiante y extremadamente femenino que transmite una sensación de limpieza, pureza y elegancia sin esfuerzo. No es invasivo, pero sí muy encantador.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Trabajo / Oficina, Uso diario, Salidas casuales, Almuerzos",
-    "clima": "Cálido/Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Media (5 a 6h)",
-    "estela": "Discreta",
-    "color_liquido": "Rosa claro",
-    "perfil_usuario": "​Para mujeres que prefieren los aromas ligeros, frescos y románticos. Es el perfume ideal para la mujer moderna que busca una fragancia versátil para el día a día, que sea discreta pero que proyecte una imagen cuidada y sofisticada. De 15 a 60 años",
-    "rango_edad_min": 15,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "​Para mujeres que prefieren los aromas ligeros, frescos y románticos. Es el perfume ideal para la mujer moderna que busca una fragancia versátil para el día a día, que sea discreta pero que proyecte una imagen cuidada y sofisticada. De",
-    "inspirado_en_nombre": "Chanel Chance Eau Tendre",
-    "inspiraciones": [
-      {
-        "texto": "Chance Eau Tendre de Chanel",
-        "nombre": "Chanel Chance Eau Tendre",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "ARMAF - Yum Yum | EDP",
     "marca": "Armaf",
     "genero": "Femenino",
@@ -10204,36 +10179,6 @@
       {
         "texto": "Giorgio Armani Acqua di Gioia (floral acuático limpio)",
         "nombre": "Giorgio Armani Acqua di Gioia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - The Kingdom For Her | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Frutal Gourmand / Pera Praliné",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Pera, bergamota, fresa",
-    "notas_corazon": "Praliné, jazmín, rosa",
-    "notas_fondo": "Vainilla, caramelo, almizcle",
-    "descripcion": "Pera y praliné cremoso. Gourmand femenino elegante. Longevidad muy alta.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Salidas, citas",
-    "clima": "Templado / Frío",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Dorado rosado",
-    "perfil_usuario": "Mujeres 20-40 años. Gourmand, elegantes.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Mujeres Gourmand, elegantes.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -14448,7 +14393,38 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Ajayeb Dubai Portrait | EDP | 100ml",
+    "nombre_completo": "MAISON ALHAMBRA - Chants Tenderina | EDP",
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "familia_olfativa": "Cítrico, Floral Blanco, Atalcado, Almizclado, Rosa, Amaderado, Floral, Afrutados, Aromático, Terrosos",
+    "inspirado_en": "Chance Eau Tendre de Chanel",
+    "notas_salida": "bergamota, Flor de Pomelo, durazno",
+    "notas_corazon": "rosa, jazmín, iris",
+    "notas_fondo": "Almizcle, vainilla, vetiver, pachuli",
+    "descripcion": "​Una fragancia que es sinónimo de frescura y optimismo. Se siente como un jardín de flores blancas en una mañana de primavera, con toques cítricos que te llenan de energía. Es un aroma suave, radiante y extremadamente femenino que transmite una sensación de limpieza, pureza y elegancia sin esfuerzo. No es invasivo, pero sí muy encantador.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Trabajo / Oficina, Uso diario, Salidas casuales, Almuerzos",
+    "clima": "Cálido/Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Media (5 a 6h)",
+    "estela": "Discreta",
+    "color_liquido": "Rosa claro",
+    "perfil_usuario": "​Para mujeres que prefieren los aromas ligeros, frescos y románticos. Es el perfume ideal para la mujer moderna que busca una fragancia versátil para el día a día, que sea discreta pero que proyecte una imagen cuidada y sofisticada. De 15 a 60 años",
+    "rango_edad_min": 15,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "​Para mujeres que prefieren los aromas ligeros, frescos y románticos. Es el perfume ideal para la mujer moderna que busca una fragancia versátil para el día a día, que sea discreta pero que proyecte una imagen cuidada y sofisticada. De",
+    "inspirado_en_nombre": "Chanel Chance Eau Tendre",
+    "inspiraciones": [
+      {
+        "texto": "Chance Eau Tendre de Chanel",
+        "nombre": "Chanel Chance Eau Tendre",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Ajayeb Dubai Portrait | EDP",
     "marca": "Lattafa",
     "anno": "2023",
     "concentracion": "EDP",
@@ -14469,6 +14445,37 @@
     "color_liquido": "Dorado ambarino",
     "perfil_usuario": "Ideal para personas que buscan una fragancia frutal pero \"adulta\" y lujosa. No es el típico perfume frutal dulce; el toque de oud y sándalo lo convierte en una opción sofisticada y unisex. En tu inventario de perfumes árabes, este destaca como una de las mejores opciones para quienes desean un perfume tropical de alto rendimiento y gran calidad en sus ingredientes.",
     "estilo_descripcion": "Ideal para personas que buscan una fragancia frutal pero \"adulta\" y lujosa. No es el típico perfume frutal dulce; el toque de oud y sándalo lo convierte en una opción sofisticada y unisex. En tu inventario de perfumes árabes, este destaca como una de las mejores opciones para quienes desean un perfume tropical de alto rendimiento y gran calidad en sus ingredientes.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - The Kingdom For Her | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Gourmand / Pera Praliné",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Pera, bergamota, fresa",
+    "notas_corazon": "Praliné, jazmín, rosa",
+    "notas_fondo": "Vainilla, caramelo, almizcle",
+    "descripcion": "Pera y praliné cremoso. Gourmand femenino elegante. Longevidad muy alta.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Salidas, citas",
+    "clima": "Templado / Frío",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Dorado rosado",
+    "perfil_usuario": "Mujeres 20-40 años. Gourmand, elegantes.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Mujeres Gourmand, elegantes.",
     "inspirado_en_nombre": "Composición propia",
     "inspiraciones": [
       {
