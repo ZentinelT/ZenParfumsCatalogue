@@ -1710,7 +1710,7 @@
     "p": 60600,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_725110-MLA93038025980_092025-F.webp",
     "nt": "Salida Flor de azahar, bergamota Notas de corazón: Nardos, jazmín, rosa Notas de fondo: Vainilla, almizcle, sándalo",
     "p1": "$60.600"
@@ -3166,7 +3166,7 @@
     "p": 85400,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_746868-MLA82357091072_022025-F.webp",
     "nt": "Salida Menta, bergamota, artemisia Notas de corazón: Chocolate oscuro, lavanda, Benjuí Notas de fondo: Vainilla, haba tonka, almizcle blanco",
     "p1": "$85.400"
@@ -3491,7 +3491,7 @@
     "p": 65900,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://cdn.atacadoconnect.com/produtos/1185751/perfume-shirley-may-allure-intense-eau-de-toilette-masculino-100ml-1185751-64235.webp",
     "nt": "Salida (Inicio): Frescas y vibrantes · Corazón Aromas intensos, especiados y amaderados · Fondo (Base): Almizcle intenso y duradero",
     "p1": "$65.900"
@@ -3751,7 +3751,7 @@
     "p": 65900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1775049930380_vafwy9.jpg",
     "nt": "Salida Bergamota, Pimienta Notas de corazón: Lavanda, Geranio Notas de fondo: Ámbar, Pachulí, Cedro",
     "p1": "$65.900"
@@ -3777,7 +3777,7 @@
     "p": 34900,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_813879-MLA99758989254_122025-F.webp",
     "nt": "Salida Frutos rojos, Manzana, Bergamota Notas de corazón: Flor de azahar del naranjo, Jazmín Notas de fondo: Sándalo, Caramelo, Almizcle, Vainilla",
     "p1": "$34.900"
@@ -5831,7 +5831,7 @@
     "p": 74600,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_663959-MLA91232999621_082025-F.webp",
     "nt": "Salida toronja, bergamota, limon, tomillo, galbano Notas de corazón: vetiver, bayas de enebro, Grosella Negra, manzana, pimienta rosa, cedro, cipriol, rosa, jazmin Notas de fondo: ambar gris, cuero, vainilla, benjui, ladano",
     "p1": "$74.600"
@@ -6065,7 +6065,7 @@
     "p": 115100,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_877559-MLA104609130372_012026-F.webp",
     "nt": "Salida lavanda, nuez moscada, salvia, bergamota Notas de corazón: cedro, geranio, rosyfolia, mahonial Notas de fondo: cocoapulse, haba tonka, arce, ambrofix, pachuli",
     "p1": "$115.100"
@@ -6442,7 +6442,7 @@
     "p": 86000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_697941-MLU74833058550_032024-F.webp",
     "nt": "Salida incienso de olibano, davana, bergamota Notas de corazón: datiles, tabaco, sandalo, nardos Notas de fondo: mirra, vainilla, haba tonka, ladano, pachuli",
     "p1": "$86.000"
@@ -6637,7 +6637,7 @@
     "p": 113800,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_948521-MLA92563870044_092025-F.webp",
     "nt": "Salida bergamota, limon, pomelo, cardamomo, pimienta negra Notas de corazón: cachemira, ylang-ylang, rosas, vainilla, caramelo Notas de fondo: musgo de roble, cedro, pachuli, vetiver, ambar gris",
     "p1": "$113.800"
