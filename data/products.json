@@ -2526,13 +2526,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Yara Rosa | EDP",
     "s": "100ml",
-    "p": 67100,
+    "p": 65400,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_931959-MLA91967799189_092025-F.webp",
     "nt": "Salida Orquídea, heliotropo, naranja Notas de corazón: Acorde goloso, frutas tropicales Notas de fondo: Vainilla, almizcle, sándalo",
-    "p1": "$67.100"
+    "p1": "$65.400"
   },
   {
     "id": 2177,
@@ -5805,7 +5805,7 @@
     "p": 65100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_937156-MLU69918522160_062023-F.webp",
     "nt": "Salida azafrán, te negro Notas de corazón: gamuza, cuero, incienso Notas de fondo: vainilla, amberwood, almizcle",
     "p1": "$65.100"
@@ -6026,7 +6026,7 @@
     "p": 64100,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_978169-MLA92952521383_092025-F.webp",
     "nt": "Salida pimienta rosa, manzana, romero Notas de corazón: Clavo de Olor, notas florales Notas de fondo: oud, pachuli, ladano, vetiver, cipres",
     "p1": "$64.100"
@@ -6559,7 +6559,7 @@
     "p": 64100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_653561-MLA95629980074_102025-F.webp",
     "nt": "Salida coñac, frambuesa, canela Notas de corazón: petalos de rosas, caramelo, musgo Notas de fondo: roble, mirra, cedro, ambroxan",
     "p1": "$64.100"
@@ -6624,7 +6624,7 @@
     "p": 51100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_812537-MLA102292140099_122025-F.webp",
     "nt": "Salida rosa, canela, azafran Notas de corazón: caramelo, pachuli Notas de fondo: maderas, vainilla, ambar, ambroxan",
     "p1": "$51.100"
