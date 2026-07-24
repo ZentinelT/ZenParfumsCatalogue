@@ -566,7 +566,7 @@
     "p": 89500,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_654911-MLA81720682619_122024-F.webp",
     "nt": "Salida Vainilla, lavanda Notas de corazón: Jengibre, cacao Notas de fondo: Vainilla",
     "p1": "$89.500"
@@ -631,7 +631,7 @@
     "p": 81200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_657426-MLU72677135403_112023-F.webp",
     "nt": "Salida Bergamota, limón, lima, grosella negra, hojas de violeta, jengibre Notas de corazón: Rosa, iris, jazmín Notas de fondo: Ambroxan, almizcle, sándalo, cedro",
     "p1": "$81.200"
@@ -1489,7 +1489,7 @@
     "p": 82400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_992688-MLA108570353500_032026-F.webp",
     "nt": "Salida Lavanda, ciruela, pimienta rosa Notas de corazón: Cacao, nuez moscada, davana Notas de fondo: Bourbon vanilla, ámbar, vetiver",
     "p1": "$82.400"
@@ -1580,7 +1580,7 @@
     "p": 63500,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_779840-MLA93401647592_092025-F.webp",
     "nt": "Salida piña, créme brulée Notas de Corazón: canela, cúrcuma, pimienta negra, benjui Notas de Fondo: sandalo, vainilla, cachemira, musgo",
     "p1": "$63.500"
@@ -2009,7 +2009,7 @@
     "p": 64500,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_627169-MLA106201504054_022026-F.webp",
     "nt": "Corazón Rosa Notas de fondo: Almizcle, ámbar, cedro",
     "p1": "$64.500"
@@ -2568,7 +2568,7 @@
     "p": 79700,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_842787-MLA87448426570_072025-F.webp",
     "nt": "Contiene 4 perfumes de 25ml: Yara Rosa Yara Moi Yara Tous Yara Candy",
     "p1": "$79.700"
