@@ -30,6 +30,36 @@
     ]
   },
   {
+    "nombre_completo": "ARMAF - Island Bliss | EDP",
+    "marca": "ARMAF",
+    "genero": "Femenino",
+    "familia_olfativa": "Avainillado, Coco, Dulce, Floral blanco, Afrutado, Almizclado, Florales, Atalcado, Cítrico, Lactónico",
+    "inspirado_en": "Una propuesta única de Armaf que fusiona lo frutal con lo cremoso.",
+    "notas_salida": "bayas silvestres",
+    "notas_corazon": "coco, flor de azahar del naranjo, lactonas, nenufar",
+    "notas_fondo": "vainilla, haba tonka, almizcle",
+    "descripcion": "UnTan adictivo y divertido como se ve. Island Bliss abre con la alegría jugosa de las bayas silvestres y un toque fresco de notas verdes. Rápidamente, la fragancia hace honor a su botella y revela un corazón súper cremoso y láctico, donde el coco y las notas lactónicas recrean el aroma de un batido premium helado, suavizado por la elegancia sutil del nenúfar y el azahar. Su secado es puro confort: una capa dulce de vainilla, haba tonka y almizcle limpio que se siente como una caricia en la piel.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso diario casual, Salidas con amigas, Citas informales, Regalos especiales (por el impacto del frasco).",
+    "clima": "Templado / Cálido.",
+    "proyeccion": "Alta",
+    "duracion": "Larga duración (7-8h)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido / Transparente",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Para mujeres y chicas jóvenes, alegres, amantes de los aromas dulces, cremosos y de las botellas de colección con mucha personalidad. Ideal para quienes buscan un aroma \"gourmand\" (con olor a postre fino o batido) que sea divertido pero que a la vez tenga excelente fijación.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Una propuesta única de Armaf que fusiona lo frutal con lo cremoso.",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Afnan - 9pm Black KIT | EDP | 100ml",
     "marca": "Afnan Perfumes",
     "genero": "Masculino",
@@ -5316,36 +5346,6 @@
     ]
   },
   {
-    "nombre_completo": "Rayhaan - Elixir | EDP | 100ml",
-    "marca": "Rayhaan — UAE",
-    "familia_olfativa": "Gourmand / Menta Vainilla — Le Male Elixir DNA",
-    "inspirado_en": "JPG Le Male Elixir (muy cercano — \"uno de los mejores clones del Le Male Elixir\")",
-    "notas_salida": "Menta, bergamota",
-    "notas_corazon": "Benjuí, lavanda",
-    "notas_fondo": "Vainilla, haba tonka",
-    "descripcion": "Menta suave con vainilla y tonka. Cálido y envolvente. Smooth y seductor. Beast mode en longevidad desde primer uso. \"Mejor que el original JPG\" según varios. \"Mi firma de invierno.\"",
-    "momento_dia": "Todo el año",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Cotidiano, citas, salidas, trabajo",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Muy larga (beast desde primera semana)",
-    "estela": "Moderada-intensa",
-    "color_liquido": "Dorado / ámbar",
-    "perfil_usuario": "Hombres y mujeres 20-45 años. El Le Male Elixir árabe. Uno de los top sellers de la marca.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres y mujeres El Le Male Elixir árabe. Uno de los top sellers de la marca.",
-    "inspirado_en_nombre": "JPG Le Male Elixir",
-    "inspiraciones": [
-      {
-        "texto": "JPG Le Male Elixir (muy cercano — \"uno de los mejores clones del Le Male Elixir\")",
-        "nombre": "JPG Le Male Elixir",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Maison Alhambra - Bad Femme | EDP | 100 ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Floral Gourmand / BR540 DNA",
@@ -5430,6 +5430,37 @@
       {
         "texto": "Captura a la perfección ese ADN de \"caballero moderno de alto nivel\", evocando un traje hecho a medida, reuniones de negocios importantes y un aura de pulcritud corporativa impecable. Bharara toma esta refinada estructura y la dota de su característico motor de ultra fijación, logrando un rendimiento pesado que se hace respetar en cualquier ambiente.",
         "nombre": "Composición Premium de Alta Perfumería"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Elixir | EDP",
+    "marca": "Rayhaan — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Gourmand / Menta Vainilla — Le Male Elixir DNA",
+    "inspirado_en": "JPG Le Male Elixir (muy cercano — \"uno de los mejores clones del Le Male Elixir\")",
+    "notas_salida": "Menta, bergamota",
+    "notas_corazon": "Benjuí, lavanda",
+    "notas_fondo": "Vainilla, haba tonka",
+    "descripcion": "Menta suave con vainilla y tonka. Cálido y envolvente. Smooth y seductor. Beast mode en longevidad desde primer uso. \"Mejor que el original JPG\" según varios. \"Mi firma de invierno.\"",
+    "momento_dia": "Todo el año",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Cotidiano, citas, salidas, trabajo",
+    "clima": "Frío / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Muy larga (beast desde primera semana)",
+    "estela": "Moderada-intensa",
+    "color_liquido": "Dorado / ámbar",
+    "perfil_usuario": "Hombres y mujeres 20-45 años. El Le Male Elixir árabe. Uno de los top sellers de la marca.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Hombres y mujeres El Le Male Elixir árabe. Uno de los top sellers de la marca.",
+    "inspirado_en_nombre": "JPG Le Male Elixir",
+    "inspiraciones": [
+      {
+        "texto": "JPG Le Male Elixir (muy cercano — \"uno de los mejores clones del Le Male Elixir\")",
+        "nombre": "JPG Le Male Elixir",
+        "imagen_url": ""
       }
     ]
   },
@@ -8814,38 +8845,6 @@
     ]
   },
   {
-    "nombre_completo": "French Avenue - Spectre Ghost | EDP | 80ml",
-    "marca": "French Avenue (Fragrance World) — Dubai",
-    "anno": "2024",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático Amaderado / Aventus Ghost DNA",
-    "inspirado_en": "Creed Aventus",
-    "notas_salida": "Piña, bergamota, manzana",
-    "notas_corazon": "Abedul, musgo de roble, jazmín",
-    "notas_fondo": "Ambroxan, almizcle, sándalo, ámbar gris",
-    "descripcion": "Clone de Aventus propio de French Avenue. Ahumado con piña y ambroxan. Longevidad destacada. Muy bien recibido en la comunidad de fragancias.",
-    "momento_dia": "Día / Todo",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, trabajo, salidas",
-    "clima": "Todo",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Gris / plateado",
-    "perfil_usuario": "Hombres 20-50 años. Fans de Aventus buscando alternativa accesible.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres Fans de Aventus buscando alternativa accesible.",
-    "inspirado_en_nombre": "Creed Aventus",
-    "inspiraciones": [
-      {
-        "texto": "Creed Aventus",
-        "nombre": "Creed Aventus",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Maison Alhambra - Salvo Intense | EDP | 100ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Aromático / Sauvage DNA",
@@ -9021,6 +9020,38 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "FRENCH AVENUE - Spectre Ghost | EDP",
+    "marca": "French Avenue (Fragrance World) — Dubai",
+    "anno": "2024",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Amaderado / Aventus Ghost DNA",
+    "inspirado_en": "Creed Aventus",
+    "notas_salida": "Piña, bergamota, manzana",
+    "notas_corazon": "Abedul, musgo de roble, jazmín",
+    "notas_fondo": "Ambroxan, almizcle, sándalo, ámbar gris",
+    "descripcion": "Clone de Aventus propio de French Avenue. Ahumado con piña y ambroxan. Longevidad destacada. Muy bien recibido en la comunidad de fragancias.",
+    "momento_dia": "Día / Todo",
+    "estacion": "Todo el año",
+    "ocasion": "Casual, trabajo, salidas",
+    "clima": "Todo",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Gris / plateado",
+    "perfil_usuario": "Hombres 20-50 años. Fans de Aventus buscando alternativa accesible.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Hombres Fans de Aventus buscando alternativa accesible.",
+    "inspirado_en_nombre": "Creed Aventus",
+    "inspiraciones": [
+      {
+        "texto": "Creed Aventus",
+        "nombre": "Creed Aventus",
         "imagen_url": ""
       }
     ]
@@ -9539,29 +9570,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Atlas | EDP | 55ml",
-    "marca": "Lattafa Perfumes",
-    "anno": "2024",
-    "genero": "Unisex",
-    "familia_olfativa": "Aromática Acuática",
-    "inspirado_en": "Orto Parisi Megamare",
-    "notas_salida": "notas marinas, sal, limón",
-    "notas_corazon": "davana, iris",
-    "notas_fondo": "ámbar gris, musgo de roble, sándalo",
-    "descripcion": "Atlas es una fragancia acuática marina unisex de Lattafa, lanzada en 2024. Captura la esencia del océano con una apertura de sal marina y limón que evoluciona hacia un corazón vegetal y un fondo cálido de ámbar gris y maderas. Inspirada en Megamare de Orto Parisi. Proyección bestial — precaución con la cantidad aplicada.",
-    "momento_dia": "Día, Noche",
-    "estacion": "Primavera, Verano",
-    "duracion": "Muy larga (8+ horas)",
-    "inspirado_en_nombre": "Orto Parisi Megamare",
-    "inspiraciones": [
-      {
-        "texto": "Orto Parisi Megamare",
-        "nombre": "Orto Parisi Megamare",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Fakhar Rose | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -9618,6 +9626,29 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Atlas | EDP",
+    "marca": "Lattafa Perfumes",
+    "anno": "2024",
+    "genero": "Unisex",
+    "familia_olfativa": "Aromática Acuática",
+    "inspirado_en": "Orto Parisi Megamare",
+    "notas_salida": "notas marinas, sal, limón",
+    "notas_corazon": "davana, iris",
+    "notas_fondo": "ámbar gris, musgo de roble, sándalo",
+    "descripcion": "Atlas es una fragancia acuática marina unisex de Lattafa, lanzada en 2024. Captura la esencia del océano con una apertura de sal marina y limón que evoluciona hacia un corazón vegetal y un fondo cálido de ámbar gris y maderas. Inspirada en Megamare de Orto Parisi. Proyección bestial — precaución con la cantidad aplicada.",
+    "momento_dia": "Día, Noche",
+    "estacion": "Primavera, Verano",
+    "duracion": "Muy larga (8+ horas)",
+    "inspirado_en_nombre": "Orto Parisi Megamare",
+    "inspiraciones": [
+      {
+        "texto": "Orto Parisi Megamare",
+        "nombre": "Orto Parisi Megamare",
         "imagen_url": ""
       }
     ]
@@ -10399,35 +10430,6 @@
     ]
   },
   {
-    "nombre_completo": "ARMAF - Island Bliss | EDP | 100ml",
-    "genero": "Femenino",
-    "familia_olfativa": "Avainillado, Coco, Dulce, Floral blanco, Afrutado, Almizclado, Florales, Atalcado, Cítrico, Lactónico",
-    "inspirado_en": "Una propuesta única de Armaf que fusiona lo frutal con lo cremoso.",
-    "notas_salida": "bayas silvestres",
-    "notas_corazon": "coco, flor de azahar del naranjo, lactonas, nenufar",
-    "notas_fondo": "vainilla, haba tonka, almizcle",
-    "descripcion": "UnTan adictivo y divertido como se ve. Island Bliss abre con la alegría jugosa de las bayas silvestres y un toque fresco de notas verdes. Rápidamente, la fragancia hace honor a su botella y revela un corazón súper cremoso y láctico, donde el coco y las notas lactónicas recrean el aroma de un batido premium helado, suavizado por la elegancia sutil del nenúfar y el azahar. Su secado es puro confort: una capa dulce de vainilla, haba tonka y almizcle limpio que se siente como una caricia en la piel.",
-    "momento_dia": "Día / Noche",
-    "estacion": "Primavera / Verano / Otoño",
-    "ocasion": "Uso diario casual, Salidas con amigas, Citas informales, Regalos especiales (por el impacto del frasco).",
-    "clima": "Templado / Cálido.",
-    "proyeccion": "Alta",
-    "duracion": "Larga duración (7-8h)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido / Transparente",
-    "rango_edad_min": 18,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Para mujeres y chicas jóvenes, alegres, amantes de los aromas dulces, cremosos y de las botellas de colección con mucha personalidad. Ideal para quienes buscan un aroma \"gourmand\" (con olor a postre fino o batido) que sea divertido pero que a la vez tenga excelente fijación.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Una propuesta única de Armaf que fusiona lo frutal con lo cremoso.",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "MAISON ALHAMBRA - Your Touch for Women | EDP | 100ml",
     "genero": "Femenino",
     "familia_olfativa": "Cítrico, Afrutado, Dulce, Rosas, Avainillado, Ámbar, Almizclado, atalcado., Amaderado, Florales",
@@ -10538,36 +10540,6 @@
       {
         "texto": "Libre Yves Saint Laurent",
         "nombre": "Yves Saint Laurent Libre",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - The Kingdom Men | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Aromático / Lavanda Sándalo",
-    "inspirado_en": "Jean Paul Gaultier Le Male Elixir (DNA lavanda-vainilla-tabaco)",
-    "notas_salida": "Bergamota, lavanda, cítricos",
-    "notas_corazon": "Sándalo, cedro, geranio",
-    "notas_fondo": "Ámbar, almizcle, vetiver",
-    "descripcion": "Fresco aromático con lavanda y sándalo. Masculino, limpio y elegante.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Trabajo, casual, formal",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Azul marino / gris",
-    "perfil_usuario": "Hombres 25-50 años. Clásicos, elegantes.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres Clásicos, elegantes.",
-    "inspirado_en_nombre": "Jean Paul Gaultier Le Male Elixir",
-    "inspiraciones": [
-      {
-        "texto": "Jean Paul Gaultier Le Male Elixir (DNA lavanda-vainilla-tabaco)",
-        "nombre": "Jean Paul Gaultier Le Male Elixir",
         "imagen_url": ""
       }
     ]
@@ -10728,6 +10700,37 @@
       {
         "texto": "Clive Christian Town & Country (cítrico-especiado)",
         "nombre": "Clive Christian Town & Country",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - The Kingdom Men | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático / Lavanda Sándalo",
+    "inspirado_en": "Jean Paul Gaultier Le Male Elixir (DNA lavanda-vainilla-tabaco)",
+    "notas_salida": "Bergamota, lavanda, cítricos",
+    "notas_corazon": "Sándalo, cedro, geranio",
+    "notas_fondo": "Ámbar, almizcle, vetiver",
+    "descripcion": "Fresco aromático con lavanda y sándalo. Masculino, limpio y elegante.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Trabajo, casual, formal",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "estela": "Moderada",
+    "color_liquido": "Azul marino / gris",
+    "perfil_usuario": "Hombres 25-50 años. Clásicos, elegantes.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Hombres Clásicos, elegantes.",
+    "inspirado_en_nombre": "Jean Paul Gaultier Le Male Elixir",
+    "inspiraciones": [
+      {
+        "texto": "Jean Paul Gaultier Le Male Elixir (DNA lavanda-vainilla-tabaco)",
+        "nombre": "Jean Paul Gaultier Le Male Elixir",
         "imagen_url": ""
       }
     ]

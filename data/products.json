@@ -553,7 +553,7 @@
     "p": 96000,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1776091013792_anvhez.jpg",
     "nt": "Salida Menta, Lavanda Notas de corazón: Vainilla, Benjuí Notas de fondo: Miel, Haba tonka, Tabaco",
     "p1": "$96.000"
@@ -683,7 +683,7 @@
     "p": 60300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_961892-MLA107206131290_032026-F.webp",
     "nt": "Salida Nuez moscada, azafrán, lavanda Notas de corazón: Oud, Maderas Notas de fondo: Ambroxan, almizcle, pachulí",
     "p1": "$60.300"
@@ -797,13 +797,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Odyssey Homme | EDP",
     "s": "100ml",
-    "p": 64800,
+    "p": 65600,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_758199-MLA92086915296_092025-F.webp",
     "nt": "Salida Cardamomo, Mandarina, Neroli Notas de corazón: Flor de azahar del naranjo, rosa Notas de fondo: Vainilla, Sandalo, Ambar, Maderas",
-    "p1": "$64.800"
+    "p1": "$65.600"
   },
   {
     "id": 2044,
@@ -917,7 +917,7 @@
     "p": 60400,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_786846-MLA107260848782_032026-F.webp",
     "nt": "Salida Toronja, cítricos Notas de corazón: Pimienta, lavanda, geranio, elemí Notas de fondo: Ambroxan, Maderas, vetiver, cedro",
     "p1": "$60.400"
@@ -982,7 +982,7 @@
     "p": 54000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_874872-MLA93663448101_092025-F.webp",
     "nt": "Salida Jengibre, bergamota, salvia Notas de corazón: Manzana verde, cachemira, geranio Notas de fondo: Almizcle, ámbar, sándalo",
     "p1": "$54.000"
@@ -1343,13 +1343,13 @@
     "b": "FRENCH AVENUE",
     "n": "FRENCH AVENUE - Spectre Ghost | EDP",
     "s": "80ml",
-    "p": 83200,
+    "p": 94100,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_646609-MLA90627515699_082025-F.webp",
     "nt": "Salida Piña, bergamota, manzana Notas de corazón: Abedul, musgo de roble, jazmín Notas de fondo: Ambroxan, almizcle, sándalo, ámbar gris",
-    "p1": "$83.200"
+    "p1": "$94.100"
   },
   {
     "id": 2086,
@@ -1538,13 +1538,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Atlas | EDP",
     "s": "55ml",
-    "p": 75900,
+    "p": 75200,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_653365-MLU74707104897_022024-F.webp",
     "nt": "Salida notas marinas, sal, limón Notas de corazón: davana, iris Notas de fondo: ámbar gris, musgo de roble, sándalo",
-    "p1": "$75.900"
+    "p1": "$75.200"
   },
   {
     "id": 2101,
@@ -1577,13 +1577,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Bade'e Al Oud Honor & Glory | EDP",
     "s": "100ml",
-    "p": 63500,
+    "p": 65000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_779840-MLA93401647592_092025-F.webp",
     "nt": "Salida piña, créme brulée Notas de Corazón: canela, cúrcuma, pimienta negra, benjui Notas de Fondo: sandalo, vainilla, cachemira, musgo",
-    "p1": "$63.500"
+    "p1": "$65.000"
   },
   {
     "id": 2104,
@@ -1762,7 +1762,7 @@
     "p": 66300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_611932-MLA94533716563_102025-F.webp",
     "nt": "Salida Guayaba, cítricos Notas de corazón: Incienso, palo santo Notas de fondo: Ámbar, maderas, almizcle",
     "p1": "$66.300"
@@ -1840,7 +1840,7 @@
     "p": 54500,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_673140-MLM52614549633_112022-F.webp",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$54.500"
@@ -1931,7 +1931,7 @@
     "p": 65000,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_927931-MLU74237320276_022024-F.webp",
     "nt": "Salida Canela, cardamomo, jengibre Notas de corazón: Praliné, frutas confitadas, flores blancas Notas de fondo: Vainilla, café, haba tonka, Benjuí, almizcle",
     "p1": "$65.000"
@@ -2425,7 +2425,7 @@
     "p": 69300,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_699934-MLA93035954178_092025-F.webp",
     "nt": "Salida Pimienta, caramelo, especias Notas de corazón: Vainilla, rosa, pachulí Notas de fondo: maderas, ámbar, almizcle",
     "p1": "$69.300"
@@ -2451,7 +2451,7 @@
     "p": 64000,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_864921-MLU78364974069_082024-F.webp",
     "nt": "Salida Pera, bergamota, fresa Notas de corazón: Praliné, jazmín, rosa Notas de fondo: Vainilla, caramelo, almizcle",
     "p1": "$64.000"
@@ -2893,7 +2893,7 @@
     "p": 61300,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_906040-MLA96715395785_102025-F.webp",
     "nt": "Salida Grosella negra, pera Notas de corazón: Iris, flor de azahar, jazmín Notas de fondo: Pachulí, praliné, haba tonka, vainilla",
     "p1": "$61.300"
@@ -3166,7 +3166,7 @@
     "p": 85400,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_746868-MLA82357091072_022025-F.webp",
     "nt": "Salida Menta, bergamota, artemisia Notas de corazón: Chocolate oscuro, lavanda, Benjuí Notas de fondo: Vainilla, haba tonka, almizcle blanco",
     "p1": "$85.400"
@@ -3218,7 +3218,7 @@
     "p": 93000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_944227-MLA109563199949_032026-F.webp",
     "nt": "Salida Manzana, limón, bergamota, Anís Notas de corazón: Ciruela, flor de azahar, cardamomo Notas de fondo: Almizcle, ámbar, driftwood, musgo",
     "p1": "$93.000"
@@ -3319,13 +3319,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Elixir | EDP",
     "s": "100ml",
-    "p": 79200,
+    "p": 94700,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_604053-MLA87201093640_072025-F.webp",
     "nt": "Salida Menta, bergamota Notas de corazón: Benjuí, lavanda Notas de fondo: Vainilla, haba tonka",
-    "p1": "$79.200"
+    "p1": "$94.700"
   },
   {
     "id": 2238,
@@ -5038,7 +5038,7 @@
     "p": 56100,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_786262-MLU73076003264_112023-F.webp",
     "nt": "Salida Naranja, limón Notas de corazón: Mango, osmanto, jazmín Notas de fondo: Madera de oud, sándalo, almizcle, ámbar",
     "p1": "$56.100"
@@ -5090,7 +5090,7 @@
     "p": 75200,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_775492-MLA107655226055_022026-F.webp",
     "nt": "Salida Flor del peral, bergamota Notas de corazón: Peonía, flor de azahar del naranjo, praliné Notas de fondo: Vainilla, almizcle, haba tonka, ambroxan",
     "p1": "$75.200"
@@ -5441,7 +5441,7 @@
     "p": 82700,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_Q_NP_792964-MLA82854962512_032025-F.webp",
     "nt": "Salida caramelo Notas de corazón: miel, cumarina, Maderas Notas de fondo: vainilla, whisky, Almizcle",
     "p1": "$82.700"
@@ -5467,7 +5467,7 @@
     "p": 55900,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_Q_NP_833898-MLU74105903951_012024-F.webp",
     "nt": "Salida bergamota, Flor de Pomelo, durazno Notas de corazón: rosa, jazmín, iris Notas de fondo: Almizcle, vainilla, vetiver, pachuli",
     "p1": "$55.900"
@@ -5506,7 +5506,7 @@
     "p": 88100,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_Q_NP_933770-MLA103897847549_012026-F.webp",
     "nt": "Salida bayas silvestres, cereza, naranja, bergamota Notas de corazón: rosa, flores blancas, vainilla Notas de fondo: notas atalcadas, Almizcle, ambar",
     "p1": "$88.100"
@@ -5558,7 +5558,7 @@
     "p": 81200,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_963137-MLA81756748686_012025-F.webp",
     "nt": "Salida azúcar, leche de almendras, naranja, fresia, limón Notas de corazón: chocolate, vainilla, flor de azahar del naranjo, orquídea Notas de fondo: caramelo, pachuli, sándalo, almizcle, ámbar",
     "p1": "$81.200"
@@ -5737,13 +5737,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Island Bliss | EDP",
     "s": "100ml",
-    "p": 88600,
+    "p": 93400,
     "c": "arabes",
     "g": "mujer",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_615805-MLA82027901763_012025-F.webp",
     "nt": "Salida bayas silvestres Notas de corazón: coco, flor de azahar del naranjo, lactonas, nenufar Notas de fondo: vainilla, haba tonka, almizcle",
-    "p1": "$88.600"
+    "p1": "$93.400"
   },
   {
     "id": 2432,
@@ -6260,7 +6260,7 @@
     "p": 80300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_Q_NP_674349-MLA87450674742_072025-F.webp",
     "nt": "Salida frutas tropical, toronja Notas de corazón: guayaba, agua de mar Notas de fondo: almizcle, maderas",
     "p1": "$80.300"
@@ -6481,7 +6481,7 @@
     "p": 65200,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_725534-MLA109571891343_032026-F.webp",
     "nt": "Salida brioche, bergamota, fresia Notas de corazón: abeto balsamico, heliotropo Notas de fondo: vainilla, benjui, praline",
     "p1": "$65.200"
@@ -6663,7 +6663,7 @@
     "p": 89800,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1784650557433_czj131.jpg",
     "nt": "Salida menta, limon, bergamota, tomillo Notas de corazón: romero, lavanda, jazmín, flor de moringa Notas de fondo: almizcle, cedro, ambar",
     "p1": "$89.800"
