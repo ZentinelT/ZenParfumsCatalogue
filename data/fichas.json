@@ -75,6 +75,36 @@
     "inspiraciones": []
   },
   {
+    "nombre_completo": "RAYHAAN - Wolf | EDP",
+    "marca": "RAYHAAN",
+    "genero": "Masculino",
+    "familia_olfativa": "Cálido especiado, Ámbar, Amaderado, Aromático, Dulce",
+    "inspirado_en": "Una réplica espectacular de esa bomba súper sexy, nocturna y elogiada, famosa por su dulzor masculino y su salida picante.",
+    "notas_salida": "cardamomo",
+    "notas_corazon": "toffee",
+    "notas_fondo": "amberwood",
+    "descripcion": "Seducción salvaje en su máxima expresión. Wolf abre con un golpe imponente y sofisticado de cardamomo picante, que rápidamente se rinde ante un corazón adictivo y cremoso de caramelo Toffee. Su secado es un espectáculo magnético de maderas ambaradas densas que envuelven la piel con una textura pesada, caliente y sumamente atractiva. Es un aroma nocturno, oscuro, dulce y diseñado específicamente para romperla de noche y generar cumplidos masivos.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Boliche, Fiestas, Salidas nocturnas, Citas románticas (es un peligro de lo bien que rinde acá)",
+    "proyeccion": "Alta",
+    "duracion": "Larga duración (8-9h+)",
+    "estela": "Intensa",
+    "color_liquido": "Frío / Fresco",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Para hombres seguros de sí mismos, modernos y con una actitud arrolladora. Es ideal para quien busca un perfume nocturno de alto impacto, que ame los aromas dulces pero masculinos y quiera una fragancia con presencia imponente para salir.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66826.2x.avif",
+    "inspirado_en_nombre": "Azzaro The Most Wanted",
+    "inspiraciones": [
+      {
+        "texto": "Una réplica espectacular de esa bomba súper sexy, nocturna y elogiada, famosa por su dulzor masculino y su salida picante.",
+        "nombre": "Azzaro The Most Wanted",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66826.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Rayhaan - Lion | EDP | 100ml",
     "marca": "Rayhaan — UAE",
     "genero": "Masculino",
@@ -11369,36 +11399,6 @@
         "texto": "Creación original",
         "nombre": "",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "RAYHAAN - Wolf | EDP | 100ml",
-    "marca": "RAYHAAN",
-    "genero": "Masculino",
-    "familia_olfativa": "Cálido especiado, Ámbar, Amaderado, Aromático, Dulce",
-    "inspirado_en": "Una réplica espectacular de esa bomba súper sexy, nocturna y elogiada, famosa por su dulzor masculino y su salida picante.",
-    "notas_salida": "cardamomo",
-    "notas_corazon": "toffee",
-    "notas_fondo": "amberwood",
-    "descripcion": "Seducción salvaje en su máxima expresión. Wolf abre con un golpe imponente y sofisticado de cardamomo picante, que rápidamente se rinde ante un corazón adictivo y cremoso de caramelo Toffee. Su secado es un espectáculo magnético de maderas ambaradas densas que envuelven la piel con una textura pesada, caliente y sumamente atractiva. Es un aroma nocturno, oscuro, dulce y diseñado específicamente para romperla de noche y generar cumplidos masivos.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Boliche, Fiestas, Salidas nocturnas, Citas románticas (es un peligro de lo bien que rinde acá)",
-    "proyeccion": "Alta",
-    "duracion": "Larga duración (8-9h+)",
-    "estela": "Intensa",
-    "color_liquido": "Frío / Fresco",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Para hombres seguros de sí mismos, modernos y con una actitud arrolladora. Es ideal para quien busca un perfume nocturno de alto impacto, que ame los aromas dulces pero masculinos y quiera una fragancia con presencia imponente para salir.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66826.2x.avif",
-    "inspirado_en_nombre": "Azzaro The Most Wanted",
-    "inspiraciones": [
-      {
-        "texto": "Una réplica espectacular de esa bomba súper sexy, nocturna y elogiada, famosa por su dulzor masculino y su salida picante.",
-        "nombre": "Azzaro The Most Wanted",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66826.2x.avif"
       }
     ]
   },
