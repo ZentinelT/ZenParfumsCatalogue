@@ -177,6 +177,33 @@
     "inspiraciones": []
   },
   {
+    "nombre_completo": "LATTAFA - Kids Happy Riders | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Verde, Aromático, Fesco especiado, Balsámico",
+    "inspirado_en": "Desarrollado por Lattafa para su línea exclusiva Kids, adopta el estándar de oro de la perfumería infantil europea (en la sintonía de clásicos de alta gama como Tous Kids o las colonias cítricas francesas de primera calidad). Su gran mérito es ofrecer una alternativa de excelente fijación en piel, pero con notas nobles, ligeras y totalmente respetuosas con la sensibilidad infantil.",
+    "notas_salida": "galbano, limon, bergamota",
+    "notas_corazon": "naranja",
+    "notas_fondo": "almizcle",
+    "descripcion": "La definición en perfume de la alegría, el juego y la frescura diaria. Lattafa Kids Happy Riders abre con un impacto súper alegre y cristalino de limón jugoso, bergamota y una pincelada verde de gálbano que transmite aire puro e infancia al aire libre. En cuestión de minutos se torna más dulce y amigable gracias a una nota brillante de naranja que inunda el ambiente de positivismo. Su secado final en la piel es un abrazo suave, limpio y sumamente tierno de almizcle blanco, dejando un rastro de pulcritud, higiene impecable y sonrisa asegurada.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Regalos de cumpleaños, uso diario escolar, actividades al aire libre, club o uso relajado en casa.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Adecuado para Perfumería Infantil (4h a 5h)",
+    "estela": "Discreta",
+    "color_liquido": "Cristalino transparente",
+    "rango_edad_max": 14,
+    "estilo_descripcion": "Diseñado para niños, niñas y preadolescentes activos que disfrutan de estar frescos y perfumados en su día a día. Es la pócima perfecta para el colegio, actividades deportivas, salidas familiares o simplemente para aplicar después del baño.",
+    "inspirado_en_nombre": "Composición Original para el Cuidado Infantil / Estilo Cítrico-Verde Premium",
+    "inspiraciones": [
+      {
+        "texto": "Desarrollado por Lattafa para su línea exclusiva Kids, adopta el estándar de oro de la perfumería infantil europea (en la sintonía de clásicos de alta gama como Tous Kids o las colonias cítricas francesas de primera calidad). Su gran mérito es ofrecer una alternativa de excelente fijación en piel, pero con notas nobles, ligeras y totalmente respetuosas con la sensibilidad infantil.",
+        "nombre": "Composición Original para el Cuidado Infantil / Estilo Cítrico-Verde Premium"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AFNAN - 9pm Pour Femme | EDP",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "anno": "2022",
@@ -206,6 +233,33 @@
         "texto": "Réplica espectacular y ultra fiel de una de las fragancias de ultra nicho más costosas, exóticas y deseadas del planeta. Captura a la perfección la esencia del arte flamenco: un perfume intenso, pasional y dramático que contrasta una explosión adictiva de frambuesas y manzanas con un corazón lujoso de iris y una base boscosa e imponente de pino y ciprés. Un elíxir carísimo que grita estatus y sensualidad desmedida.",
         "nombre": "Flamenco de Ramon Monegal",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.44233.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Kids Happy Time | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Floral, Tropical, Lactonico, Coco, Floral blanco, Cítrico, Almizclado, Dulce",
+    "inspirado_en": "Desarrollado por Lattafa para su línea exclusiva Kids, adopta la tendencia de las colonias infantiles gourmand-solares de alta gama (en la sintonía de composiciones florales-frutales suaves con notas de coco y frutas cítricas al estilo de las líneas veraniegas de Paco Rabanne o Tous pero en versión pura y ligera para niños). Su logro radica en equilibrar la cremosidad del coco y el frangipani con la ligereza que exige la piel de los más jóvenes.",
+    "notas_salida": "mandarina",
+    "notas_corazon": "frangipani, gardenia, jazmin",
+    "notas_fondo": "coco, almizcle, pachuli",
+    "descripcion": "La definición en perfume de la diversión, las vacaciones y la ternura infantil. Lattafa Kids Happy Time abre con un impacto jugoso, alegre y súper expansivo de mandarina fresca que saca una sonrisa inmediata. Rápidamente abre paso a su evolución más bonita: un corazón cálido, solar e hipnótico donde el frangipani exótico y la gardenia floran sobre una brisa de flores blancas. Su evolución final en la piel es un secado cremoso, tierno y profundamente reconfortante de leche de coco y almizcle puro, dejando un rastro flotante que transmite felicidad, higiene impecable y sol de tarde.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Regalos de cumpleaños, Día del Niño, salidas casuales, vacaciones familiares o uso alegre post-baño.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Adecuado para Perfumería Infantil (4h a 5h)",
+    "estela": "Discreta",
+    "color_liquido": "Cristalino transparente",
+    "rango_edad_max": 14,
+    "estilo_descripcion": "Diseñado para niños, niñas y preadolescentes que disfrutan de las fragancias dulces, alegres y veraniegas. Es la opción ideal para tardes de paseo, cumpleaños, salidas familiares o para aplicar post-baño antes de salir.",
+    "inspirado_en_nombre": "Composición Original Infantil de Alta Fijeza / Estilo Frutal Tropical Cremoso",
+    "inspiraciones": [
+      {
+        "texto": "Desarrollado por Lattafa para su línea exclusiva Kids, adopta la tendencia de las colonias infantiles gourmand-solares de alta gama (en la sintonía de composiciones florales-frutales suaves con notas de coco y frutas cítricas al estilo de las líneas veraniegas de Paco Rabanne o Tous pero en versión pura y ligera para niños). Su logro radica en equilibrar la cremosidad del coco y el frangipani con la ligereza que exige la piel de los más jóvenes.",
+        "nombre": "Composición Original Infantil de Alta Fijeza / Estilo Frutal Tropical Cremoso"
       }
     ]
   },
@@ -337,6 +391,33 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Kids Sing | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Floral blanco, Amaderado, Pachulí, Avainillado, Nardos, Atalcado, Almizclado",
+    "inspirado_en": "Desarrollado por Lattafa para su línea exclusiva Kids, toma como referencia la tendencia de los florales dulces de vanguardia (en la sintonía de composiciones luminosas tipo L'Interdit de Givenchy o My Way de Armani, pero reeditadas en una versión súper suave, inocente, limpia y adecuada para pieles jóvenes).",
+    "notas_salida": "nardos",
+    "notas_corazon": "jazmin, pachuli",
+    "notas_fondo": "cedro, vainilla, almizcle",
+    "descripcion": "La definición en perfume del canto, la coquetería y la alegría infantil. Lattafa Kids Sing abre con un impacto radiante y dulzón de nardos luminosos que transmiten una vibra festiva e inocente. A los pocos minutos despliega su corazón de jazmín sobre un fondo levemente amaderado que le da cuerpo y fineza. Su secado final en la piel es un abrazo cremoso de vainilla suave, cedro y almizcle blanco, dejando una estela que evoca flores dulces, ropa impecable y sonrisas.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Primavera / Invierno",
+    "ocasion": "Regalos de cumpleaños, fiestas, eventos familiares, paseos o uso coqueto diario.",
+    "clima": "Templado / Frío / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Adecuado para Perfumería Infantil (4h a 5h)",
+    "estela": "Discreta",
+    "color_liquido": "Transparente con un reflejo cálido muy tenue",
+    "rango_edad_max": 15,
+    "estilo_descripcion": "Diseñado para niños, niñas y preadolescentes que buscan una fragancia dulzona, elegante y con personalidad. Es la opción perfecta para festejos, paseos, cumpleaños o para usar después del baño antes de un evento especial.",
+    "inspirado_en_nombre": "Composición Original Infantil de Alta Perfumería / Estilo Floral Blanco Acaramelado.",
+    "inspiraciones": [
+      {
+        "texto": "Desarrollado por Lattafa para su línea exclusiva Kids, toma como referencia la tendencia de los florales dulces de vanguardia (en la sintonía de composiciones luminosas tipo L'Interdit de Givenchy o My Way de Armani, pero reeditadas en una versión súper suave, inocente, limpia y adecuada para pieles jóvenes).",
+        "nombre": "Composición Original Infantil de Alta Perfumería / Estilo Floral Blanco Acaramelado."
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - His Confession | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Frutal Floral / Mandarina Tuberosa",
@@ -388,6 +469,36 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Maahir Honor | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático, Cítrico, Fresco especiado, Verde, Amaderado",
+    "inspirado_en": "Réplica imponente, aireada y sumamente fiel de una de las fragancias de ultra nicho más costosas, elogiadas e hipnóticas de la perfumería italiana. Captura a la perfección ese codiciado ADN de \"frescura de lujo\" basado en la fusión de menta verde crujiente, tomillo aromático, cítricos mediterráneos y un corazón de lavanda y romero sobre un colchón de cedro y almizcle. Lattafa toma esta obra de arte y le inyecta su clásica fijación para que la frescura mentolada se mantenga viva en piel por horas.",
+    "notas_salida": "menta, limon, bergamota, tomillo",
+    "notas_corazon": "romero, lavanda, jazmín, flor de moringa",
+    "notas_fondo": "almizcle, cedro, ambar",
+    "descripcion": "La definición en perfume de la frescura de lujo, el liderazgo y la pulcritud absoluta. Maahir Honor abre con un impacto helado, efervescente y súper vigorizante de menta verde y limón jugoso que despierta los sentidos con una claridad mental alucinante. Rápidamente abre paso a su transición más fina: un corazón majestuoso e hipnótico donde la lavanda y el romero se entrelazan con la flor de moringa sobre una brisa herbal carísima. Su evolución final en la piel es un secado eterno, señorial y profundamente masculino, donde la nobleza del cedro se funde con la calidez del ámbar y el almizcle blanco, dejando un rastro flotante que transmite éxito, higiene impecable de perfil alto y una seguridad aplastante.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso diario de alto nivel, oficinas ejecutivas, eventos de día, reuniones de negocios, gimnasio/deporte de lujo o salidas de fin de semana donde se busque transmitir pulcritud y clase.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excelente para un Cítrico Aromático (7h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino transparente con un matiz plateado",
+    "rango_edad_min": 22,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para hombres modernos, ejecutivos, profesionales de fuerte presencia y amantes de las fragancias frescas de perfil nicho que buscan un aroma de firma versátil, distinguido y magnético. Es la pócima perfecta para quienes exigen oler limpios, costosos y con un carácter imponente durante todo el día.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70424.2x.avif",
+    "inspirado_en_nombre": "Torino21 de Xerjoff (Italia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica imponente, aireada y sumamente fiel de una de las fragancias de ultra nicho más costosas, elogiadas e hipnóticas de la perfumería italiana. Captura a la perfección ese codiciado ADN de \"frescura de lujo\" basado en la fusión de menta verde crujiente, tomillo aromático, cítricos mediterráneos y un corazón de lavanda y romero sobre un colchón de cedro y almizcle. Lattafa toma esta obra de arte y le inyecta su clásica fijación para que la frescura mentolada se mantenga viva en piel por horas.",
+        "nombre": "Torino21 de Xerjoff (Italia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70424.2x.avif"
       }
     ]
   },
