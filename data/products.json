@@ -1502,7 +1502,7 @@
     "p": 84400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_681701-MLA101584465521_122025-F.webp",
     "nt": "Salida Pimienta rosa, Azafrán, Toronja Notas de corazón: Tabaco, Cedro, Vainilla Notas de fondo: Incienso, Ámbar, Pachulí, Cachemira",
     "p1": "$84.400"
@@ -1567,7 +1567,7 @@
     "p": 60000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_844838-MLA82707313805_022025-F.webp",
     "nt": "Salida Azafrán, incienso, pimienta Notas de corazón: Oud, madera de oud, pachulí Notas de fondo: Ámbar, benjuí, almizcle",
     "p1": "$60.000"
@@ -1905,7 +1905,7 @@
     "p": 66600,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_635582-MLA99995849175_112025-F.webp",
     "nt": "Salida Canela, nuez moscada, bergamota Notas de corazón: Dátiles, praliné, tuberosa, mahonial Notas de fondo: Vainilla, haba tonka, Amberwood, mirra, Benjuí, Akigalawood",
     "p1": "$66.600"
@@ -1957,7 +1957,7 @@
     "p": 63100,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_777240-MLA93451857659_092025-F.webp",
     "nt": "Salida Bergamota, cítricos, romero Notas de corazón: Cedro, menta, notas marinas Notas de fondo: Almizcle, ámbar gris, maderas",
     "p1": "$63.100"
@@ -2490,7 +2490,7 @@
     "p": 53800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_948267-MLA95288460282_102025-F.webp",
     "nt": "Salida Grosella negra, fresa, vainilla Notas de corazón: Cereza, frambuesa, mandarina Notas de fondo: Almizcle, vainilla, ámbar",
     "p1": "$53.800"
@@ -4492,7 +4492,7 @@
     "p": 105300,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_690811-MLA93503893597_092025-F.webp",
     "nt": "Salida Yuzu, bergamota, naranja, mandarina · Fondo Incienso, papiro de Egipto, ámbar gris, benjuí, ámbar",
     "p1": "$105.300"
@@ -4934,7 +4934,7 @@
     "p": 114800,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_866676-MLA110085246623_042026-F.webp",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$114.800"
@@ -4973,7 +4973,7 @@
     "p": 100300,
     "c": "internacional",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_626373-MLA46820976100_072021-F.webp",
     "nt": "Salida Loto, melon, fresia, rosa, ciclamen, calone Notas de corazón: Lirio de los valles, azucena, peonia, clavel Notas de fondo: Almizcle, nardos, maderas exóticas, osmanto, cedro, sándalo, ámbar",
     "p1": "$100.300"
@@ -5506,7 +5506,7 @@
     "p": 88100,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_933770-MLA103897847549_012026-F.webp",
     "nt": "Salida bayas silvestres, cereza, naranja, bergamota Notas de corazón: rosa, flores blancas, vainilla Notas de fondo: notas atalcadas, Almizcle, ambar",
     "p1": "$88.100"
@@ -5766,7 +5766,7 @@
     "p": 219100,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_790143-MLA70673937702_072023-F.webp",
     "nt": "Salida piña, iris, jengibre, ciprés Notas de corazón: coco, Maderas Notas de fondo: haba tonka, sándalo, ámbar, ámbar gris",
     "p1": "$219.100"
@@ -6091,7 +6091,7 @@
     "p": 110600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_793546-MLA92397612524_092025-F.webp",
     "nt": "Salida manzana, humo, canela Notas de corazón: tabaco, musgo Notas de fondo: vainilla, orcanox",
     "p1": "$110.600"
