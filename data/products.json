@@ -150,7 +150,7 @@
     "p": 79400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_982862-MLU73784211216_012024-F.webp",
     "nt": "Salida Bergamota, cítricos, mandarina Notas de corazón: Ámbar, Maderas Notas de fondo: Almizcle, pachulí, Especias",
     "p1": "$79.400"
@@ -1879,7 +1879,7 @@
     "p": 82000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_761860-MLA99141020887_112025-F.webp",
     "nt": "Salida Canela, Mystikal Notas de corazón: Tuberosa, jazmín, incienso, Mahonial Notas de fondo: Vainilla, almizcle, haba tonka",
     "p1": "$82.000"
@@ -1892,7 +1892,7 @@
     "p": 79900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_630271-MLA105995812123_012026-F.webp",
     "nt": "Salida Mandarina, bergamota Notas de corazón: Tuberosa, jazmín, rosa Notas de fondo: Vainilla, haba tonka, Amberwood, mirra, Benjuí, Akigalawood",
     "p1": "$79.900"
@@ -1905,7 +1905,7 @@
     "p": 66600,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_635582-MLA99995849175_112025-F.webp",
     "nt": "Salida Canela, nuez moscada, bergamota Notas de corazón: Dátiles, praliné, tuberosa, mahonial Notas de fondo: Vainilla, haba tonka, Amberwood, mirra, Benjuí, Akigalawood",
     "p1": "$66.600"
@@ -5584,7 +5584,7 @@
     "p": 82400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_644361-MLA107452376221_022026-F.webp",
     "nt": "Salida abejo rojo, bergamota, violeta Notas de corazón: pino, cuero, lavanda Notas de fondo: pachuli, ladano",
     "p1": "$82.400"
