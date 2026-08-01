@@ -2568,7 +2568,7 @@
     "p": 79700,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_842787-MLA87448426570_072025-F.webp",
     "nt": "Contiene 4 perfumes de 25ml: Yara Rosa Yara Moi Yara Tous Yara Candy",
     "p1": "$79.700"
@@ -4934,7 +4934,7 @@
     "p": 114800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_866676-MLA110085246623_042026-F.webp",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$114.800"
@@ -5207,7 +5207,7 @@
     "p": 88300,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_823973-MLA109393351308_042026-F.webp",
     "nt": "Salida Pera, cardamomo Notas de corazón: Fresia, flor de loto, lirio de los valles, grosella negra, durazno Notas de fondo: Almizcle, sándalo, cedro",
     "p1": "$88.300"
@@ -5545,7 +5545,7 @@
     "p": 70100,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_772505-MLA89546298481_082025-F.webp",
     "nt": "Salida pitahaya, pera, mandarina Notas de corazón: flor de azahar, jazmin, fresia Notas de fondo: almizcle, vainilla, ambar, haba tonka",
     "p1": "$70.100"
