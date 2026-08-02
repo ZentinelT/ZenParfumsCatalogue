@@ -599,6 +599,35 @@
     "inspiraciones": []
   },
   {
+    "nombre_completo": "RAYHAAN - Crimson | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Cálido especiado, Avainillado, canela., Ámbar, Especiado suave, Dulce, Aromático",
+    "inspirado_en": "Réplica de precisión quirúrgica de una de las joyas de ultra nicho más exclusivas, elogiadas y costosas de la alta perfumería francesa. Captura a la perfección ese ADN de \"especias calientes bañadas en resinas dulces y vainilla\", permitiendo acceder a la opulencia de un aroma de jeque por una fracción de su valor original.",
+    "notas_salida": "canela, pimienta rosa, cardamomo",
+    "notas_corazon": "pachuli",
+    "notas_fondo": "benjui, haba tonka, vainilla",
+    "descripcion": "La definición líquida del calor, la seducción y la elegancia nocturna de autor. Rayhaan Crimson abre con un impacto cálido, vibrante y súper expansivo de canela dulce y pimienta rosa picante que enciende el ambiente de inmediato. En cuestión de minutos pisa el freno y abre paso a su evolución más fina: un corazón amaderado y elegante donde el pachulí puro equilibra las especias con total distinción. Su evolución final en la piel es un secado eterno, cremoso y profundamente sexy, donde la calidez del benjuí resinoso, el haba tonka y la vainilla crean un velo envolvente que transmite poder, confort de alto nivel y un magnetismo aplastante.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas (donde la canela y la vainilla son imanes en las distancias cortas), salidas nocturnas, boliches premium, fiestas o eventos formales de invierno.",
+    "clima": "Frío / Templado-Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Rendimiento Excelente (8h a 10h)",
+    "estela": "Intensa",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Diseñado para hombres decididos, modernos, de personalidad cálida y seductora que buscan un perfume nocturno, exclusivo e imponente para destacar. Es la pócima perfecta para quienes exigen oler intensos, sofisticados y sumamente atractivos en momentos clave.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95601.2x.avif",
+    "inspirado_en_nombre": "Centaurus de Creed",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de una de las joyas de ultra nicho más exclusivas, elogiadas y costosas de la alta perfumería francesa. Captura a la perfección ese ADN de \"especias calientes bañadas en resinas dulces y vainilla\", permitiendo acceder a la opulencia de un aroma de jeque por una fracción de su valor original.",
+        "nombre": "Centaurus de Creed",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95601.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Odyssey Mega Man | EDP",
     "marca": "Armaf",
     "anno": "2023",
@@ -749,6 +778,36 @@
     ]
   },
   {
+    "nombre_completo": "RAYHAAN - Obsidian | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Amaderado, Iris, Atalcado, Violeta, Cuero, Terrosos, Cítrico, Floral, Almizclado, Animálico",
+    "inspirado_en": "Réplica magistral, densa y sumamente fiel de uno de los perfumes más venerados, oscuros y codiciados de la historia de la perfumería internacional. Captura a la perfección ese legendario ADN de \"caballero de etiqueta negra\", donde la nota cosmética e intelectual del iris se fusiona con la virilidad del cuero fino y la profundidad de maderas de estatus. Rayhaan logra plasmar este perfil de ultra lujo con un motor de fijación temible.",
+    "notas_salida": "iris, citricos",
+    "notas_corazon": "cuero",
+    "notas_fondo": "sandalo, almizcle, cedro, oud",
+    "descripcion": "La definición en perfume del misterio, la elegancia de etiqueta negra y el atractivo masculino definitivo. Rayhaan Obsidian abre con un impacto sofisiticado, atalcado y cristalino de iris noble matizado por destellos cítricos que despiertan la curiosidad. Rápidamente pisa el freno y abre paso a su evolución más aclamada: un corazón majestuoso e hipnótico donde el cuero de sastrería abraza la textura polvosa inicial. Su evolución final en la piel es un secado eterno, cremoso y profundamente magnético, donde la calidez del sándalo y la estructura del cedro se entrelazan con el misterio del oud y la sensualidad del almizcle ambreta, dejando un rastro flotante que transmite éxito, sobriedad de alto nivel y una seguridad imponente.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos de etiqueta, cenas de negocios, citas románticas, salidas nocturnas de perfil alto o uso en oficinas ejecutivas en días muy fríos.",
+    "clima": "Frío / Templado-Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Rendimiento Excelente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro translúcido",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Diseñado para hombres decididos, maduros, profesionales de fuerte presencia y amantes de las fragancias oscuras de perfil nicho que buscan un aroma de firma nocturno, elegante y distinguido. Es la pócima perfecta para quienes buscan destacar en eventos formales, citas o reuniones donde el objetivo sea proyectar autoridad y clase sin decir una sola palabra.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101016.2x.avif",
+    "inspirado_en_nombre": "Dior Homme Parfum (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica magistral, densa y sumamente fiel de uno de los perfumes más venerados, oscuros y codiciados de la historia de la perfumería internacional. Captura a la perfección ese legendario ADN de \"caballero de etiqueta negra\", donde la nota cosmética e intelectual del iris se fusiona con la virilidad del cuero fino y la profundidad de maderas de estatus. Rayhaan logra plasmar este perfil de ultra lujo con un motor de fijación temible.",
+        "nombre": "Dior Homme Parfum (Francia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101016.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - Maahir Black Edition | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Oriental Cuero / Oscuro Especiado",
@@ -804,6 +863,36 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ISSEY MIYAKE - L'eau D'issey Intense | EDT",
+    "marca": "Issey Miyake — Japón",
+    "genero": "Masculino",
+    "familia_olfativa": "Floral Gourmand / Cálido",
+    "inspirado_en": "Un ícono de culto que definió el concepto del \"cítrico oscuro ahumado\". Su valor radica en combinar la frescura cristalina del agua y las frutas japonesas con la calidez resinosa y mineral de las especias y las maderas orientales, logrando un perfume de diseñador con alma de perfumería de autor.",
+    "notas_salida": "Yuzu, bergamota, naranja, mandarina.",
+    "notas_corazon": "Nuez moscada, flor de loto, cardamomo, canela, azafran",
+    "notas_fondo": "Incienso, papiro de Egipto, ámbar gris, benjuí, ámbar.",
+    "descripcion": "La definición en perfume del contraste entre la luz cítrica y la sombra ahumada. Issey Miyake L'eau D'issey Intense abre con un impacto brillante, efervescente y vivificante de yuzu y bergamota que despeja el ambiente al instante. En cuestión de minutos pisa el freno y despliega su transición más aclamada: un corazón cálido y magnético donde las especias finas y la flor de loto crean una atmósfera de pulcritud aristocrática. Su evolución final en la piel es un secado eterno, misterioso y profundamente masculino, donde el incienso ahumado y la madera de papiro egipcio se funden con el benjuí y el ámbar gris, dejando un rastro flotante que transmite estatus, serenidad de autor y una distinción absoluta.",
+    "momento_dia": "Dia / Tarde / Noche",
+    "estacion": "Otoño / Primavera / Invierno",
+    "ocasion": "Uso profesional diario, reuniones de negocios, eventos formales, cenas, citas románticas o situaciones donde se busque transmitir pulcritud, misterio y autoridad.",
+    "clima": "Templado / Frío / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente para un Cítrico Especiado (7h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente cristalino",
+    "perfil_usuario": "Ideal para el hombre decidido y sofisticado que busca una fragancia con carácter y presencia. Es perfecto para quienes prefieren aromas amaderados con un toque de misterio, alejándose de lo excesivamente dulce o comercial. Un usuario que valora la elegancia atemporal y la sobriedad. De 30 a 40 años.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Diseñado para hombres maduros, profesionales, ejecutivos y amantes de la perfumería clásica de diseñador que buscan una fragancia de firma versátil pero con fuerte personalidad. Es la opción perfecta para quienes buscan destacar con un aroma limpio, ahumado y elegante en reuniones, oficina o salidas nocturnas.",
+    "inspirado_en_nombre": "Creación Original de la Maison Issey Miyake (Francia / Japón)",
+    "inspiraciones": [
+      {
+        "texto": "Un ícono de culto que definió el concepto del \"cítrico oscuro ahumado\". Su valor radica en combinar la frescura cristalina del agua y las frutas japonesas con la calidez resinosa y mineral de las especias y las maderas orientales, logrando un perfume de diseñador con alma de perfumería de autor.",
+        "nombre": "Creación Original de la Maison Issey Miyake (Francia / Japón)"
       }
     ]
   },
@@ -930,6 +1019,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Angham Edp",
+    "marca": "Lattafa Perfumes — Dubai",
+    "familia_olfativa": "Floral Vainilla / Lavanda Dulce",
+    "inspirado_en": "Réplica magnífica, suntuosa y sumamente fiel de una de las fragancias gourmand de diseñador más aclamadas, virales y codiciadas del mercado internacional. Captura a la perfección ese codiciado ADN de \"vainilla gourmand refinada con un toque aromático de lavanda y jengibre picante\", inyectándole la potencia, densidad y fijación características de la perfumería árabe de alta gama.",
+    "notas_salida": "jengibre, mandarina, pimienta rosa",
+    "notas_corazon": "lavanda, praliné, cacao, jazmín",
+    "notas_fondo": "vainilla, ámbar, almizcle",
+    "descripcion": "La definición en perfume de la calidez, la elegancia gourmand y la adicción aromática. Lattafa Angham abre con un impacto efervescente y vigorizante de jengibre picante y mandarina jugosa sazonados por pimienta rosa. En cuestión de minutos despliega su faceta más elogiada: un corazón hipnótico donde la lavanda fina se funde con la cremosidad del cacao, el praliné tostado y el jazmín en una armonía perfecta. Su evolución final en la piel es un secado majestuoso, tibio y profundamente sexy, donde la riqueza de la vainilla se entrelaza con la calidez del ámbar y la suavidad del almizcle, dejando un rastro flotante que transmite sofisticación, confort de alto nivel y una atracción imponente.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas nocturnas, eventos ejecutivos, reuniones formales o momentos donde el objetivo sea destacar y recibir cumplidos constantes.",
+    "clima": "Frío / Templado-Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado traslúcido",
+    "perfil_usuario": "Mujeres 18-45 años. Femeninas, lavanderas. Alternativa a Burberry Goddess.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para mujeres modernas, elegantes, seguras de sí mismas y amantes de las fragancias gourmand refinadas que buscan un aroma de firma versátil, acogedor y magnético. Es la pócima perfecta para quienes exigen oler dulces, costosas y con un carácter sofisticado durante todo el día.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif",
+    "inspirado_en_nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica magnífica, suntuosa y sumamente fiel de una de las fragancias gourmand de diseñador más aclamadas, virales y codiciadas del mercado internacional. Captura a la perfección ese codiciado ADN de \"vainilla gourmand refinada con un toque aromático de lavanda y jengibre picante\", inyectándole la potencia, densidad y fijación características de la perfumería árabe de alta gama.",
+        "nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Swiss Arabian - Body Mist Pink Rose Petal 1188 | 236ml",
     "marca": "Swiss Arabian — Dubai/Suiza",
     "genero": "Femenino",
@@ -1017,6 +1137,38 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Atlas | EDP",
+    "marca": "Lattafa Perfumes",
+    "anno": "2024",
+    "genero": "Unisex",
+    "familia_olfativa": "Aromática Acuática",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes de ultra nicho más virales, aclamados y potentes del mundo. Captura a la perfección ese codiciado ADN de \"océano infinito, brisa salada, maderas de deriva y fijación atómica\", permitiendo experimentar la fuerza del perfume marino más famoso de la historia por una fracción de su costo original.",
+    "notas_salida": "notas marinas, sal, limón",
+    "notas_corazon": "davana, iris",
+    "notas_fondo": "ámbar gris, musgo de roble, sándalo",
+    "descripcion": "La definición en perfume del océano embravecido, la brisa salada y la elegancia mineral. Lattafa Atlas abre con un impacto abrumador, fresco y cristalino de sal marina y notas acuáticas sacudidas por la efervescencia del limón. En cuestión de minutos despliega su fascinante transición de autor: un corazón donde la Davana silvestre y la distinción del iris polvoso elevan la brisa marina a un nivel de alta costura. Su evolución final en la piel es un secado infinito, mineral y profundamente magnético, donde el poder del ámbar gris se entrelaza con el musgo de roble y la cremosidad del sándalo, dejando una estela imponente que transmite libertad, solidez y un atractivo abisal.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera, Verano",
+    "ocasion": "Salidas casuales de alto nivel, vacaciones, eventos al aire libre, uso diario para quienes buscan destacar o situaciones donde se exija máxima duración en climas calurosos.",
+    "clima": "Cálido / Muy Caluroso / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Rendimiento Monumental (10h a 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino azulejo con reflejos marinos",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex de perfil alto (con inclinación masculina marcante). Diseñado para personas de carácter fuerte, seguras de sí mismas y amantes de las fragancias frescas de autor que no quieren pasar desapercibidas. Es el perfume definitivo para quien busca una firma marina duradera, de gran proyección y estatus internacional.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53471.2x.avif",
+    "inspirado_en_nombre": "Megamare de Orto Parisi",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes de ultra nicho más virales, aclamados y potentes del mundo. Captura a la perfección ese codiciado ADN de \"océano infinito, brisa salada, maderas de deriva y fijación atómica\", permitiendo experimentar la fuerza del perfume marino más famoso de la historia por una fracción de su costo original.",
+        "nombre": "Megamare de Orto Parisi",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53471.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Delilah | EDP | 100ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Frutal Floral / Ruibarbo Rosa",
@@ -1100,31 +1252,34 @@
     ]
   },
   {
-    "nombre_completo": "French Avenue - Vulcan Baie | EDP | 100ml",
+    "nombre_completo": "FRENCH AVENUE - Vulcan Baie | EDP",
     "marca": "French Avenue (Fragrance World) — Dubai",
+    "genero": "Unisex",
     "familia_olfativa": "Frutal / Boozy Rosa — Clone Pink Boa",
-    "inspirado_en": "Viktor&Rolf Pink Boa (70-75% similar — buena alternativa accesible)",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes de la Snake Collection de SHL 777 más codiciados, elogiados y costosos de la perfumería de autor francesa. Captura a la perfección ese adictivo ADN de \"coctel helado de vodka con frutos del bosque, albahaca fresca y maderas sensuales\", permitiendo acceder a una joya de culto por una fracción de su valor original.",
     "notas_salida": "Grosella negra, Zarzamora, Romero, Bergamota",
     "notas_corazon": "Vodka, Frambuesa, Albahaca, Lirio de los valles",
     "notas_fondo": "Fresa, Pachulí, Ámbar, Almizcle, Incienso, Durazno, Sándalo",
-    "descripcion": "Frutal boozy tipo bath bomb rosado. Frambuesa y vodka sobre rosa. Muy femenino y festivo. Longevidad variable (algunos batches con poca duración). Leans femenino aunque algunos hombres lo llevan. Nota herbal de romero puede molestar a algunos.",
+    "descripcion": "La definición en perfume del misterio, la seducción chic y la alquimia de la perfumería de autor francesa. French Avenue Vulcan Baie abre con un estallido deslumbrante de zarzamora y grosella negra sazonadas con el toque herbal del romero y la bergamota. A los pocos minutos despliega su faceta más aclamada: un corazón embriagador donde el vodka helado abraza a la frambuesa jugosa y la albahaca en una mezcla inolvidable. Su evolución final en la piel es un secado majestuoso, tibio y profundamente magnético, donde el humo suave del incienso, el pachulí y la cremosidad del sándalo se funden con el durazno y el ámbar, dejando una estela que transpira elegancia de culto, sensualidad y distinción absoluta.",
     "momento_dia": "Tarde / Noche",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Salidas, fiestas, casual",
-    "clima": "Templado / Calor",
-    "duracion": "Media (3-5h)",
-    "estela": "Moderada",
-    "color_liquido": "Rosado / fucsia",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas de impacto, eventos formales, fiestas nocturnas de alto nivel, salidas ejecutivas o momentos donde se busquen cumplidos y fascinación inmediata.",
+    "clima": "Frío / Templado-Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar rojizo oscuro",
     "perfil_usuario": "Mujeres 18-35 años. Festivas, frutales, rosas. Alternativa a Pink Boa.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Festivas, frutales, rosas. Alternativa a Pink Boa.",
-    "inspirado_en_nombre": "Viktor&Rolf Pink Boa",
+    "rango_edad_min": 22,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex absoluto de perfil alto. Diseñado para hombres y mujeres con personalidad fuerte, seguros de sí mismos y amantes de la perfumería de autor oscura, gourmand y boozy. Es la opción definitiva para quienes buscan un aroma de firma exclusivo para destacar en la noche y dejar una huella imborrable.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75021.2x.avif",
+    "inspirado_en_nombre": "Pink Boa Stéphane Humbert Lucas 777",
     "inspiraciones": [
       {
-        "texto": "Viktor&Rolf Pink Boa (70-75% similar — buena alternativa accesible)",
-        "nombre": "Viktor&Rolf Pink Boa",
-        "imagen_url": ""
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes de la Snake Collection de SHL 777 más codiciados, elogiados y costosos de la perfumería de autor francesa. Captura a la perfección ese adictivo ADN de \"coctel helado de vodka con frutos del bosque, albahaca fresca y maderas sensuales\", permitiendo acceder a una joya de culto por una fracción de su valor original.",
+        "nombre": "Pink Boa Stéphane Humbert Lucas 777",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75021.2x.avif"
       }
     ]
   },
@@ -1187,6 +1342,38 @@
         "texto": "Réplica monumental, densa y ultra fiel de uno de los reyes indiscutidos de los boliches y la seducción nocturna. Captura a la perfección ese combo arrollador de mandarina caramelizada con haba tonka y salvia aromática, pero potenciado en esta versión con azafrán exótico y una base molecular de ambroxan de proyección expansiva. Una pócima diseñada para el hombre que quiere pisar fuerte y adueñarse de las miradas.",
         "nombre": "Scandal Pour Homme de Jean Paul Gaultier",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.68074.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Extravagant Lover | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental Floral / Extravagante",
+    "inspirado_en": "Réplica de altísima fidelidad de una de las sagas de perfumería más aclamadas, deseadas y virales de la casa italiana Valentino. Captura a la perfección ese codiciado ADN de \"flores blancas de alta alcurnia bañadas en un matiz cítrico-especiado de salida y un secado cálido de vainilla borbónica\", entregando una alternativa accesible con un rendimiento y presencia deslumbrantes.",
+    "notas_salida": "Pimienta rosa, Mandarina",
+    "notas_corazon": "Flor de azahar del naranjo, Rosa, Jazmín",
+    "notas_fondo": "Ámbar, Vainilla",
+    "descripcion": "La definición en perfume del lujo italiano, el encanto romántico y la seducción chic. Maison Alhambra Extravagant Lover abre con un impacto radiante y jugoso de mandarina recién exprimida sazonada por el toque especiado de la pimienta rosa. En cuestión de minutos despliega su faceta más elogiada: un corazón hipnótico donde la flor de azahar del naranjo se entrelaza con la elegancia del jazmín y la delicadeza de la rosa. Su evolución final en la piel es un secado cremoso, tibio y profundamente sexy, donde la calidez del ámbar se funde con la suavidad de la vainilla, dejando un rastro flotante que transmite buena onda, distinción y un atractivo irresistible.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Otoño / Invierno",
+    "ocasion": "Salidas casuales elegantes, uso profesional diario, citas románticas, reuniones con amigos, eventos formales o sunsets.",
+    "clima": "Templado / Frío / Fresco.",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excelente (7h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino con un leve reflejo rosado",
+    "perfil_usuario": "Hombres y mujeres 25-50 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para personas modernas, elegantes, desenfadadas y amantes de las fragancias florales ambaradas con toques dulzones y sofisticados. Es la opción perfecta tanto para mujeres como para hombres que buscan romper moldes y llevar un aroma de firma versátil, acogedor, envolvente y magnético que destaque tanto en el día a día como en ocasiones especiales.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.88989.2x.avif",
+    "inspirado_en_nombre": "Valentino - Donna Born In Roma / Born In Roma Green Stravaganza (EDP)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad de una de las sagas de perfumería más aclamadas, deseadas y virales de la casa italiana Valentino. Captura a la perfección ese codiciado ADN de \"flores blancas de alta alcurnia bañadas en un matiz cítrico-especiado de salida y un secado cálido de vainilla borbónica\", entregando una alternativa accesible con un rendimiento y presencia deslumbrantes.",
+        "nombre": "Valentino - Donna Born In Roma / Born In Roma Green Stravaganza (EDP)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.88989.2x.avif"
       }
     ]
   },
@@ -4029,35 +4216,6 @@
     ]
   },
   {
-    "nombre_completo": "French Avenue - Atlantis | Extrait de Parfum | 100 ml",
-    "marca": "French Avenue (Fragrance World) — Dubai",
-    "familia_olfativa": "Frutal Acuático / Tropical Dulce",
-    "inspirado_en": "Wavechild (DNA sandía-tropical) / Muy similar a Khadlaj Island",
-    "notas_salida": "Naranja, limón, mandarina",
-    "notas_corazon": "Sandía, coco",
-    "notas_fondo": "Amberwood, cacao, ámbar gris",
-    "descripcion": "Sandía y cítricos sobre coco y ámbar. Tropical y potente. Beast mode reconocido en proyección y longevidad. Ideal para verano. Apertura muy potente — máximo 2-3 sprays. Dulce y bubblegummy. Sandía evoluciona a honeydew.",
-    "momento_dia": "Día",
-    "estacion": "Verano / Primavera",
-    "ocasion": "Playa, casual, festivo",
-    "clima": "Calor",
-    "duracion": "Muy larga (longevidad impresionante)",
-    "estela": "Nuclear",
-    "color_liquido": "Celeste / turquesa",
-    "perfil_usuario": "Hombres y mujeres 18-40 años. Playeros, tropicales, veraniegos. Para quien quiere impactar en verano.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres y mujeres Playeros, tropicales, veraniegos. Para quien quiere impactar en verano.",
-    "inspirado_en_nombre": "Wavechild",
-    "inspiraciones": [
-      {
-        "texto": "Wavechild (DNA sandía-tropical) / Muy similar a Khadlaj Island",
-        "nombre": "Wavechild",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "AL WATANIAH - Rose Mystery Intense | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Unisex",
@@ -4116,6 +4274,37 @@
       {
         "texto": "No es un clon lineal de un perfume de diseñador tradicional; es una creación propia de la casa Asdaaf que se convirtió en un éxito global masivo por derecho propio. Captura el aura de la perfumería premium basada en la \"limpieza rica\" (en la línea de la sofisticación floral-almizclada de joyas como Musk Therapy de Initio o destellos limpios de la alta costura europea). Redefine el uso del oud y las maderas orientales, usándolos únicamente como un colchón invisible para fijar un bouquet de jazmines y almizcles ultra puros a la piel.",
         "nombre": "Composición Original de Alta Perfumería de Medio Oriente / Estilo Floral-Musk de Realeza"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "FRENCH AVENUE - Atlantis | Extrait de Parfum",
+    "marca": "French Avenue (Fragrance World) — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Frutal Acuático / Tropical Dulce",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes de nicho veraniegos más virales, codiciados y aclamados del mercado internacional. Captura a la perfección ese adictivo ADN de \"surf, sandía helada, brisa marina y crema de coco\", permitiendo acceder al estatus de un aroma francés de ultra nicho por una fracción de su valor original.",
+    "notas_corazon": "Sandía, coco",
+    "notas_fondo": "Amberwood, cacao, ámbar gris",
+    "descripcion": "La definición líquida del lujo veraniego, la frescura exótica de la cultura surf y la adicción frutal. French Avenue Atlantis abre con un impacto radiante, alegre y súper expansivo de naranjas jugosas y mandarinas recién exprimidas sacudidas por la efervescencia del limón. En cuestión de minutos evoluciona hacia su faceta más elogiada: un corazón hipnótico donde la sandía helada y la cremosidad del coco se funden en una brisa tropical inolvidable. Su secado final en la piel es un contraste exquisito y profundamente sexy, donde el poder mineral del ámbar gris y el Amberwood se entrelazan con la calidez del cacao fino, dejando un rastro flotante que transmite sofisticación, buena onda y un atractivo aplastante.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Verano / Primavera",
+    "ocasion": "Salidas casuales elegantes, pool parties, eventos al aire libre, vacaciones, citas de tarde o uso diario para quienes buscan destacar con un aroma frutal y limpio de gran calidad.",
+    "clima": "Cálido / Muy Caluroso / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excelente para una Fragancia Frutal-Cítrica (7h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino transparente",
+    "perfil_usuario": "Hombres y mujeres 18-40 años. Playeros, tropicales, veraniegos. Para quien quiere impactar en verano.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Unisex absoluto. Diseñado para hombres y mujeres modernos, desenfadados, de espíritu libre y amantes de las fragancias de autor veraniegas que buscan un aroma de firma fresco, exótico y magnético. Es la pócima perfecta para quienes exigen oler limpios, frutales y sumamente atractivos durante todo el día.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif",
+    "inspirado_en_nombre": "Wavechild de Room 1015 (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes de nicho veraniegos más virales, codiciados y aclamados del mercado internacional. Captura a la perfección ese adictivo ADN de \"surf, sandía helada, brisa marina y crema de coco\", permitiendo acceder al estatus de un aroma francés de ultra nicho por una fracción de su valor original.",
+        "nombre": "Wavechild de Room 1015 (Francia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif"
       }
     ]
   },
@@ -4558,6 +4747,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Afeef | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Oriental Floral / Accesible",
+    "inspirado_en": "Réplica imponente, voluptuosa y sumamente fiel de una de las sagas florales gourmand más aclamadas y sensuales de la alta perfumería francesa. Captura a la perfección ese codiciado ADN de \"flores blancas prohibidas bañadas en notas dulzonas y amaderadas\", entregando un rendimiento expansivo de nivel premium.",
+    "notas_salida": "durazno, pimienta rosa, bergamota",
+    "notas_corazon": "nardos, jazmín, flor de azahar del naranjo",
+    "notas_fondo": "praliné, sándalo, ámbar, pachulí",
+    "descripcion": "La definición líquida de la elegancia sensual, el encanto floral y la adicción gourmand. Lattafa Afeef abre con un impacto jugoso y chispeante de durazno terciopelado sazonado con pimienta rosa e ilumando por bergamota fresca. En cuestión de minutos pisa el acelerador de la sofisticación, desplegando un corazón hipnótico de nardos y flor de azahar que llenan el aire de pulcritud y magnetismo. Su evolución final en la piel es un secado cremoso, tibio y profundamente sexy, donde el praliné crujiente se funde con la suavidad del sándalo y la calidez del ámbar, dejando una estela memorable que cosecha cumplidos a cada paso.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, fiestas nocturnas, eventos formales, cenas elegantes o momentos donde el objetivo sea destacar y dejar un rastro inolvidable.",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino con un leve matiz dorado-rosado",
+    "perfil_usuario": "Hombres y mujeres 20-45 años.",
+    "rango_edad_min": 22,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para mujeres decididas, elegantes, de fuerte presencia y amantes de las fragancias florales intensas con toques dulzones. Es la opción perfecta para quienes buscan un perfume de firma distinguido, envolvente y de gran proyección para destacar en cualquier ambiente.",
+    "inspirado_en_imagen_url": "https://juleriaque.vtexassets.com/arquivos/ids/240154-1280-auto/1001212.webp?v=638640038479730000&quality=8",
+    "inspirado_en_nombre": "Givenchy - L'Interdit / L'Interdit Rouge (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica imponente, voluptuosa y sumamente fiel de una de las sagas florales gourmand más aclamadas y sensuales de la alta perfumería francesa. Captura a la perfección ese codiciado ADN de \"flores blancas prohibidas bañadas en notas dulzonas y amaderadas\", entregando un rendimiento expansivo de nivel premium.",
+        "nombre": "Givenchy - L'Interdit / L'Interdit Rouge (Francia)",
+        "imagen_url": "https://juleriaque.vtexassets.com/arquivos/ids/240154-1280-auto/1001212.webp?v=638640038479730000&quality=8"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Asad Bourbon | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -4583,57 +4803,6 @@
       {
         "texto": "Azzaro Most Wanted Parfum (clone outstanding — mejor de los Asad según muchos)",
         "nombre": "Azzaro Most Wanted Parfum",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Afeef | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental Floral / Accesible",
-    "inspirado_en": "Composición propia",
-    "descripcion": "Oriental árabe accesible. Nombre árabe que significa gentil/amable. Floral suave.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Angham Edp 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Floral Vainilla / Lavanda Dulce",
-    "inspirado_en": "Burberry Goddess (DNA lavanda-vainilla — muy cercano)",
-    "notas_salida": "jengibre, mandarina, pimienta rosa",
-    "notas_corazon": "lavanda, praliné, cacao, jazmín",
-    "notas_fondo": "vainilla, ámbar, almizcle",
-    "descripcion": "Lavanda dulce con vainilla cremosa. El \"Burberry Goddess árabe\". Femenino y cálido. Beast mode en longevidad.",
-    "momento_dia": "Todo",
-    "estacion": "Todo el año",
-    "ocasion": "Cotidiano, trabajo, citas",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Muy larga (beast mode)",
-    "color_liquido": "Violeta / lavanda",
-    "perfil_usuario": "Mujeres 18-45 años. Femeninas, lavanderas. Alternativa a Burberry Goddess.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres Femeninas, lavanderas. Alternativa a Burberry Goddess.",
-    "inspirado_en_nombre": "Burberry Goddess",
-    "inspiraciones": [
-      {
-        "texto": "Burberry Goddess (DNA lavanda-vainilla — muy cercano)",
-        "nombre": "Burberry Goddess",
         "imagen_url": ""
       }
     ]
@@ -6111,6 +6280,38 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Galactic Men Elixir",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Especiado / Galáctico",
+    "inspirado_en": "Réplica de precisión quirúrgica de una de las fragancias descontinuadas más veneradas, buscadas y codiciadas del planeta. Captura a la perfección ese legendario ADN de \"whisky de malta envejecido en barrica de roble, turba ahumada y frutas maduras bañadas en vainilla\", permitiendo revivir un clásico extinto por una fracción de su valor.",
+    "notas_salida": "bergamota, naranja",
+    "notas_corazon": "pachulí, whisky, malta, cafe",
+    "notas_fondo": "vainilla, ambar, cedro, almizcle",
+    "descripcion": "La definición en perfume de un club privado, un vaso de whisky de malta a la luz de la chimenea y la elegancia nocturna definitiva. Maison Alhambra Galactic Men Elixir abre con un impacto cálido, embriagador y frutal de malta dorada y frutas maduras. En cuestión de minutos despliega su faceta más elogiada: un corazón hipnótico donde el roble, la turba ahumada y el whisky de autor se entrelazan con la solidez del cedro. Su evolución final en la piel es un secado cremoso, tibio y profundamente magnético, donde la dulzura de la vainilla y el haba tonka se funden con los destellos de café y ámbar, dejando un rastro flotante que transmite estatus, masculinidad pura y un atractivo inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas de impacto, eventos nocturnos, cenas ejecutivas, reuniones de gala o uso diario en días invernales para quienes buscan un aroma de autoridad.",
+    "clima": "Frío / Templado-Frío",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar caoba traslúcido",
+    "perfil_usuario": "Hombres 25-50 años.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Diseñado para hombres maduros, elegantes, seguros de sí mismos, coleccionistas y amantes de la perfumería licorosa (boozy) y amaderada. Es la pócima perfecta para quienes buscan un aroma de firma nocturno, exclusivo y distinguido para marcar presencia en épocas de frío.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.6103.2x.avif",
+    "inspirado_en_nombre": "A*Men Pure Malt de Mugler (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de una de las fragancias descontinuadas más veneradas, buscadas y codiciadas del planeta. Captura a la perfección ese legendario ADN de \"whisky de malta envejecido en barrica de roble, turba ahumada y frutas maduras bañadas en vainilla\", permitiendo revivir un clásico extinto por una fracción de su valor.",
+        "nombre": "A*Men Pure Malt de Mugler (Francia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.6103.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "French Avenue - Spectre | EDP | 80ml",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "genero": "Unisex",
@@ -6186,28 +6387,6 @@
       {
         "texto": "Khamrah de Lattafa (misma familia, más suave y sutil) / Angel's Share de Kilian (DNA boozy-especiado)",
         "nombre": "Khamrah de Lattafa",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Maison Alhambra - Galactic Men Elixir | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental Especiado / Galáctico",
-    "inspirado_en": "Mugler A*Men Pure Malt",
-    "descripcion": "Oriental especiado masculino. Elixir concentrado con DNA moderno.",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "perfil_usuario": "Hombres 25-50 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Mugler A*Men Pure Malt",
-    "inspiraciones": [
-      {
-        "texto": "Mugler A*Men Pure Malt",
-        "nombre": "Mugler A*Men Pure Malt",
         "imagen_url": ""
       }
     ]
@@ -9879,29 +10058,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Atlas | EDP",
-    "marca": "Lattafa Perfumes",
-    "anno": "2024",
-    "genero": "Unisex",
-    "familia_olfativa": "Aromática Acuática",
-    "inspirado_en": "Orto Parisi Megamare",
-    "notas_salida": "notas marinas, sal, limón",
-    "notas_corazon": "davana, iris",
-    "notas_fondo": "ámbar gris, musgo de roble, sándalo",
-    "descripcion": "Atlas es una fragancia acuática marina unisex de Lattafa, lanzada en 2024. Captura la esencia del océano con una apertura de sal marina y limón que evoluciona hacia un corazón vegetal y un fondo cálido de ámbar gris y maderas. Inspirada en Megamare de Orto Parisi. Proyección bestial — precaución con la cantidad aplicada.",
-    "momento_dia": "Día, Noche",
-    "estacion": "Primavera, Verano",
-    "duracion": "Muy larga (8+ horas)",
-    "inspirado_en_nombre": "Orto Parisi Megamare",
-    "inspiraciones": [
-      {
-        "texto": "Orto Parisi Megamare",
-        "nombre": "Orto Parisi Megamare",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Qaed Al Fursan | EDP | 90ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Frutal Amaderado / Aventus DNA árabe",
@@ -10120,34 +10276,6 @@
       {
         "texto": "New York Nights Bond No 9",
         "nombre": "Bond No.9 New York Nights",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Issey Miyake - L'eau D'issey Intense | EDT | 125 ml",
-    "marca": "Issey Miyake — Japón",
-    "genero": "Masculino",
-    "familia_olfativa": "Floral Gourmand / Cálido",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Yuzu, bergamota, naranja, mandarina.",
-    "notas_fondo": "Incienso, papiro de Egipto, ámbar gris, benjuí, ámbar.",
-    "descripcion": "Una fragancia poderosa, oscura y elegante que lleva la frescura cítrica del Yuzu original hacia una profundidad misteriosa. Se percibe como un estallido de especias calientes y cítricos amargos que luego se asienta en un fondo ahumado de incienso y maderas nobles. Es una versión masculina más nocturna, densa y magnética que el clásico L'Eau d'Issey.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, citas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga",
-    "color_liquido": "Dorado / ámbar",
-    "perfil_usuario": "Ideal para el hombre decidido y sofisticado que busca una fragancia con carácter y presencia. Es perfecto para quienes prefieren aromas amaderados con un toque de misterio, alejándose de lo excesivamente dulce o comercial. Un usuario que valora la elegancia atemporal y la sobriedad. De 30 a 40 años.",
-    "rango_edad_min": 30,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Ideal para el hombre decidido y sofisticado que busca una fragancia con carácter y presencia. Es perfecto para quienes prefieren aromas amaderados con un toque de misterio, alejándose de lo excesivamente dulce o comercial. Un usuario que valora la elegancia atemporal y la sobriedad. De",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -11231,28 +11359,6 @@
       {
         "texto": "Burberry Goddess",
         "nombre": "Burberry Goddess",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Maison Alhambra - Extravagant Lover | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental Floral / Extravagante",
-    "inspirado_en": "Valentino Uomo Born in Roma Green Stravaganza",
-    "descripcion": "Oriental floral extravagante. Para los amantes de las fragancias con carácter.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 25-50 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Valentino Uomo Born in Roma Green Stravaganza",
-    "inspiraciones": [
-      {
-        "texto": "Valentino Uomo Born in Roma Green Stravaganza",
-        "nombre": "Valentino Uomo Born in Roma Green Stravaganza",
         "imagen_url": ""
       }
     ]
