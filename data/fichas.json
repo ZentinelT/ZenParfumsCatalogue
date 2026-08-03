@@ -1505,6 +1505,38 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Mayar Rose | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral / Rosa Clásica",
+    "inspirado_en": "Réplica vibrante, moderna y sumamente fiel de la tendencia frutal-rosa más codiciada y festejada de la perfumería internacional. Captura a la perfección ese adictivo ADN de \"lichi exótico y frambuesa bañados en rosas frescas y un secado dulce afelpado\", entregando una fijación y proyección fantásticas con el sello distintivo de la perfumería árabe.",
+    "notas_salida": "lichi, frambuesa, hojas de violeta",
+    "notas_corazon": "rosa blanca, peonia, jazmin",
+    "notas_fondo": "almizcle, vainilla",
+    "descripcion": "La definición en perfume del encanto juvenil, la frescura chic y la dulzura coqueta. Lattafa Mayar Rose abre con una explosión radiante, dulce y exótica de lichi y frambuesa sazonados por el toque verde y pulcro de las hojas de violeta. En cuestión de minutos despliega su corazón romántico de rosas blancas y peonías frescas que transmiten pulcritud y romanticismo. Su evolución final en la piel es un manto tibio, afelpado y dulce donde la vainilla y el almizcle blanco fijan la fruta y las flores a la piel con extrema delicadeza, dejando una estela encantadora a cada paso.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional o universitario diario, salidas casuales, paseos al aire libre, citas románticas o eventos donde se busque transmitir alegría y frescura.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Mujeres 20-50 años. Rosas clásicas.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres jóvenes, dinámicas, coquetas y amantes de las fragancias frutales-florales dulces pero frescas. Es la pócima perfecta para quienes buscan un aroma de firma jovial, luminoso y magnético tanto para el uso diario como para momentos especiales.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.61519.2x.avif",
+    "inspirado_en_nombre": "Angel Nova de Mugler",
+    "inspiraciones": [
+      {
+        "texto": "Réplica vibrante, moderna y sumamente fiel de la tendencia frutal-rosa más codiciada y festejada de la perfumería internacional. Captura a la perfección ese adictivo ADN de \"lichi exótico y frambuesa bañados en rosas frescas y un secado dulce afelpado\", entregando una fijación y proyección fantásticas con el sello distintivo de la perfumería árabe.",
+        "nombre": "Angel Nova de Mugler",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.61519.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL HARAMAIN - Amber Oud Black Edition | EDP",
     "marca": "Al Haramain Perfumes — Arabia Saudí",
     "genero": "Masculino",
@@ -10586,30 +10618,6 @@
       {
         "texto": "Giorgio Armani Acqua di Gioia (floral acuático limpio)",
         "nombre": "Giorgio Armani Acqua di Gioia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Mayar Rose | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral / Rosa Clásica",
-    "inspirado_en": "Composición propia",
-    "notas_corazon": "Rosa",
-    "notas_fondo": "Almizcle, ámbar, cedro",
-    "descripcion": "Rosa árabe clásica. Femenina y accesible.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 20-50 años. Rosas clásicas.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Mujeres Rosas clásicas.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
