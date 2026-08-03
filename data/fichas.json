@@ -136,38 +136,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Pride Vintage Radio | EDP",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental Boozy / Vainilla Canela",
-    "inspirado_en": "Réplica espectacular y de altísima fidelidad de una de las obras de arte más exclusivas y caras de la perfumería de nicho francesa. Captura a la perfección ese ADN revolucionario que fusiona la frescura herbal de la salvia blanca y la lavanda con el dulzor maduro de la ciruela, hundiéndose en un corazón sagrado de palo santo y una base hiper-cremosa de sándalo y oud. Un perfume que transmite paz, equilibrio mental, magnetismo andrógino y un estatus de puro lujo silencioso.",
-    "notas_salida": "lavanda, salvia, bergamota",
-    "notas_corazon": "ciruela, palo santo, pimienta negra",
-    "notas_fondo": "sándalo,  oud ",
-    "descripcion": "La definición líquida del lujo silencioso, la paz mental y la distinción de ultra nicho. Pride Vintage Radio abre con una atmósfera herbal y sumamente relajante de salvia blanca y lavanda fina, salpicadas por el brillo de la bergamota. Rápidamente, la fragancia evoluciona hacia su faceta más adictiva y magnética: un corazón majestuoso donde la jugosidad aterciopelada de la ciruela madura se fusiona con el aura mística del palo santo sagrado. Su evolución final es un secado carísimo y reconfortante, donde la cremosidad extrema del sándalo se abraza a la firmeza de la madera de oud, dejando en el aire una estela flotante, limpia, amaderada y con una sofisticación sencillamente inigualable.",
-    "momento_dia": "Día / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Perfume de firma diario premium, reuniones importantes, eventos semi-formales, cenas elegantes, citas románticas (es un imán letal en distancias cortas por su calidez) o cualquier situación donde el objetivo absoluto sea oler costoso y exclusivo",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga (8h+ - 10h+)",
-    "estela": "Intensa",
-    "color_liquido": "Translúcido cristalino",
-    "perfil_usuario": "Hombres y mujeres 20-50 años.",
-    "rango_edad_min": 22,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Diseñado para hombres y mujeres detallistas, seguros de sí mismos, amantes del arte y de la moda que buscan un perfume de firma completamente único, despegado de las tendencias masivas del shopping. Es la pócima perfecta para personalidades magnéticas y sofisticadas que quieren transmitir pulcritud, misterio, tranquilidad y un atractivo exclusivo basado en oler diferente a todo el mundo.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.76580.2x.avif",
-    "inspirado_en_nombre": "Paragon de Initio Parfums Privés",
-    "inspiraciones": [
-      {
-        "texto": "Initio Paragon",
-        "nombre": "Initio Paragon",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Kids Happy Play | EDP",
     "genero": "Unisex",
     "familia_olfativa": "Afrutados, Cítrico, Fesco especiado, Verde, Dulce, Fresco, Aromático, Ámbar, Amaderado",
@@ -1622,6 +1590,67 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Pride Vintage Radio | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental Boozy / Vainilla Canela",
+    "inspirado_en": "Réplica espectacular y de altísima fidelidad de una de las obras de arte más exclusivas y caras de la perfumería de nicho francesa. Captura a la perfección ese ADN revolucionario que fusiona la frescura herbal de la salvia blanca y la lavanda con el dulzor maduro de la ciruela, hundiéndose en un corazón sagrado de palo santo y una base hiper-cremosa de sándalo y oud. Un perfume que transmite paz, equilibrio mental, magnetismo andrógino y un estatus de puro lujo silencioso.",
+    "notas_salida": "lavanda, salvia, bergamota",
+    "notas_corazon": "ciruela, palo santo, pimienta negra",
+    "notas_fondo": "sándalo, oud",
+    "descripcion": "La definición líquida del lujo silencioso, la paz mental y la distinción de ultra nicho. Pride Vintage Radio abre con una atmósfera herbal y sumamente relajante de salvia blanca y lavanda fina, salpicadas por el brillo de la bergamota. Rápidamente, la fragancia evoluciona hacia su faceta más adictiva y magnética: un corazón majestuoso donde la jugosidad aterciopelada de la ciruela madura se fusiona con el aura mística del palo santo sagrado. Su evolución final es un secado carísimo y reconfortante, donde la cremosidad extrema del sándalo se abraza a la firmeza de la madera de oud, dejando en el aire una estela flotante, limpia, amaderada y con una sofisticación sencillamente inigualable.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Perfume de firma diario premium, reuniones importantes, eventos semi-formales, cenas elegantes, citas románticas (es un imán letal en distancias cortas por su calidez) o cualquier situación donde el objetivo absoluto sea oler costoso y exclusivo",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga (8h+ - 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Translúcido cristalino",
+    "perfil_usuario": "Hombres y mujeres 20-50 años.",
+    "rango_edad_min": 22,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para hombres y mujeres detallistas, seguros de sí mismos, amantes del arte y de la moda que buscan un perfume de firma completamente único, despegado de las tendencias masivas del shopping. Es la pócima perfecta para personalidades magnéticas y sofisticadas que quieren transmitir pulcritud, misterio, tranquilidad y un atractivo exclusivo basado en oler diferente a todo el mundo.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.76580.2x.avif",
+    "inspirado_en_nombre": "Paragon de Initio Parfums Privés",
+    "inspiraciones": [
+      {
+        "texto": "Initio Paragon",
+        "nombre": "Initio Paragon",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "JEAN PAUL GAULTIER - Le Beau Paradise Garden | EDP",
+    "marca": "Jean Paul Gaultier",
+    "genero": "Masculino",
+    "familia_olfativa": "Verde, Coco, Dulce, Avainillado, Amaderado, Acuático, Aromático, Afrutados, Fesco especiado, Fresco",
+    "inspirado_en": "Una obra maestra original de la alta perfumería francesa, creada por el legendario perfumista Quentin Bisch. Es una de las fragancias más virales, exclusivas y buscadas del mercado global, destacada por su propuesta disruptiva que fusiona la frescura verde-acuática con la adicción dulce del trópico.",
+    "notas_salida": "notas verdes, notas acuaticas",
+    "notas_corazon": "coco, higo, sal, menta, jengibre",
+    "notas_fondo": "haba tonka, sandalo",
+    "descripcion": "La definición líquida del paraíso, la tentación carnal y el magnetismo tropical definitivo. Jean Paul Gaultier Le Beau Paradise Garden abre con un impacto alucinante y ultra refrescante de notas acuosas puras y menta helada, sacudidas por el chispazo eléctrico del jengibre y la frescura de las notas verdes, recreando la atmósfera de un jardín húmedo recién descubierto. Rápidamente, la fragancia evoluciona hacia su faceta más adictiva y sensual: un corazón majestuoso donde la cremosidad del coco y la finura exótica del higo se entrelazan sobre un toque disruptivo de sal. Su evolución final en la piel es un secado eterno, dulce y carísimo, dominado por la calidez afrodisíaca del haba tonka y la elegancia del sándalo, dejando una estela flotante que transmite éxito, facha desmedida y una sensualidad que arrasa en las distancias cortas.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Salidas de fin de semana, boliches (donde corta el aire de forma espectacular), citas románticas (es un arma letal de seducción por su vibra cremosa), pool parties premium, perfume de firma para el verano o cualquier situación donde el objetivo absoluto sea oler costoso, exótico y recontra sexi",
+    "clima": "Cálido / Templado / Caluroso",
+    "proyeccion": "Beast mode",
+    "duracion": "Excelente rendimiento (8h+ - 10h+)",
+    "estela": "Moderada",
+    "color_liquido": "Verde Esmeralda Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Diseñado exclusivamente para hombres modernos, audaces, detallistas y amantes de la alta perfumería de diseñador que buscan una fragancia de firma tropical de alto impacto para destacar por completo del resto. Es la pócima perfecta para personalidades magnéticas y seductoras que aman los aromas con giros exóticos de coco e higo, detestan pasar desapercibidos y exigen un perfume original que sea una máquina absoluta de generar cumplidos y miradas.",
+    "inspirado_en_nombre": "Jean Paul Gaultier (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Una obra maestra original de la alta perfumería francesa, creada por el legendario perfumista Quentin Bisch. Es una de las fragancias más virales, exclusivas y buscadas del mercado global, destacada por su propuesta disruptiva que fusiona la frescura verde-acuática con la adicción dulce del trópico.",
+        "nombre": "Jean Paul Gaultier (Francia)"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AFNAN - 9PM | Elixir",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "anno": "2025",
@@ -2871,35 +2900,6 @@
     ]
   },
   {
-    "nombre_completo": "JEAN PAUL GAULTIER - Le Beau Paradise Garden | EDP",
-    "marca": "Jean Paul Gaultier",
-    "genero": "Masculino",
-    "familia_olfativa": "Verde, Coco, Dulce, Avainillado, Amaderado, Acuático, Aromático, Afrutados, Fesco especiado, Fresco",
-    "inspirado_en": "Una obra maestra original de la alta perfumería francesa, creada por el legendario perfumista Quentin Bisch. Es una de las fragancias más virales, exclusivas y buscadas del mercado global, destacada por su propuesta disruptiva que fusiona la frescura verde-acuática con la adicción dulce del trópico.",
-    "notas_salida": "notas verdes, notas acuaticas, ",
-    "notas_corazon": "coco, higo, sal, menta, jengibre",
-    "notas_fondo": "haba tonka, sandalo",
-    "descripcion": "La definición líquida del paraíso, la tentación carnal y el magnetismo tropical definitivo. Jean Paul Gaultier Le Beau Paradise Garden abre con un impacto alucinante y ultra refrescante de notas acuosas puras y menta helada, sacudidas por el chispazo eléctrico del jengibre y la frescura de las notas verdes, recreando la atmósfera de un jardín húmedo recién descubierto. Rápidamente, la fragancia evoluciona hacia su faceta más adictiva y sensual: un corazón majestuoso donde la cremosidad del coco y la finura exótica del higo se entrelazan sobre un toque disruptivo de sal. Su evolución final en la piel es un secado eterno, dulce y carísimo, dominado por la calidez afrodisíaca del haba tonka y la elegancia del sándalo, dejando una estela flotante que transmite éxito, facha desmedida y una sensualidad que arrasa en las distancias cortas.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Salidas de fin de semana, boliches (donde corta el aire de forma espectacular), citas románticas (es un arma letal de seducción por su vibra cremosa), pool parties premium, perfume de firma para el verano o cualquier situación donde el objetivo absoluto sea oler costoso, exótico y recontra sexi",
-    "clima": "Cálido / Templado / Caluroso",
-    "proyeccion": "Beast mode",
-    "duracion": "Excelente rendimiento (8h+ - 10h+)",
-    "estela": "Moderada",
-    "color_liquido": "Verde Esmeralda Cristalino",
-    "rango_edad_min": 18,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Diseñado exclusivamente para hombres modernos, audaces, detallistas y amantes de la alta perfumería de diseñador que buscan una fragancia de firma tropical de alto impacto para destacar por completo del resto. Es la pócima perfecta para personalidades magnéticas y seductoras que aman los aromas con giros exóticos de coco e higo, detestan pasar desapercibidos y exigen un perfume original que sea una máquina absoluta de generar cumplidos y miradas.",
-    "inspirado_en_nombre": "Jean Paul Gaultier (Francia)",
-    "inspiraciones": [
-      {
-        "texto": "Una obra maestra original de la alta perfumería francesa, creada por el legendario perfumista Quentin Bisch. Es una de las fragancias más virales, exclusivas y buscadas del mercado global, destacada por su propuesta disruptiva que fusiona la frescura verde-acuática con la adicción dulce del trópico.",
-        "nombre": "Jean Paul Gaultier (Francia)"
-      }
-    ]
-  },
-  {
     "nombre_completo": "AFNAN - Historic Sahara | Extrait de Parfum",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "genero": "Unisex",
@@ -3063,7 +3063,7 @@
     "genero": "Unisex",
     "familia_olfativa": "Acuático Verde / Fresco",
     "inspirado_en": "Xerjoff Torino 21",
-    "notas_salida": "Notas de salida: Lima, Manzana verde, Romero Notas de corazón: cítricos,  herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
+    "notas_salida": "Notas de salida: Lima, Manzana verde, Romero Notas de corazón: cítricos, herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
     "descripcion": "Versión verde-fresca de Hawas. DNA acuático con notas verdes. Para el verano.",
     "proyeccion": "Moderada",
     "duracion": "Larga",
@@ -3906,7 +3906,7 @@
     "genero": "Unisex",
     "familia_olfativa": "Oriental Floral / Ámbar",
     "inspirado_en": "Captura a la perfección el ADN de ultra nicho más caro y deseado del planeta: la fusión perfecta entre la alta costura francesa y la opulencia de las noches de Arabia. Agarra el combo letal de rosa y madera de oud, y lo suaviza con una base cremosa de vainilla y almizcle blanco, logrando un aroma magnético que huele a jeque millonario.Captura a la perfección el ADN de ultra nicho más caro y deseado del planeta: la fusión perfecta entre la alta costura francesa y la opulencia de las noches de Arabia. Agarra el combo letal de rosa y madera de oud, y lo suaviza con una base cremosa de vainilla y almizcle blanco, logrando un aroma magnético que huele a jeque millonario.",
-    "notas_salida": "bergamota ",
+    "notas_salida": "bergamota",
     "notas_corazon": "rosa, oud",
     "notas_fondo": "Ámbar, almizcle blanco, vainilla",
     "descripcion": "La definición líquida del misterio, la seducción oriental y la opulencia definitiva. Al Wataniah Amethyst abre con un impacto alucinante y ultra luminoso de bergamota fina, que rápidamente abre paso a una de las transiciones más deseadas de la perfumería de culto: un corazón majestuoso donde la finura de una rosa aterciopelada se funde de forma gloriosa con el misticismo oscuro de la madera de oud. Su evolución final en la piel es un secado eterno, cremoso y sumamente costoso, dominado por la calidez del ámbar dorado, la sensualidad de la vainilla negra y la pulcritud del almizcle blanco, dejando una estela hipnótica que transmite éxito, facha desmedida y una autoridad imponente.",
@@ -4928,7 +4928,7 @@
     "genero": "Femenino",
     "familia_olfativa": "Frutal Floral / Chypre Moderno",
     "inspirado_en": "Composición propia",
-    "notas_salida": "frutas tropicales, frambuesa, bergamota,",
+    "notas_salida": "frutas tropicales, frambuesa, bergamota",
     "notas_corazon": "caramelo, jazmin, rosa",
     "notas_fondo": "almizcle, ambar, maderas",
     "descripcion": "La definición líquida del optimismo, la tentación gourmand y la facha dulce definitiva. Watani Purple abre con un impacto alucinante, alegre y súper expansivo de frutas tropicales y frambuesas jugosas, abrazadas por un destello verde y cítrico muy sutil. Rápidamente abre paso a la transición más deseada y vendida de la casa: un corazón denso, magnético e hipnótico donde el caramelo derretido y los acordes de golosinas se apoderan del aire de forma comestible. Su evolución final en la piel es un secado carísimo, dulce-cremoso y sumamente seductor, donde el almizcle dulce y la calidez del ámbar se recuestan sobre maderas sutiles, dejando un rastro flotante que transmite onda, juventud y una sensualidad arrolladora.",
@@ -6567,6 +6567,36 @@
     ]
   },
   {
+    "nombre_completo": "ARMAF - Odyssey Limoni Fresh Edition | EDP",
+    "marca": "Armaf — India",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico Fresco / DNA LV Fresco",
+    "inspirado_en": "Inspiración en la línea de frescura mediterránea de ultra lujo (en la línea de grandes éxitos veraniegos como Mandarino di Amalfi de Tom Ford o la frescura cítrica-gengibre de Imagination de Louis Vuitton). Captura al 100% ese ADN de \"vacaciones de lujo\", evocando una camisa de lino blanca impecable, sol de tarde y un estatus de limpieza premium inigualable. Armaf agarra este concepto refrescante y lo dota de una base fijadora de almizcle y ámbar que estira la vida de los cítricos de forma espectacular.",
+    "notas_salida": "limón, naranja, mandarina, bergamota",
+    "notas_corazon": "notas marinas, flor de azahar del naranjo, jengibre",
+    "notas_fondo": "te negro, almizcle, ámbar",
+    "descripcion": "La definición líquida de la energía, la pulcritud absoluta y la facha de verano definitiva. Odyssey Limoni Fresh Edition abre con un impacto alucinante, alegre y ultra expansivo de mandarina jugosa, naranja dulce y limón punzante que sacude los sentidos con una luz radiante. Rápidamente abre paso a su transición más elogiada: un corazón majestuoso, marino e hipnótico donde el jengibre picante y la brisa del océano flotan sobre la prolijidad de la flor de azahar. Su evolución final en la piel es un secado eterno, finísimo y profundamente reconfortante, donde la nota zen de té verde y la pulcritud del almizcle blanco se funden con el ámbar, dejando un rastro flotante que transmite éxito, higiene impecable y una seguridad aplastante en los días más calurosos.",
+    "momento_dia": "Día / Mañana",
+    "estacion": "Verano / Primavera",
+    "ocasion": "Uso diario de alto nivel, actividades al aire libre, salidas casuales para tirar facha veraniega, reuniones comerciales de día o cualquier situación donde el objetivo absoluto sea transmitir pulcritud, frescura y asegurar miradas.",
+    "clima": "Calor",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sólido para ser un Fresco (6h a 7h)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido cristalino",
+    "perfil_usuario": "Hombres y mujeres 18-40 años. Para días de calor y actividad física. Para quien quiere el vibe LV sin gastar.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para hombres y mujeres activos, dinámicos, amantes de los cumplidos y de las fragancias cítricas de perfil premium que buscan un aroma de firma fresco pero con un estatus superior. Es la pócima perfecta para personalidades decididas que exigen oler limpios, prolijos y sumamente elegantes en su rutina diaria, reuniones casuales o después de entrenar bajo el sol.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Inspiración en la línea de frescura mediterránea de ultra lujo (en la línea de grandes éxitos veraniegos como Mandarino di Amalfi de Tom Ford o la frescura cítrica-gengibre de Imagination de Louis Vuitton). Captura al 100% ese ADN de \"vacaciones de lujo\", evocando una camisa de lino blanca impecable, sol de tarde y un estatus de limpieza premium inigualable. Armaf agarra este concepto refrescante y lo dota de una base fijadora de almizcle y ámbar que estira la vida de los cítricos de forma espectacular.",
+        "nombre": "Composición propia"
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Club de Nuit Intense Men | Extrait De Parfum",
     "genero": "Masculino",
     "familia_olfativa": "Amaderado Especiado / Aventus DNA",
@@ -6594,36 +6624,6 @@
         "texto": "Es el clon definitivo llevado al pináculo de la alta perfumería. Capta el ADN icónico del rey de nicho pero en su faceta más opulenta, donde la piña madura y jugosa se sumerge en una nube de abedul ahumado mucho más denso, espeso y señorial. Gracias a su concentración de extracto, la fijación duplica los estándares comunes, ofreciendo un rendimiento brutal que roza la perfección.",
         "nombre": "Creed Aventus (Francia)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9828.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "ARMAF - Odyssey Limoni Fresh Edition | EDP",
-    "marca": "Armaf — India",
-    "genero": "Unisex",
-    "familia_olfativa": "Cítrico Fresco / DNA LV Fresco",
-    "inspirado_en": "Inspiración en la línea de frescura mediterránea de ultra lujo (en la línea de grandes éxitos veraniegos como Mandarino di Amalfi de Tom Ford o la frescura cítrica-gengibre de Imagination de Louis Vuitton). Captura al 100% ese ADN de \"vacaciones de lujo\", evocando una camisa de lino blanca impecable, sol de tarde y un estatus de limpieza premium inigualable. Armaf agarra este concepto refrescante y lo dota de una base fijadora de almizcle y ámbar que estira la vida de los cítricos de forma espectacular.",
-    "notas_salida": "limón , naranja, mandarina, bergamota",
-    "notas_corazon": "notas marinas, flor de azahar del naranjo, jengibre",
-    "notas_fondo": "te negro, almizcle, ámbar",
-    "descripcion": "La definición líquida de la energía, la pulcritud absoluta y la facha de verano definitiva. Odyssey Limoni Fresh Edition abre con un impacto alucinante, alegre y ultra expansivo de mandarina jugosa, naranja dulce y limón punzante que sacude los sentidos con una luz radiante. Rápidamente abre paso a su transición más elogiada: un corazón majestuoso, marino e hipnótico donde el jengibre picante y la brisa del océano flotan sobre la prolijidad de la flor de azahar. Su evolución final en la piel es un secado eterno, finísimo y profundamente reconfortante, donde la nota zen de té verde y la pulcritud del almizcle blanco se funden con el ámbar, dejando un rastro flotante que transmite éxito, higiene impecable y una seguridad aplastante en los días más calurosos.",
-    "momento_dia": "Día / Mañana",
-    "estacion": "Verano / Primavera",
-    "ocasion": "Uso diario de alto nivel, actividades al aire libre, salidas casuales para tirar facha veraniega, reuniones comerciales de día o cualquier situación donde el objetivo absoluto sea transmitir pulcritud, frescura y asegurar miradas.",
-    "clima": "Calor",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Sólido para ser un Fresco (6h a 7h)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido cristalino",
-    "perfil_usuario": "Hombres y mujeres 18-40 años. Para días de calor y actividad física. Para quien quiere el vibe LV sin gastar.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Diseñado para hombres y mujeres activos, dinámicos, amantes de los cumplidos y de las fragancias cítricas de perfil premium que buscan un aroma de firma fresco pero con un estatus superior. Es la pócima perfecta para personalidades decididas que exigen oler limpios, prolijos y sumamente elegantes en su rutina diaria, reuniones casuales o después de entrenar bajo el sol.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Inspiración en la línea de frescura mediterránea de ultra lujo (en la línea de grandes éxitos veraniegos como Mandarino di Amalfi de Tom Ford o la frescura cítrica-gengibre de Imagination de Louis Vuitton). Captura al 100% ese ADN de \"vacaciones de lujo\", evocando una camisa de lino blanca impecable, sol de tarde y un estatus de limpieza premium inigualable. Armaf agarra este concepto refrescante y lo dota de una base fijadora de almizcle y ámbar que estira la vida de los cítricos de forma espectacular.",
-        "nombre": "Composición propia"
       }
     ]
   },
@@ -7372,7 +7372,7 @@
     "genero": "Femenino",
     "familia_olfativa": "Floral / Pura Femenino",
     "inspirado_en": "Xerjoff Erba Pura",
-    "notas_salida": "Notas de salida: Sicilian Lemon, Sicilian Orange, Calabrian Bergamot Notas de corazón: Frutas (acorde fruity) Notas de fondo: Vanilla, Amber, White Musk",
+    "notas_salida": "Notas de salida: Sicilian Lemon, Sicilian Orange, Calabrian Bergamot Notas de corazón: Frutas (acorde fruity) Notas de fondo: Vanilla, Ámbar, White Musk",
     "descripcion": "Floral puro y limpio. La versión femenina de la línea Philos.",
     "proyeccion": "Moderada",
     "duracion": "Larga",
