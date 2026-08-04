@@ -150,7 +150,7 @@
     "p": 79400,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_982862-MLU73784211216_012024-F.webp",
     "nt": "Salida Bergamota, cítricos, mandarina Notas de corazón: Ámbar, Maderas Notas de fondo: Almizcle, pachulí, Especias",
     "p1": "$79.400"
@@ -1385,7 +1385,7 @@
     "p": 74900,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_675388-MLA108950596585_032026-F.webp",
     "nt": "Salida Grosella negra, Zarzamora, Romero, Bergamota Notas de corazón: Vodka, Frambuesa, Albahaca, Lirio de los valles Notas de fondo: Fresa, Pachulí, Ámbar, Almizcle, Incienso, Durazno, Sándalo",
     "p1": "$74.900"
@@ -1502,7 +1502,7 @@
     "p": 84400,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_681701-MLA101584465521_122025-F.webp",
     "nt": "Salida Pimienta rosa, Azafrán, Toronja Notas de corazón: Tabaco, Cedro, Vainilla Notas de fondo: Incienso, Ámbar, Pachulí, Cachemira",
     "p1": "$84.400"
@@ -1749,7 +1749,7 @@
     "p": 75600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_846717-MLA82707239251_022025-F.webp",
     "nt": "Salida Manzana verde, bergamota, jengibre, salvia Notas de corazón: Especias, sándalo Notas de fondo: Almizcle, ámbar, pachulí",
     "p1": "$75.600"
@@ -2230,7 +2230,7 @@
     "p": 72400,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_895925-MLA100703830100_122025-F.webp",
     "nt": "Salida lavanda, salvia, bergamota Notas de corazón: ciruela, palo santo, pimienta negra Notas de fondo: sándalo, oud",
     "p1": "$72.400"
@@ -2386,7 +2386,7 @@
     "p": 59000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_630268-MLU72598998051_102023-F.webp",
     "nt": "Salida Maracuyá, frambuesa, bergamota Notas de corazón: Vainilla, flores, rosa Notas de fondo: Almizcle, ámbar, madera de cachemira",
     "p1": "$59.000"
@@ -2464,7 +2464,7 @@
     "p": 74700,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_715812-MLA82693195300_032025-F.webp",
     "nt": "Salida Bergamota, lavanda, cítricos Notas de corazón: Sándalo, cedro, geranio Notas de fondo: Ámbar, almizcle, vetiver",
     "p1": "$74.700"
@@ -2607,7 +2607,7 @@
     "p": 60400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_652822-MLA98468230337_112025-F.webp",
     "nt": "Salida Azafrán, jazmín Notas de corazón: Ámbar, cedro Notas de fondo: Ámbar gris, resina",
     "p1": "$60.400"
@@ -2659,7 +2659,7 @@
     "p": 53300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_860241-MLA82063777483_012025-F.webp",
     "nt": "Salida Grosella negra, pera Notas de corazón: Iris, flor de azahar, jazmín Notas de fondo: Pachulí, haba tonka, praliné, vainilla",
     "p1": "$53.300"
@@ -3205,7 +3205,7 @@
     "p": 67700,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_845544-MLA81952852638_022025-F.webp",
     "nt": "Salida Bergamota, limón, frutas Notas de corazón: Canela, flor de azahar, notas marinas, cardamomo Notas de fondo: Ámbar gris, sándalo, almizcle",
     "p1": "$67.700"
@@ -5584,7 +5584,7 @@
     "p": 82400,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_Q_NP_644361-MLA107452376221_022026-F.webp",
     "nt": "Salida abejo rojo, bergamota, violeta Notas de corazón: pino, cuero, lavanda Notas de fondo: pachuli, ladano",
     "p1": "$82.400"
@@ -6208,7 +6208,7 @@
     "p": 69700,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://cdnx.jumpseller.com/sairam/image/76986949/thumb/1500/1500?1779739223",
     "nt": "—",
     "p1": "$69.700"
