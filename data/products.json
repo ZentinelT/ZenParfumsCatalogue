@@ -1671,7 +1671,7 @@
     "p": 75800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_854522-MLU76885472895_062024-F.webp",
     "nt": "Salida Vainilla, leche, caramelo Notas de corazón: Flores blancas, heliotropo Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$75.800"
@@ -2828,7 +2828,7 @@
     "p": 65300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_921037-MLA82633513996_032025-F.webp",
     "nt": "Salida Madera de oud, Incienso Notas de corazón: Rosa, Frambuesa, Azafrán, Abedul Notas de fondo: Ámbar, Benjuí, Geranio",
     "p1": "$65.300"
@@ -2893,7 +2893,7 @@
     "p": 61300,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_906040-MLA96715395785_102025-F.webp",
     "nt": "Salida Grosella negra, pera Notas de corazón: Iris, flor de azahar, jazmín Notas de fondo: Pachulí, praliné, haba tonka, vainilla",
     "p1": "$61.300"
@@ -3088,7 +3088,7 @@
     "p": 55300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_785706-MLA84309658592_052025-F.webp",
     "nt": "Salida Lavanda Notas de corazón: Ámbar Notas de fondo: Vainilla",
     "p1": "$55.300"
