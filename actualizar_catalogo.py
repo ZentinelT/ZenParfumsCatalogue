@@ -8,8 +8,8 @@ import pandas as pd
 API_KEY = os.environ["SUPABASE_KEY"]
 API_URL = "https://syylbuvjuekkanxynpps.supabase.co/rest/v1/productos"
 
-MARGEN_NORMAL = 15000
-MARGEN_TUBBEES = 10000
+MARGEN_NORMAL = 16000
+MARGEN_TUBBEES = 11000
 
 CAT_MAP = {
     "arabes": "arabes",
