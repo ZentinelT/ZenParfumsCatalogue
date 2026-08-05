@@ -87,7 +87,7 @@
     "g": "mujer",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_708389-MLU71257528391_082023-F.webp",
-    "nt": "Salida Frambuesa, ralladura de limon, flor de azahar Notas de corazón: Ambroxan, nardos (tuberose), jazmín, mandarina Notas de fondo: Maderas, almizcle, jazmín sambac",
+    "nt": "Salida Frambuesa, ralladura de limon, flor de azahar Notas de corazón: Ambroxan, nardos, jazmín, mandarina Notas de fondo: Maderas, almizcle, jazmín sambac",
     "p1": "$80.100"
   },
   {
@@ -1749,7 +1749,7 @@
     "p": 75600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_846717-MLA82707239251_022025-F.webp",
     "nt": "Salida Manzana verde, bergamota, jengibre, salvia Notas de corazón: Especias, sándalo Notas de fondo: Almizcle, ámbar, pachulí",
     "p1": "$75.600"
@@ -1866,7 +1866,7 @@
     "p": 53000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_963845-MLU72666886984_112023-F.webp",
     "nt": "Salida Cítricos Notas de corazón: Notas florales Notas de fondo: Almizcle, ámbar",
     "p1": "$53.000"
@@ -2009,7 +2009,7 @@
     "p": 66400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_627169-MLA106201504054_022026-F.webp",
     "nt": "Salida lichi, frambuesa, hojas de violeta Notas de corazón: rosa blanca, peonia, jazmin Notas de fondo: almizcle, vainilla",
     "p1": "$66.400"
@@ -3790,7 +3790,7 @@
     "p": 34900,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_762786-MLA99776256726_122025-F.webp",
     "nt": "Salida Cereza, Frutos rojos, Heliotropo Notas de corazón: Jazmín, Haba tonka, Sándalo Notas de fondo: Almizcle, Ámbar gris, Vainilla",
     "p1": "$34.900"
