@@ -179,19 +179,19 @@ body:not([data-theme="dark"]) .cc:hover .cc-l{color:var(--go)}
   .pw:hover{color:#e74c3c}
 }
 .pw.on{opacity:1;color:#e74c3c;transform:translateY(0)}
-.pc-bd{padding:16px;display:flex;flex-direction:column;flex:1}
+.pc-bd{padding:16px;display:flex;flex-direction:column;flex:1;min-height:260px}
 .pc-br{font-size:10px;font-weight:500;letter-spacing:.15em;text-transform:uppercase;color:var(--go);margin-bottom:3px}
-.pc-nm{font-family:var(--fd);font-size:17px;font-weight:400;color:var(--bk);margin-bottom:3px;line-height:1.3}
+.pc-nm{font-family:var(--fd);font-size:17px;font-weight:400;color:var(--bk);margin-bottom:3px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:calc(17px * 1.3 * 2)}
 .pc-sz{font-size:11px;color:var(--gr);margin-bottom:8px;font-weight:300}
-.pc-badges{display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap;align-items:center}
+.pc-badges{display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap;align-items:center;min-height:22px}
 .type-badge{font-size:9px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--go);border:1px solid var(--go);border-radius:100px;padding:2px 9px;line-height:1.6}
 .size-badge{font-size:9px;font-weight:500;letter-spacing:.04em;color:var(--gr);background:var(--ow);border-radius:100px;padding:2px 9px;line-height:1.6}
 .pm-badges{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;align-items:center}
 .pm-badges .type-badge{font-size:11px;padding:6px 16px}
 .pm-badges .size-badge{font-size:11px;padding:6px 16px}
-.pc-nt{font-size:10px;color:var(--gr);line-height:1.5;margin-bottom:10px;font-weight:300}
-.note-box-sm{margin-bottom:10px}
-.note-row-sm{font-size:10px;color:var(--gr);line-height:1.55;font-weight:300;white-space:normal}
+.pc-nt{font-size:10px;color:var(--gr);line-height:1.5;margin-bottom:10px;font-weight:300;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.note-box-sm{margin-bottom:10px;min-height:calc(10px * 1.55 * 3);overflow:hidden}
+.note-row-sm{font-size:10px;color:var(--gr);line-height:1.55;font-weight:300;white-space:normal;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
 .note-row-sm b{color:var(--dg);font-weight:600}
 .pc-stk{display:flex;align-items:center;gap:6px;margin-bottom:12px}
 .sdot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
