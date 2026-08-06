@@ -2386,7 +2386,7 @@
     "p": 60000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_630268-MLU72598998051_102023-F.webp",
     "nt": "Salida Maracuyá, frambuesa, bergamota Notas de corazón: Vainilla, flores, rosa Notas de fondo: Almizcle, ámbar, madera de cachemira",
     "p1": "$60.000"
@@ -5298,7 +5298,7 @@
     "p": 232600,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_951207-MLA50485607587_062022-F.webp",
     "nt": "Salida Pimienta rosa, Enebro, Violeta Notas de corazón: Caramelo, Canela, Lavanda, Salvia Notas de fondo: Vainilla, Ámbar, Haba tonka, Cuero",
     "p1": "$232.600"
@@ -6182,7 +6182,7 @@
     "p": 60400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_645901-MLA111399968066_052026-F.webp",
     "nt": "Salida notas marinas, bergamota Notas de corazón: hoja de laurel, jazmin Notas de fondo: ambar gris, musgo de roble, madera de gaiac, pachuli",
     "p1": "$60.400"
