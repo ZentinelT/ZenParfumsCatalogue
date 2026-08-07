@@ -150,7 +150,7 @@
     "p": 80400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_982862-MLU73784211216_012024-F.webp",
     "nt": "Salida Bergamota, cítricos, mandarina Notas de corazón: Ámbar, Maderas Notas de fondo: Almizcle, pachulí, Especias",
     "p1": "$80.400"
@@ -579,7 +579,7 @@
     "p": 82400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_616191-MLA106687529098_022026-F.webp",
     "nt": "Salida Lichi, bergamota, pimienta rosa Notas de corazón: Raíz de lirio Notas de fondo: Praliné, sándalo, Ambroxan",
     "p1": "$82.400"
@@ -2009,7 +2009,7 @@
     "p": 67400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_627169-MLA106201504054_022026-F.webp",
     "nt": "Salida lichi, frambuesa, hojas de violeta Notas de corazón: rosa blanca, peonia, jazmin Notas de fondo: almizcle, vainilla",
     "p1": "$67.400"
@@ -2971,7 +2971,7 @@
     "p": 65600,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_925905-MLA97546968342_112025-F.webp",
     "nt": "Salida Notas de salida: Sicilian Lemon, Sicilian Orange, Calabrian Bergamot Notas de corazón: Frutas (acorde fruity) Notas de fondo: Vanilla, Ámbar, White Musk",
     "p1": "$65.600"
