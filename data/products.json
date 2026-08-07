@@ -1840,7 +1840,7 @@
     "p": 55500,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_673140-MLM52614549633_112022-F.webp",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$55.500"
@@ -3998,7 +3998,7 @@
     "p": 80400,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_605422-MLA80487762091_112024-F.webp",
     "nt": "Salida Lavanda, limón, alcaravea, albahaca, bergamota, esclarea, iris, anís Notas de corazón: Vetiver, cedro, sándalo, pachulí, enebro, cardamomo Notas de fondo: Musgo de roble, cuero, ámbar, almizcle, haba tonka",
     "p1": "$80.400"
@@ -5116,7 +5116,7 @@
     "p": 96000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://acdn-us.mitiendanube.com/stores/003/226/824/products/copia-de-6295199801116-2025-12-17t121735-532-8f0f2a388ec0f01bff17659849518139-640-0.webp",
     "nt": "Salida Azafran, manzana, canela Notas de corazón: Cuero, rosa Notas de fondo: Pachulí, musgo, almizcle, papiro de Egipto",
     "p1": "$96.000"
@@ -5506,7 +5506,7 @@
     "p": 89100,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_933770-MLA103897847549_012026-F.webp",
     "nt": "Salida bayas silvestres, cereza, naranja, bergamota Notas de corazón: rosa, flores blancas, vainilla Notas de fondo: notas atalcadas, Almizcle, ambar",
     "p1": "$89.100"
@@ -5753,7 +5753,7 @@
     "p": 109400,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_891912-MLA111632139202_062026-F.webp",
     "nt": "Salida mango, piña, bergamota Notas de corazón: coco Notas de fondo: almizcle, ambar, sandalo, vetiver",
     "p1": "$109.400"
@@ -6195,7 +6195,7 @@
     "p": 84300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_851463-MLA92713637757_092025-F.webp",
     "nt": "—",
     "p1": "$84.300"
@@ -6403,7 +6403,7 @@
     "p": 76600,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_974685-MLU74971100702_032024-F.webp",
     "nt": "Salida caramelo, azafran Notas de corazón: gamuza, cuero, haba tonka Notas de fondo: vainilla, ambar, almizcle",
     "p1": "$76.600"
