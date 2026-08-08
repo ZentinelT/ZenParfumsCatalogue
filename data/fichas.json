@@ -927,36 +927,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Hala | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Ámbar, Fesco especiado, Amaderado, Ahumado, Cálido especiado, Balsámico",
-    "inspirado_en": "Réplica espectacular, densa y de una fidelidad impresionante de uno de los perfumes de nicho más sagrados, elogiados y místicos de la casa francesa. Captura a la perfección ese ADN majestuoso que gira en torno a un incienso ahumado de ultra lujo, entrelazado con la rigidez seca de la madera de cedro y la densidad balsámica y melosa del ládano. Una pócima imponente que grita madurez, autoridad, misterio absoluto y un estatus social muy superior.",
-    "notas_salida": "pimienta, nuez moscada",
-    "notas_corazon": "cedro, ambar",
-    "notas_fondo": "incienso, ladano",
-    "descripcion": "La definición líquida del misterio, la opulencia de la perfumería de autor y el magnetismo de Montale. Lattafa Hala abre con un impacto imponente y oscuro de pimienta negra y el calor sofisticado de la nuez moscada, rompiendo los esquemas tradicionales desde el primer segundo. Rápidamente, la fragancia evoluciona hacia su corazón más majestuoso, donde la robustez seca de la madera de cedro se funde con la calidez dorada del ámbar. Su secado en la piel es un despliegue eterno, místico y sumamente carísimo, dominado por el velo ahumado del incienso sagrado y la densidad balsámica del ládano, dejando una estela flotante que transmite autoridad, éxito y un carisma sencillamente hipnótico.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos formales, cenas de gala, salidas nocturnas finas, citas donde quieras proyectar madurez y seguridad, o cualquier situación donde quieras oler radicalmente diferente, misterioso y costoso",
-    "clima": "Frío extremo / Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Excelente rendimiento (9h+ - 10h+)",
-    "estela": "Intensa",
-    "color_liquido": "Translúcido con sutiles reflejos ámbar",
-    "rango_edad_min": 25,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Diseñado para hombres y mujeres de personalidad fuerte, elegantes, decididos y detallistas que buscan un perfume de firma maduro, oscuro o nocturno que se despegue por completo de los aromas dulces o cítricos del montón. Es la pócima perfecta para el cliente de facha impecable que quiere un aroma que imponga respeto, transmita misterio y huela a pura perfumería de nicho costosa.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9556.2x.avif",
-    "inspirado_en_nombre": "Full Incense de Montale",
-    "inspiraciones": [
-      {
-        "texto": "Réplica espectacular, densa y de una fidelidad impresionante de uno de los perfumes de nicho más sagrados, elogiados y místicos de la casa francesa. Captura a la perfección ese ADN majestuoso que gira en torno a un incienso ahumado de ultra lujo, entrelazado con la rigidez seca de la madera de cedro y la densidad balsámica y melosa del ládano. Una pócima imponente que grita madurez, autoridad, misterio absoluto y un estatus social muy superior.",
-        "nombre": "Full Incense de Montale",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9556.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Rasasi - Hawas For Him | EDP | 100ml",
     "marca": "Rasasi — Dubai",
     "familia_olfativa": "Aromático Frutal / Acuático — DNA Invictus Aqua",
@@ -1043,6 +1013,37 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Hala | EDP",
+    "marca": "LATTAFA",
+    "genero": "Unisex",
+    "familia_olfativa": "Ámbar, Fesco especiado, Amaderado, Ahumado, Cálido especiado, Balsámico",
+    "inspirado_en": "Réplica espectacular, densa y de una fidelidad impresionante de uno de los perfumes de nicho más sagrados, elogiados y místicos de la casa francesa. Captura a la perfección ese ADN majestuoso que gira en torno a un incienso ahumado de ultra lujo, entrelazado con la rigidez seca de la madera de cedro y la densidad balsámica y melosa del ládano. Una pócima imponente que grita madurez, autoridad, misterio absoluto y un estatus social muy superior.",
+    "notas_salida": "pimienta, nuez moscada",
+    "notas_corazon": "cedro, ambar",
+    "notas_fondo": "incienso, ladano",
+    "descripcion": "La definición líquida del misterio, la opulencia de la perfumería de autor y el magnetismo de Montale. Lattafa Hala abre con un impacto imponente y oscuro de pimienta negra y el calor sofisticado de la nuez moscada, rompiendo los esquemas tradicionales desde el primer segundo. Rápidamente, la fragancia evoluciona hacia su corazón más majestuoso, donde la robustez seca de la madera de cedro se funde con la calidez dorada del ámbar. Su secado en la piel es un despliegue eterno, místico y sumamente carísimo, dominado por el velo ahumado del incienso sagrado y la densidad balsámica del ládano, dejando una estela flotante que transmite autoridad, éxito y un carisma sencillamente hipnótico.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos formales, cenas de gala, salidas nocturnas finas, citas donde quieras proyectar madurez y seguridad, o cualquier situación donde quieras oler radicalmente diferente, misterioso y costoso",
+    "clima": "Frío extremo / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excelente rendimiento (9h+ - 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Translúcido con sutiles reflejos ámbar",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Diseñado para hombres y mujeres de personalidad fuerte, elegantes, decididos y detallistas que buscan un perfume de firma maduro, oscuro o nocturno que se despegue por completo de los aromas dulces o cítricos del montón. Es la pócima perfecta para el cliente de facha impecable que quiere un aroma que imponga respeto, transmita misterio y huela a pura perfumería de nicho costosa.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9556.2x.avif",
+    "inspirado_en_nombre": "Full Incense de Montale",
+    "inspiraciones": [
+      {
+        "texto": "Réplica espectacular, densa y de una fidelidad impresionante de uno de los perfumes de nicho más sagrados, elogiados y místicos de la casa francesa. Captura a la perfección ese ADN majestuoso que gira en torno a un incienso ahumado de ultra lujo, entrelazado con la rigidez seca de la madera de cedro y la densidad balsámica y melosa del ládano. Una pócima imponente que grita madurez, autoridad, misterio absoluto y un estatus social muy superior.",
+        "nombre": "Full Incense de Montale",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9556.2x.avif"
       }
     ]
   },
@@ -1830,6 +1831,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Bade'e Al Oud For Glory | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Oud / Profundo",
+    "inspirado_en": "Initio Oud for Greatness (clone reconocido — 8h longevidad)",
+    "notas_salida": "Azafrán, incienso, pimienta",
+    "notas_corazon": "Oud, madera de oud, pachulí",
+    "notas_fondo": "Ámbar, benjuí, almizcle",
+    "descripcion": "Oud profundo y oscuro con azafrán. Clone del Oud for Greatness de Initio. Intenso, resinoso, árabe puro.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos, gala, nocturno",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Larga (8h)",
+    "estela": "Intensa",
+    "color_liquido": "Marrón oscuro / oud",
+    "perfil_usuario": "Hombres 25-55 años. Amantes del oud profundo y oscuro.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Hombres Amantes del oud profundo y oscuro.",
+    "inspirado_en_nombre": "Initio Oud for Greatness",
+    "inspiraciones": [
+      {
+        "texto": "Initio Oud for Greatness (clone reconocido — 8h longevidad)",
+        "nombre": "Initio Oud for Greatness",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - Opulence Dubai | EDP | 100 ml |",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Frutal Floral / Mango Jazmín",
@@ -2118,6 +2150,38 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Your Touch Amber | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "anno": "2024",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental",
+    "inspirado_en": "Réplica cálida, rica y sumamente fiel de una de las variaciones más exclusivas, codiciadas y sofisticadas del universo Stronger With You. Captura a la perfección ese adictivo ADN de \"árbol de ámbar bañado en vainilla gourmand con lavanda pulcra\", entregando una alternativa accesible con una fijación y un aura envolvente de primer nivel.",
+    "notas_salida": "Lavanda",
+    "notas_corazon": "Ámbar",
+    "notas_fondo": "Vainilla",
+    "descripcion": "La definición en perfume de una noche de abrigo, una cita íntima y la elegancia ambarada. Maison Alhambra Your Touch Amber abre con un impacto limpio, sereno y muy refinado de lavanda aromática. En cuestión de minutos pisa el acelerador de la seducción, desplegando su faceta más elogiada: un corazón denso, tibio y dorado de ámbar resinoso que llena el aire de sofisticación. Su evolución final en la piel es un secado cremoso, dulce y profundamente sexy, donde la suavidad de la vainilla abraza el ámbar hasta el final, dejando un rastro flotante que invita a acortar distancias y cosecha cumplidos a cada paso.",
+    "momento_dia": "Tarde, Noche",
+    "estacion": "Primavera, Otoño, Invierno",
+    "ocasion": "Citas románticas, cenas elegantes, salidas nocturnas, reuniones sociales de perfil alto o uso diario en días fríos.",
+    "clima": "Frío / Templado-Frío",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado cálido traslúcido",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex con inclinación masculina de perfil alto. Diseñado para personas elegantes, seguras de sí mismas, románticas y amantes de las fragancias cálidas, dulces y ambaradas de gran presencia. Es la opción perfecta para quienes buscan un aroma de firma nocturno, acogedor y distinguido.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.79699.2x.avif",
+    "inspirado_en_nombre": "Emporio Armani - Stronger With You Amber",
+    "inspiraciones": [
+      {
+        "texto": "Réplica cálida, rica y sumamente fiel de una de las variaciones más exclusivas, codiciadas y sofisticadas del universo Stronger With You. Captura a la perfección ese adictivo ADN de \"árbol de ámbar bañado en vainilla gourmand con lavanda pulcra\", entregando una alternativa accesible con una fijación y un aura envolvente de primer nivel.",
+        "nombre": "Emporio Armani - Stronger With You Amber",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.79699.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AFNAN - Supremacy Collector's Edition | EDP",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "genero": "Masculino",
@@ -2260,6 +2324,34 @@
         "texto": "Emporio Armani Stronger With You",
         "nombre": "Emporio Armani Stronger With You",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
+    "genero": "Masculino",
+    "familia_olfativa": "Afrutados, Amaderado, Fresco, Ámbar, Atalcado, ozonico, Acuático, Verde, Cítrico, Salado",
+    "inspirado_en": "Réplica y evolución del concepto frutal-marino dulce más codiciado de la perfumería moderna. Eleva al máximo exponente el perfil de \"fruta jugosa tropical con brisa salina y ámbar caliente\", entregando una proyección y una duración en \"Modo Bestia\" que desafían a cualquier perfume de diseñador convencional.",
+    "notas_salida": "melon, durazno, manzana, bergamota",
+    "notas_corazon": "ambar, sal de mar, cedro, lirio de los valles",
+    "notas_fondo": "ambar, sandalo, pachuli, musgo",
+    "descripcion": "La definición en perfume de la fiesta estival, la dulzura tropical y el rendimiento atómico. Dumont Nitro Red Intensely abre con una ráfaga vibrante, dulzona y ultra jugosa de melón maduro y durazno abrazados por manzana crujiente. En cuestión de minutos despliega su faceta más elogiada: un corazón acuático-salino donde la sal de mar choca contra el ámbar y la madera de cedro, creando una sensación de piel bronceada en la costa. Su evolución final en la piel es un secado caliente, amaderado y profundamente sexy, donde el sándalo cremoso, el pachulí y el musgo sostienen la dulzura del ámbar durante horas, dejando una estela expansiva que domina cualquier habitación.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Fiestas, boliche, salidas con amigos, citas informales, eventos al aire libre o situaciones donde se busquen cumplidos inmediatos.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Monumental (10h a 12h+)",
+    "estela": "Nuclear",
+    "color_liquido": "Transparente traslúcido",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Unisex con inclinación masculina de perfil alto. Diseñado para personas jóvenes, extrovertidas, seguras de sí mismas y amantes de las fragancias dulces, frutales y potentes que no quieren pasar desapercibidas bajo ninguna circunstancia. Es el perfume definitivo para boliche, salidas nocturnas o momentos donde el objetivo sea destacar y arrasar con los cumplidos.",
+    "inspirado_en_nombre": "Híbrido de Alto Impacto (Rasasi Hawas + Paco Rabanne Invictus Aqua + Matices Ambarados)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica y evolución del concepto frutal-marino dulce más codiciado de la perfumería moderna. Eleva al máximo exponente el perfil de \"fruta jugosa tropical con brisa salina y ámbar caliente\", entregando una proyección y una duración en \"Modo Bestia\" que desafían a cualquier perfume de diseñador convencional.",
+        "nombre": "Híbrido de Alto Impacto (Rasasi Hawas + Paco Rabanne Invictus Aqua + Matices Ambarados)"
       }
     ]
   },
@@ -4872,31 +4964,34 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Bade'e Al Oud Noble Blush | EDP | 100 ml",
+    "nombre_completo": "LATTAFA - Bade'e Al Oud Noble Blush | EDP",
     "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
     "familia_olfativa": "Floral Vainilla / Rosa Lechosa",
-    "inspirado_en": "DNA rosa-almendra-leche (similar a Delina Exclusif de PDM pero más lechoso)",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes gourmand lactónicos de nicho más aclamados, virales y codiciados de Italia. Captura a la perfección ese codiciado ADN de \"leche de rosas, merengue de alta repostería, almendra cremosa y sándalo afelpado\", permitiendo disfrutar de una obra maestra de autor por una fracción de su costo original.",
     "notas_salida": "Leche de rosa (Rose Milk)",
     "notas_corazon": "Almendra, merengue",
     "notas_fondo": "Vainilla, sándalo, almizcle",
-    "descripcion": "Rosa cremosa con almendra y leche. Muy larga duración en ropa (días). Proyección moderada que se convierte en skin scent pasadas las 4h, pero la estela persiste.",
+    "descripcion": "La definición en perfume del lujo de autor italiano, la delicadeza lactónica y la dulzura gourmand. Lattafa Bade'e Al Oud Noble Blush abre con una caricia sedosa y reconfortante de leche de rosas recién servida. En cuestión de minutos despliega su faceta más golosa: un corazón de merengue suave batido con almendras molidas que crea una burbuja olfativa tibia y deliciosamente adictiva. Su evolución final en la piel es un secado cremoso, dulce y profundamente sexy, donde la riqueza de la vainilla se abraza con la textura aterciopelada del sándalo y el almizcle, dejando una estela flotante que evoca alta alcurnia, distinción y ternura.",
     "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Cotidiano, trabajo, salidas",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Muy larga en ropa",
-    "color_liquido": "Rosado pastel",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas casuales elegantes, eventos informales, uso diario para destacar o momentos donde el objetivo sea transmitir calidez y dulzura de autor.",
+    "clima": "Frío / Templado / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente traslúcido",
     "perfil_usuario": "Mujeres 20-45 años. Femeninas, rosadas, elegantes.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres Femeninas, rosadas, elegantes.",
-    "inspirado_en_nombre": "DNA rosa-almendra-leche",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino / Unisex Gourmand de perfil alto. Diseñado para personas amantes de las fragancias dulces, cremosas, lactónicas y con personalidad propia que buscan perfumería de nicho. Es la elección perfecta para quienes quieren un aroma de firma acogedor, diferente, chic y sumamente magnético.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.119724.2x.avif",
+    "inspirado_en_nombre": "Pink Milk de Lorenzo Pazzaglia",
     "inspiraciones": [
       {
-        "texto": "DNA rosa-almendra-leche (similar a Delina Exclusif de PDM pero más lechoso)",
-        "nombre": "DNA rosa-almendra-leche",
-        "imagen_url": ""
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes gourmand lactónicos de nicho más aclamados, virales y codiciados de Italia. Captura a la perfección ese codiciado ADN de \"leche de rosas, merengue de alta repostería, almendra cremosa y sándalo afelpado\", permitiendo disfrutar de una obra maestra de autor por una fracción de su costo original.",
+        "nombre": "Pink Milk de Lorenzo Pazzaglia",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.119724.2x.avif"
       }
     ]
   },
@@ -9132,36 +9227,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Bade'e Al Oud For Glory | EDP | 100 ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Oriental Oud / Profundo",
-    "inspirado_en": "Initio Oud for Greatness (clone reconocido — 8h longevidad)",
-    "notas_salida": "Azafrán, incienso, pimienta",
-    "notas_corazon": "Oud, madera de oud, pachulí",
-    "notas_fondo": "Ámbar, benjuí, almizcle",
-    "descripcion": "Oud profundo y oscuro con azafrán. Clone del Oud for Greatness de Initio. Intenso, resinoso, árabe puro.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos, gala, nocturno",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Larga (8h)",
-    "estela": "Intensa",
-    "color_liquido": "Marrón oscuro / oud",
-    "perfil_usuario": "Hombres 25-55 años. Amantes del oud profundo y oscuro.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres Amantes del oud profundo y oscuro.",
-    "inspirado_en_nombre": "Initio Oud for Greatness",
-    "inspiraciones": [
-      {
-        "texto": "Initio Oud for Greatness (clone reconocido — 8h longevidad)",
-        "nombre": "Initio Oud for Greatness",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Calvin Klein - CK Be | EDT | 200ml",
     "marca": "Calvin Klein — USA",
     "anno": "1996",
@@ -10543,33 +10608,7 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Mayar Cherry Intense | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "familia_olfativa": "Frutal Floral / Cereza Intensa",
-    "inspirado_en": "Tom Ford Lost Cherry (DNA cereza-almendra-vainilla)",
-    "notas_salida": "Cereza",
-    "notas_corazon": "Frutos Rojos, flores",
-    "notas_fondo": "Vainilla, almizcle",
-    "descripcion": "Cereza dulce e intensa con flores. Gourmand-frutal femenino. Vibrante y festivo.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "color_liquido": "Rojo",
-    "perfil_usuario": "Mujeres 18-35 años. Cerezas, festivas.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Cerezas, festivas.",
-    "inspirado_en_nombre": "Tom Ford Lost Cherry",
-    "inspiraciones": [
-      {
-        "texto": "Tom Ford Lost Cherry (DNA cereza-almendra-vainilla)",
-        "nombre": "Tom Ford Lost Cherry",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "ZIMAYA - Tiramisu Coco | EDP | 100ml",
+    "nombre_completo": "ZIMAYA - Tiramisu Coco | EDP",
     "marca": "Zimaya — UAE",
     "genero": "Unisex",
     "familia_olfativa": "Dulce, Avainillado, Almendrado, Café, Afrutados, Cálido especiado",
@@ -10594,6 +10633,32 @@
       {
         "texto": "Amore Caffè Mancera",
         "nombre": "Mancera Amore Caffè",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "Lattafa - Mayar Cherry Intense | EDP | 100ml",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Floral / Cereza Intensa",
+    "inspirado_en": "Tom Ford Lost Cherry (DNA cereza-almendra-vainilla)",
+    "notas_salida": "Cereza",
+    "notas_corazon": "Frutos Rojos, flores",
+    "notas_fondo": "Vainilla, almizcle",
+    "descripcion": "Cereza dulce e intensa con flores. Gourmand-frutal femenino. Vibrante y festivo.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "color_liquido": "Rojo",
+    "perfil_usuario": "Mujeres 18-35 años. Cerezas, festivas.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres Cerezas, festivas.",
+    "inspirado_en_nombre": "Tom Ford Lost Cherry",
+    "inspiraciones": [
+      {
+        "texto": "Tom Ford Lost Cherry (DNA cereza-almendra-vainilla)",
+        "nombre": "Tom Ford Lost Cherry",
         "imagen_url": ""
       }
     ]
@@ -12675,6 +12740,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Sakeena | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal / Maracuyá Vainilla",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Maracuyá, frambuesa, bergamota",
+    "notas_corazon": "Vainilla, flores, rosa",
+    "notas_fondo": "Almizcle, ámbar, madera de cachemira",
+    "descripcion": "Maracuyá tropical y frambuesa con vainilla. Dulce y femenino. Accesible y alegre.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, cotidiano",
+    "clima": "Calor / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "estela": "Moderada",
+    "color_liquido": "Rosado / coral",
+    "perfil_usuario": "Mujeres 18-35 años. Tropicales, dulces, alegres.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres Tropicales, dulces, alegres.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - Musamam White Intense | EDP | 100 Ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Floral Coco / Oriental Suave",
@@ -12695,36 +12791,6 @@
     "rango_edad_min": 20,
     "rango_edad_max": 40,
     "estilo_descripcion": "Mujeres y hombres Coco, tropicales, suaves.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Sakeena | EDP | 100 Ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Frutal / Maracuyá Vainilla",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Maracuyá, frambuesa, bergamota",
-    "notas_corazon": "Vainilla, flores, rosa",
-    "notas_fondo": "Almizcle, ámbar, madera de cachemira",
-    "descripcion": "Maracuyá tropical y frambuesa con vainilla. Dulce y femenino. Accesible y alegre.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, cotidiano",
-    "clima": "Calor / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Rosado / coral",
-    "perfil_usuario": "Mujeres 18-35 años. Tropicales, dulces, alegres.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Tropicales, dulces, alegres.",
     "inspirado_en_nombre": "Composición propia",
     "inspiraciones": [
       {
@@ -13564,37 +13630,6 @@
     ]
   },
   {
-    "nombre_completo": "Versace - Eros | EDP | 100 ml",
-    "marca": "Versace — Italia",
-    "anno": "2012",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental Fougère / Menta Vainilla",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Menta, manzana verde, limón",
-    "notas_corazon": "Haba tonka, geranio, flor de ambrette",
-    "notas_fondo": "Cedro, ámbar, almizcle blanco, musgo de roble, vainilla",
-    "descripcion": "Menta fresca sobre vainilla y tonka. Dulce-fresco masculino. Muy popular y reconocible. Polarizador. Buena longevidad. El Eros EDP es más concentrado y dulce que el EDT.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, trabajo, cualquier ocasión",
-    "clima": "Todo",
-    "proyeccion": "Alta",
-    "duracion": "Larga",
-    "estela": "Intensa",
-    "color_liquido": "Azul cobalto",
-    "perfil_usuario": "Hombres 18-40 años. Jóvenes, cotidianos.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Jóvenes, cotidianos.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "ARMAF - Club De Nuit Urban Man | EDP | 100ml",
     "genero": "Masculino",
     "familia_olfativa": "Amaderado, Fesco especiado, Aromático, Cítrico, Cálido especiado, Terrosos, Verde, Pachulí, Lavanda, atalcado.",
@@ -13650,6 +13685,37 @@
       {
         "texto": "Versace Pour Femme Dylan Blue",
         "nombre": "Versace Pour Femme Dylan Blue",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VERSACE - Eros | EDP",
+    "marca": "Versace — Italia",
+    "anno": "2012",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Fougère / Menta Vainilla",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Menta, manzana verde, limón",
+    "notas_corazon": "Haba tonka, geranio, flor de ambrette",
+    "notas_fondo": "Cedro, ámbar, almizcle blanco, musgo de roble, vainilla",
+    "descripcion": "Menta fresca sobre vainilla y tonka. Dulce-fresco masculino. Muy popular y reconocible. Polarizador. Buena longevidad. El Eros EDP es más concentrado y dulce que el EDT.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Casual, trabajo, cualquier ocasión",
+    "clima": "Todo",
+    "proyeccion": "Alta",
+    "duracion": "Larga",
+    "estela": "Intensa",
+    "color_liquido": "Azul cobalto",
+    "perfil_usuario": "Hombres 18-40 años. Jóvenes, cotidianos.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres Jóvenes, cotidianos.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -14612,30 +14678,6 @@
       {
         "texto": "Stéphane Humbert Lucas 777 God of Fire",
         "nombre": "Stéphane Humbert Lucas 777 God of Fire",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "MAISON ALHAMBRA - Your Touch Amber | EDP",
-    "marca": "Maison Alhambra — UAE",
-    "anno": "2024",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental",
-    "inspirado_en": "Emporio Armani Stronger With You (variante ámbar)",
-    "notas_salida": "Lavanda",
-    "notas_corazon": "Ámbar",
-    "notas_fondo": "Vainilla",
-    "descripcion": "Your Touch Amber es una fragancia oriental cálida y sencilla de Maison Alhambra, lanzada en 2024. Abre con lavanda fresca y calmante, evoluciona hacia un corazón de ámbar luminoso y concluye con vainilla cremosa. Lineal y reconfortante, ideal para quienes buscan un aroma discreto pero magnético.",
-    "momento_dia": "Día, Noche",
-    "estacion": "Primavera, Otoño, Invierno",
-    "proyeccion": "Moderada",
-    "duracion": "Larga (6-8 horas)",
-    "inspirado_en_nombre": "Emporio Armani Stronger With You",
-    "inspiraciones": [
-      {
-        "texto": "Emporio Armani Stronger With You (variante ámbar)",
-        "nombre": "Emporio Armani Stronger With You",
         "imagen_url": ""
       }
     ]
