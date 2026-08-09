@@ -3481,6 +3481,36 @@
     ]
   },
   {
+    "nombre_completo": "DOLCE & GABBANA - Light Blue Pour Homme EDT 125ML | EDP",
+    "concentracion": "EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Acuático / Cítrico Siciliano",
+    "inspirado_en": "Representa el estándar de oro de la perfumería cítrico-aromática fresca. Su estela combina la luminosidad solar de los cítricos italianos con el carácter herbal del romero y la fijación pulcra del musgo y el incienso, siendo el punto de comparación para decenas de fragancias veraniegas en todo el mundo.",
+    "notas_salida": "Pomelo, bergamota, mandarina, enebro",
+    "notas_corazon": "Pimienta, romero, rosa",
+    "notas_fondo": "Almizcle, incienso, musgo de roble",
+    "descripcion": "La definición en perfume del verano italiano, la sensualidad relajada y el dinamismo refinado. Dolce & Gabbana Light Blue Pour Homme abre con un estallido efervescente y helado de pomelo recién exprimido, mandarina y bergamota. En cuestión de minutos despliega su faceta más elogiada: un corazón donde el romero fresco choca con la pimienta y el palo de rosa en un ambiente marino. Su evolución final en la piel es un secado limpio, cálido y sumamente seductor, donde el almizcle blanco y el musgo de roble se abrazan con un soplo de incienso, dejando un rastro de frescura y pulcritud irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso profesional diario, salidas casuales, actividades deportivas, paseos de fin de semana o situaciones donde el objetivo sea transmitir limpieza y frescura.",
+    "clima": "Cálido / Muy Caluroso / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Moderado-Alto (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Hombres de todas las edades. El fresquito clásico universal. Para todos.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, deportistas, dinámicos, seguros de sí mismos y amantes de los perfumes limpios, frescos y luminosos. Es la elección perfecta para quienes buscan un aroma de firma versátil para el día a día, días calurosos o momentos de relax sin perder la elegancia.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa de Cítricos Frescos de Lujo",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar de oro de la perfumería cítrico-aromática fresca. Su estela combina la luminosidad solar de los cítricos italianos con el carácter herbal del romero y la fijación pulcra del musgo y el incienso, siendo el punto de comparación para decenas de fragancias veraniegas en todo el mundo.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa de Cítricos Frescos de Lujo"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Yeah Man | EDP | 100ml",
     "marca": "Maison Alhambra — UAE",
     "anno": "2023",
@@ -3541,6 +3571,38 @@
         "texto": "Creed Green Irish Tweed (muy cercano, mejor longevidad que el original)",
         "nombre": "Creed Green Irish Tweed",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "DOLCE & GABBANA - Light Blue Pour Homme | EDT",
+    "marca": "Dolce & Gabbana — Italia",
+    "anno": "2007",
+    "concentracion": "EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Acuático / Cítrico Siciliano",
+    "inspirado_en": "Representa el estándar de oro de la perfumería cítrico-aromática fresca. Su estela combina la luminosidad solar de los cítricos italianos con el carácter herbal del romero y la fijación pulcra del musgo y el incienso, siendo el punto de comparación para decenas de fragancias veraniegas en todo el mundo.",
+    "notas_salida": "Pomelo, bergamota, mandarina, enebro",
+    "notas_corazon": "Pimienta, romero, rosa",
+    "notas_fondo": "Almizcle, incienso, musgo de roble",
+    "descripcion": "La definición en perfume del verano italiano, la sensualidad relajada y el dinamismo refinado. Dolce & Gabbana Light Blue Pour Homme abre con un estallido efervescente y helado de pomelo recién exprimido, mandarina y bergamota. En cuestión de minutos despliega su faceta más elogiada: un corazón donde el romero fresco choca con la pimienta y el palo de rosa en un ambiente marino. Su evolución final en la piel es un secado limpio, cálido y sumamente seductor, donde el almizcle blanco y el musgo de roble se abrazan con un soplo de incienso, dejando un rastro de frescura y pulcritud irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso profesional diario, salidas casuales, actividades deportivas, paseos de fin de semana o situaciones donde el objetivo sea transmitir limpieza y frescura.",
+    "clima": "Cálido / Muy Caluroso / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Moderado-Alto (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Hombres de todas las edades. El fresquito clásico universal. Para todos.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, deportistas, dinámicos, seguros de sí mismos y amantes de los perfumes limpios, frescos y luminosos. Es la elección perfecta para quienes buscan un aroma de firma versátil para el día a día, días calurosos o momentos de relax sin perder la elegancia.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa de Cítricos Frescos de Lujo",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar de oro de la perfumería cítrico-aromática fresca. Su estela combina la luminosidad solar de los cítricos italianos con el carácter herbal del romero y la fijación pulcra del musgo y el incienso, siendo el punto de comparación para decenas de fragancias veraniegas en todo el mundo.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa de Cítricos Frescos de Lujo"
       }
     ]
   },
@@ -13908,36 +13970,6 @@
       {
         "texto": "Bvlgari Falkar",
         "nombre": "Bvlgari Falkar",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Dolce & Gabbana - Light Blue Pour Homme | EDT | 100 ml",
-    "marca": "Dolce & Gabbana — Italia",
-    "anno": "2007",
-    "concentracion": "EDT",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático Acuático / Cítrico Siciliano",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Pomelo, bergamota, mandarina, enebro",
-    "notas_corazon": "Pimienta, romero, rosa",
-    "notas_fondo": "Almizcle, incienso, musgo de roble",
-    "descripcion": "Cítrico siciliano brillante con mar mediterráneo. Uno de los más vendidos del mundo. Fresco y universal. Evoca verano en Sicilia.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, trabajo, playa, cotidiano",
-    "clima": "Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media (EDT)",
-    "estela": "Moderada",
-    "color_liquido": "Azul claro",
-    "perfil_usuario": "Hombres de todas las edades. El fresquito clásico universal. Para todos.",
-    "estilo_descripcion": "Hombres de todas las edades. El fresquito clásico universal. Para todos.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
         "imagen_url": ""
       }
     ]
