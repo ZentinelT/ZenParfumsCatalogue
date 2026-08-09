@@ -60,21 +60,6 @@
     ]
   },
   {
-    "nombre_completo": "Afnan - 9pm Black KIT | EDP | 100ml",
-    "marca": "Afnan Perfumes",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental Especiada",
-    "notas_salida": "Cardamomo, manzana, bergamota",
-    "notas_corazon": "Lavanda, flor de azahar, lirio de los valles",
-    "notas_fondo": "Vainilla, haba tonka, ámbar, pachulí",
-    "descripcion": "Kit completo del Afnan 9PM Black, versión nocturna del clásico 9PM. Fragancia oriental especiada intensa y seductora para hombre, ideal para noches y ocasiones especiales. El kit incluye el perfume en su versión más oscura e intensa.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño, Invierno",
-    "proyeccion": "Fuerte",
-    "duracion": "Larga (6-8 horas)",
-    "inspiraciones": []
-  },
-  {
     "nombre_completo": "RAYHAAN - Wolf | EDP",
     "marca": "RAYHAAN",
     "genero": "Masculino",
@@ -103,6 +88,21 @@
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66826.2x.avif"
       }
     ]
+  },
+  {
+    "nombre_completo": "AFNAN - 9pm Black KIT | EDP | 100ml",
+    "marca": "Afnan Perfumes",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Especiada",
+    "notas_salida": "Cardamomo, manzana, bergamota",
+    "notas_corazon": "Lavanda, flor de azahar, lirio de los valles",
+    "notas_fondo": "Vainilla, haba tonka, ámbar, pachulí",
+    "descripcion": "Kit completo del Afnan 9PM Black, versión nocturna del clásico 9PM. Fragancia oriental especiada intensa y seductora para hombre, ideal para noches y ocasiones especiales. El kit incluye el perfume en su versión más oscura e intensa.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño, Invierno",
+    "proyeccion": "Fuerte",
+    "duracion": "Larga (6-8 horas)",
+    "inspiraciones": []
   },
   {
     "nombre_completo": "Rayhaan - Lion | EDP | 100ml",
@@ -901,7 +901,7 @@
     "familia_olfativa": "Aromático Especiado / DNA Azul profundo",
     "inspirado_en": "Réplica espectacular y ultra fiel avalada por el voto masivo de la comunidad global en Fragrantica. Captura a la perfección el aura moderna, sensual y ultra masculina del éxito de Versace, cruzando el chispazo cítrico de la toronja y la pimienta con un fondo pesado de pachulí y ámbar gris. Un aroma todoterreno que derrocha facha, pulcritud y un sex appeal tremendo que no falla jamás.",
     "notas_salida": "pomelo, pimienta rosa, enebro, cardamomo",
-    "notas_corazon": "bergamota de Calabria, cedro, nuez moscada, jazmín",
+    "notas_corazon": "Bergamota, cedro, nuez moscada, jazmín",
     "notas_fondo": "ámbar gris, manzana, almizcle, pachulí",
     "descripcion": "La definición perfecta de la masculinidad moderna, la versatilidad total y el encanto de Versace. Historic Olmeda abre con un impacto cítrico y electrizante de toronja madura sacudida por el chispazo seductor de la pimienta rosa y la frescura del enebro. En su corazón, la fragancia saca a relucir su costado más elegante gracias a la firmeza del cedro y el toque especiado de la nuez moscada. Su evolución final es un secado majestuoso y carísimo, donde el pachulí oscuro y el poder molecular del ámbar gris se funden con un almizcle limpio y la vibración crujiente de la manzana verde, dejando en el aire una estela azul, densa, ultra limpia y con un magnetismo arrollador.",
     "momento_dia": "Día / Tarde / Noche",
@@ -1347,22 +1347,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Asad Kit | 2x100ml | EDP |",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Masculino",
-    "notas_salida": "Contiene 2 perfumes de 100ml: Asad Black  Asad Zanzibar",
-    "descripcion": "Kit regalo con dos botellas de 100ml Asad EDP. Ver ficha individual: Lattafa - Asad Black.",
-    "inspiraciones": []
-  },
-  {
-    "nombre_completo": "Lattafa - Badee Al Oud Kit | 4x25ml | EDP |",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "notas_salida": "Contiene 4 perfumes de 25ml | EDP |: Bade'e Al Oud For Glory Bade'e Al Oud Honor & Glory Bade'e Al Oud Noble Blush Bade'e Al Oud Sublime",
-    "descripcion": "Kit regalo con cuatro miniaturas de 25ml de la línea Badee Al Oud. Ver fichas individuales de cada variante.",
-    "inspiraciones": []
-  },
-  {
     "nombre_completo": "Lattafa - Hayaati Black | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Floral / Rosa Sándalo",
@@ -1423,35 +1407,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Khamrah Dukhan| EDP | 100 Ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Oriental Ahumado / Tabaco Oscuro",
-    "inspirado_en": "Khamrah + tabaco/incienso añadido — más masculino y refinado",
-    "notas_salida": "pimienta, especias, mandarina",
-    "notas_corazon": "incienso, ládano, flor de azahar, pachuli",
-    "notas_fondo": "praline, tabaco, ambar, haba tonka, benjuí",
-    "descripcion": "Khamrah pero más oscuro, ahumado y tabacoso. El más sofisticado y refinado de los tres Khamrah. \"Dukhan\" significa humo en árabe. Menos dulce que el OG, más complejo y masculino. Longevidad 12-16h+ (el más potente de la familia).",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas especiales, eventos, nocturno",
-    "clima": "Frío",
-    "duracion": "Extrema (12-16h piel)",
-    "estela": "Nuclear",
-    "color_liquido": "Negro / marrón muy oscuro",
-    "perfil_usuario": "Hombres 25-50 años. El Khamrah para quienes quieren algo más oscuro, tabacoso y masculino.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres El Khamrah para quienes quieren algo más oscuro, tabacoso y masculino.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Khamrah + tabaco/incienso añadido — más masculino y refinado",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Maison Alhambra - Floral Profumo | EDP | 100ml",
     "marca": "Maison Alhambra — UAE",
     "genero": "Femenino",
@@ -1502,6 +1457,52 @@
         "texto": "Réplica vibrante, moderna y sumamente fiel de la tendencia frutal-rosa más codiciada y festejada de la perfumería internacional. Captura a la perfección ese adictivo ADN de \"lichi exótico y frambuesa bañados en rosas frescas y un secado dulce afelpado\", entregando una fijación y proyección fantásticas con el sello distintivo de la perfumería árabe.",
         "nombre": "Angel Nova de Mugler",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.61519.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Asad Kit 2x100Ml | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "notas_salida": "Contiene 2 perfumes de 100ml: Asad Black  Asad Zanzibar",
+    "descripcion": "Kit regalo con dos botellas de 100ml Asad EDP. Ver ficha individual: Lattafa - Asad Black.",
+    "inspiraciones": []
+  },
+  {
+    "nombre_completo": "LATTAFA - Badee Al Oud Kit - 4x25ml | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "notas_salida": "Contiene 4 perfumes de 25ml | EDP |: Bade'e Al Oud For Glory Bade'e Al Oud Honor & Glory Bade'e Al Oud Noble Blush Bade'e Al Oud Sublime",
+    "descripcion": "Kit regalo con cuatro miniaturas de 25ml de la línea Badee Al Oud. Ver fichas individuales de cada variante.",
+    "inspiraciones": []
+  },
+  {
+    "nombre_completo": "LATTAFA - Khamrah Dukhan| EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental Ahumado / Tabaco Oscuro",
+    "inspirado_en": "Mantiene la estructura dulce de licor y praliné tan deseada, pero la eleva hacia un terreno de perfumería de nicho más nocturno, misterioso y elegante gracias al acorde ahumado de tabaco e incienso.",
+    "notas_salida": "pimienta, especias, mandarina",
+    "notas_corazon": "incienso, ládano, flor de azahar, pachuli",
+    "notas_fondo": "praline, tabaco, ambar, haba tonka, benjuí",
+    "descripcion": "La definición en perfume del misterio nocturno, la calidez especiada y la seducción ahumada. Lattafa Khamrah Dukhan abre con un impacto cálido y picante de pimiento y especias suavizadas por mandarina. En cuestión de minutos despliega su faceta más magnética: un corazón envuelto en humo de incienso y ládano con dejos de flor de azahar. Su evolución final en la piel es un secado denso, dulce y profundamente sexy, donde el praliné tostado y el tabaco se funden en un abrazo de ámbar y benjuí, dejando una estela inolvidable.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, eventos formales, fiestas nocturnas o uso personal para impacto.",
+    "clima": "Frío / Templado-Frío",
+    "proyeccion": "Beast mode",
+    "duracion": "Monumental (10h a 12h+)",
+    "estela": "Nuclear",
+    "color_liquido": "Ámbar caoba oscuro traslúcido",
+    "perfil_usuario": "Hombres 25-50 años. El Khamrah para quienes quieren algo más oscuro, tabacoso y masculino.",
+    "rango_edad_min": 22,
+    "rango_edad_max": 58,
+    "estilo_descripcion": "Unisex (con inclinación hacia personas que buscan fragancias con carácter y presencia). Diseñado para amantes de los perfumes orientales, cálidos, ahumados y gourmand. Es la opción perfecta para citas, eventos nocturnos o días fríos donde el objetivo sea transmitir autoridad, misterio y elegancia.",
+    "inspirado_en_nombre": "Evolución Ahumada del ADN de Khamrah / Mezcla de Angels' Share con Notas de Incienso & Tabaco de Alta Perfumería.",
+    "inspiraciones": [
+      {
+        "texto": "Mantiene la estructura dulce de licor y praliné tan deseada, pero la eleva hacia un terreno de perfumería de nicho más nocturno, misterioso y elegante gracias al acorde ahumado de tabaco e incienso.",
+        "nombre": "Evolución Ahumada del ADN de Khamrah / Mezcla de Angels' Share con Notas de Incienso & Tabaco de Alta Perfumería."
       }
     ]
   },
@@ -1892,6 +1893,22 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Yara Kit - 2x100ml | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "notas_salida": "Contiene 2 perfumes de 100ml: Yara Rosa Yara Candy",
+    "descripcion": "Kit regalo dos botellas Yara 100ml. Ver ficha individual: Lattafa - Yara.",
+    "inspiraciones": []
+  },
+  {
+    "nombre_completo": "LATTAFA - Yara Kit - 4x25ml | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "notas_salida": "Contiene 4 perfumes de 25ml: Yara Rosa Yara Moi Yara Tous Yara Candy",
+    "descripcion": "Kit regalo cuatro miniaturas 25ml de la línea Yara. Ver fichas individuales Yara.",
+    "inspiraciones": []
+  },
+  {
     "nombre_completo": "AL WATANIAH - Castilla | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Femenino",
@@ -1980,22 +1997,6 @@
         "nombre": "Composición propia"
       }
     ]
-  },
-  {
-    "nombre_completo": "Lattafa - Yara Kit | 4x25ml | EDP |",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "notas_salida": "Contiene 4 perfumes de 25ml: Yara Rosa Yara Moi Yara Tous Yara Candy",
-    "descripcion": "Kit regalo cuatro miniaturas 25ml de la línea Yara. Ver fichas individuales Yara.",
-    "inspiraciones": []
-  },
-  {
-    "nombre_completo": "Lattafa - Yara Kit | 2x100ml | EDP |",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "notas_salida": "Contiene 2 perfumes de 100ml: Yara Rosa Yara Candy",
-    "descripcion": "Kit regalo dos botellas Yara 100ml. Ver ficha individual: Lattafa - Yara.",
-    "inspiraciones": []
   },
   {
     "nombre_completo": "ARMAF - Infinity Gold | EDP",
@@ -2387,6 +2388,36 @@
     ]
   },
   {
+    "nombre_completo": "AFNAN - Turathi Red | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Florales, Rosas, Fresco, Almizclado, Floral blanco, Atalcado, Amaderado",
+    "inspirado_en": "Réplica de alta fidelidad que rinde homenaje a una de las obras maestras amaderadas de rosa más codiciadas, sofisticadas y exclusivas del universo nicho. Captura a la perfección ese codiciado ADN de \"rosa aterciopelada envuelta en maderas nobles, matices frutales de chabacano y una base de almizcle profundo\", entregando una alternativa accesible con un nivel de estatus y elegancia superlativo.",
+    "notas_salida": "rosa, almizcle",
+    "notas_corazon": "rosa, jazmin, maderas",
+    "notas_fondo": "peonia, almizcle, chabacano",
+    "descripcion": "La definición en perfume del lujo de la perfumería francesa de autor, la rosa amaderada y la sofisticación aristocrática. Afnan Turathi Red abre con un impacto radiante y refinado de rosas de jardín matizadas por la suavidad del almizcle. En cuestión de minutos despliega su faceta más aclamada: un corazón majestuoso donde la rosa y el jazmín se entrelazan con la profundidad de las maderas nobles en una armonía de alta costura. Su evolución final en la piel es un secado afelpado, jugoso y profundamente sexy, donde la dulzura terciopelo del chabacano se abraza con la peonía y el almizcle, dejando un rastro flotante que transmite estatus, seducción y un atractivo inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Eventos formales, cenas de gala, reuniones de negocios, citas románticas o situaciones donde el objetivo sea destacar con un perfume de lujo de autor.",
+    "clima": "Templado / Frío / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino traslúcido",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres elegantes, decididas, románticas y amantes de las fragancias de nicho con cuerpo amaderado y floral. Es la pócima perfecta para quienes buscan un aroma de firma de gran presencia, exclusivo y distinguido tanto para el uso profesional como para eventos nocturnos de etiqueta.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.8070.2x.avif",
+    "inspirado_en_nombre": "Rose Oud de By Kilian",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde homenaje a una de las obras maestras amaderadas de rosa más codiciadas, sofisticadas y exclusivas del universo nicho. Captura a la perfección ese codiciado ADN de \"rosa aterciopelada envuelta en maderas nobles, matices frutales de chabacano y una base de almizcle profundo\", entregando una alternativa accesible con un nivel de estatus y elegancia superlativo.",
+        "nombre": "Rose Oud de By Kilian",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.8070.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Pride Art Of Wood | EDP",
     "marca": "LATTAFA",
     "genero": "Masculino",
@@ -2535,6 +2566,67 @@
         "texto": "Réplica monumental, audaz y de una fidelidad espectacular de uno de los perfumes de ultra nicho franceses más exclusivos, caros y codiciados por los amantes de la distinción. Captura a la perfección ese ADN legendario que evoca la libertad, el viento y la elegancia clásica mediante el combo de esclarea herbal, naranja y vetiver, pero potenciado magistralmente por la casa árabe con un corazón molecular de ambroxan, cachemira y frambuesa. Una pócima de puro estatus diseñada para quienes buscan un aroma único que grite facha, originalidad y éxito casual.",
         "nombre": "Isle of Man de Frapin (Francia)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.47330.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "AL WATANIAH - Ameeri | Extrait De Parfum",
+    "genero": "Masculino",
+    "familia_olfativa": "Afrutados, Florales, Floral blanco, Fresco, Dulce, Verde, Cítrico, Amaderado, Atalcado, Especiado suave",
+    "inspirado_en": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes frescos y aromáticos más codiciados, versátiles y aclamados de la perfumería de lujo. Captura a la perfección ese codiciado ADN de \"frescura azul refinada, cítricos efervescentes, manzana crujiente y maderas nobles de estatus\", entregando una alternativa accesible con un rendimiento en concentración Extrait De Parfum de nivel superlativo.",
+    "notas_salida": "toronja, manzana verde, lila, fresia, moras azules",
+    "notas_corazon": "te chino, nectarina, azucena, madreselva",
+    "notas_fondo": "secuoya roja, orquidea, vainilla, ciruela, almizcle, enebro",
+    "descripcion": "La definición en perfume de la frescura aristocrática, el atractivo limpio y la masculinidad moderna. Al Wataniah Ameeri abre con una ráfaga vibrante y jugosa de pomelo, manzana verde crujiente y moras envueltas en la ligereza de las fresias. En cuestión de minutos despliega su corazón más elogiado: un acorde refinado de té chino combinado con la dulzura de la nectarina y flores blancas. Su evolución final en la piel es un secado denso, amaderado y profundamente sexy, donde la solidez de la secuoya roja se entrelaza con la ciruela, la vainilla y el almizcle blanco, dejando un rastro flotante que transmite éxito, pulcritud y distinción.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional de alto nivel, reuniones ejecutivas, eventos formales e informales, salidas casuales o situaciones donde se busquen cumplidos garantizados.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado cristalino",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Masculino de perfil alto. Diseñado para hombres modernos, dinámicos, sofisticados y seguros de sí mismos que buscan una firma olfativa fresca, versátil y con carácter de lujo. Es la elección definitiva para quien exige una fragancia limpia, elegante y duradera para destacar en todo momento.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif",
+    "inspirado_en_nombre": "Percival de Parfums de Marly",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes frescos y aromáticos más codiciados, versátiles y aclamados de la perfumería de lujo. Captura a la perfección ese codiciado ADN de \"frescura azul refinada, cítricos efervescentes, manzana crujiente y maderas nobles de estatus\", entregando una alternativa accesible con un rendimiento en concentración Extrait De Parfum de nivel superlativo.",
+        "nombre": "Percival de Parfums de Marly",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Dark Door Sport | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Frutal Floral / DNA La Vie est Belle",
+    "inspirado_en": "Dior Homme Sport",
+    "notas_salida": "Grosella negra, pera",
+    "notas_corazon": "Iris, flor de azahar, jazmín",
+    "notas_fondo": "Pachulí, haba tonka, praliné, vainilla",
+    "descripcion": "Grosellas y pera con iris y flor de azahar. Base praliné y vainilla. Clone de La Vie est Belle con buena proyección y longevidad.",
+    "momento_dia": "Mañana / Día",
+    "estacion": "Todo el año",
+    "ocasion": "Casual, trabajo, cotidiano especial",
+    "clima": "Todo",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga",
+    "estela": "Moderada-intensa",
+    "color_liquido": "Rosado / dorado",
+    "perfil_usuario": "Mujeres 20-45 años. Para fans de La Vie est Belle.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Mujeres Para fans de La Vie est Belle.",
+    "inspirado_en_nombre": "Dior Homme Sport",
+    "inspiraciones": [
+      {
+        "texto": "Dior Homme Sport",
+        "nombre": "Dior Homme Sport",
+        "imagen_url": ""
       }
     ]
   },
@@ -2794,6 +2886,36 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Raghba Men | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Amaderado, Atalcado, Iris, ozonico, Aromático, Acuático, Animálico, Ámbar, Violeta",
+    "inspirado_en": "Réplica de alta fidelidad que rinde homenaje a una de las fragancias masculinas más legendarias, elegantes y codiciadas de la historia de la perfumería artesanal. Captura a la perfección ese distinguido ADN de \"prado verde húmedo, verbena cítrica, hojas de violeta y fondo de sándalo-ámbar de rey\", entregando una alternativa accesible con un rendimiento y distinción superlativos.",
+    "notas_salida": "cedron, iris, limon",
+    "notas_corazon": "hojas de violeta",
+    "notas_fondo": "sandalo, ambar gris, cedro, cuero",
+    "descripcion": "La definición en perfume de la distinción masculina, la pulcritud verde y el aire libre aristocrático. Lattafa Raghba For Men abre con una ráfaga crujiente y revitalizante de cedrón y limón sazonados por el toque polvoso del iris refinado. En cuestión de minutos despliega su corazón más elogiado: una explosión de hojas de violeta verdes que transmiten la sensación de un traje a medida usado en la campiña. Su evolución final en la piel es un secado caliente, amaderado y viril, donde la cremosidad del sándalo y la solidez del cedro se entrelazan con el cuero y el ámbar gris, dejando un rastro flotante que evoca estatus, caballerosidad y éxito.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional diario, reuniones de directorio, eventos formales, salidas casuales elegantes o momentos donde se busque causar una impresión impecable.",
+    "clima": "Templado / Cálido / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
+    "rango_edad_min": 25,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Masculino de perfil alto. Diseñado para hombres sobrios, elegantes, ejecutivos y amantes de la perfumería clásica de nicho que buscan huir de los aromas empalagosos. Es la firma definitiva para el uso profesional diario, reuniones de negocios o eventos donde se busque transmitir autoridad y pulcritud.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.474.2x.avif",
+    "inspirado_en_nombre": "Green Irish Tweed de Creed",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde homenaje a una de las fragancias masculinas más legendarias, elegantes y codiciadas de la historia de la perfumería artesanal. Captura a la perfección ese distinguido ADN de \"prado verde húmedo, verbena cítrica, hojas de violeta y fondo de sándalo-ámbar de rey\", entregando una alternativa accesible con un rendimiento y distinción superlativos.",
+        "nombre": "Green Irish Tweed de Creed",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.474.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AFNAN - 9pm Rebel | EDP",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "genero": "Masculino",
@@ -2943,7 +3065,7 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Raghba Women | EDP | 100ml",
+    "nombre_completo": "LATTAFA - Raghba Women | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
     "familia_olfativa": "Floral Oriental / Oud Rosa Vainilla",
@@ -2964,6 +3086,37 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Musamam Black Intense | EDP",
+    "marca": "LATTAFA",
+    "genero": "Masculino",
+    "familia_olfativa": "Fesco especiado, Amaderado, Aromático, Lavanda, Florales, herbal., Avainillado",
+    "inspirado_en": "Una obra de arte de la perfumería de diseño moderna. Rompe por completo el concepto del fougère clásico (lavanda/barbería) al sumergirlo en una atmósfera ardiente, casi volcánica. Destaca por un contraste adictivo entre un arranque herbal súper prolijo y un secado oscuro, denso y caramelizado que cruza el jarabe de arce con el cacao amargo.",
+    "notas_salida": "lavanda, nuez moscada, salvia, bergamota",
+    "notas_corazon": "cedro, geranio, rosyfolia, mahonial",
+    "notas_fondo": "cocoapulse, haba tonka, arce, ambrofix, pachuli",
+    "descripcion": "Una fragancia que evoca el nacimiento de algo nuevo, la fuerza de la tierra y el fuego. Abre con una salida impecable y súper masculina de lavanda y salvia romana, sacudida por la calidez de la nuez moscada. En su corazón, la robustez del cedro se combina con flores moleculares de última generación que elevan el aroma a un nivel futurista y ultra limpio. Su evolución final es un viaje adictivo y oscuro: un fondo denso donde el jarabe de arce y el cacao amargo se entrelazan con la fuerza magnética del Ambrofix™ y el pachulí, dejando en la piel un rastro cálido, especiado, tostado y con una facha arrolladora.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Perfume de firma diario, reuniones de trabajo, salidas casuales elegantes, citas o boliches. Es un todoterreno de la seducción moderna",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga (8h+ - 9h+)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido",
+    "rango_edad_min": 23,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Pensado para el hombre moderno, audaz y con una actitud imponente que busca un perfume con muchísima personalidad pero que mantenga una pulcritud ejecutiva. Es ideal para jóvenes profesionales o tipos con facha que quieren un aroma firma para el día a día en climas frescos o para salidas nocturnas informales, destacando por oler diferente a los dulces comerciales típicos.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.96193.2x.avif",
+    "inspirado_en_nombre": "Trussardi Primo",
+    "inspiraciones": [
+      {
+        "texto": "Una obra de arte de la perfumería de diseño moderna. Rompe por completo el concepto del fougère clásico (lavanda/barbería) al sumergirlo en una atmósfera ardiente, casi volcánica. Destaca por un contraste adictivo entre un arranque herbal súper prolijo y un secado oscuro, denso y caramelizado que cruza el jarabe de arce con el cacao amargo.",
+        "nombre": "Trussardi Primo",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.96193.2x.avif"
       }
     ]
   },
@@ -7161,29 +7314,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - L'intrude | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático / Intruso",
-    "inspirado_en": "Givenchy L'Interdit",
-    "notas_salida": "Notas de salida: Pera, Bergamota Notas de corazón: Nardos, Flor de azahar del naranjo, Jazmín sambac (sampaguita) Notas de fondo: Pachulí, Ambroxan, Vainilla, Vetiver",
-    "descripcion": "Aromático masculino. El intruso — fragancia que se hace notar.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres 25-50 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Givenchy L'Interdit",
-    "inspiraciones": [
-      {
-        "texto": "Givenchy L'Interdit",
-        "nombre": "Givenchy L'Interdit",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Maison Alhambra - La Voie | EDP | 100ml",
     "marca": "Maison Alhambra — UAE",
     "genero": "Femenino",
@@ -7202,6 +7332,37 @@
         "texto": "Giorgio Armani My Way",
         "nombre": "Giorgio Armani My Way",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - L'intrude | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Aromático / Intruso",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes femeninos más icónicos, premiados y deseados del mundo. Captura a la perfección ese codiciado ADN de \"flores blancas prohibidas e intensas contrapuestas a una base oscura de pachulí y ambroxan\", entregando una alternativa accesible con un rendimiento y presencia impecables.",
+    "notas_salida": "Pera, Bergamota",
+    "notas_corazon": "nardos, flor de azahar del naranjo, jazmin sambac",
+    "notas_fondo": "Pachulí, Ambroxan, Vainilla, Vetiver",
+    "descripcion": "La definición en perfume de la elegancia prohibida, la audacia femenina y el encanto de alta costura. Maison Alhambra L'intrude abre con una ráfaga jugosa y radiante de pera recién cortada sazonada por el toque efervescente de la bergamota. En cuestión de minutos despliega su faceta más elogiada: un corazón hipnótico donde los nardos cremosos se entrelazan con la flor de azahar y el jazmín sambac, creando una burbuja floral blanca de enorme sofisticación. Su evolución final en la piel es un secado tibio, oscuro y profundamente sexy, donde el ambroxan y el pachulí abrazan la suavidad de la vainilla, dejando un rastro flotante que transmite estatus, carácter y un atractivo irresistible.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos formales, salidas nocturnas, uso profesional para marcar presencia o situaciones donde se busquen cumplidos garantizados.",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino con un sutil matiz dorado",
+    "perfil_usuario": "Hombres 25-50 años.",
+    "rango_edad_min": 22,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres elegantes, seguras de sí mismas, audaces y amantes de las fragancias florales intensas con toques dulces y amaderados. Es la opción definitiva para quien busca un aroma de firma sofisticado, nocturno y envolvente para no pasar desapercibida.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif",
+    "inspirado_en_nombre": "L'Interdit Eau de Parfum de Givenchy",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes femeninos más icónicos, premiados y deseados del mundo. Captura a la perfección ese codiciado ADN de \"flores blancas prohibidas e intensas contrapuestas a una base oscura de pachulí y ambroxan\", entregando una alternativa accesible con un rendimiento y presencia impecables.",
+        "nombre": "L'Interdit Eau de Parfum de Givenchy",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif"
       }
     ]
   },
@@ -7968,37 +8129,39 @@
     ]
   },
   {
-    "nombre_completo": "EMPER - Mandora (+ decan 20ml) | EDP",
-    "marca": "Emper — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático Especiado / Mandarina Oriental",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Mandarina, naranja, azafrán, salvia",
-    "notas_corazon": "Caramelo, haba tonka, caléndula",
-    "notas_fondo": "Ambroxan, cedro, vetiver",
-    "descripcion": "Mandarina brillante con azafrán y caramelo. Cálido, especiado y moderno. Base Ambroxan que asegura longevidad notable.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Todo el año",
-    "ocasion": "Casual, salidas, trabajo",
-    "clima": "Templado / Frío",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga",
-    "color_liquido": "Naranja / ámbar",
-    "perfil_usuario": "Hombres 25-45 años. Modernos, especiados, cálidos.",
-    "rango_edad_min": 25,
+    "nombre_completo": "ZIMAYA - Tiramisu Caramel | EDP",
+    "marca": "Zimaya — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Avainillado, Dulce, Caramelo, Amaderado, Amielado, Atalcado, Whisky, Balsámico, Almizclado, Cálido especiado",
+    "inspirado_en": "Bianco Latte Giardini Di Toscana",
+    "notas_salida": "caramelo",
+    "notas_corazon": "miel, cumarina, Maderas",
+    "notas_fondo": "vainilla, whisky, Almizcle",
+    "descripcion": "​Una fragancia indulgente y profundamente dulce que captura la esencia de un postre recién horneado. Abre con una nota vibrante de azúcar tostado y un toque de café expreso, que evoluciona hacia un corazón cremoso de caramelo salado y crema de vainilla. El fondo es cálido y persistente, con matices de haba tonka y un toque de chocolate amargo que equilibra la dulzura. Es un aroma denso, \"pegajoso\" en el buen sentido, y extremadamente acogedor.",
+    "momento_dia": "Noche",
+    "estacion": "Invierno/Otoño",
+    "ocasion": "Citas romanticas, salidas nocturnas, eventos informales en invierno",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Larga duracion (8 a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Marrón cobrizo",
+    "perfil_usuario": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De 18 a 45 años",
+    "rango_edad_min": 18,
     "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres Modernos, especiados, cálidos.",
-    "inspirado_en_nombre": "Composición propia",
+    "estilo_descripcion": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De",
+    "inspirado_en_nombre": "Giardini di Toscana Bianco Latte",
     "inspiraciones": [
       {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
+        "texto": "Bianco Latte Giardini Di Toscana",
+        "nombre": "Giardini di Toscana Bianco Latte",
         "imagen_url": ""
       }
     ]
   },
   {
-    "nombre_completo": "Asdaaf - Raneen | EDP | 80ml",
+    "nombre_completo": "LATTAFA - Raneen | EDP",
+    "marca": "LATTAFA",
     "genero": "Femenino",
     "familia_olfativa": "Floral blanco, Afrutados, Floral, Tropical, Cítrico, Dulce, Avainillado, Ámbar, Almizclado, Atalcado",
     "inspirado_en": "Prada Paradoxe",
@@ -8028,32 +8191,31 @@
     ]
   },
   {
-    "nombre_completo": "ZIMAYA - Tiramisu Caramel | EDP",
-    "marca": "Zimaya — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Avainillado, Dulce, Caramelo, Amaderado, Amielado, Atalcado, Whisky, Balsámico, Almizclado, Cálido especiado",
-    "inspirado_en": "Bianco Latte Giardini Di Toscana",
-    "notas_salida": "caramelo",
-    "notas_corazon": "miel, cumarina, Maderas",
-    "notas_fondo": "vainilla, whisky, Almizcle",
-    "descripcion": "​Una fragancia indulgente y profundamente dulce que captura la esencia de un postre recién horneado. Abre con una nota vibrante de azúcar tostado y un toque de café expreso, que evoluciona hacia un corazón cremoso de caramelo salado y crema de vainilla. El fondo es cálido y persistente, con matices de haba tonka y un toque de chocolate amargo que equilibra la dulzura. Es un aroma denso, \"pegajoso\" en el buen sentido, y extremadamente acogedor.",
-    "momento_dia": "Noche",
-    "estacion": "Invierno/Otoño",
-    "ocasion": "Citas romanticas, salidas nocturnas, eventos informales en invierno",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Larga duracion (8 a 10h)",
-    "estela": "Intensa",
-    "color_liquido": "Marrón cobrizo",
-    "perfil_usuario": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De 18 a 45 años",
-    "rango_edad_min": 18,
+    "nombre_completo": "EMPER - Mandora | EDP",
+    "marca": "Emper — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Especiado / Mandarina Oriental",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Mandarina, naranja, azafrán, salvia",
+    "notas_corazon": "Caramelo, haba tonka, caléndula",
+    "notas_fondo": "Ambroxan, cedro, vetiver",
+    "descripcion": "Mandarina brillante con azafrán y caramelo. Cálido, especiado y moderno. Base Ambroxan que asegura longevidad notable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Todo el año",
+    "ocasion": "Casual, salidas, trabajo",
+    "clima": "Templado / Frío",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga",
+    "color_liquido": "Naranja / ámbar",
+    "perfil_usuario": "Hombres 25-45 años. Modernos, especiados, cálidos.",
+    "rango_edad_min": 25,
     "rango_edad_max": 45,
-    "estilo_descripcion": "​Para los amantes incondicionales de los aromas dulces y pesados. Ideal para quienes buscan una fragancia que transmita confort, calidez y un aura de \"dulzura irresistible\". Es para alguien que disfruta de los perfumes que dejan huella y que prefiere los aromas que evocan sensaciones comestibles y placenteras. De",
-    "inspirado_en_nombre": "Giardini di Toscana Bianco Latte",
+    "estilo_descripcion": "Hombres Modernos, especiados, cálidos.",
+    "inspirado_en_nombre": "Composición propia",
     "inspiraciones": [
       {
-        "texto": "Bianco Latte Giardini Di Toscana",
-        "nombre": "Giardini di Toscana Bianco Latte",
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -10695,31 +10857,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Mayar Natural Intense | EDP | 100 ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral / Natural Limpio",
-    "inspirado_en": "Giorgio Armani Acqua di Gioia (floral acuático limpio)",
-    "notas_salida": "Mandarina, higo, melon, coco",
-    "notas_corazon": "flor de loto, nenúfar, jazmín",
-    "notas_fondo": "Almizcle, sándalo, vainilla, ambroxan",
-    "descripcion": "Floral limpio y natural. Suave, discreto y accesible.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 20-50 años. Naturales, discretas.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Mujeres Naturales, discretas.",
-    "inspirado_en_nombre": "Giorgio Armani Acqua di Gioia",
-    "inspiraciones": [
-      {
-        "texto": "Giorgio Armani Acqua di Gioia (floral acuático limpio)",
-        "nombre": "Giorgio Armani Acqua di Gioia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "RAYHAAN - Fresh Wave | EDP | 100ml",
     "genero": "Masculino",
     "familia_olfativa": "Cítrico, Amaderado, Fesco especiado, Aromático, Verde, atalcado., Afrutados, Florales, Fresco, Terrosos",
@@ -10881,6 +11018,31 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Mayar Natural Intense | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral / Natural Limpio",
+    "inspirado_en": "Giorgio Armani Acqua di Gioia (floral acuático limpio)",
+    "notas_salida": "Mandarina, higo, melon, coco",
+    "notas_corazon": "flor de loto, nenúfar, jazmín",
+    "notas_fondo": "Almizcle, sándalo, vainilla, ambroxan",
+    "descripcion": "Floral limpio y natural. Suave, discreto y accesible.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 20-50 años. Naturales, discretas.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Mujeres Naturales, discretas.",
+    "inspirado_en_nombre": "Giorgio Armani Acqua di Gioia",
+    "inspiraciones": [
+      {
+        "texto": "Giorgio Armani Acqua di Gioia (floral acuático limpio)",
+        "nombre": "Giorgio Armani Acqua di Gioia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "RASASI - Hawas Diva | EDP | 100ml",
     "genero": "Femenino",
     "familia_olfativa": "Afrutados, Ámbar, Avainillado, Dulce, atalcado., Rosas, Almizclado, Fresco, Verde, Aromático",
@@ -10937,37 +11099,6 @@
         "texto": "Réplica espectacular de uno de los perfumes femeninos más vendidos, elogiados y magnéticos de Armani. Captura a la perfección esa esencia de mujer audaz, apasionada y súper carismática, logrando un balance glorioso entre la dulzura frutal de la frambuesa y una sofisticación cremosa de alta gama.",
         "nombre": "Emporio Armani Because It's You",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.45257.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Musamam Black Intense | EDP | 100ml",
-    "marca": "LATTAFA",
-    "genero": "Masculino",
-    "familia_olfativa": "Fesco especiado, Amaderado, Aromático, Lavanda, Florales, herbal., Avainillado",
-    "inspirado_en": "Una obra de arte de la perfumería de diseño moderna. Rompe por completo el concepto del fougère clásico (lavanda/barbería) al sumergirlo en una atmósfera ardiente, casi volcánica. Destaca por un contraste adictivo entre un arranque herbal súper prolijo y un secado oscuro, denso y caramelizado que cruza el jarabe de arce con el cacao amargo.",
-    "notas_salida": "lavanda, nuez moscada, salvia, bergamota",
-    "notas_corazon": "cedro, geranio, rosyfolia, mahonial",
-    "notas_fondo": "cocoapulse, haba tonka, arce, ambrofix, pachuli",
-    "descripcion": "Una fragancia que evoca el nacimiento de algo nuevo, la fuerza de la tierra y el fuego. Abre con una salida impecable y súper masculina de lavanda y salvia romana, sacudida por la calidez de la nuez moscada. En su corazón, la robustez del cedro se combina con flores moleculares de última generación que elevan el aroma a un nivel futurista y ultra limpio. Su evolución final es un viaje adictivo y oscuro: un fondo denso donde el jarabe de arce y el cacao amargo se entrelazan con la fuerza magnética del Ambrofix™ y el pachulí, dejando en la piel un rastro cálido, especiado, tostado y con una facha arrolladora.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Perfume de firma diario, reuniones de trabajo, salidas casuales elegantes, citas o boliches. Es un todoterreno de la seducción moderna",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga (8h+ - 9h+)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido",
-    "rango_edad_min": 23,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Pensado para el hombre moderno, audaz y con una actitud imponente que busca un perfume con muchísima personalidad pero que mantenga una pulcritud ejecutiva. Es ideal para jóvenes profesionales o tipos con facha que quieren un aroma firma para el día a día en climas frescos o para salidas nocturnas informales, destacando por oler diferente a los dulces comerciales típicos.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.96193.2x.avif",
-    "inspirado_en_nombre": "Trussardi Primo",
-    "inspiraciones": [
-      {
-        "texto": "Una obra de arte de la perfumería de diseño moderna. Rompe por completo el concepto del fougère clásico (lavanda/barbería) al sumergirlo en una atmósfera ardiente, casi volcánica. Destaca por un contraste adictivo entre un arranque herbal súper prolijo y un secado oscuro, denso y caramelizado que cruza el jarabe de arce con el cacao amargo.",
-        "nombre": "Trussardi Primo",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.96193.2x.avif"
       }
     ]
   },
@@ -12236,36 +12367,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Dark Door Sport | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "familia_olfativa": "Frutal Floral / DNA La Vie est Belle",
-    "inspirado_en": "Dior Homme Sport",
-    "notas_salida": "Grosella negra, pera",
-    "notas_corazon": "Iris, flor de azahar, jazmín",
-    "notas_fondo": "Pachulí, haba tonka, praliné, vainilla",
-    "descripcion": "Grosellas y pera con iris y flor de azahar. Base praliné y vainilla. Clone de La Vie est Belle con buena proyección y longevidad.",
-    "momento_dia": "Mañana / Día",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, trabajo, cotidiano especial",
-    "clima": "Todo",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga",
-    "estela": "Moderada-intensa",
-    "color_liquido": "Rosado / dorado",
-    "perfil_usuario": "Mujeres 20-45 años. Para fans de La Vie est Belle.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres Para fans de La Vie est Belle.",
-    "inspirado_en_nombre": "Dior Homme Sport",
-    "inspiraciones": [
-      {
-        "texto": "Dior Homme Sport",
-        "nombre": "Dior Homme Sport",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "F. AVENUE - Vulcan Black | Extrait De Parfum | 100ml",
     "marca": "French Avenue",
     "anno": "2025",
@@ -12771,36 +12872,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Musamam White Intense | EDP | 100 Ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Floral Coco / Oriental Suave",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Especias, coco, bergamota",
-    "notas_corazon": "Flores blancas, sándalo",
-    "notas_fondo": "Almizcle, ámbar, vainilla",
-    "descripcion": "Coco especiado con flores blancas y sándalo. Suave y creamy. Versión más femenina y tropical de Musamam.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, cotidiano",
-    "clima": "Calor / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Media-larga",
-    "estela": "Moderada",
-    "color_liquido": "Blanco / crema",
-    "perfil_usuario": "Mujeres y hombres 20-40 años. Coco, tropicales, suaves.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Mujeres y hombres Coco, tropicales, suaves.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Tubbees - Strawberry Cheesecake | EDP | 50ml",
     "marca": "Tubbees — UAE",
     "familia_olfativa": "Gourmand / Fresa Cheesecake",
@@ -12848,6 +12919,37 @@
       {
         "texto": "Ex Nihilo Brompton Immortals Extrait",
         "nombre": "Ex Nihilo Brompton Immortals Extrait",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Musamam White Intense | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Coco / Oriental Suave",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Especias, coco, bergamota",
+    "notas_corazon": "Flores blancas, sándalo",
+    "notas_fondo": "Almizcle, ámbar, vainilla",
+    "descripcion": "Coco especiado con flores blancas y sándalo. Suave y creamy. Versión más femenina y tropical de Musamam.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, cotidiano",
+    "clima": "Calor / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Media-larga",
+    "estela": "Moderada",
+    "color_liquido": "Blanco / crema",
+    "perfil_usuario": "Mujeres y hombres 20-40 años. Coco, tropicales, suaves.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Mujeres y hombres Coco, tropicales, suaves.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -13453,7 +13555,7 @@
     "genero": "Masculino",
     "familia_olfativa": "Aromática Fougère",
     "inspirado_en": "Creación original",
-    "notas_salida": "Bergamota de Calabria, Pimienta",
+    "notas_salida": "Bergamota, Pimienta",
     "notas_corazon": "Pimienta de Sichuan, Lavanda, Pimienta rosa, Vetiver, Pachulí, Geranio, Elemí",
     "notas_fondo": "Ambroxan, Cedro, Ladano",
     "descripcion": "Es una fragancia radicalmente fresca, cruda y noble a la vez. Destaca por su apertura cítrica vibrante que se funde con un corazón especiado y un fondo ambarado sumamente masculino y magnético.",
