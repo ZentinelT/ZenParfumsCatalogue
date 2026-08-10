@@ -1563,35 +1563,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Artisan Ethnique | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Dulce, Cálido especiado, Avainillado, Canela, Amaderado, Ron, Ámbar, Caramelo, Cacao, Balsámico",
-    "inspirado_en": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
-    "notas_salida": "canela, ron, azucar",
-    "notas_corazon": "caramelo, cacao, cafe, musgo",
-    "notas_fondo": "vainilla, haba tonka, cachemira, ladano",
-    "descripcion": "La definición líquida de la adicción pura, el minimalismo lujoso de Seúl y la seducción gourmand definitiva. Artisan Ethnique abre con un impacto alucinante e hiper-licoroso de ron añejo, canela y una sobredosis de azúcar quemada, envolviendo el olfato en una atmósfera dulce carísima. Rápidamente, la fragancia revela su costado más complejo y adictivo: un corazón majestuoso donde la cremosidad del caramelo y el cacao se cruzan con la amargura sofisticada del café expreso. Su evolución final en la piel es un secado eterno, denso y sumamente magnético, dominado por la sofisticación de la madera de cachemira, la vainilla y la fuerza resinosa del ládano, dejando una estela flotante que se adueña por completo de cualquier espacio cerrado y se cansa de recibir cumplidos.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas nocturnas de alto impacto, citas románticas (es un imán letal en distancias cortas), eventos donde quieras destacar sí o sí o cualquier situación donde quieras oler radicalmente diferente, moderno y millonario",
-    "clima": "Frío extremo / Frío / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Atómico (10h+ - 12h+)",
-    "estela": "Intensa",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Diseñado para hombres y mujeres extrovertidos, modernos, amantes de las tendencias globales y de la moda urbana de lujo que buscan un perfume de firma nocturno o invernal que sea la definición pura de la provocación dulce. Es la pócima perfecta para personalidades magnéticas que aman ser el centro de atención, adoran los acordes de azúcar, ron y vainilla, y exigen un aroma de ultra nicho que transmita autoridad, facha absoluta y pura sensualidad.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif",
-    "inspirado_en_nombre": "Sugar Addict de BORNTOSTANDOUT®",
-    "inspiraciones": [
-      {
-        "texto": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
-        "nombre": "Sugar Addict de BORNTOSTANDOUT®",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Pride Vintage Radio | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Unisex",
@@ -2479,8 +2450,9 @@
     ]
   },
   {
-    "nombre_completo": "Asdaaf - Ameer Al Arab Black | EDP | 100 ml",
+    "nombre_completo": "ASDAAF - Ameer Al Arab Black | EDP",
     "marca": "Asdaaf (Lattafa group) — UAE",
+    "genero": "Masculino",
     "familia_olfativa": "Aromático Herbal / Masculino fresco",
     "inspirado_en": "Composición árabe propia",
     "notas_salida": "Jazmín, madreselva",
@@ -2947,8 +2919,9 @@
     ]
   },
   {
-    "nombre_completo": "Armaf - Odyssey Aoud | EDP | 100ml",
+    "nombre_completo": "ARMAF - Odyssey Aoud | EDP",
     "marca": "Armaf — India",
+    "genero": "Masculino",
     "familia_olfativa": "Oud Especiado / Oriental Profundo",
     "inspirado_en": "PDM Haltane (80-95% similar según reviewers — alternativa notable)",
     "notas_salida": "Nuez moscada, azafrán, lavanda",
@@ -3701,6 +3674,36 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Artisan Ethnique | EDP",
+    "marca": "LATTAFA",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Cálido especiado, Avainillado, Canela, Amaderado, Ron, Ámbar, Caramelo, Cacao, Balsámico",
+    "inspirado_en": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
+    "notas_salida": "canela, ron, azucar",
+    "notas_corazon": "caramelo, cacao, cafe, musgo",
+    "notas_fondo": "vainilla, haba tonka, cachemira, ladano",
+    "descripcion": "La definición líquida de la adicción pura, el minimalismo lujoso de Seúl y la seducción gourmand definitiva. Artisan Ethnique abre con un impacto alucinante e hiper-licoroso de ron añejo, canela y una sobredosis de azúcar quemada, envolviendo el olfato en una atmósfera dulce carísima. Rápidamente, la fragancia revela su costado más complejo y adictivo: un corazón majestuoso donde la cremosidad del caramelo y el cacao se cruzan con la amargura sofisticada del café expreso. Su evolución final en la piel es un secado eterno, denso y sumamente magnético, dominado por la sofisticación de la madera de cachemira, la vainilla y la fuerza resinosa del ládano, dejando una estela flotante que se adueña por completo de cualquier espacio cerrado y se cansa de recibir cumplidos.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas nocturnas de alto impacto, citas románticas (es un imán letal en distancias cortas), eventos donde quieras destacar sí o sí o cualquier situación donde quieras oler radicalmente diferente, moderno y millonario",
+    "clima": "Frío extremo / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Atómico (10h+ - 12h+)",
+    "estela": "Intensa",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Diseñado para hombres y mujeres extrovertidos, modernos, amantes de las tendencias globales y de la moda urbana de lujo que buscan un perfume de firma nocturno o invernal que sea la definición pura de la provocación dulce. Es la pócima perfecta para personalidades magnéticas que aman ser el centro de atención, adoran los acordes de azúcar, ron y vainilla, y exigen un aroma de ultra nicho que transmita autoridad, facha absoluta y pura sensualidad.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif",
+    "inspirado_en_nombre": "Sugar Addict de BORNTOSTANDOUT®",
+    "inspiraciones": [
+      {
+        "texto": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
+        "nombre": "Sugar Addict de BORNTOSTANDOUT®",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Calvin Klein - Euphoria for Women | EDP | 100ml",
     "marca": "Calvin Klein — USA",
     "familia_olfativa": "Oriental Floral / Oscuro Sensual",
@@ -3929,6 +3932,37 @@
     ]
   },
   {
+    "nombre_completo": "CALVIN KLEIN - CK Be | EDT",
+    "marca": "Calvin Klein — USA",
+    "anno": "1996",
+    "genero": "Unisex",
+    "familia_olfativa": "Aromático Fresco / Clásico Unisex 90s",
+    "inspirado_en": "Representa la máxima expresión del perfume \"estilo segunda piel\" (your skin but better). Es la referencia mundial de los aromas pulcros, informales y relajados que transmiten una sensación constante de baño reciente sin resultar recargados.",
+    "notas_salida": "Lavanda, notas verdes, bergamota, menta, mandarina",
+    "notas_corazon": "Hierba verde, durazno, jazmín, fresia, orquídea",
+    "notas_fondo": "Almizcle, sándalo, cedro, vainilla, ámbar",
+    "descripcion": "La definición en perfume de la autenticidad, la libertad de ser uno mismo y la elegancia del perfil bajo. Calvin Klein CK Be abre con un impacto tónico, limpio y relajante de lavanda fina, menta fresca y bergamota. En cuestión de minutos despliega su faceta más acogedora: un corazón de hierba cortada y flores blancas transparentes envueltas en la suavidad del durazno. Su evolución final en la piel es un secado afelpado, cálido e íntimo, donde el almizcle blanco y el sándalo se funden con la piel, creando un rastro flotante suave que invita a acortar distancias.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional o estudiantil diario, actividades deportivas, estar en casa, salidas casuales o momentos donde el objetivo sea oler pulcro sin agobiar a nadie.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Moderado (5h a 7h)",
+    "estela": "Discreta",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Hombres y mujeres 18-50 años. Clásicos unisex de los 90s.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Unisex. Diseñado para personas de todas las edades, soñadoras, informales, modernas y amantes de los perfumes limpios, frescos y discretos. Es la opción definitiva para quienes buscan un aroma de firma cotidiano que se sienta natural y sin esfuerzo.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Minimalista Limpia (Estados Unidos)",
+    "inspiraciones": [
+      {
+        "texto": "Representa la máxima expresión del perfume \"estilo segunda piel\" (your skin but better). Es la referencia mundial de los aromas pulcros, informales y relajados que transmiten una sensación constante de baño reciente sin resultar recargados.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa Minimalista Limpia (Estados Unidos)"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Armaf - Tag Him Uomo Nero | EDP | 100ml",
     "marca": "Armaf — India",
     "genero": "Masculino",
@@ -4087,6 +4121,35 @@
     ]
   },
   {
+    "nombre_completo": "CALVIN KLEIN - CK BE | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Aromático Fresco / Clásico Unisex 90s",
+    "inspirado_en": "Representa la máxima expresión del perfume \"estilo segunda piel\" (your skin but better). Es la referencia mundial de los aromas pulcros, informales y relajados que transmiten una sensación constante de baño reciente sin resultar recargados.",
+    "notas_salida": "Lavanda, notas verdes, bergamota, menta, mandarina",
+    "notas_corazon": "Hierba verde, durazno, jazmín, fresia, orquídea",
+    "notas_fondo": "Almizcle, sándalo, cedro, vainilla, ámbar",
+    "descripcion": "La definición en perfume de la autenticidad, la libertad de ser uno mismo y la elegancia del perfil bajo. Calvin Klein CK Be abre con un impacto tónico, limpio y relajante de lavanda fina, menta fresca y bergamota. En cuestión de minutos despliega su faceta más acogedora: un corazón de hierba cortada y flores blancas transparentes envueltas en la suavidad del durazno. Su evolución final en la piel es un secado afelpado, cálido e íntimo, donde el almizcle blanco y el sándalo se funden con la piel, creando un rastro flotante suave que invita a acortar distancias.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional o estudiantil diario, actividades deportivas, estar en casa, salidas casuales o momentos donde el objetivo sea oler pulcro sin agobiar a nadie.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Moderado (5h a 7h)",
+    "estela": "Discreta",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Hombres y mujeres 18-50 años. Clásicos unisex de los 90s.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Unisex. Diseñado para personas de todas las edades, soñadoras, informales, modernas y amantes de los perfumes limpios, frescos y discretos. Es la opción definitiva para quienes buscan un aroma de firma cotidiano que se sienta natural y sin esfuerzo.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Minimalista Limpia (Estados Unidos)",
+    "inspiraciones": [
+      {
+        "texto": "Representa la máxima expresión del perfume \"estilo segunda piel\" (your skin but better). Es la referencia mundial de los aromas pulcros, informales y relajados que transmiten una sensación constante de baño reciente sin resultar recargados.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa Minimalista Limpia (Estados Unidos)"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL HARAMAIN - Detour Noir Intense | EDP",
     "marca": "Al Haramain Perfumes — Arabia Saudí",
     "genero": "Masculino",
@@ -4240,6 +4303,37 @@
     ]
   },
   {
+    "nombre_completo": "RAYHAAN - Pacific | EDP",
+    "marca": "Rayhaan — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Frutal / Acuático — DNA Hawas",
+    "inspirado_en": "Paco Rabanne Invictus / Hawas DNA (85% Hawas)",
+    "notas_salida": "Bergamota, limón, mandarina, cardamomo",
+    "notas_corazon": "Lavanda, ciprés",
+    "notas_fondo": "Ámbar",
+    "descripcion": "Muy similar a Hawas — cítrico fresco con cardamomo y base ambarína. Ligeramente más dulce. Longevidad 5-6h. En piel deja un skin scent de hasta 12h. Más jabonoso-fresco que Hawas. \"Si te gusta Hawas, te va a gustar Pacific\".",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Cotidiano, trabajo, casual",
+    "clima": "Calor / Templado",
+    "proyeccion": "Moderada (2-3h fuerte, luego skin scent)",
+    "duracion": "Larga (skin scent hasta 12h)",
+    "estela": "Moderada",
+    "color_liquido": "Azul celeste",
+    "perfil_usuario": "Hombres 18-40 años. Frescos, activos. Alternativa a Hawas para cotidiano.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres Frescos, activos. Alternativa a Hawas para cotidiano.",
+    "inspirado_en_nombre": "Paco Rabanne Invictus",
+    "inspiraciones": [
+      {
+        "texto": "Paco Rabanne Invictus / Hawas DNA (85% Hawas)",
+        "nombre": "Paco Rabanne Invictus",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL WATANIAH - Amethyst | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Unisex",
@@ -4329,6 +4423,36 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - PHILOS OPUS NOIR | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Amaderado, Dulce, Floral amarillo, Cuero, Afrutados, Fesco especiado, Animálico, Atalcado, Pachulí, Ámbar",
+    "inspirado_en": "Réplica de precisión quirúrgica que rinde homenaje a una de las obras maestras más codiciadas, teatrales y costosas de la alta perfumería italiana. Captura a la perfección ese distinguido ADN de \"rosa turca aterciopelada y frutas oscuras contrapuestas a cuero fino, nuez moscada especiada y pachulí dramático\", entregando una alternativa accesible con un nivel de estatus y presencia superlativos.",
+    "notas_salida": "frutas, rosa",
+    "notas_corazon": "ylang-ylang, cuero, nuez moscada, ambar",
+    "notas_fondo": "pachuli, vainilla, vetiver, almizcle, cedro",
+    "descripcion": "La definición en perfume del drama teatral, la opulencia italiana y la sofisticación amaderada. Maison Alhambra Philos Opus Noir abre con un impacto seductor y refinado de rosa turca abrazada por la jugosidad de frutas maduras. En cuestión de minutos despliega su faceta más elogiada: un corazón oscuro donde el cuero fino y la nuez moscada se entrelazan con el ámbar y el ylang-ylang. Su evolución final en la piel es un secado caliente, terroso y profundamente sexy, donde el pachulí y el cedro se funden con la suavidad de la vainilla y el almizcle, dejando un rastro flotante que evoca estatus, misterio y una presencia inolvidable.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Eventos formales, cenas de gala, citas románticas nocturnas, reuniones de negocios o momentos donde el objetivo sea causar una impresión de lujo imponente.",
+    "clima": "Frío / Templado-Frío",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino traslúcido",
+    "rango_edad_min": 25,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Unisex de perfil alto. Diseñado para personas elegantes, maduras, seguras de sí mismas y amantes de la perfumería de nicho amaderada, compleja y oscura. Es la opción perfecta para quien busca una firma nocturna exclusiva para destacar en eventos de gala o momentos de alto impacto donde el objetivo sea imponer presencia.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55162.2x.avif",
+    "inspirado_en_nombre": "Opera de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica que rinde homenaje a una de las obras maestras más codiciadas, teatrales y costosas de la alta perfumería italiana. Captura a la perfección ese distinguido ADN de \"rosa turca aterciopelada y frutas oscuras contrapuestas a cuero fino, nuez moscada especiada y pachulí dramático\", entregando una alternativa accesible con un nivel de estatus y presencia superlativos.",
+        "nombre": "Opera de Xerjoff",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55162.2x.avif"
       }
     ]
   },
@@ -6286,37 +6410,7 @@
     ]
   },
   {
-    "nombre_completo": "Asdaaf - Ameerat Al Arab Prive Rose | EDP | 100 ml",
-    "marca": "Asdaaf (Lattafa group) — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral Frutal / Rosa Dulce",
-    "inspirado_en": "Parfums de Marly Delina (similitudes importantes en DNA rosa-frutal)",
-    "notas_salida": "Fresa, uvas, naranja",
-    "notas_corazon": "Rosa, almizcle blanco, jazmín, ylang-ylang, gardenia, azucena",
-    "notas_fondo": "Haba tonka, ámbar, sándalo",
-    "descripcion": "Rosa frutal y polvosa. Gominolas de fresa con rosa. Muy femenino y dulce. Longevidad 8h+. Una rosa accesible y muy popular. Puede dar dolor de cabeza si se excede.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Todo el año",
-    "ocasion": "Casual, salidas, eventos",
-    "clima": "Todo",
-    "duracion": "Larga (8h+)",
-    "estela": "Intensa",
-    "color_liquido": "Rosado pastel aterciopelado",
-    "perfil_usuario": "Mujeres 18-40 años. Dulces, femeninas, florales. Alternativa accesible a Delina de PDM.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Mujeres Dulces, femeninas, florales. Alternativa accesible a Delina de PDM.",
-    "inspirado_en_nombre": "Parfums de Marly Delina",
-    "inspiraciones": [
-      {
-        "texto": "Parfums de Marly Delina (similitudes importantes en DNA rosa-frutal)",
-        "nombre": "Parfums de Marly Delina",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Eternal Oud | EDP",
+    "nombre_completo": "LATTAFA - Pride Eternal Oud | EDP",
     "marca": "LATTAFA",
     "genero": "Unisex",
     "familia_olfativa": "Ámbar., Avainillado, Dulce, Atalcado, Afrutados, Cálido especiado",
@@ -6343,6 +6437,36 @@
         "texto": "Réplica monumental, densa y de una calidad de aceites impresionante de uno de los perfumes de ámbar más caros y codiciados del planeta. Esta versión eleva el ADN original al cruzar esa mítica base de ámbar, vainilla y benjuí con una salida magistral de ciruela oscura y un fondo sutil de oud refinado. Una fragancia que grita riqueza, misterio y éxito inmediato.",
         "nombre": "Grand Soir de Maison Francis Kurkdjian (París)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.40816.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ASDAAF - Ameerat Al Arab Prive Rose | EDP",
+    "marca": "Asdaaf (Lattafa group) — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Frutal / Rosa Dulce",
+    "inspirado_en": "Parfums de Marly Delina (similitudes importantes en DNA rosa-frutal)",
+    "notas_salida": "Fresa, uvas, naranja",
+    "notas_corazon": "Rosa, almizcle blanco, jazmín, ylang-ylang, gardenia, azucena",
+    "notas_fondo": "Haba tonka, ámbar, sándalo",
+    "descripcion": "Rosa frutal y polvosa. Gominolas de fresa con rosa. Muy femenino y dulce. Longevidad 8h+. Una rosa accesible y muy popular. Puede dar dolor de cabeza si se excede.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Todo el año",
+    "ocasion": "Casual, salidas, eventos",
+    "clima": "Todo",
+    "duracion": "Larga (8h+)",
+    "estela": "Intensa",
+    "color_liquido": "Rosado pastel aterciopelado",
+    "perfil_usuario": "Mujeres 18-40 años. Dulces, femeninas, florales. Alternativa accesible a Delina de PDM.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Mujeres Dulces, femeninas, florales. Alternativa accesible a Delina de PDM.",
+    "inspirado_en_nombre": "Parfums de Marly Delina",
+    "inspiraciones": [
+      {
+        "texto": "Parfums de Marly Delina (similitudes importantes en DNA rosa-frutal)",
+        "nombre": "Parfums de Marly Delina",
+        "imagen_url": ""
       }
     ]
   },
@@ -8372,36 +8496,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Maahir Legacy | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Aromático Fresco / DNA Acqua di Gio",
-    "inspirado_en": "PDM Sedley / Acqua di Gio DNA (fresco-cítrico amaderado)",
-    "notas_salida": "Bergamota, cítricos, romero",
-    "notas_corazon": "Cedro, menta, notas marinas",
-    "notas_fondo": "Almizcle, ámbar gris, maderas",
-    "descripcion": "Fresco y cítrico con romero y base marina. El fresquito clásico de Lattafa. Muy usable y versátil. Para cuando se quiere algo simple y agradable.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Cotidiano, trabajo, casual",
-    "clima": "Calor / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Media-larga",
-    "estela": "Moderada",
-    "color_liquido": "Azul claro",
-    "perfil_usuario": "Hombres 18-40 años. Frescos, cotidianos.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Frescos, cotidianos.",
-    "inspirado_en_nombre": "Parfums de Marly Sedley",
-    "inspiraciones": [
-      {
-        "texto": "PDM Sedley / Acqua di Gio DNA (fresco-cítrico amaderado)",
-        "nombre": "Parfums de Marly Sedley",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Maison Alhambra - Jean Lowe Matiere | EDP | 100 ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Floral / Rosa Oud Acuático",
@@ -8462,36 +8556,6 @@
     ]
   },
   {
-    "nombre_completo": "Rayhaan - Pacific | EDP | 100ml",
-    "marca": "Rayhaan — UAE",
-    "familia_olfativa": "Aromático Frutal / Acuático — DNA Hawas",
-    "inspirado_en": "Paco Rabanne Invictus / Hawas DNA (85% Hawas)",
-    "notas_salida": "Bergamota, limón, mandarina, cardamomo",
-    "notas_corazon": "Lavanda, ciprés",
-    "notas_fondo": "Ámbar",
-    "descripcion": "Muy similar a Hawas — cítrico fresco con cardamomo y base ambarína. Ligeramente más dulce. Longevidad 5-6h. En piel deja un skin scent de hasta 12h. Más jabonoso-fresco que Hawas. \"Si te gusta Hawas, te va a gustar Pacific\".",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Cotidiano, trabajo, casual",
-    "clima": "Calor / Templado",
-    "proyeccion": "Moderada (2-3h fuerte, luego skin scent)",
-    "duracion": "Larga (skin scent hasta 12h)",
-    "estela": "Moderada",
-    "color_liquido": "Azul celeste",
-    "perfil_usuario": "Hombres 18-40 años. Frescos, activos. Alternativa a Hawas para cotidiano.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Frescos, activos. Alternativa a Hawas para cotidiano.",
-    "inspirado_en_nombre": "Paco Rabanne Invictus",
-    "inspiraciones": [
-      {
-        "texto": "Paco Rabanne Invictus / Hawas DNA (85% Hawas)",
-        "nombre": "Paco Rabanne Invictus",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Rayhaan - Jungle Vibe | EDP | 100ml",
     "marca": "Rayhaan — UAE",
     "familia_olfativa": "Frutal Verde / Higo Cítrico",
@@ -8522,8 +8586,40 @@
     ]
   },
   {
-    "nombre_completo": "Rayhaan - Valhalla | EDP | 100ml",
+    "nombre_completo": "LATTAFA - Maahir Legacy | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Fresco / DNA Acqua di Gio",
+    "inspirado_en": "PDM Sedley / Acqua di Gio DNA (fresco-cítrico amaderado)",
+    "notas_salida": "Bergamota, cítricos, romero",
+    "notas_corazon": "Cedro, menta, notas marinas",
+    "notas_fondo": "Almizcle, ámbar gris, maderas",
+    "descripcion": "Fresco y cítrico con romero y base marina. El fresquito clásico de Lattafa. Muy usable y versátil. Para cuando se quiere algo simple y agradable.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Cotidiano, trabajo, casual",
+    "clima": "Calor / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Media-larga",
+    "estela": "Moderada",
+    "color_liquido": "Azul claro",
+    "perfil_usuario": "Hombres 18-40 años. Frescos, cotidianos.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres Frescos, cotidianos.",
+    "inspirado_en_nombre": "Parfums de Marly Sedley",
+    "inspiraciones": [
+      {
+        "texto": "PDM Sedley / Acqua di Gio DNA (fresco-cítrico amaderado)",
+        "nombre": "Parfums de Marly Sedley",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Valhalla | EDP",
     "marca": "Rayhaan — UAE",
+    "genero": "Masculino",
     "familia_olfativa": "Frutal Amaderado / Boozy",
     "inspirado_en": "Kilian Angel's Share / El Árbol (boozy-vanillic DNA)",
     "notas_salida": "Frambuesa, coñac, bergamota",
@@ -8583,24 +8679,34 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Glacier Bold | EDP | 100ml",
+    "nombre_completo": "MAISON ALHAMBRA - Glacier Bold | EDP",
     "marca": "Maison Alhambra — UAE",
     "genero": "Masculino",
     "familia_olfativa": "Aromático Especiado / Bold Le Male",
-    "inspirado_en": "JPG Le Male DNA",
-    "descripcion": "Versión más audaz e intensa del Glacier. DNA Le Male más potente.",
+    "inspirado_en": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes masculinos más deseados, comentados y \"caza cumplidos\" de la casa francesa. Captura a la perfección ese adictivo ADN de \"piña colada de lujo, madera de coco tostada y haba tonka dulce\", entregando una alternativa accesible con un rendimiento y presencia sensacionales.",
+    "notas_salida": "bergamota, piña, jengibre",
+    "notas_corazon": "coco, maderas",
+    "notas_fondo": "haba tonka, sandalo, ambar",
+    "descripcion": "La definición en perfume del verano eterno, la seducción descontracturada y el magnetismo tropical. Maison Alhambra Glacier Bold abre con una ráfaga efervescente y jugosa de bergamota cítrica mezclada con dejos de piña. En cuestión de minutos despliega su faceta más aclamada: un corazón cremoso donde la madera de coco abraza la piel con una calidez exótica irresistible. Su evolución final en la piel es un secado caliente, dulce y profundamente sexy, donde la riqueza del haba tonka y el sándalo sostienen la cremosidad del coco, dejando una estela flotante que transmite buena onda, atractivo y un estilo moderno.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Fiestas, boliches, salidas con amigos, citas informales, vacaciones o momentos donde se busque una lluvia de cumplidos.",
+    "clima": "Cálido / Templado / Fresco",
     "proyeccion": "Alta",
-    "duracion": "Muy larga",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
     "perfil_usuario": "Hombres 20-40 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "JPG Le Male",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Masculino de perfil alto. Diseñado para jóvenes y hombres modernos, extrovertidos, seguros de sí mismos y amantes de las fragancias dulces, tropicales y adictivas. Es la pócima perfecta para boliches, sunsets, vacaciones, salidas al aire libre o momentos donde el objetivo sea causar impacto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif",
+    "inspirado_en_nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
     "inspiraciones": [
       {
-        "texto": "JPG Le Male DNA",
-        "nombre": "JPG Le Male",
-        "imagen_url": ""
+        "texto": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes masculinos más deseados, comentados y \"caza cumplidos\" de la casa francesa. Captura a la perfección ese adictivo ADN de \"piña colada de lujo, madera de coco tostada y haba tonka dulce\", entregando una alternativa accesible con un rendimiento y presencia sensacionales.",
+        "nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif"
       }
     ]
   },
@@ -9451,37 +9557,6 @@
     ]
   },
   {
-    "nombre_completo": "Calvin Klein - CK Be | EDT | 200ml",
-    "marca": "Calvin Klein — USA",
-    "anno": "1996",
-    "genero": "Unisex",
-    "familia_olfativa": "Aromático Fresco / Clásico Unisex 90s",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Lavanda, notas verdes, bergamota, menta, mandarina",
-    "notas_corazon": "Hierba verde, durazno, jazmín, fresia, orquídea",
-    "notas_fondo": "Almizcle, sándalo, cedro, vainilla, ámbar",
-    "descripcion": "Fresco y limpio. Unisex icónico de los 90s. Menta y lavanda con notas verdes. Más oscuro que CK One. Atemporal y democrático.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, trabajo, cotidiano",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Media",
-    "estela": "Moderada",
-    "color_liquido": "Transparente",
-    "perfil_usuario": "Hombres y mujeres 18-50 años. Clásicos unisex de los 90s.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres y mujeres Clásicos unisex de los 90s.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Bharara - King | Parfum | 100 ml |",
     "marca": "Bharara Beauty — USA",
     "genero": "Masculino",
@@ -10137,36 +10212,6 @@
     ]
   },
   {
-    "nombre_completo": "French Avenue - Genesis Capricorn | EDP | 100ml",
-    "marca": "French Avenue (Fragrance World) — Dubai",
-    "familia_olfativa": "Oriental Resinoso / Incienso Profundo",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Incienso, humo, bergamota",
-    "notas_corazon": "Ládano, abeto balsámico",
-    "notas_fondo": "Benjuí, madera de gaiac, vainilla, ámbar",
-    "descripcion": "Ahumado e incensado con bálsamo y vainilla. Oscuro, meditativo y poderoso. Para amantes de lo oriental profundo. Evoca la disciplina y profundidad de Capricornio.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos, nocturno, meditación",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Negro / ámbar oscuro",
-    "perfil_usuario": "Hombres 30-55 años. Profundos, ambiciosos, nocturnos.",
-    "rango_edad_min": 30,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres Profundos, ambiciosos, nocturnos.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "French Avenue - Genesis Libra | EDP | 100ml",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "familia_olfativa": "Floral Oriental / Equilibrado",
@@ -10187,6 +10232,37 @@
     "rango_edad_min": 25,
     "rango_edad_max": 45,
     "estilo_descripcion": "Mujeres Equilibradas, elegantes, románticas.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "FRENCH AVENUE - Genesis Capricorn | EDP",
+    "marca": "French Avenue (Fragrance World) — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Resinoso / Incienso Profundo",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Incienso, humo, bergamota",
+    "notas_corazon": "Ládano, abeto balsámico",
+    "notas_fondo": "Benjuí, madera de gaiac, vainilla, ámbar",
+    "descripcion": "Ahumado e incensado con bálsamo y vainilla. Oscuro, meditativo y poderoso. Para amantes de lo oriental profundo. Evoca la disciplina y profundidad de Capricornio.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos, nocturno, meditación",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Negro / ámbar oscuro",
+    "perfil_usuario": "Hombres 30-55 años. Profundos, ambiciosos, nocturnos.",
+    "rango_edad_min": 30,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Hombres Profundos, ambiciosos, nocturnos.",
     "inspirado_en_nombre": "Composición propia",
     "inspiraciones": [
       {
@@ -13885,36 +13961,6 @@
     ]
   },
   {
-    "nombre_completo": "Jean Paul Gaultier - Le Beau Le Parfum Intense | Parfum | 125ml",
-    "marca": "Jean Paul Gaultier",
-    "anno": "2022",
-    "concentracion": "Parfum",
-    "genero": "Masculino",
-    "familia_olfativa": "Dulce, Amaderado, Coco, Ámbar., Avainillado, Afrutados, Atalcado, Iris, Lactonico",
-    "inspirado_en": "Creación original",
-    "notas_salida": "piña, iris, jengibre, ciprés",
-    "notas_corazon": "coco, Maderas",
-    "notas_fondo": "haba tonka, sándalo, ámbar, ámbar gris",
-    "descripcion": "Una poción de seducción tropical salvaje y sofisticada. Le Beau Le Parfum abre con una explosión jugosa de piña madura combinada con el chispazo picante del jengibre. Rápidamente, la fragancia evoluciona hacia su faceta más icónica y magnética: un corazón donde el coco más cremoso y sensual se fusiona con maderas densas. En su secado, la sobredosis de haba tonka, vainilla y ámbar gris se clavan en la piel, dejando una estela oscura, dulce, elegante y profundamente adictiva, diseñada para no pasar desapercibido.",
-    "momento_dia": "Noche / Tarde-Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Salidas nocturnas, Fiestas / Boliche, Citas románticas (es un peligro en las distancias cortas), Eventos sociales donde se quiera destacar",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Muy alta",
-    "duracion": "Extrema (9-10h+)",
-    "estela": "Intensa",
-    "rango_edad_min": 18,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Para hombres modernos, seguros de sí mismos, coquetos y con un perfil seductor bien marcado. Es el perfume ideal para el hombre que busca un aroma firma para salir de noche, que ame los acordes dulces y tropicales pero exija un carácter elegante, maduro y sumamente imponente.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Maison Alhambra - Bad Homme | EDP | 100 ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Especiado / Pimienta Cacao",
@@ -13993,6 +14039,36 @@
     "color_liquido": "Transparente / cristalino",
     "perfil_usuario": "Mujeres de todas las edades. El perfume clásico francés que nunca pasa de moda.",
     "estilo_descripcion": "Mujeres de todas las edades. El perfume clásico francés que nunca pasa de moda.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "JEAN PAUL GAULTIER - Le Beau Le Parfum Intense | Parfum",
+    "marca": "Jean Paul Gaultier",
+    "anno": "2022",
+    "concentracion": "Parfum",
+    "genero": "Masculino",
+    "familia_olfativa": "Dulce, Amaderado, Coco, Ámbar., Avainillado, Afrutados, Atalcado, Iris, Lactonico",
+    "inspirado_en": "Creación original",
+    "notas_salida": "piña, iris, jengibre, ciprés",
+    "notas_corazon": "coco, Maderas",
+    "notas_fondo": "haba tonka, sándalo, ámbar, ámbar gris",
+    "descripcion": "Una poción de seducción tropical salvaje y sofisticada. Le Beau Le Parfum abre con una explosión jugosa de piña madura combinada con el chispazo picante del jengibre. Rápidamente, la fragancia evoluciona hacia su faceta más icónica y magnética: un corazón donde el coco más cremoso y sensual se fusiona con maderas densas. En su secado, la sobredosis de haba tonka, vainilla y ámbar gris se clavan en la piel, dejando una estela oscura, dulce, elegante y profundamente adictiva, diseñada para no pasar desapercibido.",
+    "momento_dia": "Noche / Tarde-Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, Fiestas / Boliche, Citas románticas (es un peligro en las distancias cortas), Eventos sociales donde se quiera destacar",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Extrema (9-10h+)",
+    "estela": "Intensa",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Para hombres modernos, seguros de sí mismos, coquetos y con un perfil seductor bien marcado. Es el perfume ideal para el hombre que busca un aroma firma para salir de noche, que ame los acordes dulces y tropicales pero exija un carácter elegante, maduro y sumamente imponente.",
     "inspiraciones": [
       {
         "texto": "Creación original",
