@@ -1656,38 +1656,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Natural Oud | EDP",
-    "familia_olfativa": "Oud, Cálido especiado, Ámbar, Fesco especiado, Afrutados, Amaderado, Metalico, Cuero, Rosas, Fresco",
-    "inspirado_en": "Este perfume es una genialidad: logra fusionar la salida ultra jugosa, poética y frutal-especiada de More Than Words, con el secado majestuoso, oscuro, denso y resinoso dominado por el combo de rosa, oud y benjuí de Ombre Nomade. El resultado es un aroma de jeque moderno, carísimo, súper llevadero y con un aura de estatus social superior.",
-    "notas_salida": "frutas rojas, azafran, nuez moscada",
-    "notas_corazon": "rosa, jazmin",
-    "notas_fondo": "oud, cedro, benjui, ambar",
-    "descripcion": "La definición líquida de la distinción, el misticismo oriental y la sofisticación de un híbrido de autor. Lattafa Natural Oud abre con un impacto alucinante y ultra jugoso de frutas rojas maduras, entrelazadas con el picor exótico del azafrán de alta costura y la calidez de la nuez moscada, recreando la atmósfera vibrante de los grandes éxitos de Xerjoff. Rápidamente, la fragancia evoluciona hacia su corazón más elegante y sensual: un bouquet majestuoso donde la opulencia de la rosa carmesí se ilumina con la pulcritud del jazmín. Su evolución final en la piel es un secado eterno, denso y sumamente carísimo, dominado por el carácter señorial de la madera de oud envuelta en la cremosidad balsámica del benjuí y el ámbar dorado al más puro estilo de Louis Vuitton, dejando una estela flotante que transmite autoridad, éxito y un magnetismo hipnótico.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Eventos formales, reuniones de negocios cruciales, perfume de firma de alta gama, cenas finas, citas románticas donde quieras proyectar misterio o cualquier situación donde el objetivo absoluto sea oler exclusivo, costoso y sumamente distinguido",
-    "clima": "Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Excelente rendimiento (9h+ - 11h+)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido con sutiles reflejos dorados",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Diseñado para hombres y mujeres de personalidad fuerte, elegantes, detallistas y amantes de la perfumería de alta gama que buscan un perfume de firma distinguido, misterioso y exclusivo. Es la pócima perfecta para personalidades magnéticas que quieren un aroma equilibrado, refinado, sutilmente frutal y con una facha impresionante para destacar y despegarse por completo de los perfumes comerciales del montón.",
-    "inspirado_en_imagen_url": "https://http2.mlstatic.com/D_Q_NP_935479-MLU74218958182_012024-O.webp",
-    "inspirado_en_nombre": "Un híbrido magistral entre Ombre Nomade de Louis Vuitton y More Than Words de Xerjoff",
-    "inspiraciones": [
-      {
-        "texto": "Este perfume es una genialidad: logra fusionar la salida ultra jugosa, poética y frutal-especiada de More Than Words, con el secado majestuoso, oscuro, denso y resinoso dominado por el combo de rosa, oud y benjuí de Ombre Nomade. El resultado es un aroma de jeque moderno, carísimo, súper llevadero y con un aura de estatus social superior.",
-        "nombre": "Un híbrido magistral entre Ombre Nomade de Louis Vuitton y More Than Words de Xerjoff",
-        "imagen_url": "https://http2.mlstatic.com/D_Q_NP_935479-MLU74218958182_012024-O.webp"
-      },
-      {
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.16450.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "AFNAN - Historic Doria | EDP",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "genero": "Femenino",
@@ -1746,6 +1714,40 @@
         "texto": "JPG Le Beau Paradise Garden (muy cercano — \"mejor que el original\" según algunos)",
         "nombre": "JPG Le Beau Paradise Garden",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Pride Natural Oud | EDP",
+    "marca": "LATTAFA",
+    "genero": "Unisex",
+    "familia_olfativa": "Oud, Cálido especiado, Ámbar, Fesco especiado, Afrutados, Amaderado, Metalico, Cuero, Rosas, Fresco",
+    "inspirado_en": "Este perfume es una genialidad: logra fusionar la salida ultra jugosa, poética y frutal-especiada de More Than Words, con el secado majestuoso, oscuro, denso y resinoso dominado por el combo de rosa, oud y benjuí de Ombre Nomade. El resultado es un aroma de jeque moderno, carísimo, súper llevadero y con un aura de estatus social superior.",
+    "notas_salida": "frutas rojas, azafran, nuez moscada",
+    "notas_corazon": "rosa, jazmin",
+    "notas_fondo": "oud, cedro, benjui, ambar",
+    "descripcion": "La definición líquida de la distinción, el misticismo oriental y la sofisticación de un híbrido de autor. Lattafa Natural Oud abre con un impacto alucinante y ultra jugoso de frutas rojas maduras, entrelazadas con el picor exótico del azafrán de alta costura y la calidez de la nuez moscada, recreando la atmósfera vibrante de los grandes éxitos de Xerjoff. Rápidamente, la fragancia evoluciona hacia su corazón más elegante y sensual: un bouquet majestuoso donde la opulencia de la rosa carmesí se ilumina con la pulcritud del jazmín. Su evolución final en la piel es un secado eterno, denso y sumamente carísimo, dominado por el carácter señorial de la madera de oud envuelta en la cremosidad balsámica del benjuí y el ámbar dorado al más puro estilo de Louis Vuitton, dejando una estela flotante que transmite autoridad, éxito y un magnetismo hipnótico.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Eventos formales, reuniones de negocios cruciales, perfume de firma de alta gama, cenas finas, citas románticas donde quieras proyectar misterio o cualquier situación donde el objetivo absoluto sea oler exclusivo, costoso y sumamente distinguido",
+    "clima": "Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excelente rendimiento (9h+ - 11h+)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido con sutiles reflejos dorados",
+    "rango_edad_min": 25,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para hombres y mujeres de personalidad fuerte, elegantes, detallistas y amantes de la perfumería de alta gama que buscan un perfume de firma distinguido, misterioso y exclusivo. Es la pócima perfecta para personalidades magnéticas que quieren un aroma equilibrado, refinado, sutilmente frutal y con una facha impresionante para destacar y despegarse por completo de los perfumes comerciales del montón.",
+    "inspirado_en_imagen_url": "https://http2.mlstatic.com/D_Q_NP_935479-MLU74218958182_012024-O.webp",
+    "inspirado_en_nombre": "Un híbrido magistral entre Ombre Nomade de Louis Vuitton y More Than Words de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Este perfume es una genialidad: logra fusionar la salida ultra jugosa, poética y frutal-especiada de More Than Words, con el secado majestuoso, oscuro, denso y resinoso dominado por el combo de rosa, oud y benjuí de Ombre Nomade. El resultado es un aroma de jeque moderno, carísimo, súper llevadero y con un aura de estatus social superior.",
+        "nombre": "Un híbrido magistral entre Ombre Nomade de Louis Vuitton y More Than Words de Xerjoff",
+        "imagen_url": "https://http2.mlstatic.com/D_Q_NP_935479-MLU74218958182_012024-O.webp"
+      },
+      {
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.16450.2x.avif"
       }
     ]
   },
@@ -2000,6 +2002,36 @@
     ]
   },
   {
+    "nombre_completo": "AL WATANIAH - Watani Instense Gold | EDP",
+    "marca": "Al Wataniah — UAE",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental Floral Gourmand / Miel Vainilla",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Miel, vainilla, clavo de olor, limón",
+    "notas_corazon": "Rosa, ylang-ylang, jazmín, azafran",
+    "notas_fondo": "Vainilla, almizcle blanco, sándalo, pachulí",
+    "descripcion": "La definición líquida de la riqueza oriental, el magnetismo dulce y la opulencia amaderada definitiva. Watani Intense Gold abre con un impacto alucinante, potente y ultra almibarado de miel pura y vainilla, magistralmente equilibrado por el toque especiado del clavo de olor y el frescor cítrico de la lima ácida. Rápidamente abre paso a una evolución majestuosa e hipnótica donde el ylang-ylang, la rosa y el azafrán se funden con notas frutales sobre una segunda capa de vainilla cremosa. Su evolución final en la piel es un secado eterno, carísimo y profundamente envolvente, donde la robustez del sándalo y el vetiver se combinan con la densidad del regaliz y el pachulí, dejando un rastro flotante y maderoso que transmite éxito, facha plantada y una autoridad imponente.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos, citas",
+    "clima": "Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Sólido-Prolongado (7h a 8h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado profundo",
+    "perfil_usuario": "Mujeres 30-55 años. Clásicas, orientales, sofisticadas.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado exclusivamente para hombres y mujeres de fuerte presencia, líderes, amantes de los aromas orientales pesados y coleccionistas de fragancias complejas que buscan un aroma de firma de altísimo nivel. Es la pócima perfecta para personalidades seguras de sí mismas que visten de forma impecable, detestan pasar desapercibidas y exigen una fragancia cálida y envolvente que domine por completo el ambiente.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia"
+      }
+    ]
+  },
+  {
     "nombre_completo": "French Avenue - Pinnace | EDP | 100ml",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "anno": "2024",
@@ -2028,36 +2060,6 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "AL WATANIAH - Watani Gold | EDP",
-    "marca": "Al Wataniah — UAE",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental Floral Gourmand / Miel Vainilla",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Miel, vainilla, clavo de olor, limón",
-    "notas_corazon": "Rosa, ylang-ylang, jazmín, azafran",
-    "notas_fondo": "Vainilla, almizcle blanco, sándalo, pachulí",
-    "descripcion": "La definición líquida de la riqueza oriental, el magnetismo dulce y la opulencia amaderada definitiva. Watani Intense Gold abre con un impacto alucinante, potente y ultra almibarado de miel pura y vainilla, magistralmente equilibrado por el toque especiado del clavo de olor y el frescor cítrico de la lima ácida. Rápidamente abre paso a una evolución majestuosa e hipnótica donde el ylang-ylang, la rosa y el azafrán se funden con notas frutales sobre una segunda capa de vainilla cremosa. Su evolución final en la piel es un secado eterno, carísimo y profundamente envolvente, donde la robustez del sándalo y el vetiver se combinan con la densidad del regaliz y el pachulí, dejando un rastro flotante y maderoso que transmite éxito, facha plantada y una autoridad imponente.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos, citas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Sólido-Prolongado (7h a 8h)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar dorado profundo",
-    "perfil_usuario": "Mujeres 30-55 años. Clásicas, orientales, sofisticadas.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Diseñado exclusivamente para hombres y mujeres de fuerte presencia, líderes, amantes de los aromas orientales pesados y coleccionistas de fragancias complejas que buscan un aroma de firma de altísimo nivel. Es la pócima perfecta para personalidades seguras de sí mismas que visten de forma impecable, detestan pasar desapercibidas y exigen una fragancia cálida y envolvente que domine por completo el ambiente.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia"
       }
     ]
   },
@@ -2216,8 +2218,9 @@
     ]
   },
   {
-    "nombre_completo": "French Avenue - Spectre Wraith | EDP | 80ml",
+    "nombre_completo": "FRENCH AVENUE - Spectre Wraith | EDP",
     "marca": "French Avenue (Fragrance World) — Dubai",
+    "genero": "Masculino",
     "familia_olfativa": "Aromático / Oscuro",
     "inspirado_en": "Composición propia",
     "notas_salida": "ron, especias",
@@ -2512,36 +2515,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Pride Kashan | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Amaderado, Almizclado, Atalcado, Aromático, Ámbar, Fesco especiado, Dulce, Afrutados, Cálido especiado, Cítrico",
-    "inspirado_en": "Réplica monumental, audaz y de una fidelidad espectacular de uno de los perfumes de ultra nicho franceses más exclusivos, caros y codiciados por los amantes de la distinción. Captura a la perfección ese ADN legendario que evoca la libertad, el viento y la elegancia clásica mediante el combo de esclarea herbal, naranja y vetiver, pero potenciado magistralmente por la casa árabe con un corazón molecular de ambroxan, cachemira y frambuesa. Una pócima de puro estatus diseñada para quienes buscan un aroma único que grite facha, originalidad y éxito casual.",
-    "notas_salida": "pimienta, esclarea, naranja",
-    "notas_corazon": "cachemira, frambuesa, ambroxan",
-    "notas_fondo": "sandalo, almizcle, vetiver",
-    "descripcion": "La definición líquida de la facha moderna, la libertad de los grandes espacios y el magnetismo del ultra nicho francés. Lattafa Pride Kashan abre con un impacto alucinante, fresco y ultra prolijo de esclarea herbal entrelazada con la jugosidad de la naranja y el chispazo picante de la pimienta, recreando la legendaria y aerodinámica salida de Isle of Man. Rápidamente, la fragancia revela su faceta más conquistadora y vanguardista: un corazón majestuoso y molecular donde la textura aterciopelada de la madera de cachemira y la adicción de la frambuesa se funden sobre un colchón masivo de ambroxan que simula la brisa del océano. Su evolución final en la piel es un secado eterno, sofisticado y sumamente masculino, dominado por la prolijidad terrosa del vetiver, la cremosidad del sándalo y la sensualidad del almizcle, dejando una estela flotante que transmite éxito, pulcritud costosa y un misterio irresistible.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Perfume de firma diario para marcar la diferencia, reuniones importantes, salidas casuales-chic de fin de semana, citas románticas (donde es letal por su textura de cachemira) o cualquier situación donde el objetivo absoluto sea oler radicalmente exclusivo y prolijo",
-    "clima": "Templado / Cálido / Frío",
-    "proyeccion": "Alta",
-    "duracion": "Excelente rendimiento (8h+ - 10h+)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido cristalino",
-    "rango_edad_min": 22,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Diseñado exclusivamente para hombres modernos, prolijos, detallistas y amantes de las fragancias de firma ultra exclusivas que buscan despegarse por completo de lo comercial masivo. Es la pócima perfecta para personalidades seguras y dinámicas que exigen un perfume comodín de alto impacto, ideal tanto para derrochar una facha impecable de día en el trabajo como para seducir con elegancia de noche en una cita gracias a su magnético secado molecular.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.47330.2x.avif",
-    "inspirado_en_nombre": "Isle of Man de Frapin (Francia)",
-    "inspiraciones": [
-      {
-        "texto": "Réplica monumental, audaz y de una fidelidad espectacular de uno de los perfumes de ultra nicho franceses más exclusivos, caros y codiciados por los amantes de la distinción. Captura a la perfección ese ADN legendario que evoca la libertad, el viento y la elegancia clásica mediante el combo de esclarea herbal, naranja y vetiver, pero potenciado magistralmente por la casa árabe con un corazón molecular de ambroxan, cachemira y frambuesa. Una pócima de puro estatus diseñada para quienes buscan un aroma único que grite facha, originalidad y éxito casual.",
-        "nombre": "Isle of Man de Frapin (Francia)",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.47330.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "AL WATANIAH - Ameeri | Extrait De Parfum",
     "genero": "Masculino",
     "familia_olfativa": "Afrutados, Florales, Floral blanco, Fresco, Dulce, Verde, Cítrico, Amaderado, Atalcado, Especiado suave",
@@ -2568,6 +2541,37 @@
         "texto": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes frescos y aromáticos más codiciados, versátiles y aclamados de la perfumería de lujo. Captura a la perfección ese codiciado ADN de \"frescura azul refinada, cítricos efervescentes, manzana crujiente y maderas nobles de estatus\", entregando una alternativa accesible con un rendimiento en concentración Extrait De Parfum de nivel superlativo.",
         "nombre": "Percival de Parfums de Marly",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Pride Kashan | EDP",
+    "marca": "LATTAFA",
+    "genero": "Unisex",
+    "familia_olfativa": "Amaderado, Almizclado, Atalcado, Aromático, Ámbar, Fesco especiado, Dulce, Afrutados, Cálido especiado, Cítrico",
+    "inspirado_en": "Réplica monumental, audaz y de una fidelidad espectacular de uno de los perfumes de ultra nicho franceses más exclusivos, caros y codiciados por los amantes de la distinción. Captura a la perfección ese ADN legendario que evoca la libertad, el viento y la elegancia clásica mediante el combo de esclarea herbal, naranja y vetiver, pero potenciado magistralmente por la casa árabe con un corazón molecular de ambroxan, cachemira y frambuesa. Una pócima de puro estatus diseñada para quienes buscan un aroma único que grite facha, originalidad y éxito casual.",
+    "notas_salida": "pimienta, esclarea, naranja",
+    "notas_corazon": "cachemira, frambuesa, ambroxan",
+    "notas_fondo": "sandalo, almizcle, vetiver",
+    "descripcion": "La definición líquida de la facha moderna, la libertad de los grandes espacios y el magnetismo del ultra nicho francés. Lattafa Pride Kashan abre con un impacto alucinante, fresco y ultra prolijo de esclarea herbal entrelazada con la jugosidad de la naranja y el chispazo picante de la pimienta, recreando la legendaria y aerodinámica salida de Isle of Man. Rápidamente, la fragancia revela su faceta más conquistadora y vanguardista: un corazón majestuoso y molecular donde la textura aterciopelada de la madera de cachemira y la adicción de la frambuesa se funden sobre un colchón masivo de ambroxan que simula la brisa del océano. Su evolución final en la piel es un secado eterno, sofisticado y sumamente masculino, dominado por la prolijidad terrosa del vetiver, la cremosidad del sándalo y la sensualidad del almizcle, dejando una estela flotante que transmite éxito, pulcritud costosa y un misterio irresistible.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Perfume de firma diario para marcar la diferencia, reuniones importantes, salidas casuales-chic de fin de semana, citas románticas (donde es letal por su textura de cachemira) o cualquier situación donde el objetivo absoluto sea oler radicalmente exclusivo y prolijo",
+    "clima": "Templado / Cálido / Frío",
+    "proyeccion": "Alta",
+    "duracion": "Excelente rendimiento (8h+ - 10h+)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido cristalino",
+    "rango_edad_min": 22,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Diseñado exclusivamente para hombres modernos, prolijos, detallistas y amantes de las fragancias de firma ultra exclusivas que buscan despegarse por completo de lo comercial masivo. Es la pócima perfecta para personalidades seguras y dinámicas que exigen un perfume comodín de alto impacto, ideal tanto para derrochar una facha impecable de día en el trabajo como para seducir con elegancia de noche en una cita gracias a su magnético secado molecular.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.47330.2x.avif",
+    "inspirado_en_nombre": "Isle of Man de Frapin (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica monumental, audaz y de una fidelidad espectacular de uno de los perfumes de ultra nicho franceses más exclusivos, caros y codiciados por los amantes de la distinción. Captura a la perfección ese ADN legendario que evoca la libertad, el viento y la elegancia clásica mediante el combo de esclarea herbal, naranja y vetiver, pero potenciado magistralmente por la casa árabe con un corazón molecular de ambroxan, cachemira y frambuesa. Una pócima de puro estatus diseñada para quienes buscan un aroma único que grite facha, originalidad y éxito casual.",
+        "nombre": "Isle of Man de Frapin (Francia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.47330.2x.avif"
       }
     ]
   },
@@ -3331,6 +3335,37 @@
     ]
   },
   {
+    "nombre_completo": "ARMAF - Club de Nuit Urban | Elixir",
+    "marca": "Armaf — India",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Especiado / Moderno DNA Sauvage",
+    "inspirado_en": "Dior Sauvage Elixir / composición propia enriquecida",
+    "notas_salida": "Bergamota, pimienta rosa, flor de azahar, jazmín",
+    "notas_corazon": "Lavanda, elemí, geranio, vetiver, azafrán",
+    "notas_fondo": "Ambroxan, ámbar, pachulí, cedro, ládano",
+    "descripcion": "Especiado, aromático y sofisticado. Bergamota especiada con floral masculino potente. Masculino, moderno y urbano. Beast mode en longevidad.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Todo",
+    "ocasion": "Trabajo, salidas, eventos",
+    "clima": "Templado / Frío",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Negro / ámbar oscuro",
+    "perfil_usuario": "Hombres 25-45 años. Modernos, urbanos, seguros de sí mismos.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Hombres Modernos, urbanos, seguros de sí mismos.",
+    "inspirado_en_nombre": "Dior Sauvage Elixir",
+    "inspiraciones": [
+      {
+        "texto": "Dior Sauvage Elixir / composición propia enriquecida",
+        "nombre": "Dior Sauvage Elixir",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Azzaro - Pour Homme | EDT | 100 ml",
     "marca": "Azzaro — Francia",
     "familia_olfativa": "Fougère Aromático / Clásico Barbería",
@@ -3356,36 +3391,6 @@
       {
         "texto": "Composición propia — ícono desde 1978",
         "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Armaf - Club de Nuit Urban | Elixir | 105ml",
-    "marca": "Armaf — India",
-    "familia_olfativa": "Aromático Especiado / Moderno DNA Sauvage",
-    "inspirado_en": "Dior Sauvage Elixir / composición propia enriquecida",
-    "notas_salida": "Bergamota, pimienta rosa, flor de azahar, jazmín",
-    "notas_corazon": "Lavanda, elemí, geranio, vetiver, azafrán",
-    "notas_fondo": "Ambroxan, ámbar, pachulí, cedro, ládano",
-    "descripcion": "Especiado, aromático y sofisticado. Bergamota especiada con floral masculino potente. Masculino, moderno y urbano. Beast mode en longevidad.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Todo",
-    "ocasion": "Trabajo, salidas, eventos",
-    "clima": "Templado / Frío",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Negro / ámbar oscuro",
-    "perfil_usuario": "Hombres 25-45 años. Modernos, urbanos, seguros de sí mismos.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres Modernos, urbanos, seguros de sí mismos.",
-    "inspirado_en_nombre": "Dior Sauvage Elixir",
-    "inspiraciones": [
-      {
-        "texto": "Dior Sauvage Elixir / composición propia enriquecida",
-        "nombre": "Dior Sauvage Elixir",
         "imagen_url": ""
       }
     ]
@@ -3580,7 +3585,7 @@
     ]
   },
   {
-    "nombre_completo": "AL HARAMAIN - Amber Oud Ruby Edition Kit 75ml + 30ml + BodySpash 250ml | EDP",
+    "nombre_completo": "AL HARAMAIN - Amber Oud Ruby Edition KIT | EDP",
     "marca": "Al Haramain Perfumes — Arabia Saudí",
     "genero": "Masculino",
     "familia_olfativa": "Oriental Floral / Ámbar Cristalino",
@@ -3670,36 +3675,6 @@
         "texto": "Réplica monumental, nítida y superdotada de uno de los perfumes franceses más caros, vendidos y codiciados de la historia. Captura a la perfección esa columna vertebral lujosa basada en cítricos brillantes, un corazón floral majestuoso de rosa y fresia, y el legendario secado de pachulí y vetiver aristocrático, pero con el beneficio de la fijación árabe de Al Haramain que bancea jornadas enteras.",
         "nombre": "Coco Mademoiselle de Chanel (París)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.612.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Artisan Ethnique | EDP",
-    "marca": "LATTAFA",
-    "genero": "Unisex",
-    "familia_olfativa": "Dulce, Cálido especiado, Avainillado, Canela, Amaderado, Ron, Ámbar, Caramelo, Cacao, Balsámico",
-    "inspirado_en": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
-    "notas_salida": "canela, ron, azucar",
-    "notas_corazon": "caramelo, cacao, cafe, musgo",
-    "notas_fondo": "vainilla, haba tonka, cachemira, ladano",
-    "descripcion": "La definición líquida de la adicción pura, el minimalismo lujoso de Seúl y la seducción gourmand definitiva. Artisan Ethnique abre con un impacto alucinante e hiper-licoroso de ron añejo, canela y una sobredosis de azúcar quemada, envolviendo el olfato en una atmósfera dulce carísima. Rápidamente, la fragancia revela su costado más complejo y adictivo: un corazón majestuoso donde la cremosidad del caramelo y el cacao se cruzan con la amargura sofisticada del café expreso. Su evolución final en la piel es un secado eterno, denso y sumamente magnético, dominado por la sofisticación de la madera de cachemira, la vainilla y la fuerza resinosa del ládano, dejando una estela flotante que se adueña por completo de cualquier espacio cerrado y se cansa de recibir cumplidos.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas nocturnas de alto impacto, citas románticas (es un imán letal en distancias cortas), eventos donde quieras destacar sí o sí o cualquier situación donde quieras oler radicalmente diferente, moderno y millonario",
-    "clima": "Frío extremo / Frío / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Atómico (10h+ - 12h+)",
-    "estela": "Intensa",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Diseñado para hombres y mujeres extrovertidos, modernos, amantes de las tendencias globales y de la moda urbana de lujo que buscan un perfume de firma nocturno o invernal que sea la definición pura de la provocación dulce. Es la pócima perfecta para personalidades magnéticas que aman ser el centro de atención, adoran los acordes de azúcar, ron y vainilla, y exigen un aroma de ultra nicho que transmita autoridad, facha absoluta y pura sensualidad.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif",
-    "inspirado_en_nombre": "Sugar Addict de BORNTOSTANDOUT®",
-    "inspiraciones": [
-      {
-        "texto": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
-        "nombre": "Sugar Addict de BORNTOSTANDOUT®",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif"
       }
     ]
   },
@@ -4542,6 +4517,36 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Pride Artisan Ethnique | EDP",
+    "marca": "LATTAFA",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Cálido especiado, Avainillado, Canela, Amaderado, Ron, Ámbar, Caramelo, Cacao, Balsámico",
+    "inspirado_en": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
+    "notas_salida": "canela, ron, azucar",
+    "notas_corazon": "caramelo, cacao, cafe, musgo",
+    "notas_fondo": "vainilla, haba tonka, cachemira, ladano",
+    "descripcion": "La definición líquida de la adicción pura, el minimalismo lujoso de Seúl y la seducción gourmand definitiva. Artisan Ethnique abre con un impacto alucinante e hiper-licoroso de ron añejo, canela y una sobredosis de azúcar quemada, envolviendo el olfato en una atmósfera dulce carísima. Rápidamente, la fragancia revela su costado más complejo y adictivo: un corazón majestuoso donde la cremosidad del caramelo y el cacao se cruzan con la amargura sofisticada del café expreso. Su evolución final en la piel es un secado eterno, denso y sumamente magnético, dominado por la sofisticación de la madera de cachemira, la vainilla y la fuerza resinosa del ládano, dejando una estela flotante que se adueña por completo de cualquier espacio cerrado y se cansa de recibir cumplidos.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas nocturnas de alto impacto, citas románticas (es un imán letal en distancias cortas), eventos donde quieras destacar sí o sí o cualquier situación donde quieras oler radicalmente diferente, moderno y millonario",
+    "clima": "Frío extremo / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Atómico (10h+ - 12h+)",
+    "estela": "Intensa",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Diseñado para hombres y mujeres extrovertidos, modernos, amantes de las tendencias globales y de la moda urbana de lujo que buscan un perfume de firma nocturno o invernal que sea la definición pura de la provocación dulce. Es la pócima perfecta para personalidades magnéticas que aman ser el centro de atención, adoran los acordes de azúcar, ron y vainilla, y exigen un aroma de ultra nicho que transmita autoridad, facha absoluta y pura sensualidad.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif",
+    "inspirado_en_nombre": "Sugar Addict de BORNTOSTANDOUT®",
+    "inspiraciones": [
+      {
+        "texto": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes más virales, deseados e inconseguibles del mundo. Captura a la perfección ese ADN irreverente y ultra sexy que gira en torno a una sobredosis de azúcar morena y ron caribeño, potenciado con destellos de cacao amargo, canela picante, café y un fondo majestuoso de madera de cachemira y vainilla. Una pócima de puro estatus moderno, diseñada para quienes aman los aromas dulces extremos pero con una complejidad y un lujo desbordante.",
+        "nombre": "Sugar Addict de BORNTOSTANDOUT®",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.85084.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Swiss Arabian - Shirley May Allure Intense 1210 | EDT | 100ml",
     "marca": "Swiss Arabian — Dubai/Suiza",
     "genero": "Femenino",
@@ -4706,6 +4711,36 @@
       {
         "texto": "Dior Sauvage Elixir DNA con tabaco",
         "nombre": "Dior Sauvage Elixir",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "GRES - Cabotine | EDT",
+    "marca": "Grès — Francia",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Verde / Clásico",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Gálbano, jacinto, bergamota, notas verdes",
+    "notas_corazon": "Rosa, lirio de los valles, violeta, jazmín",
+    "notas_fondo": "Sándalo, vetiver, pachulí, musgo",
+    "descripcion": "Verde y floral de los 90s. Jacinto y notas verdes con rosa. Un clásico discreto y elegante. El kit incluye accesorios según presentación.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Todo el año",
+    "ocasion": "Trabajo, cotidiano",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Media",
+    "estela": "Moderada",
+    "color_liquido": "Verde claro",
+    "perfil_usuario": "Mujeres 30-60 años. Verdes, clásicas, europeas.",
+    "rango_edad_min": 30,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Mujeres Verdes, clásicas, europeas.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -7780,36 +7815,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Yara Candy | EDP | 100 ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Frutal Dulce / Candy",
-    "inspirado_en": "Yara pero más candy e intenso",
-    "notas_salida": "Grosella negra, fresa, vainilla",
-    "notas_corazon": "Cereza, frambuesa, mandarina",
-    "notas_fondo": "Almizcle, vainilla, ámbar",
-    "descripcion": "Explosión de frutas rojas dulces como gominolas. Más intenso y candy que el Yara original. Femenino y divertido.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, salidas",
-    "clima": "Todo",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga",
-    "estela": "Moderada-intensa",
-    "color_liquido": "Rosado fucsia",
-    "perfil_usuario": "Mujeres 15-30 años. Dulces, candy, festivas.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres Dulces, candy, festivas.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Yara pero más candy e intenso",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "RAYHAAN - Dark Leather | EDP",
     "marca": "RAYHAAN",
     "genero": "Masculino",
@@ -7884,6 +7889,37 @@
       {
         "texto": "Lattafa Yara",
         "nombre": "Lattafa Yara",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Yara Candy | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Dulce / Candy",
+    "inspirado_en": "Yara pero más candy e intenso",
+    "notas_salida": "Grosella negra, fresa, vainilla",
+    "notas_corazon": "Cereza, frambuesa, mandarina",
+    "notas_fondo": "Almizcle, vainilla, ámbar",
+    "descripcion": "Explosión de frutas rojas dulces como gominolas. Más intenso y candy que el Yara original. Femenino y divertido.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Casual, salidas",
+    "clima": "Todo",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga",
+    "estela": "Moderada-intensa",
+    "color_liquido": "Rosado fucsia",
+    "perfil_usuario": "Mujeres 15-30 años. Dulces, candy, festivas.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Mujeres Dulces, candy, festivas.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Yara pero más candy e intenso",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -13443,35 +13479,6 @@
         "texto": "Réplica exacta de esta imponente obra maestra de la alta perfumería, famosa a nivel mundial por su propuesta oscura, resinosa, mística y sumamente opulenta.",
         "nombre": "Chopard Black Incense Malaki",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.61770.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Gres - Kit Cabotine | EDT | 100 ml + Body Lotion | 200ml |",
-    "marca": "Grès — Francia",
-    "familia_olfativa": "Floral Verde / Clásico",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Gálbano, jacinto, bergamota, notas verdes",
-    "notas_corazon": "Rosa, lirio de los valles, violeta, jazmín",
-    "notas_fondo": "Sándalo, vetiver, pachulí, musgo",
-    "descripcion": "Verde y floral de los 90s. Jacinto y notas verdes con rosa. Un clásico discreto y elegante. El kit incluye accesorios según presentación.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Todo el año",
-    "ocasion": "Trabajo, cotidiano",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Media",
-    "estela": "Moderada",
-    "color_liquido": "Verde claro",
-    "perfil_usuario": "Mujeres 30-60 años. Verdes, clásicas, europeas.",
-    "rango_edad_min": 30,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Mujeres Verdes, clásicas, europeas.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
       }
     ]
   },
