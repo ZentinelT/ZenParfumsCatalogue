@@ -241,7 +241,7 @@
     "p": 103600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_986061-CBT79714568670_102024-F.webp",
     "nt": "Salida Azafrán, bergamota, elemi Notas de corazón: Madera de oud, rosa de Bulgaria, lirio de los valles Notas de fondo: Haba tonka, ámbar, almizcle blanco, musgo de roble",
     "p1": "$103.600"
@@ -2425,7 +2425,7 @@
     "p": 70300,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_699934-MLA93035954178_092025-F.webp",
     "nt": "Salida Pimienta, caramelo, especias Notas de corazón: Vainilla, rosa, pachulí Notas de fondo: maderas, ámbar, almizcle",
     "p1": "$70.300"
@@ -3855,7 +3855,7 @@
     "p": 35900,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_709487-MLA99774205258_122025-F.webp",
     "nt": "Salida Crema, Manteca, Nuez Notas de corazón: Leche, Vainilla Notas de fondo: Vainilla, Haba tonka",
     "p1": "$35.900"
@@ -5987,7 +5987,7 @@
     "p": 75400,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_773809-MLA94634478318_102025-O.webp",
     "nt": "Salida nuez moscada, canela, pimienta negra, toronja Notas de corazón: lavanda, notas amaderadas, iris, cafe Notas de fondo: regaliz, ambar, sandalo, vainilla",
     "p1": "$75.400"
@@ -6234,7 +6234,7 @@
     "p": 56300,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_766021-MLA108324517039_032026-F.webp",
     "nt": "Salida manzanilla, hojas de violeta Notas de corazón: coco, balsamo de abeto Notas de fondo: cachemira, sandalo, haba tonka",
     "p1": "$56.300"
@@ -6299,7 +6299,7 @@
     "p": 74800,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_Q_NP_852567-MLA81385278026_122024-F.webp",
     "nt": "Salida pimienta, nuez moscada Notas de corazón: cedro, ambar Notas de fondo: incienso, ladano",
     "p1": "$74.800"
