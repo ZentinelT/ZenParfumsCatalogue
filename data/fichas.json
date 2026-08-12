@@ -139,10 +139,28 @@
     "nombre_completo": "LATTAFA - Kids Happy Play | EDP",
     "genero": "Unisex",
     "familia_olfativa": "Afrutados, Cítrico, Fesco especiado, Verde, Dulce, Fresco, Aromático, Ámbar, Amaderado",
+    "inspirado_en": "Representa el estándar de oro de las fragancias juveniles y familiares que buscan contagiar energía, dinamismo y pulcritud. Combina la efervescencia de los cítricos con la chispa del ruibarbo y la ciruela, logrando una estela súper limpia, alegre y atemporal.",
     "notas_salida": "jengibre, mandarina, limon",
     "notas_corazon": "ruibarbo, ciruela, jazmin, violeta",
     "notas_fondo": "maderas, ambar, almizcle",
-    "inspiraciones": []
+    "descripcion": "La definición en perfume de la alegría contagiosa, la frescura cristalina y la diversión sin preocupaciones. Lattafa Pride Kids Play abre con un impacto jugoso y chispeante de limón recién cortado, mandarina dulce y el toque picante del jengibre. En cuestión de minutos despliega su faceta más elogiada: un corazón dinámico donde el ruibarbo acidulado se entrelaza con la dulzura de la ciruela y la ligereza del jazmín. Su evolución final en la piel es un secado suave, amaderado y profundamente pulcro, donde el almizcle blanco y el ámbar envuelven las frutas, dejando un rastro flotante que transmite limpieza, felicidad y dinamismo.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario, actividades escolares, deportes, regalos de cumpleaños, salidas familiares o momentos casuales donde el objetivo sea oler fresco y limpio.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Notable (6h a 8h)",
+    "estela": "Discreta",
+    "color_liquido": "Cristalino traslúcido",
+    "rango_edad_max": 13,
+    "estilo_descripcion": "Unisex (ideal para niños, adolescentes y adultos que aman los aromas cítricos-frutales limpios y energizantes). Diseñado para personas alegres, dinámicas y amantes de los perfumes frescos que aportan buen humor. Es la elección perfecta para la rutina diaria, colegio, facultad, actividades al aire libre o momentos de relax.",
+    "inspirado_en_nombre": "Perfil Cítrico-Frutal Chispeante de Alta Gama / Estilo Marc Jacobs Daisy Eau So Fresh / Clinique Happy",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar de oro de las fragancias juveniles y familiares que buscan contagiar energía, dinamismo y pulcritud. Combina la efervescencia de los cítricos con la chispa del ruibarbo y la ciruela, logrando una estela súper limpia, alegre y atemporal.",
+        "nombre": "Perfil Cítrico-Frutal Chispeante de Alta Gama / Estilo Marc Jacobs Daisy Eau So Fresh / Clinique Happy"
+      }
+    ]
   },
   {
     "nombre_completo": "LATTAFA - Kids Happy Riders | EDP",
@@ -3459,7 +3477,8 @@
     ]
   },
   {
-    "nombre_completo": "DOLCE & GABBANA - Light Blue Pour Homme EDT 125ML | EDP",
+    "nombre_completo": "DOLCE & GABBANA - Pour Homme EDT | EDP",
+    "marca": "DOLCE & GABBANA",
     "concentracion": "EDT",
     "genero": "Masculino",
     "familia_olfativa": "Aromático Acuático / Cítrico Siciliano",
@@ -4096,7 +4115,8 @@
     ]
   },
   {
-    "nombre_completo": "CALVIN KLEIN - CK BE | EDP",
+    "nombre_completo": "CALVIN KLEIN - CK Be | EDP",
+    "marca": "CALVIN KLEIN",
     "genero": "Unisex",
     "familia_olfativa": "Aromático Fresco / Clásico Unisex 90s",
     "inspirado_en": "Representa la máxima expresión del perfume \"estilo segunda piel\" (your skin but better). Es la referencia mundial de los aromas pulcros, informales y relajados que transmiten una sensación constante de baño reciente sin resultar recargados.",
@@ -4398,36 +4418,6 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "MAISON ALHAMBRA - PHILOS OPUS NOIR | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Amaderado, Dulce, Floral amarillo, Cuero, Afrutados, Fesco especiado, Animálico, Atalcado, Pachulí, Ámbar",
-    "inspirado_en": "Réplica de precisión quirúrgica que rinde homenaje a una de las obras maestras más codiciadas, teatrales y costosas de la alta perfumería italiana. Captura a la perfección ese distinguido ADN de \"rosa turca aterciopelada y frutas oscuras contrapuestas a cuero fino, nuez moscada especiada y pachulí dramático\", entregando una alternativa accesible con un nivel de estatus y presencia superlativos.",
-    "notas_salida": "frutas, rosa",
-    "notas_corazon": "ylang-ylang, cuero, nuez moscada, ambar",
-    "notas_fondo": "pachuli, vainilla, vetiver, almizcle, cedro",
-    "descripcion": "La definición en perfume del drama teatral, la opulencia italiana y la sofisticación amaderada. Maison Alhambra Philos Opus Noir abre con un impacto seductor y refinado de rosa turca abrazada por la jugosidad de frutas maduras. En cuestión de minutos despliega su faceta más elogiada: un corazón oscuro donde el cuero fino y la nuez moscada se entrelazan con el ámbar y el ylang-ylang. Su evolución final en la piel es un secado caliente, terroso y profundamente sexy, donde el pachulí y el cedro se funden con la suavidad de la vainilla y el almizcle, dejando un rastro flotante que evoca estatus, misterio y una presencia inolvidable.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Eventos formales, cenas de gala, citas románticas nocturnas, reuniones de negocios o momentos donde el objetivo sea causar una impresión de lujo imponente.",
-    "clima": "Frío / Templado-Frío",
-    "proyeccion": "Alta",
-    "duracion": "Sobresaliente (8h a 10h+)",
-    "estela": "Intensa",
-    "color_liquido": "Cristalino traslúcido",
-    "rango_edad_min": 25,
-    "rango_edad_max": 65,
-    "estilo_descripcion": "Unisex de perfil alto. Diseñado para personas elegantes, maduras, seguras de sí mismas y amantes de la perfumería de nicho amaderada, compleja y oscura. Es la opción perfecta para quien busca una firma nocturna exclusiva para destacar en eventos de gala o momentos de alto impacto donde el objetivo sea imponer presencia.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55162.2x.avif",
-    "inspirado_en_nombre": "Opera de Xerjoff",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de precisión quirúrgica que rinde homenaje a una de las obras maestras más codiciadas, teatrales y costosas de la alta perfumería italiana. Captura a la perfección ese distinguido ADN de \"rosa turca aterciopelada y frutas oscuras contrapuestas a cuero fino, nuez moscada especiada y pachulí dramático\", entregando una alternativa accesible con un nivel de estatus y presencia superlativos.",
-        "nombre": "Opera de Xerjoff",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55162.2x.avif"
       }
     ]
   },
@@ -4899,6 +4889,70 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Hayaati Gold Elixir | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental / Versión Elixir Concentrada",
+    "inspirado_en": "Réplica de alta fidelidad que rescata la esencia de uno de los perfumes orientales ambarados más aclamados, deseados y hoy difíciles de conseguir en el mercado internacional. Captura a la perfección ese adictivo ADN de \"tonka dulzona, cuero suave, cardamomo/azafrán especiado y ámbar envolvente\", sumándole un toque aterciopelado de durazno que lo vuelve totalmente unisex.",
+    "notas_salida": "bergamota, pomelo, casis",
+    "notas_corazon": "Cuero, Azafrán, durazno",
+    "notas_fondo": "Vainilla, Ámbar, Vetiver, Almizcle",
+    "descripcion": "La definición en perfume de la calidez dorada, la jugosidad exótica y la elegancia nocturna. Lattafa Hayaati Gold Elixir abre con un chispazo brillante de bergamota y toronja matizado por la acidez del casis. En cuestión de minutos despliega su faceta más elogiada: un corazón aterciopelado donde el durazno dulce se entrelaza con la nobleza del cuero suave y el azafrán. Su evolución final en la piel es un secado caliente, ambarado y profundamente sexy, donde la riqueza de la vainilla y el ámbar marino se abrazan con el vetiver y el almizcle, dejando un rastro flotante que transmite estatus, calidez y seducción.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos formales e informales, fiestas, reuniones o uso personal para destacar.",
+    "clima": "Frío / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar cristalino traslúcido",
+    "perfil_usuario": "Hombres y mujeres 20-45 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex (ideal para hombres y mujeres que disfrutan de perfumes cálidos, ambarados y sensuales). Diseñado para personas seguras de sí mismas, extrovertidas y amantes de la perfumería oriental con toques frutales y especiados. Es la opción perfecta para citas, eventos nocturnos o momentos donde se busque causar impacto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.34761.2x.avif",
+    "inspirado_en_nombre": "Armani Code Profumo de Giorgio Armani",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rescata la esencia de uno de los perfumes orientales ambarados más aclamados, deseados y hoy difíciles de conseguir en el mercado internacional. Captura a la perfección ese adictivo ADN de \"tonka dulzona, cuero suave, cardamomo/azafrán especiado y ámbar envolvente\", sumándole un toque aterciopelado de durazno que lo vuelve totalmente unisex.",
+        "nombre": "Armani Code Profumo de Giorgio Armani",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.34761.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Mohra Silky Rose | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral / Rosa Sedosa Lichi",
+    "inspirado_en": "Réplica de alta fidelidad que rinde tributo a uno de los perfumes femeninos más deseados, virales y codiciados del mundo. Captura a la perfección ese adictivo ADN de \"rosa con lichi jugoso, pimienta rosa chispeante y fondo de almizcle-vainilla\", ofreciendo una alternativa accesible con un nivel de rendimiento y sofisticación superlativos.",
+    "notas_salida": "rosa, lichi, pimienta rosa",
+    "notas_corazon": "rosa, almizcle, lirio de los valles",
+    "notas_fondo": "Vainilla, almizcle, pachuli",
+    "descripcion": "La definición en perfume de la elegancia romántica, la jugosidad del lichi y la pulcritud algodonosa. Lattafa Mohra Silky Rose abre con un impacto radiante y jugoso de lichi silvestre sazonado por la rosa y el picor chispeante de la pimienta rosa. En cuestión de minutos despliega su faceta más elogiada: un corazón denso y limpio donde la rosa brilla junto al lirio de los valles envuelta en un aura de almizcle. Su evolución final en la piel es un secado suave, dulce y profundamente afelpado, donde la vainilla y el pachulí abrazan la estructura floral, dejando una estela flotante que transmite sofisticación, frescura y un atractivo irresistible.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Citas románticas, uso profesional diario, eventos formales e informales, reuniones o momentos donde se busque transmitir pulcritud y sofisticación.",
+    "clima": "Templado / Cálido / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Rosa traslúcido",
+    "perfil_usuario": "Mujeres 20-45 años. Rosas suaves, cremosas.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres elegantes, románticas, modernas y amantes de las fragancias florales-frutales de nicho con base de almizcle y vainilla. Es la elección perfecta para quienes buscan un aroma de firma femenino para destacar de día o de noche.",
+    "inspirado_en_imagen_url": "https://acdn-us.mitiendanube.com/stores/001/071/596/products/delina_eau_de_parfum_75ml1-56341e2f4192cfee6016074926675843-640-0.webp",
+    "inspirado_en_nombre": "Delina de Parfums de Marly",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde tributo a uno de los perfumes femeninos más deseados, virales y codiciados del mundo. Captura a la perfección ese adictivo ADN de \"rosa con lichi jugoso, pimienta rosa chispeante y fondo de almizcle-vainilla\", ofreciendo una alternativa accesible con un nivel de rendimiento y sofisticación superlativos.",
+        "nombre": "Delina de Parfums de Marly",
+        "imagen_url": "https://acdn-us.mitiendanube.com/stores/001/071/596/products/delina_eau_de_parfum_75ml1-56341e2f4192cfee6016074926675843-640-0.webp"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Asad Black | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -5045,6 +5099,38 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Oud Mood | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Floral Oud / Oriental",
+    "inspirado_en": "Réplica de gran fidelidad que rinde tributo al icónico acorde de \"rosa, oud dulce y praliné/vainilla\". Captura a la perfección ese codiciado ADN oriental de \"rosa mielosa abrazada por madera de oud suave, resinas dulces y vainilla resinosa\", ofreciendo un rendimiento y una presencia de nivel superior.",
+    "notas_salida": " rosa, azafran, pimienta",
+    "notas_corazon": " oud, caramelo, notas florales, pachuli",
+    "notas_fondo": "maderas, ambar, resinas, incienso, almizcle",
+    "descripcion": "La definición en perfume de la calidez oriental, la riqueza del ámbar y la seducción de la rosa ahumada con oud. Lattafa Oud Mood abre con un impacto rico y fascinante de rosa aterciopelada sazonada por la nobleza del azafrán. En cuestión de minutos despliega su faceta más elogiada: un corazón denso y dorado donde el ámbar y las resinas balsámicas envuelven la piel en un abrazo cálido. Su evolución final en la piel es un secado cremoso, dulce y profundamente sexy, donde el oud suave se funde con la riqueza de la vainilla y el almizcle, dejando un rastro flotante que transmite estatus, confort y una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, eventos formales e informales, fiestas, reuniones o uso personal de alta presencia.",
+    "clima": "Frío / Templado-Frío",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado traslúcido",
+    "perfil_usuario": "Hombres y mujeres 20-50 años.",
+    "rango_edad_min": 22,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Unisex (muy apreciado tanto por hombres como por mujeres que disfrutan de perfumes cálidos, dulces, ambarados y con presencia de oud). Diseñado para personas elegantes, seguras de sí mismas y amantes de la perfumería oriental clásica. Es la opción perfecta para citas, eventos nocturnos, fiestas o días fríos donde el objetivo sea causar impacto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.50582.2x.avif",
+    "inspirado_en_nombre": "Shaghaf Oud de Swiss Arabian",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de gran fidelidad que rinde tributo al icónico acorde de \"rosa, oud dulce y praliné/vainilla\". Captura a la perfección ese codiciado ADN oriental de \"rosa mielosa abrazada por madera de oud suave, resinas dulces y vainilla resinosa\", ofreciendo un rendimiento y una presencia de nivel superior.",
+        "nombre": "Shaghaf Oud de Swiss Arabian",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.50582.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL WATANIAH - Sevilla | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Femenino",
@@ -5071,6 +5157,37 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Philos Opus Noir | EDP",
+    "marca": "MAISON ALHAMBRA",
+    "genero": "Unisex",
+    "familia_olfativa": "Amaderado, Dulce, Floral amarillo, Cuero, Afrutados, Fesco especiado, Animálico, Atalcado, Pachulí, Ámbar",
+    "inspirado_en": "Réplica de precisión quirúrgica que rinde homenaje a una de las obras maestras más codiciadas, teatrales y costosas de la alta perfumería italiana. Captura a la perfección ese distinguido ADN de \"rosa turca aterciopelada y frutas oscuras contrapuestas a cuero fino, nuez moscada especiada y pachulí dramático\", entregando una alternativa accesible con un nivel de estatus y presencia superlativos.",
+    "notas_salida": "frutas, rosa",
+    "notas_corazon": "ylang-ylang, cuero, nuez moscada, ambar",
+    "notas_fondo": "pachuli, vainilla, vetiver, almizcle, cedro",
+    "descripcion": "La definición en perfume del drama teatral, la opulencia italiana y la sofisticación amaderada. Maison Alhambra Philos Opus Noir abre con un impacto seductor y refinado de rosa turca abrazada por la jugosidad de frutas maduras. En cuestión de minutos despliega su faceta más elogiada: un corazón oscuro donde el cuero fino y la nuez moscada se entrelazan con el ámbar y el ylang-ylang. Su evolución final en la piel es un secado caliente, terroso y profundamente sexy, donde el pachulí y el cedro se funden con la suavidad de la vainilla y el almizcle, dejando un rastro flotante que evoca estatus, misterio y una presencia inolvidable.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Eventos formales, cenas de gala, citas románticas nocturnas, reuniones de negocios o momentos donde el objetivo sea causar una impresión de lujo imponente.",
+    "clima": "Frío / Templado-Frío",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino traslúcido",
+    "rango_edad_min": 25,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Unisex de perfil alto. Diseñado para personas elegantes, maduras, seguras de sí mismas y amantes de la perfumería de nicho amaderada, compleja y oscura. Es la opción perfecta para quien busca una firma nocturna exclusiva para destacar en eventos de gala o momentos de alto impacto donde el objetivo sea imponer presencia.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55162.2x.avif",
+    "inspirado_en_nombre": "Opera de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica que rinde homenaje a una de las obras maestras más codiciadas, teatrales y costosas de la alta perfumería italiana. Captura a la perfección ese distinguido ADN de \"rosa turca aterciopelada y frutas oscuras contrapuestas a cuero fino, nuez moscada especiada y pachulí dramático\", entregando una alternativa accesible con un nivel de estatus y presencia superlativos.",
+        "nombre": "Opera de Xerjoff",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55162.2x.avif"
       }
     ]
   },
@@ -5395,30 +5512,6 @@
       {
         "texto": "Louis Vuitton Nouveau Monde (clone propio, puede también llamarse Fraiche en algunas etiquetas)",
         "nombre": "Louis Vuitton Nouveau Monde",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Mohra Silky Rose | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral / Rosa Sedosa Lichi",
-    "inspirado_en": "Parfums de Marly Delina (DNA rosa-lichi)",
-    "notas_corazon": "Rosa, lichi",
-    "notas_fondo": "Vainilla, almizcle",
-    "descripcion": "Rosa sedosa con lichi y vainilla. Suave, femenino y cremoso.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 20-45 años. Rosas suaves, cremosas.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres Rosas suaves, cremosas.",
-    "inspirado_en_nombre": "Parfums de Marly Delina",
-    "inspiraciones": [
-      {
-        "texto": "Parfums de Marly Delina (DNA rosa-lichi)",
-        "nombre": "Parfums de Marly Delina",
         "imagen_url": ""
       }
     ]
@@ -7757,35 +7850,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Mashrabya | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Oriental Especiado / Shisha",
-    "inspirado_en": "Composición árabe propia — DNA shisha de manzana",
-    "notas_salida": "Azafrán, pimienta, manzana",
-    "notas_corazon": "Jazmín, nuez moscada, pachulí",
-    "notas_fondo": "Oud, ámbar, tabaco, maderas",
-    "descripcion": "Shisha de manzana dulce con especias árabes y oud. Evoca las noches en la mezquita y las hookah bars de Dubai. Complejo y transformador. Gran sillage. Longevidad 6-8h en piel.",
-    "momento_dia": "Noche / Tarde",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, eventos, nocturno",
-    "clima": "Frío / Templado",
-    "duracion": "Larga (6-8h)",
-    "estela": "Intensa",
-    "color_liquido": "Dorado oscuro / ámbar",
-    "perfil_usuario": "Hombres y mujeres 25-50 años. Amantes del DNA shisha árabe. Único en su categoría.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres y mujeres Amantes del DNA shisha árabe. Único en su categoría.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición árabe propia — DNA shisha de manzana",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Cacharel - Amor Amor | EDT | 100 ml",
     "marca": "Cacharel — Francia",
     "familia_olfativa": "Frutal Floral / Oriental Juvenil",
@@ -7811,6 +7875,38 @@
         "texto": "Creación original",
         "nombre": "",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Mashrabya | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental Especiado / Shisha",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes más aclamados, modernos y costosos de la casa Kilian Paris. Captura a la perfección ese codiciado ADN de \"shisha de manzana ahumada, tabaco Kentucky dulce, canela de repostería y base de vainilla con caramelo\", entregando una alternativa accesible con un nivel de rendimiento, empaque y presencia superlativos.",
+    "notas_salida": "pimienta rosa, manzana",
+    "notas_corazon": "tabaco, canela, datiles",
+    "notas_fondo": "humo de oud, caramelo, vainilla, pachuli",
+    "descripcion": "La definición en perfume del lujo nocturno, la seducción de la shisha y la calidez gourmand. Lattafa Mashrabya abre con una ráfaga cautivadora de manzana ahumada y pimienta rosa. En cuestión de minutos despliega su faceta más elogiada: un corazón denso donde el humo de tabaco rubio se funde con la canela y la dulzura de los dátiles. Su evolución final en la piel es un secado caliente, espeso y profundamente sexy, donde el caramelo tostado y la vainilla se entrelazan con el pachulí y el oud, dejando un rastro flotante que transmite estatus, confort y un atractivo magnético.",
+    "momento_dia": "Noche / Tarde",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, eventos formales e informales, fiestas, boliches o uso personal de presencia.",
+    "clima": "Frío / Templado-Frío",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar caoba traslúcido",
+    "perfil_usuario": "Hombres y mujeres 25-50 años. Amantes del DNA shisha árabe. Único en su categoría.",
+    "rango_edad_min": 22,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex de perfil alto (ideal para hombres y mujeres seguros de sí mismos que buscan fragancias con presencia). Diseñado para amantes de los perfumes dulces, orientales, especiados y ahumados de alta perfumería. Es la elección perfecta para citas, eventos nocturnos, fiestas o momentos donde el objetivo sea destacar.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84413.2x.avif",
+    "inspirado_en_nombre": "Smoking Hot de Kilian",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes más aclamados, modernos y costosos de la casa Kilian Paris. Captura a la perfección ese codiciado ADN de \"shisha de manzana ahumada, tabaco Kentucky dulce, canela de repostería y base de vainilla con caramelo\", entregando una alternativa accesible con un nivel de rendimiento, empaque y presencia superlativos.",
+        "nombre": "Smoking Hot de Kilian",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84413.2x.avif"
       }
     ]
   },
@@ -10746,28 +10842,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Hayaati Gold Elixir | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental / Versión Elixir Concentrada",
-    "inspirado_en": "Armani Code Profumo (oriental especiado dulce)",
-    "descripcion": "Versión más concentrada y lujosa del Hayaati. Más potente y duradera.",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "perfil_usuario": "Hombres y mujeres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Armani Code Profumo",
-    "inspiraciones": [
-      {
-        "texto": "Armani Code Profumo (oriental especiado dulce)",
-        "nombre": "Armani Code Profumo",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "French Avenue - Genesis Pisces | EDP | 100ml",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "familia_olfativa": "Aromático Especiado / Profundo",
@@ -11107,30 +11181,6 @@
     "rango_edad_min": 30,
     "rango_edad_max": 55,
     "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Oud Mood | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Floral Oud / Oriental",
-    "inspirado_en": "Composición propia",
-    "notas_corazon": "Rosa, oud",
-    "notas_fondo": "Ámbar, almizcle",
-    "descripcion": "Rosa y oud equilibrados. Oriental unisex clásico árabe.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 20-50 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres y mujeres",
     "inspirado_en_nombre": "Composición propia",
     "inspiraciones": [
       {
