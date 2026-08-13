@@ -124,7 +124,7 @@
     "p": 125600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_609646-MLA107507197457_022026-F.webp",
     "nt": "Salida Piña, bergamota, flores blancas, manzana Notas de corazón: Flor de azahar, abedul, ámbar Notas de fondo: Musgo de roble, almizcle, ámbar gris",
     "p1": "$125.600"
@@ -524,13 +524,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Imperiale | EDP",
     "s": "105ml",
-    "p": 88000,
+    "p": 92100,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_712626-MLA83332155837_032025-F.webp",
     "nt": "Salida Lichi, Bergamota, Nuez Moscada Notas de corazón: Rosa, Vainilla, almizcle, peonia Notas de fondo: Vainilla, Incienso, Cachemira, Cedro",
-    "p1": "$88.000"
+    "p1": "$92.100"
   },
   {
     "id": 2023,
@@ -553,7 +553,7 @@
     "p": 97000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1776091013792_anvhez.jpg",
     "nt": "Salida Menta, Lavanda Notas de corazón: Vainilla, Benjuí Notas de fondo: Miel, Haba tonka, Tabaco",
     "p1": "$97.000"
@@ -641,13 +641,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Untold | EDP",
     "s": "105ml",
-    "p": 84300,
+    "p": 90100,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_897800-MLA54976209914_042023-F.webp",
     "nt": "Salida Azafrán, jazmín Notas de corazón: Amberwood, ámbar gris Notas de fondo: Resina de abeto, cedro",
-    "p1": "$84.300"
+    "p1": "$90.100"
   },
   {
     "id": 2032,
@@ -839,7 +839,7 @@
     "p": 71400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_882507-MLA90425484868_082025-F.webp",
     "nt": "Salida Mandarina, naranja, azafran, salvia Notas de Corazón: caramelo, haba tonka, cempasuchil Notas de Fondo: ambroxan, cedro, vetiver",
     "p1": "$71.400"
@@ -2945,7 +2945,7 @@
     "p": 57500,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_911965-MLA96516369619_102025-F.webp",
     "nt": "Salida Limón (lima ácida), Bergamota, Mandarina, Naranja amarga, Lavanda, Romero, Mirto Notas de corazón: Neroli, Jazmín, Flor de azahar del naranjo Notas de fondo: Ámbar, Angélica, Almizcle ambreta",
     "p1": "$57.500"
@@ -2968,13 +2968,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Philos Pura | EDP",
     "s": "100ml",
-    "p": 65600,
+    "p": 65500,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_925905-MLA97546968342_112025-F.webp",
     "nt": "Salida Notas de salida: Sicilian Lemon, Sicilian Orange, Calabrian Bergamot Notas de corazón: Frutas (acorde fruity) Notas de fondo: Vanilla, Ámbar, White Musk",
-    "p1": "$65.600"
+    "p1": "$65.500"
   },
   {
     "id": 2211,
@@ -3101,7 +3101,7 @@
     "p": 53000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_881201-MLA95102426267_102025-F.webp",
     "nt": "Salida Cardamomo, hojas de violeta, pimienta rosa, menta Notas de corazón: Piña, sandía, canela, lavanda, salvia Notas de fondo: Vainilla, castaña, amberwood, madera de guayaco, cedro",
     "p1": "$53.000"
@@ -3205,7 +3205,7 @@
     "p": 68700,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_845544-MLA81952852638_022025-F.webp",
     "nt": "Salida Bergamota, limón, frutas Notas de corazón: Canela, flor de azahar, notas marinas, cardamomo Notas de fondo: Ámbar gris, sándalo, almizcle",
     "p1": "$68.700"
@@ -3865,13 +3865,13 @@
     "b": "VICTORIA SECRET",
     "n": "VICTORIA SECRET - Body Splash - Bare Vanilla",
     "s": "250ml",
-    "p": 50300,
+    "p": 52600,
     "c": "internacional",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1775050257695_uni5l0.jpg",
     "nt": "vainilla y cachemira",
-    "p1": "$50.300"
+    "p1": "$52.600"
   },
   {
     "id": 2280,
@@ -3995,13 +3995,13 @@
     "b": "AZZARO",
     "n": "AZZARO - Pour Homme | EDT",
     "s": "100ml",
-    "p": 80400,
+    "p": 84900,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_605422-MLA80487762091_112024-F.webp",
     "nt": "Salida Lavanda, limón, alcaravea, albahaca, bergamota, esclarea, iris, anís Notas de corazón: Vetiver, cedro, sándalo, pachulí, enebro, cardamomo Notas de fondo: Musgo de roble, cuero, ámbar, almizcle, haba tonka",
-    "p1": "$80.400"
+    "p1": "$84.900"
   },
   {
     "id": 2291,
@@ -4271,7 +4271,7 @@
     "p": 175400,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_643445-MLU74237098591_012024-F.webp",
     "nt": "Salida Baya de enebro, naranja, limón Notas de corazón: Pimiento, lavanda, esclarea, geranio Notas de fondo: Vetiver, cedro, pachulí",
     "p1": "$175.400"
@@ -6663,7 +6663,7 @@
     "p": 90800,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1784650557433_czj131.jpg",
     "nt": "Salida menta, limon, bergamota, tomillo Notas de corazón: romero, lavanda, jazmín, flor de moringa Notas de fondo: almizcle, cedro, ambar",
     "p1": "$90.800"
@@ -6725,13 +6725,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Obsidian | EDP",
     "s": "100ml",
-    "p": 112600,
+    "p": 105600,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_980240-MLA110629473213_042026-F.webp",
     "nt": "Salida iris, citricos Notas de corazón: cuero Notas de fondo: sandalo, almizcle, cedro, oud",
-    "p1": "$112.600"
+    "p1": "$105.600"
   },
   {
     "id": 2514,
@@ -6827,14 +6827,14 @@
   {
     "id": 2522,
     "b": "DOLCE & GABBANA",
-    "n": "DOLCE & GABBANA - Pour Homme EDT | EDP",
+    "n": "DOLCE & GABBANA - Pour Homme | EDT",
     "s": "125ml",
     "p": 153400,
     "c": "internacional",
     "g": "hombre",
     "st": "ok",
-    "i": "https://http2.mlstatic.com/D_NQ_NP_2X_891387-MLA47614374179_092021-F.webp",
-    "nt": "Salida Pomelo, bergamota, mandarina, enebro Notas de corazón: Pimienta, romero, rosa Notas de fondo: Almizcle, incienso, musgo de roble",
+    "i": "https://http2.mlstatic.com/D_NQ_NP_2X_967674-MLU72823864207_112023-F.webp",
+    "nt": "Salida citricos, bergamota, neroli, mandarina Notas de corazón: lavanda, salvia, pimienta Notas de fondo: tabaco, haba tonka, cedro",
     "p1": "$153.400"
   },
   {
@@ -6862,5 +6862,57 @@
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_974039-MLA100754027470_122025-F.webp",
     "nt": "—",
     "p1": "$121.800"
+  },
+  {
+    "id": 2527,
+    "b": "PACO RABANNE",
+    "n": "PACO RABANNE - Invictus | EDT",
+    "s": "100ml",
+    "p": 152600,
+    "c": "internacional",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_899576-MLA115851534441_082026-F.webp",
+    "nt": "Salida notas marinas, pomelo, mandarina Notas de corazón: hoja de laurel, jazmin Notas de fondo: ambar gris, gaiac, musgo de roble, pachuli",
+    "p1": "$152.600"
+  },
+  {
+    "id": 2528,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Mist Body Splash Angham | EDP",
+    "s": "250ml",
+    "p": 46600,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_932495-MLA108879083373_032026-F.webp",
+    "nt": "Salida pimienta rosa, jengibre, mandarina Notas de corazón: lavanda, cacao, praline, jazmin Notas de fondo: vainilla, ambar, almizcle",
+    "p1": "$46.600"
+  },
+  {
+    "id": 2529,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Mist Body Splash Badee al Oud Noble Blush | EDP",
+    "s": "250ml",
+    "p": 46600,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_875232-MLA93553500325_092025-F.webp",
+    "nt": "Salida Leche de rosa (Rose Milk) Notas de corazón: Almendra, merengue Notas de fondo: Vainilla, sándalo, almizcle",
+    "p1": "$46.600"
+  },
+  {
+    "id": 2530,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Mist Body Splash Eclaire | EDP",
+    "s": "250ml",
+    "p": 46600,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.122868.2x.avif",
+    "nt": "Salida caramelo, leche, azucar Notas de corazón: miel, flores blancas Notas de fondo: vainilla, praline, almizcle",
+    "p1": "$46.600"
   }
 ]

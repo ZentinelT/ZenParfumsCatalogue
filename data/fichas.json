@@ -764,36 +764,6 @@
     ]
   },
   {
-    "nombre_completo": "RAYHAAN - Obsidian | EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Amaderado, Iris, Atalcado, Violeta, Cuero, Terrosos, Cítrico, Floral, Almizclado, Animálico",
-    "inspirado_en": "Réplica magistral, densa y sumamente fiel de uno de los perfumes más venerados, oscuros y codiciados de la historia de la perfumería internacional. Captura a la perfección ese legendario ADN de \"caballero de etiqueta negra\", donde la nota cosmética e intelectual del iris se fusiona con la virilidad del cuero fino y la profundidad de maderas de estatus. Rayhaan logra plasmar este perfil de ultra lujo con un motor de fijación temible.",
-    "notas_salida": "iris, citricos",
-    "notas_corazon": "cuero",
-    "notas_fondo": "sandalo, almizcle, cedro, oud",
-    "descripcion": "La definición en perfume del misterio, la elegancia de etiqueta negra y el atractivo masculino definitivo. Rayhaan Obsidian abre con un impacto sofisiticado, atalcado y cristalino de iris noble matizado por destellos cítricos que despiertan la curiosidad. Rápidamente pisa el freno y abre paso a su evolución más aclamada: un corazón majestuoso e hipnótico donde el cuero de sastrería abraza la textura polvosa inicial. Su evolución final en la piel es un secado eterno, cremoso y profundamente magnético, donde la calidez del sándalo y la estructura del cedro se entrelazan con el misterio del oud y la sensualidad del almizcle ambreta, dejando un rastro flotante que transmite éxito, sobriedad de alto nivel y una seguridad imponente.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos de etiqueta, cenas de negocios, citas románticas, salidas nocturnas de perfil alto o uso en oficinas ejecutivas en días muy fríos.",
-    "clima": "Frío / Templado-Fresco",
-    "proyeccion": "Alta",
-    "duracion": "Rendimiento Excelente (8h a 10h+)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar oscuro translúcido",
-    "rango_edad_min": 25,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Diseñado para hombres decididos, maduros, profesionales de fuerte presencia y amantes de las fragancias oscuras de perfil nicho que buscan un aroma de firma nocturno, elegante y distinguido. Es la pócima perfecta para quienes buscan destacar en eventos formales, citas o reuniones donde el objetivo sea proyectar autoridad y clase sin decir una sola palabra.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101016.2x.avif",
-    "inspirado_en_nombre": "Dior Homme Parfum (Francia)",
-    "inspiraciones": [
-      {
-        "texto": "Réplica magistral, densa y sumamente fiel de uno de los perfumes más venerados, oscuros y codiciados de la historia de la perfumería internacional. Captura a la perfección ese legendario ADN de \"caballero de etiqueta negra\", donde la nota cosmética e intelectual del iris se fusiona con la virilidad del cuero fino y la profundidad de maderas de estatus. Rayhaan logra plasmar este perfil de ultra lujo con un motor de fijación temible.",
-        "nombre": "Dior Homme Parfum (Francia)",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101016.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Maahir Black Edition | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Oriental Cuero / Oscuro Especiado",
@@ -3384,36 +3354,6 @@
     ]
   },
   {
-    "nombre_completo": "Azzaro - Pour Homme | EDT | 100 ml",
-    "marca": "Azzaro — Francia",
-    "familia_olfativa": "Fougère Aromático / Clásico Barbería",
-    "inspirado_en": "Composición propia — ícono desde 1978",
-    "notas_salida": "Lavanda, limón, alcaravea, albahaca, bergamota, esclarea, iris, anís",
-    "notas_corazon": "Vetiver, cedro, sándalo, pachulí, enebro, cardamomo",
-    "notas_fondo": "Musgo de roble, cuero, ámbar, almizcle, haba tonka",
-    "descripcion": "Clásico masculino inmortal. Lavanda barbería con especias aromáticas y musgo de roble. Sofisticado, retro y atemporal. Define la masculinidad clásica francesa.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Trabajo, eventos formales, cotidiano clásico",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Media-larga",
-    "estela": "Moderada",
-    "color_liquido": "Dorado / ámbar",
-    "perfil_usuario": "Hombres 35-70 años. Clásicos, elegantes. El \"Pour Homme\" masculino definitivo.",
-    "rango_edad_min": 35,
-    "rango_edad_max": 70,
-    "estilo_descripcion": "Hombres Clásicos, elegantes. El \"Pour Homme\" masculino definitivo.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia — ícono desde 1978",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "AL HARAMAIN - Detour Eco | EDP",
     "marca": "Al Haramain Perfumes — Arabia Saudí",
     "genero": "Masculino",
@@ -3477,33 +3417,33 @@
     ]
   },
   {
-    "nombre_completo": "DOLCE & GABBANA - Pour Homme EDT | EDP",
+    "nombre_completo": "DOLCE & GABBANA - Pour Homme | EDT",
     "marca": "DOLCE & GABBANA",
     "concentracion": "EDT",
     "genero": "Masculino",
     "familia_olfativa": "Aromático Acuático / Cítrico Siciliano",
-    "inspirado_en": "Representa el estándar de oro de la perfumería cítrico-aromática fresca. Su estela combina la luminosidad solar de los cítricos italianos con el carácter herbal del romero y la fijación pulcra del musgo y el incienso, siendo el punto de comparación para decenas de fragancias veraniegas en todo el mundo.",
-    "notas_salida": "Pomelo, bergamota, mandarina, enebro",
-    "notas_corazon": "Pimienta, romero, rosa",
-    "notas_fondo": "Almizcle, incienso, musgo de roble",
-    "descripcion": "La definición en perfume del verano italiano, la sensualidad relajada y el dinamismo refinado. Dolce & Gabbana Light Blue Pour Homme abre con un estallido efervescente y helado de pomelo recién exprimido, mandarina y bergamota. En cuestión de minutos despliega su faceta más elogiada: un corazón donde el romero fresco choca con la pimienta y el palo de rosa en un ambiente marino. Su evolución final en la piel es un secado limpio, cálido y sumamente seductor, donde el almizcle blanco y el musgo de roble se abrazan con un soplo de incienso, dejando un rastro de frescura y pulcritud irresistible.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Uso profesional diario, salidas casuales, actividades deportivas, paseos de fin de semana o situaciones donde el objetivo sea transmitir limpieza y frescura.",
-    "clima": "Cálido / Muy Caluroso / Templado",
+    "inspirado_en": "Representa la máxima referencia del perfume estilo \"fougère aromático con tabaco y lavanda\". Su estela evoca una barbería tradicional de alta alcurnia en Italia, siendo el estándar de elegancia sobria, virilidad pulcra y presencia ejecutiva.",
+    "notas_salida": "citricos, bergamota, neroli, mandarina",
+    "notas_corazon": "lavanda, salvia, pimienta",
+    "notas_fondo": "tabaco, haba tonka, cedro",
+    "descripcion": "La definición en perfume de la masculinidad clásica, el vestir elegante y la barbería italiana de lujo. Dolce & Gabbana Pour Homme abre con un chispazo radiante, limpio y revitalizante de neroli, bergamota y mandarina. En cuestión de minutos despliega su faceta más elogiada: un corazón aromático donde la lavanda fina se entrelaza con la salvia y la pimienta. Su evolución final en la piel es un secado caliente, seco y profundamente sexy, donde el tabaco rubio y el cedro se abrazan con el haba tonka, dejando un rastro flotante que evoca pulcritud, virilidad y un estatus impecable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Otoño / Verano / Invierno",
+    "ocasion": "Uso profesional diario, reuniones de directorio, eventos de etiqueta, salidas elegantes o momentos donde se busque transmitir pulcritud y autoridad.",
+    "clima": "Templado / Fresco / Cálido",
     "proyeccion": "Moderada-alta",
     "duracion": "Moderado-Alto (6h a 8h)",
     "estela": "Moderada",
-    "color_liquido": "Cristalino traslúcido",
+    "color_liquido": "Dorado cristalino traslúcido",
     "perfil_usuario": "Hombres de todas las edades. El fresquito clásico universal. Para todos.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, deportistas, dinámicos, seguros de sí mismos y amantes de los perfumes limpios, frescos y luminosos. Es la elección perfecta para quienes buscan un aroma de firma versátil para el día a día, días calurosos o momentos de relax sin perder la elegancia.",
-    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa de Cítricos Frescos de Lujo",
+    "rango_edad_min": 25,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Masculino. Diseñado para hombres sobrios, elegantes, seguros de sí mismos y amantes de la perfumería clásica de corte Fougère. Es la elección perfecta para quienes buscan un aroma de firma maduro, viril y distinguido para el día a día o eventos formales.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Italiana de Lujo",
     "inspiraciones": [
       {
-        "texto": "Representa el estándar de oro de la perfumería cítrico-aromática fresca. Su estela combina la luminosidad solar de los cítricos italianos con el carácter herbal del romero y la fijación pulcra del musgo y el incienso, siendo el punto de comparación para decenas de fragancias veraniegas en todo el mundo.",
-        "nombre": "Perfume Original de Diseñador / Firma Olfativa de Cítricos Frescos de Lujo"
+        "texto": "Representa la máxima referencia del perfume estilo \"fougère aromático con tabaco y lavanda\". Su estela evoca una barbería tradicional de alta alcurnia en Italia, siendo el estándar de elegancia sobria, virilidad pulcra y presencia ejecutiva.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa Italiana de Lujo"
       }
     ]
   },
@@ -5304,6 +5244,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Mist Body Splash Angham | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Vainilla / Lavanda Dulce",
+    "inspirado_en": "Réplica de alta fidelidad en formato bruma que rinde tributo a uno de los perfumes femeninos de vainilla más premiados, virales y codiciados del mercado internacional. Captura a la perfección ese adictivo ADN de \"trío de vainillas con jengibre picante, lavanda limpia y toques gourmand de cacao\", ofreciendo una alternativa ideal para el uso diario y el retoque constante.",
+    "notas_salida": "pimienta rosa, jengibre, mandarina",
+    "notas_corazon": "lavanda, cacao, praline, jazmin",
+    "notas_fondo": "vainilla, ambar, almizcle",
+    "descripcion": "La definición en perfume de la calidez moderna, la versatilidad cotidiana y la sensualidad de la vainilla fina. Lattafa Mist Body Splash Angham abre con un chispazo revitalizante de jengibre y mandarina. En cuestión de minutos despliega su faceta más elogiada: un corazón donde la lavanda limpia se envuelve en acordes cremosos de cacao y praliné. Su evolución final en la piel es un secado tibio, dulce y profundamente afelpado, donde la vainilla dorada y el ámbar dejan un velo flotante que transmite sofisticación, confort y una sensación constante de pulcritud gourmand.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Uso cotidiano, retoque en el bolso, actividades de oficina, estar en casa, salir de paseo o para aplicar combinada con perfumes EDP (Layering).",
+    "clima": "Templado / Fresco / Frío",
+    "proyeccion": "Moderada",
+    "duracion": "Notable para Body Splash (4h a 6h)",
+    "estela": "Discreta",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Mujeres 18-45 años. Femeninas, lavanderas. Alternativa a Burberry Goddess.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres modernas, dinámicas y amantes de los aromas dulces de vainilla con toques limpios y refinados. Es la elección perfecta para quienes buscan un aroma de firma liviano para usar todo el día, llevar en el bolso, retocar en el trabajo o aplicar generosamente después de la ducha.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif",
+    "inspirado_en_nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad en formato bruma que rinde tributo a uno de los perfumes femeninos de vainilla más premiados, virales y codiciados del mercado internacional. Captura a la perfección ese adictivo ADN de \"trío de vainillas con jengibre picante, lavanda limpia y toques gourmand de cacao\", ofreciendo una alternativa ideal para el uso diario y el retoque constante.",
+        "nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "French Avenue - Aether | Extrait de Parfum | 100 ml",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "familia_olfativa": "Aromático Verde / Amaderado Musguero",
@@ -5487,6 +5458,37 @@
     ]
   },
   {
+    "nombre_completo": "AZZARO - Pour Homme | EDT",
+    "marca": "Azzaro — Francia",
+    "genero": "Masculino",
+    "familia_olfativa": "Fougère Aromático / Clásico Barbería",
+    "inspirado_en": "Composición propia — ícono desde 1978",
+    "notas_salida": "Lavanda, limón, alcaravea, albahaca, bergamota, esclarea, iris, anís",
+    "notas_corazon": "Vetiver, cedro, sándalo, pachulí, enebro, cardamomo",
+    "notas_fondo": "Musgo de roble, cuero, ámbar, almizcle, haba tonka",
+    "descripcion": "Clásico masculino inmortal. Lavanda barbería con especias aromáticas y musgo de roble. Sofisticado, retro y atemporal. Define la masculinidad clásica francesa.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Trabajo, eventos formales, cotidiano clásico",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Media-larga",
+    "estela": "Moderada",
+    "color_liquido": "Dorado / ámbar",
+    "perfil_usuario": "Hombres 35-70 años. Clásicos, elegantes. El \"Pour Homme\" masculino definitivo.",
+    "rango_edad_min": 35,
+    "rango_edad_max": 70,
+    "estilo_descripcion": "Hombres Clásicos, elegantes. El \"Pour Homme\" masculino definitivo.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia — ícono desde 1978",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Jean Lowe Nouveau | EDP | 100 ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Oud / Frutal Cacao",
@@ -5513,6 +5515,37 @@
         "texto": "Louis Vuitton Nouveau Monde (clone propio, puede también llamarse Fraiche en algunas etiquetas)",
         "nombre": "Louis Vuitton Nouveau Monde",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Obsidian | EDP",
+    "marca": "RAYHAAN",
+    "genero": "Masculino",
+    "familia_olfativa": "Amaderado, Iris, Atalcado, Violeta, Cuero, Terrosos, Cítrico, Floral, Almizclado, Animálico",
+    "inspirado_en": "Réplica magistral, densa y sumamente fiel de uno de los perfumes más venerados, oscuros y codiciados de la historia de la perfumería internacional. Captura a la perfección ese legendario ADN de \"caballero de etiqueta negra\", donde la nota cosmética e intelectual del iris se fusiona con la virilidad del cuero fino y la profundidad de maderas de estatus. Rayhaan logra plasmar este perfil de ultra lujo con un motor de fijación temible.",
+    "notas_salida": "iris, citricos",
+    "notas_corazon": "cuero",
+    "notas_fondo": "sandalo, almizcle, cedro, oud",
+    "descripcion": "La definición en perfume del misterio, la elegancia de etiqueta negra y el atractivo masculino definitivo. Rayhaan Obsidian abre con un impacto sofisiticado, atalcado y cristalino de iris noble matizado por destellos cítricos que despiertan la curiosidad. Rápidamente pisa el freno y abre paso a su evolución más aclamada: un corazón majestuoso e hipnótico donde el cuero de sastrería abraza la textura polvosa inicial. Su evolución final en la piel es un secado eterno, cremoso y profundamente magnético, donde la calidez del sándalo y la estructura del cedro se entrelazan con el misterio del oud y la sensualidad del almizcle ambreta, dejando un rastro flotante que transmite éxito, sobriedad de alto nivel y una seguridad imponente.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos de etiqueta, cenas de negocios, citas románticas, salidas nocturnas de perfil alto o uso en oficinas ejecutivas en días muy fríos.",
+    "clima": "Frío / Templado-Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Rendimiento Excelente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro translúcido",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Diseñado para hombres decididos, maduros, profesionales de fuerte presencia y amantes de las fragancias oscuras de perfil nicho que buscan un aroma de firma nocturno, elegante y distinguido. Es la pócima perfecta para quienes buscan destacar en eventos formales, citas o reuniones donde el objetivo sea proyectar autoridad y clase sin decir una sola palabra.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101016.2x.avif",
+    "inspirado_en_nombre": "Dior Homme Parfum (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica magistral, densa y sumamente fiel de uno de los perfumes más venerados, oscuros y codiciados de la historia de la perfumería internacional. Captura a la perfección ese legendario ADN de \"caballero de etiqueta negra\", donde la nota cosmética e intelectual del iris se fusiona con la virilidad del cuero fino y la profundidad de maderas de estatus. Rayhaan logra plasmar este perfil de ultra lujo con un motor de fijación temible.",
+        "nombre": "Dior Homme Parfum (Francia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101016.2x.avif"
       }
     ]
   },
@@ -5607,6 +5640,36 @@
         "texto": "Réplica imponente, mística y recontra lograda de una de las joyas más exclusivas, caras y codiciadas de la colección privada (Velvet Collection) de D&G. Captura de forma espectacular esa atmósfera desértica, cálida y profundamente amaderada. Su genialidad radica en usar la fuerza ahumada y rústica del abedul junto al ámbar gris para recrear ese efecto de \"oud suntuoso e inciensado\", entregando una vibración de jeque árabe, sumamente plantado y con una facha imponente.",
         "nombre": "Velvet Desert Oud de Dolce&Gabbana (Italia)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18165.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Mist Body Splash Eclaire | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Lechoso Vainilla",
+    "inspirado_en": "éplica de alta fidelidad en formato bruma corporal que rinde tributo a la fragancia gourmand más viral, adictiva y comentada del mercado internacional. Captura a la perfección ese codiciado ADN de \"leche condesada con caramelo salado, miel y vainilla afelpada\", ofreciendo la opción ideal para uso diario, retoque en el bolso o layering.",
+    "notas_salida": "caramelo, leche, azucar",
+    "notas_corazon": "miel, flores blancas",
+    "notas_fondo": "vainilla, praline, almizcle",
+    "descripcion": "La definición en perfume del confort dulce, la calidez lactónica y la tentación gourmand. Lattafa Mist Body Splash Eclaire abre con un abrazo cálido y apetecible de caramelo derretido sobre leche tibia. En cuestión de minutos despliega su faceta más elogiada: un corazón goloso donde la miel dorada envuelve la piel con suavidad. Su evolución final en la piel es un secado cremoso, dulce y profundamente sexy, donde la vainilla de Madagascar y el praliné tostado se funden con el almizcle blanco, dejando un rastro flotante que evoca galletas recién horneadas, crema pastelera y una presencia dulce irresistible.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Uso cotidiano, retoque de bolso, salidas casuales, meriendas, estar en casa o para combinar en capas con perfumes EDP (Layering).",
+    "clima": "Frío / Templado / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Notable para Body Splash (4h a 6h)",
+    "estela": "Moderada",
+    "perfil_usuario": "Mujeres 18-35 años. Amantes de la vainilla pura.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "La definición en perfume del confort dulce, la calidez lactónica y la tentación gourmand. Lattafa Mist Body Splash Eclaire abre con un abrazo cálido y apetecible de caramelo derretido sobre leche tibia. En cuestión de minutos despliega su faceta más elogiada: un corazón goloso donde la miel dorada envuelve la piel con suavidad. Su evolución final en la piel es un secado cremoso, dulce y profundamente sexy, donde la vainilla de Madagascar y el praliné tostado se funden con el almizcle blanco, dejando un rastro flotante que evoca galletas recién horneadas, crema pastelera y una presencia dulce irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64757.2x.avif",
+    "inspirado_en_nombre": "Bianco Latte de Giardini Di Toscana",
+    "inspiraciones": [
+      {
+        "texto": "éplica de alta fidelidad en formato bruma corporal que rinde tributo a la fragancia gourmand más viral, adictiva y comentada del mercado internacional. Captura a la perfección ese codiciado ADN de \"leche condesada con caramelo salado, miel y vainilla afelpada\", ofreciendo la opción ideal para uso diario, retoque en el bolso o layering.",
+        "nombre": "Bianco Latte de Giardini Di Toscana",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64757.2x.avif"
       }
     ]
   },
@@ -5726,6 +5789,34 @@
     ]
   },
   {
+    "nombre_completo": "PACO RABANNE - Invictus | EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Marino, Aromático, Fesco especiado, Amaderado, Salado, Ámbar, Floral blanco, Acuático, Animálico",
+    "inspirado_en": "Representa el estándar de oro de las fragancias frescas acuático-amaderadas \"caza cumplidos\". Su estela definió una era en la perfumería moderna al combinar la frescura salada del océano con la calidez ambarada de fondo.",
+    "notas_salida": "notas marinas, pomelo, mandarina",
+    "notas_corazon": "hoja de laurel, jazmin",
+    "notas_fondo": "ambar gris, gaiac, musgo de roble, pachuli",
+    "descripcion": "La definición en perfume de la energía competitiva, la frescura de la victoria y el atractivo magnético. Paco Rabanne Invictus EDT abre con una ráfaga efervescente de notas marinas saladas mezcladas con la frescura cítrica del pomelo. En cuestión de minutos despliega su corazón aromático, donde la hoja de laurel aporta una sensación de triunfo y pulcritud. Su evolución final en la piel es un secado tibio, salado y profundamente sexy, donde el ámbar gris y la madera de guayaco se funden con el pachulí, dejando un rastro flotante que transmite juventud, dinamismo y un éxito arrollador.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Salidas casuales, actividades deportivas, boliches, citas informales, uso diario o eventos donde el objetivo sea destacar y recibir cumplidos.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Azul grisáceo cristalino traslúcido",
+    "rango_edad_min": 15,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Masculino. Diseñado para jóvenes y hombres modernos, dinámicos, deportistas, extrovertidos y amantes de los perfumes frescos acuáticos con presencia sensual. Es la elección perfecta para quienes buscan un aroma de firma energizante para el día a día, salidas casuales, boliches o actividades sociales.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Marítima de Victoria (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar de oro de las fragancias frescas acuático-amaderadas \"caza cumplidos\". Su estela definió una era en la perfumería moderna al combinar la frescura salada del océano con la calidez ambarada de fondo.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa Marítima de Victoria (Francia)"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Eclaire Banoffi | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -5785,6 +5876,37 @@
         "texto": "Réplica descomunal, masiva e idéntica de uno de los elíxires de ultra nicho más caros, elogiados y deseados del planeta entero. Captura a la perfección ese ADN ultra exclusivo basado en una rosa turca cremosa y almibarada, abrazada por un fondo de incienso místico y maderas finas. Al igual que el original, es un rompe-corazones absoluto que soluciona la fijación entregando un \"Modo Bestia\" diseñado para mujeres que exigen pisar fuerte y adueñarse de cualquier lugar.",
         "nombre": "Delina Exclusif de Parfums de Marly (Francia)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.50370.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Mist Body Splash Badee al Oud Noble Blush | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Vainilla / Rosa Lechosa",
+    "inspirado_en": "Réplica de alta fidelidad en formato bruma corporal que rinde tributo a la célebre creación lactónico-rosada del perfumista italiano. Captura a la perfección ese codiciado ADN de \"leche con rosas frescas, merengue aireado, notas de helado y vainilla afelpada\", ofreciendo la opción ideal para el uso cotidiano, el retoque en el bolso o la técnica de layering.",
+    "notas_salida": "Leche de rosa (Rose Milk)",
+    "notas_corazon": "Almendra, merengue",
+    "notas_fondo": "Vainilla, sándalo, almizcle",
+    "descripcion": "La definición en perfume del confort romántico, la repostería fina y la ligereza de la leche de rosas. Lattafa Mist Body Splash Bade'e Al Oud Noble Blush abre con un impacto tibio y cremoso que evoca un tazón de leche suave infusionada con pétalos de rosa. En cuestión de minutos despliega su faceta más elogiada: un corazón goloso donde el merengue esponjoso se combina con el toque dulce de las almendras. Su evolución final en la piel es un secado afelpado y profundamente sexy, donde el sándalo cremoso y la vainilla se funden con el almizcle blanco, dejando un rastro flotante que transmite elegancia, calidez y una presencia lactónica irresistible.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Uso cotidiano, retoque en el bolso, meriendas, citas informales, estar en casa o para combinar en capas con perfumes EDP (Layering).",
+    "clima": "Frío / Templado / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable para Body Splash (4h a 6h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Mujeres 20-45 años. Femeninas, rosadas, elegantes.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres amables, románticas y amantes de los aromas dulces, cremosos y gastronómicos. Es la elección perfecta para quienes buscan una firma cotidiana reconfortante para llevar en el bolso, usar en la facultad, aplicar en el trabajo o disfrutar tras la ducha.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.119724.2x.avif",
+    "inspirado_en_nombre": "Pink Milk de Lorenzo Pazzaglia",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad en formato bruma corporal que rinde tributo a la célebre creación lactónico-rosada del perfumista italiano. Captura a la perfección ese codiciado ADN de \"leche con rosas frescas, merengue aireado, notas de helado y vainilla afelpada\", ofreciendo la opción ideal para el uso cotidiano, el retoque en el bolso o la técnica de layering.",
+        "nombre": "Pink Milk de Lorenzo Pazzaglia",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.119724.2x.avif"
       }
     ]
   },
@@ -6135,28 +6257,30 @@
     "anno": "2022",
     "genero": "Femenino",
     "familia_olfativa": "Gourmand / Lechoso Vainilla",
-    "inspirado_en": "Giardini di Toscana Bianco Latte (DNA lechoso-caramelo)",
+    "inspirado_en": "Réplica de precisión quirúrgica de la fragancia gourmand más viral y deseada del mundo. Captura a la perfección ese codiciado ADN de \"leche condensada con caramelo salado, miel dorada y vainilla afelpada\", entregando una alternativa accesible con un nivel de rendimiento, empaque y estela sencillamente espectaculares.",
     "notas_salida": "Vainilla, leche, caramelo",
     "notas_corazon": "Flores blancas, heliotropo",
     "notas_fondo": "Vainilla, almizcle, ámbar",
-    "descripcion": "Leche condensada con vainilla pura. Dulce y adictivo. Beast mode en longevidad. Para los amantes absolutos de la vainilla lechosa-gourmand.",
+    "descripcion": "La definición en perfume del confort dulce, la calidez lactónica y la tentación gourmand de lujo. Lattafa Eclaire abre con un abrazo cálido y apetecible de caramelo derretido sobre leche tibia. En cuestión de minutos despliega su faceta más elogiada: un corazón goloso donde la miel dorada envuelve la piel con suavidad. Su evolución final en la piel es un secado cremoso, denso y profundamente sexy, donde la vainilla de Madagascar y el praliné tostado se funden con el almizcle blanco, dejando un rastro flotante que evoca galletas recién horneadas, crema pastelera y una presencia dulce irresistible.",
     "momento_dia": "Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, citas",
-    "clima": "Todo",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Muy larga",
-    "color_liquido": "Blanco / crema",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas casuales, meriendas, eventos formales e informales, o uso personal para destacar.",
+    "clima": "Frío / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Monumental (9h a 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado traslúcido",
     "perfil_usuario": "Mujeres 18-35 años. Amantes de la vainilla pura.",
     "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Amantes de la vainilla pura.",
-    "inspirado_en_nombre": "Giardini di Toscana Bianco Latte",
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres amantes de los aromas dulces, gastronómicos, cálidos y apetecibles. Es la elección perfecta para quienes buscan un aroma de firma alegre, reconfortante, femenino y de alto impacto para destacar de día o de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64757.2x.avif",
+    "inspirado_en_nombre": "Bianco Latte de Giardini Di Toscana",
     "inspiraciones": [
       {
-        "texto": "Giardini di Toscana Bianco Latte (DNA lechoso-caramelo)",
-        "nombre": "Giardini di Toscana Bianco Latte",
-        "imagen_url": ""
+        "texto": "Réplica de precisión quirúrgica de la fragancia gourmand más viral y deseada del mundo. Captura a la perfección ese codiciado ADN de \"leche condensada con caramelo salado, miel dorada y vainilla afelpada\", entregando una alternativa accesible con un nivel de rendimiento, empaque y estela sencillamente espectaculares.",
+        "nombre": "Bianco Latte de Giardini Di Toscana",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64757.2x.avif"
       }
     ]
   },
@@ -7301,34 +7425,6 @@
     ]
   },
   {
-    "nombre_completo": "Victoria Secret - Body Splash - Bare Vanilla | 250ml",
-    "marca": "Victoria's Secret — USA",
-    "genero": "Femenino",
-    "familia_olfativa": "Gourmand / Vainilla Suave",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "vainilla, cachemira",
-    "notas_fondo": "Vainilla, cachemira, sándalo, almizcle",
-    "descripcion": "Vainilla desnuda y suave con cachemira. El más cotidiano y discreto de VS.",
-    "momento_dia": "Día",
-    "estacion": "Todo el año",
-    "ocasion": "Cotidiano",
-    "clima": "Todo",
-    "duracion": "Corta (body splash)",
-    "estela": "Discreta",
-    "perfil_usuario": "Mujeres 15-40 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "ARMAF - Odyssey Tyrant | EDP",
     "marca": "Armaf — India",
     "genero": "Masculino",
@@ -7357,6 +7453,34 @@
         "texto": "Réplica espectacular, robusta y súper fiel del ADN masculino más vendido, elogiado y generador de cumplidos de la última década a nivel mundial. Captura a la perfección esa icónica vibra \"salvaje\" y metálica basada en el combo de pimienta, lavanda y ambroxan. La vuelta de tuerca magistral que hace Armaf aquí es cambiar la clásica bergamota por la toronja en la salida, lo que le vuela esa fase ácida pesada del original y arranca con un shock cítrico mucho más amargo, moderno y jugoso.",
         "nombre": "Sauvage de Dior (Francia)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.31861.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VICTORIA SECRET - Body Splash - Bare Vanilla",
+    "marca": "Victoria's Secret — USA",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Vainilla Suave",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "vainilla, cachemira",
+    "notas_fondo": "Vainilla, cachemira, sándalo, almizcle",
+    "descripcion": "Vainilla desnuda y suave con cachemira. El más cotidiano y discreto de VS.",
+    "momento_dia": "Día",
+    "estacion": "Todo el año",
+    "ocasion": "Cotidiano",
+    "clima": "Todo",
+    "duracion": "Corta (body splash)",
+    "estela": "Discreta",
+    "perfil_usuario": "Mujeres 15-40 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
