@@ -212,13 +212,13 @@
     "b": "AL HARAMAIN",
     "n": "AL HARAMAIN - Amber Oud Bleu Edition | EDP",
     "s": "100ml",
-    "p": 101600,
+    "p": 113300,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_678216-MLU70500849240_072023-F.webp",
     "nt": "Salida Pomelo, limón, menta, pimienta rosa Notas de corazón: Jengibre, vetiver, jazmín Notas de fondo: Sándalo, pachulí, incienso, cedro",
-    "p1": "$101.600"
+    "p1": "$113.300"
   },
   {
     "id": 1999,
@@ -540,7 +540,7 @@
     "p": 81400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_747812-MLA105270013167_012026-F.webp",
     "nt": "Salida Limón, grosella negra, manzana, piña, bergamota Notas de corazón: Abedul, jazmín, rosa Notas de fondo: Almizcle, ámbar gris, vainilla, pachulí",
     "p1": "$81.400"
@@ -1034,7 +1034,7 @@
     "p": 124200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_795844-MLA83441100293_032025-F.webp",
     "nt": "Salida Naranja, limón, bergamota Notas de corazón: frutas Notas de fondo: Vainilla, almizcle blanco, ámbar",
     "p1": "$124.200"
@@ -1931,7 +1931,7 @@
     "p": 66000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_927931-MLU74237320276_022024-F.webp",
     "nt": "Salida Canela, cardamomo, jengibre Notas de corazón: Praliné, frutas confitadas, flores blancas Notas de fondo: Vainilla, café, haba tonka, Benjuí, almizcle",
     "p1": "$66.000"
@@ -2009,7 +2009,7 @@
     "p": 67400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_627169-MLA106201504054_022026-F.webp",
     "nt": "Salida lichi, frambuesa, hojas de violeta Notas de corazón: rosa blanca, peonia, jazmin Notas de fondo: almizcle, vainilla",
     "p1": "$67.400"
@@ -2500,13 +2500,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Yara Elixir | EDP",
     "s": "100ml",
-    "p": 73100,
+    "p": 83900,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_854613-MLA95504248978_102025-F.webp",
-    "nt": "Salida Fresa Notas de fondo: Vainilla, caramelo, almizcle",
-    "p1": "$73.100"
+    "nt": "Salida Fresa, grosellas negras Notas de corazón: jazmin, flor de azahar del naranjo Notas de fondo: vainilla, caramelo, ambar, almizcle",
+    "p1": "$83.900"
   },
   {
     "id": 2175,
@@ -2544,7 +2544,7 @@
     "g": "mujer",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_865459-MLA83853934147_042025-F.webp",
-    "nt": "Salida Mango, coco, maracuyá (fruta de la pasión) · Corazón Jazmín, heliotropo, flor de azahar del naranjo · Fondo Vainilla, cachemira, almizcle",
+    "nt": "Salida Mango, coco, maracuyá Notas de corazón: Jazmín, heliotropo, flor de azahar del naranjo · Fondo Vainilla, cachemira, almizcle",
     "p1": "$55.800"
   },
   {
@@ -2973,7 +2973,7 @@
     "g": "unisex",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_925905-MLA97546968342_112025-F.webp",
-    "nt": "Salida Notas de salida: Sicilian Lemon, Sicilian Orange, Calabrian Bergamot Notas de corazón: Frutas (acorde fruity) Notas de fondo: Vanilla, Ámbar, White Musk",
+    "nt": "Salida naranja, bergamota, limon Notas de corazón: frutas Notas de fondo: vainilla, almizcle, ambar",
     "p1": "$65.500"
   },
   {
@@ -4788,13 +4788,13 @@
     "b": "AFNAN",
     "n": "AFNAN - 9pm Pour Femme | EDP",
     "s": "100ml",
-    "p": 72300,
+    "p": 80600,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_879322-MLU71642686547_092023-F.webp",
     "nt": "Salida Frambuesa, manzana, violeta, naranja Notas de corazón: Rosa, iris, jazmín, peonia Notas de fondo: cipres, cedro, pino, ámbar",
-    "p1": "$72.300"
+    "p1": "$80.600"
   },
   {
     "id": 2354,
@@ -5519,7 +5519,7 @@
     "p": 53400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_803755-MLA80993188037_112024-F.webp",
     "nt": "Salida bergamota, pera Notas de corazón: rosa turca, oud, incienso Notas de fondo: Maderas, ambar, vainilla",
     "p1": "$53.400"
@@ -6663,7 +6663,7 @@
     "p": 90800,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1784650557433_czj131.jpg",
     "nt": "Salida menta, limon, bergamota, tomillo Notas de corazón: romero, lavanda, jazmín, flor de moringa Notas de fondo: almizcle, cedro, ambar",
     "p1": "$90.800"
@@ -6864,6 +6864,19 @@
     "p1": "$121.800"
   },
   {
+    "id": 2525,
+    "b": "VICTORIA SECRET",
+    "n": "VICTORIA SECRET - Body Splash - Coconut Passion | EDP",
+    "s": "250ml",
+    "p": 51000,
+    "c": "internacional",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_909116-MLA84477077635_052025-F.webp",
+    "nt": "Salida coco, vainilla, lirio de los valles, manzanilla, sabila",
+    "p1": "$51.000"
+  },
+  {
     "id": 2527,
     "b": "PACO RABANNE",
     "n": "PACO RABANNE - Invictus | EDT",
@@ -6914,5 +6927,18 @@
     "i": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.122868.2x.avif",
     "nt": "Salida caramelo, leche, azucar Notas de corazón: miel, flores blancas Notas de fondo: vainilla, praline, almizcle",
     "p1": "$46.600"
+  },
+  {
+    "id": 2536,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Mist Body Splash Yara Tous | EDP",
+    "s": "250ml",
+    "p": 47000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_920654-MLA108946016901_032026-F.webp",
+    "nt": "Salida mango, coco, maracuya Notas de corazon: heliotropo, flor de azahar del naranjo, jazmin Notas de fondo: cachemira, vainilla, almizcle",
+    "p1": "$47.000"
   }
 ]

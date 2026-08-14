@@ -6047,6 +6047,32 @@
     ]
   },
   {
+    "nombre_completo": "VICTORIA SECRET - Body Splash - Coconut Passion | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Avainillado, Coco, Dulce, Lactonico, Tropical, Atalcado",
+    "inspirado_en": "Representa el estándar de oro de las brumas corporales dulces con nota de coco. Su estela es la referencia absoluta del concepto \"verano, bronceado, piel hidratada y sol\", siendo un éxito de ventas intergeneracional.",
+    "notas_salida": "coco, vainilla, lirio de los valles, manzanilla, sabila",
+    "descripcion": "La definición en perfume del verano eterno, la calidez del sol en la piel y el confort del coco cremoso. Victoria's Secret Coconut Passion abre con un abrazo dulce y tropical de coco de isla recién abierto. En cuestión de minutos despliega su faceta más elogiada: un corazón limpio donde el aloe vera y la manzanilla aportan una frescura reconfortante. Su evolución final en la piel es un secado tibio, dulce y profundamente afelpado, donde la vainilla dorada envuelve el coco, dejando un rastro flotante que transmite relax, juventud y un encanto veraniego irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Días de playa, pileta, vacaciones, salidas casuales, estar en casa, ir a entrenar o retoque constante de bolso.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Notable para Body Mist (3h a 5h)",
+    "estela": "Moderada",
+    "color_liquido": "Amarillo dorado traslúcido",
+    "rango_edad_min": 12,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres dinámicas, alegres, coquetas y amantes de los aromas dulces, tropicales y gourmand. Es la elección perfecta para quienes buscan un aroma de firma liviano para el uso diario, la playa, el gimnasio o para aplicar generosamente tras el baño.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Tropical de EE.UU",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar de oro de las brumas corporales dulces con nota de coco. Su estela es la referencia absoluta del concepto \"verano, bronceado, piel hidratada y sol\", siendo un éxito de ventas intergeneracional.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa Tropical de EE.UU"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - Sondos | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -6100,6 +6126,34 @@
         "texto": "Réplica espectacular, opulenta e idéntica de uno de los elíxires más exclusivos y caros de la casa Creed, creado originalmente para la realeza de Arabia Saudita. Captura a la perfección ese ADN de \"lujo de alta mar\", evocando estatus, sol y elegancia pura. Armaf toma esta estructura sofisticada y le inyecta la fijación y el empuje que al original le faltan, logrando un rendimiento tremendo para climas cálidos.",
         "nombre": "Millésime Impérial de Creed (Francia)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.466.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Mist Body Splash Yara Tous | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Gourmand / DNA Yara Unisex",
+    "inspirado_en": "Réplica de alta fidelidad en formato bruma corporal que rinde tributo a uno de los perfumes femeninos más virales, juveniles y codiciados del mercado. Captura a la perfección ese adictivo ADN de \"mango jugoso con crema de coco, flores solares y fondo de vainilla afelpada\", ofreciendo la alternativa ideal para el uso cotidiano, el bolso de playa o la técnica de layering.",
+    "descripcion": "La definición en perfume de un atardecer en la playa, la jugosidad del mango maduro y la calidez del coco en la piel. Lattafa Mist Body Splash Yara Tous abre con un estallido radiante de mango jugoso matizado por el maracuyá y la suavidad del coco. En cuestión de minutos despliega su faceta más elogiada: un corazón solar donde la flor de azahar del naranjo y el heliotropo envuelven la fruta con elegancia. Su evolución final en la piel es un secado tibio, dulce y profundamente afelpado, donde la vainilla y la cachemira dejan un rastro flotante que transmite alegría, sensualidad veraniega y una presencia tropical irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Días de playa, salidas casuales, uso cotidiano, gimnasio, vacaciones o para combinar en capas con perfumes EDP (Layering).",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Notable para Body Splash (4h a 6h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Hombres y mujeres 18-40 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres jóvenes, alegres, dinámicas y amantes de los aromas frutales exóticos, tropicales y cremosos. Es la elección perfecta para quienes buscan una firma cotidiana veraniega para llevar en la cartera, usar en la facultad, aplicar en el trabajo o disfrutar tras la ducha o la playa.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.74962.2x.avif",
+    "inspirado_en_nombre": "Fame de Rabanne",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad en formato bruma corporal que rinde tributo a uno de los perfumes femeninos más virales, juveniles y codiciados del mercado. Captura a la perfección ese adictivo ADN de \"mango jugoso con crema de coco, flores solares y fondo de vainilla afelpada\", ofreciendo la alternativa ideal para el uso cotidiano, el bolso de playa o la técnica de layering.",
+        "nombre": "Fame de Rabanne",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.74962.2x.avif"
       }
     ]
   },
@@ -6921,6 +6975,39 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Yara Elixir | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "anno": "2025",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Gourmand / Fresa Vainilla Concentrada",
+    "inspirado_en": "Réplica de alta fidelidad que rinde tributo a la deslumbrante creación gourmand de la casa Kayali. Captura a la perfección ese codiciado ADN de \"malvavisco rosado con frutillas frescas, crema batida, flor de azahar y fondo de caramelo-vainilla de altísima persistencia\", entregando una alternativa accesible con un rendimiento y presencia superlativos.",
+    "notas_salida": "Fresa, grosellas negras",
+    "notas_corazon": "jazmin, flor de azahar del naranjo",
+    "notas_fondo": "vainilla, caramelo, ambar, almizcle",
+    "descripcion": "La definición en perfume de la tentación gourmand, la feminidad intensa y el confort del malvavisco de frutilla. Lattafa Yara Elixir abre con un abrazo dulce y jugoso que evoca malvaviscos de frutilla con chispas de grosella negra. En cuestión de minutos despliega su faceta más elogiada: un corazón limpio y elegante donde la flor de azahar del naranjo y el jazmín suavizan la composición. Su evolución final en la piel es un secado caliente, espeso y profundamente sexy, donde el caramelo tostado y la vainilla se funden con el ámbar, dejando un rastro flotante que transmite sensualidad, juventud y un encanto magnético.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, boliche, fiestas, reuniones casuales con amigos, eventos nocturnos o uso personal para destacar.",
+    "clima": "Frío / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Mujeres 18-35 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, coquetas y amantes de los perfumes dulces, ambarados y gastronómicos con personalidad. Es la elección perfecta para quienes buscan una firma envolvente, alegre y cazarrecompensas de cumplidos para destacar en salidas o eventos especiales.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.99254.2x.avif",
+    "inspirado_en_nombre": "Yum Boujee Marshmallow | 81 de Kayali Fragrances",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde tributo a la deslumbrante creación gourmand de la casa Kayali. Captura a la perfección ese codiciado ADN de \"malvavisco rosado con frutillas frescas, crema batida, flor de azahar y fondo de caramelo-vainilla de altísima persistencia\", entregando una alternativa accesible con un rendimiento y presencia superlativos.",
+        "nombre": "Yum Boujee Marshmallow | 81 de Kayali Fragrances",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.99254.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Opulent Musk | EDP | 100ml",
     "marca": "Lattafa",
     "anno": "2019",
@@ -6952,49 +7039,32 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Yara Elixir | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "anno": "2025",
+    "nombre_completo": "LATTAFA - Yara Tous | EDP",
     "genero": "Femenino",
-    "familia_olfativa": "Frutal Gourmand / Fresa Vainilla Concentrada",
-    "inspirado_en": "Lattafa Yara",
-    "notas_salida": "Fresa",
-    "notas_fondo": "Vainilla, caramelo, almizcle",
-    "descripcion": "Versión elixir concentrada del DNA Yara. Más potente y duradera.",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "perfil_usuario": "Mujeres 18-35 años.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Lattafa Yara",
-    "inspiraciones": [
-      {
-        "texto": "Lattafa Yara",
-        "nombre": "Lattafa Yara",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Yara Tous | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
     "familia_olfativa": "Frutal Gourmand / DNA Yara Unisex",
-    "inspirado_en": "Lattafa Yara",
-    "descripcion": "DNA Yara unisex. Similar al original pero con más neutralidad de género.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
+    "inspirado_en": "Réplica de alta fidelidad que captura el aclamado ADN de \"mango jugoso con crema de coco, flor de azahar y fondo de vainilla de alta gama\". Ofrece una alternativa accesible con un nivel de rendimiento, proyección y presentación de altísima alcurnia.",
+    "notas_salida": "Mango, coco, maracuyá",
+    "notas_corazon": "Jazmín, heliotropo, flor de azahar del naranjo.",
+    "notas_fondo": "Vainilla, cachemira, almizcle.",
+    "descripcion": "La definición en perfume de un día de sol, la jugosidad del mango maduro y la suavidad del coco en la piel. Lattafa Yara Tous abre con un abrazo radiante y jugoso de mango maduro sazonado por la frescura del maracuyá y la crema de coco. En cuestión de minutos despliega su faceta más elogiada: un corazón solar donde la flor de azahar del naranjo envuelve la fruta con elegancia. Su evolución final en la piel es un secado caliente, espeso y profundamente sexy, donde la vainilla dorada y la cachemira dejan un rastro flotante que transmite sensualidad, juventud y un atractivo tropical magnético.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Salidas casuales, vacaciones, eventos al aire libre, meriendas, uso diario o momentos donde el objetivo sea proyectar alegría y recibir cumplidos.",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino traslúcido",
     "perfil_usuario": "Hombres y mujeres 18-40 años.",
     "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Lattafa Yara",
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres jóvenes, alegres, coquetas y amantes de los perfumes frutales exóticos, tropicales y cremosos. Es la elección perfecta para quienes buscan una firma envolvente, brillante y alegre para destacar en el día a día o en eventos sociales.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.74962.2x.avif",
+    "inspirado_en_nombre": "Fame de Rabanne",
     "inspiraciones": [
       {
-        "texto": "Lattafa Yara",
-        "nombre": "Lattafa Yara",
-        "imagen_url": ""
+        "texto": "Réplica de alta fidelidad que captura el aclamado ADN de \"mango jugoso con crema de coco, flor de azahar y fondo de vainilla de alta gama\". Ofrece una alternativa accesible con un nivel de rendimiento, proyección y presentación de altísima alcurnia.",
+        "nombre": "Fame de Rabanne",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.74962.2x.avif"
       }
     ]
   },
@@ -8066,29 +8136,6 @@
     ]
   },
   {
-    "nombre_completo": "MAISON ALHAMBRA - Philos Pura | EDP",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral / Pura Femenino",
-    "inspirado_en": "Xerjoff Erba Pura",
-    "notas_salida": "Notas de salida: Sicilian Lemon, Sicilian Orange, Calabrian Bergamot Notas de corazón: Frutas (acorde fruity) Notas de fondo: Vanilla, Ámbar, White Musk",
-    "descripcion": "Floral puro y limpio. La versión femenina de la línea Philos.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Xerjoff Erba Pura",
-    "inspiraciones": [
-      {
-        "texto": "Xerjoff Erba Pura",
-        "nombre": "Xerjoff Erba Pura",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Yara Rosa | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -8141,6 +8188,38 @@
         "texto": "Yara pero más candy e intenso",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Philos Pura | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Unisex",
+    "familia_olfativa": "Floral / Pura Femenino",
+    "inspirado_en": "Réplica de alta fidelidad que rinde tributo a uno de los perfumes unisex más virales, deseados y cazarrecompensas de cumplidos de la perfumería internacional. Captura a la perfección ese codiciado ADN de \"cítricos sicilianos con frutas jugosas, sensación de shampoo/baño de lujo y fondo de almizcle-vainilla de enorme proyección\".",
+    "notas_salida": "naranja, bergamota, limon",
+    "notas_corazon": "frutas",
+    "notas_fondo": "vainilla, almizcle, ambar",
+    "descripcion": "La definición en perfume del sol mediterráneo, la jugosidad frutal y la pulcritud algodonosa de nicho. Maison Alhambra Philos Pura abre con un estallido radiante y fresco de naranja y limón recién exprimidos. En cuestión de minutos despliega su faceta más elogiada: un corazón jugoso donde un coctel de frutas maduras envuelve la piel con una dulzura refrescante. Su evolución final en la piel es un secado afelpado, limpio y profundamente atractivo, donde el almizcle blanco y la vainilla de Madagascar abrazan la estructura cítrica, dejando un rastro flotante que transmite sofisticación, energía y un atractivo magnético.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Salidas casuales, eventos al aire libre, uso profesional diario, citas, vacaciones o momentos donde se busque destacar y proyectar pulcritud.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino traslúcido",
+    "perfil_usuario": "Mujeres 20-45 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex. Diseñado para hombres y mujeres dinámicos, seguros de sí mismos y amantes de las fragancias frescas, frútales y pulcras de alta gama. Es la elección perfecta para quienes buscan un aroma de firma versátil, alegre y generador constante de cumplidos.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55157.2x.avif",
+    "inspirado_en_nombre": "Xerjoff Erba Pura",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde tributo a uno de los perfumes unisex más virales, deseados y cazarrecompensas de cumplidos de la perfumería internacional. Captura a la perfección ese codiciado ADN de \"cítricos sicilianos con frutas jugosas, sensación de shampoo/baño de lujo y fondo de almizcle-vainilla de enorme proyección\".",
+        "nombre": "Xerjoff Erba Pura",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55157.2x.avif"
       }
     ]
   },
