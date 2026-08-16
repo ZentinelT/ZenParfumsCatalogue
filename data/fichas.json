@@ -6134,6 +6134,9 @@
     "genero": "Femenino",
     "familia_olfativa": "Frutal Gourmand / DNA Yara Unisex",
     "inspirado_en": "Réplica de alta fidelidad en formato bruma corporal que rinde tributo a uno de los perfumes femeninos más virales, juveniles y codiciados del mercado. Captura a la perfección ese adictivo ADN de \"mango jugoso con crema de coco, flores solares y fondo de vainilla afelpada\", ofreciendo la alternativa ideal para el uso cotidiano, el bolso de playa o la técnica de layering.",
+    "notas_salida": "mango, coco, maracuya",
+    "notas_corazon": "heliotropo, flor de azahar del naranjo, jazmin",
+    "notas_fondo": "cachemira, vainilla, almizcle",
     "descripcion": "La definición en perfume de un atardecer en la playa, la jugosidad del mango maduro y la calidez del coco en la piel. Lattafa Mist Body Splash Yara Tous abre con un estallido radiante de mango jugoso matizado por el maracuyá y la suavidad del coco. En cuestión de minutos despliega su faceta más elogiada: un corazón solar donde la flor de azahar del naranjo y el heliotropo envuelven la fruta con elegancia. Su evolución final en la piel es un secado tibio, dulce y profundamente afelpado, donde la vainilla y la cachemira dejan un rastro flotante que transmite alegría, sensualidad veraniega y una presencia tropical irresistible.",
     "momento_dia": "Día / Tarde",
     "estacion": "Primavera / Verano",
@@ -7398,28 +7401,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Opulence Leather | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Cuero / Oriental Masculino",
-    "inspirado_en": "Tom Ford Ombré Leather",
-    "descripcion": "Cuero opulento con especias orientales. Masculino y lujoso.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres 30-55 años.",
-    "rango_edad_min": 30,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Tom Ford Ombré Leather",
-    "inspiraciones": [
-      {
-        "texto": "Tom Ford Ombré Leather",
-        "nombre": "Tom Ford Ombré Leather",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "ARMAF - Club de Nuit Iconic Blue | EDP",
     "marca": "Armaf — India",
     "genero": "Masculino",
@@ -8260,6 +8241,34 @@
     ]
   },
   {
+    "nombre_completo": "MONTALE - Arabians Tonka | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Avainillado, Ámbar, Oud, Cálido especiado, Rosas, Almizclado, Metalico, Aromático, Atalcado",
+    "inspirado_en": "Inspirado en el espíritu indomable, la potencia y la elegancia de los caballos árabes. Es una fragancia que busca el lujo puro, la opulencia y el carácter. Es una alternativa \"niche\" de altísima calidad para quienes aman los perfumes con estela pesada, dulce y amaderada.",
+    "notas_salida": "azafran, bergamota",
+    "notas_corazon": "oud, rosa",
+    "notas_fondo": "haba tonka, caña de azucar, ambar, almizcle, musgo de roble",
+    "descripcion": "La definición en perfume del poder, la elegancia de la noche y la opulencia. Montale Arabians Tonka abre con un golpe de azafrán que impone respeto. Pronto, la rosa y el oud se entrelazan en un baile sofisticado, pero es su secado donde ocurre la verdadera magia: una explosión de haba tonka y azúcar que envuelve la piel en un aura dulce, amaderada y profundamente adictiva. No es un perfume para pasar desapercibido; es un statement de seguridad, lujo y magnetismo personal.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño/Invierno",
+    "ocasion": "Galas, citas importantes, fiestas exclusivas, reuniones de alto impacto o cualquier evento donde quieras ser el centro de atención.",
+    "clima": "Frío / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendaria (12h+ en piel, días enteros en la ropa)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar intenso",
+    "rango_edad_min": 25,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Unisex (con una inclinación audaz). Diseñado para personas con una personalidad fuerte, decidida y que disfrutan de fragancias que ocupan espacio y dejan rastro. Es la elección perfecta para quienes buscan un aroma \"firma\" para la noche o para climas fríos, donde la fragancia despliega toda su complejidad y calidez.",
+    "inspirado_en_nombre": "La Elegancia del Caballo Árabe",
+    "inspiraciones": [
+      {
+        "texto": "Inspirado en el espíritu indomable, la potencia y la elegancia de los caballos árabes. Es una fragancia que busca el lujo puro, la opulencia y el carácter. Es una alternativa \"niche\" de altísima calidad para quienes aman los perfumes con estela pesada, dulce y amaderada.",
+        "nombre": "La Elegancia del Caballo Árabe"
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Odyssey Dubai Chocolat | EDP",
     "marca": "Armaf — India",
     "genero": "Unisex",
@@ -8286,6 +8295,38 @@
       {
         "texto": "Recrea de forma líquida e hiper-realista el postre más famoso del mundo: el crujiente del Knafeh tostado en manteca, la pasta de pistacho puro, las avellanas y el chocolate espeso. Armaf tomó este fenómeno gastronómico y lo equilibró magistralmente con notas de café negro, cardamomo y Amberwood, logrando un perfume que se devora el aire y genera una fijación descomunal en la piel.",
         "nombre": "La mítica y viral barra de \"Chocolate de Dubái\" (Fix Dessert Chocolatier)"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Opulence Leather | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Cuero / Oriental Masculino",
+    "inspirado_en": "Réplica de alta fidelidad que rinde tributo a uno de los perfumes de cuero más icónicos de la perfumería mundial. Ofrece esa experiencia sensorial de \"asiento de auto de lujo, chaqueta de cuero nueva y arena caliente\", pero a una fracción del costo del original, manteniendo una performance increíble.",
+    "notas_salida": "Cardamomo",
+    "notas_corazon": "Cuero, Jazmín Sambac",
+    "notas_fondo": "Ámbar, Musgo, Pachulí",
+    "descripcion": "La definición en perfume de un hombre seguro de sí mismo, el lujo de los materiales nobles y la sofisticación nocturna. Opulence Leather abre con un impacto especiado de cardamomo que se desplaza rápidamente hacia un corazón de cuero negro auténtico, lujoso y envolvente. En cuestión de minutos, el jazmín sambac asoma como una caricia floral que aporta elegancia al conjunto. Su evolución final es un secado profundo, terroso y cálido, donde el musgo y el ámbar crean un rastro flotante que transmite éxito, poder y una pulcritud masculina arrolladora.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Entorno corporativo, reuniones de negocios, citas románticas formales, eventos nocturnos o uso personal para destacar autoridad.",
+    "clima": "Templado / Frío / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro",
+    "perfil_usuario": "Hombres 30-55 años.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros, ejecutivos, decididos y amantes de las fragancias intensas, amaderadas y con carácter. Es la elección perfecta para quienes buscan un aroma \"firma\" que destaque en el entorno laboral o en salidas formales donde se quiere proyectar una imagen de clase y seriedad.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.50239.2x.avif",
+    "inspirado_en_nombre": "Ombré Leather de Tom Ford",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde tributo a uno de los perfumes de cuero más icónicos de la perfumería mundial. Ofrece esa experiencia sensorial de \"asiento de auto de lujo, chaqueta de cuero nueva y arena caliente\", pero a una fracción del costo del original, manteniendo una performance increíble.",
+        "nombre": "Ombré Leather de Tom Ford",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.50239.2x.avif"
       }
     ]
   },
@@ -8440,6 +8481,36 @@
     ]
   },
   {
+    "nombre_completo": "RAYHAAN - Pacific Aloha | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Acuático, ozonico, Coco, Cítrico, Marino, Dulce, Afrutados, Aromático, Lactonico",
+    "inspirado_en": "Réplica de alta fidelidad que rinde tributo a la fragancia más \"playera y juvenil\" del momento. Captura a la perfección ese ADN de \"sandía acuática, coco y sal marina\", ofreciendo una alternativa que se siente moderna, joven y, sobre todo, muy diferente a lo tradicional.",
+    "notas_salida": "melon, naranja sanguina, limon",
+    "notas_corazon": "sandia, coco",
+    "notas_fondo": "notas marinas, amberwood, cacao",
+    "descripcion": "La definición en perfume de la libertad, la arena caliente y la brisa marina. Rayhaan Pacific Aloha abre con un impacto radiante de sandía acuática y sal. En cuestión de minutos despliega su faceta más elogiada: un corazón amaderado por la madera de deriva que evoca el verano más auténtico. Su evolución final en la piel es un secado tibio, dulce y profundamente pulcro, dejando un rastro flotante que transmite relax, juventud y un encanto natural irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Playa, piscina, salidas casuales, uso diario en verano, viajes o eventos donde busques destacar con un aroma moderno y diferente.",
+    "clima": "Cálido / Muy Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Unisex. Diseñado para personas dinámicas, que aman la vida al aire libre, los viajes y las fragancias con estilo niche relajado. Es la elección perfecta para quienes buscan un aroma de firma que proyecte frescura moderna, pulcritud y un toque de sofisticación vacacional.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif",
+    "inspirado_en_nombre": "Wavechild Room 1015 ",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde tributo a la fragancia más \"playera y juvenil\" del momento. Captura a la perfección ese ADN de \"sandía acuática, coco y sal marina\", ofreciendo una alternativa que se siente moderna, joven y, sobre todo, muy diferente a lo tradicional.",
+        "nombre": "Wavechild Room 1015",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "RAYHAAN - Dark Leather | EDP",
     "marca": "RAYHAAN",
     "genero": "Masculino",
@@ -8577,6 +8648,34 @@
         "texto": "Tom Ford Neroli Portofino",
         "nombre": "Tom Ford Neroli Portofino",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VALENTINO - Uomo Born In Roma | EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Mineral, Amaderado, ozonico, Aromático, Acuático, Salado, Herbal, Fesco especiado, Verde, Especiado suave",
+    "inspirado_en": "Representa el estándar actual de la perfumería masculina moderna: un equilibrio perfecto entre la frescura inicial enérgica y un fondo amaderado cálido, elegante y con un toque rebelde gracias a las tachas de su diseño.",
+    "notas_salida": "notas minerales, hojas de violeta, sal",
+    "notas_corazon": "salvia, jengibre",
+    "notas_fondo": "maderas, vetiver",
+    "descripcion": "La definición en perfume de la elegancia rebelde, la noche urbana y el estilo romano actual. Valentino Uomo Born In Roma arranca con un impacto moderno y chispeante de jengibre y notas saladas que despiertan los sentidos. En cuestión de minutos despliega su faceta más elogiada: un corazón aromático de salvia que aporta distinción. Su evolución final en la piel es un secado profundo, ahumado y sofisticado, donde el vetiver deja un rastro flotante magnético, masculino y sumamente atractivo.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Otoño / Primavera / Verano",
+    "ocasion": "Uso profesional, salidas casuales, citas románticas, eventos sociales o momentos donde busques dejar una impresión moderna y elegante.",
+    "clima": "Templado / Cálido / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, seguros de sí mismos, con estilo urbano, carismáticos y amantes de las fragancias versátiles que combinan frescura inicial con fondos profundos. Es la elección perfecta para quienes buscan un aroma de firma versátil tanto para el día como para destacar de noche.",
+    "inspirado_en_nombre": "VALENTINO - Uomo Born In Roma",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar actual de la perfumería masculina moderna: un equilibrio perfecto entre la frescura inicial enérgica y un fondo amaderado cálido, elegante y con un toque rebelde gracias a las tachas de su diseño.",
+        "nombre": "VALENTINO - Uomo Born In Roma"
       }
     ]
   },
@@ -11760,26 +11859,34 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Pride Ansaam Gold | EDP | 100ml",
+    "nombre_completo": "LATTAFA - Pride Ansaam Gold | EDP",
     "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
+    "genero": "Femenino",
     "familia_olfativa": "Oriental Floral / Rosa Oud Premium",
-    "inspirado_en": "Parfums de Marly Oriana (algunos suman Kilian Love Don't Be Shy)",
-    "notas_corazon": "Rosa, oud",
-    "notas_fondo": "Ámbar",
-    "descripcion": "Floral oriental premium. Rosa con oud y ámbar. Línea Pride Lattafa.",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes gourmand-florales más codiciados, elogiados y lujosos del mundo (hermano directo del icónico Love, Don't Be Shy de Kilian). Captura a la perfección ese ADN de \"nube de malvavisco, crema batida, flores blancas y vainilla\", ofreciendo una alternativa con una presentación de colección y un rendimiento sobresaliente a una fracción del costo.",
+    "notas_salida": " mandarina, pera",
+    "notas_corazon": "notas dulces, jazmin, rosa",
+    "notas_fondo": "almizcle, vainilla, frambuesa",
+    "descripcion": "La definición en perfume del lujo gourmand, la suavidad de las nubes de malvavisco y la elegancia femenina moderna. Lattafa Pride Ansaam Gold abre con un impacto radiante y frutal de pera y mandarina. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón cremoso donde el acorde de malvavisco y flor de azahar envuelve los sentidos en una sensación de postre de alta costura. Su evolución final es un secado tibio, almizclado y profundamente avainillado, dejando un rastro flotante que transmite sofisticación, juventud y una presencia magnética irresistible.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas con amigas, eventos sociales, uso cotidiano de alto impacto o cuando el objetivo sea recibir cumplidos constantes.",
+    "clima": "Templado / Fresco / Frío",
     "proyeccion": "Alta",
-    "duracion": "Muy larga",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado",
     "perfil_usuario": "Hombres y mujeres 25-55 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Parfums de Marly Oriana",
+    "rango_edad_min": 16,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, coquetas, elegantes y amantes de las fragancias dulces, cremosas y de gran estela. Es la elección perfecta para quienes buscan un aroma de firma sofisticado que destaque tanto de día como de noche, proyectando un encanto irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.69117.2x.avif",
+    "inspirado_en_nombre": "Oriana de Parfums de Marly",
     "inspiraciones": [
       {
-        "texto": "Parfums de Marly Oriana (algunos suman Kilian Love Don't Be Shy)",
-        "nombre": "Parfums de Marly Oriana",
-        "imagen_url": ""
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes gourmand-florales más codiciados, elogiados y lujosos del mundo (hermano directo del icónico Love, Don't Be Shy de Kilian). Captura a la perfección ese ADN de \"nube de malvavisco, crema batida, flores blancas y vainilla\", ofreciendo una alternativa con una presentación de colección y un rendimiento sobresaliente a una fracción del costo.",
+        "nombre": "Oriana de Parfums de Marly",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.69117.2x.avif"
       }
     ]
   },
@@ -11814,11 +11921,12 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Pride Blue Sapphire | EDP | 100ml",
+    "nombre_completo": "LATTAFA - Pride Blue Sapphire | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
     "familia_olfativa": "Aromático / Azul Premium",
     "inspirado_en": "Composición propia",
+    "notas_salida": "Notas de salida: Menta, Limón, Manzana Notas de corazón: Notas marinas, Esclarea, Geranio Notas de fondo: Pachulí, Cedro",
     "descripcion": "Fresco-aromático premium. El azul de la línea Pride Lattafa.",
     "proyeccion": "Moderada",
     "duracion": "Larga",
