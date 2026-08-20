@@ -111,7 +111,7 @@
     "p": 94200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_771555-MLA88062665347_072025-F.webp",
     "nt": "Salida cardamomo, canela, bergamota Notas de corazón: vainilla, azúcar, elemi Notas de fondo: praliné, almendra, ambroxan, haba tonka, almizcle",
     "p1": "$94.200"
@@ -657,7 +657,7 @@
     "p": 92000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_732953-MLA105485158565_012026-F.webp",
     "nt": "Salida Bergamota, pimienta rosa, flor de azahar, jazmín Notas de corazón: Lavanda, elemí, geranio, vetiver, azafrán Notas de fondo: Ambroxan, ámbar, pachulí, cedro, ládano",
     "p1": "$92.000"
@@ -826,7 +826,7 @@
     "p": 62200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_812336-MLA107452991137_022026-F.webp",
     "nt": "Salida limón, naranja, mandarina, bergamota Notas de corazón: notas marinas, flor de azahar del naranjo, jengibre Notas de fondo: te negro, almizcle, ámbar",
     "p1": "$62.200"
@@ -1307,7 +1307,7 @@
     "p": 99800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_996780-MLA109538215017_032026-F.webp",
     "nt": "Salida Canela, flor de azahar, cardamomo, bergamota Notas de corazón: Bourbon Vanilla, elemi Notas de fondo: Praliné, ambroxan, madera de gaiac, almizcle",
     "p1": "$99.800"
@@ -1619,7 +1619,7 @@
     "p": 65600,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_656006-MLU70919364843_082023-F.webp",
     "nt": "Salida Azafrán, bergamota Notas de corazón: Oud, rosa Notas de fondo: Ámbar, almizcle, maderas",
     "p1": "$65.600"
@@ -1879,7 +1879,7 @@
     "p": 87200,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_761860-MLA99141020887_112025-F.webp",
     "nt": "Salida Canela, Mystikal Notas de corazón: Tuberosa, jazmín, incienso, Mahonial Notas de fondo: Vainilla, almizcle, haba tonka",
     "p1": "$87.200"
@@ -1892,7 +1892,7 @@
     "p": 80900,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_630271-MLA105995812123_012026-F.webp",
     "nt": "Salida Mandarina, bergamota Notas de corazón: Tuberosa, jazmín, rosa Notas de fondo: Vainilla, haba tonka, Amberwood, mirra, Benjuí, Akigalawood",
     "p1": "$80.900"
@@ -4921,7 +4921,7 @@
     "p": 103500,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_749870-MLA92967415611_092025-F.webp",
     "nt": "Salida Jengibre, bergamota, tangarina Notas de corazón: Canela, té verde, neroli Notas de fondo: Almizcle, Maderas, ámbar",
     "p1": "$103.500"
@@ -5506,7 +5506,7 @@
     "p": 93600,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_933770-MLA103897847549_012026-F.webp",
     "nt": "Salida bayas silvestres, cereza, naranja, bergamota Notas de corazón: rosa, flores blancas, vainilla Notas de fondo: notas atalcadas, Almizcle, ambar",
     "p1": "$93.600"
@@ -5701,7 +5701,7 @@
     "p": 101000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_833315-MLA90918939664_082025-F.webp",
     "nt": "Salida canela, nuez moscada, neroli Notas de corazón: malvavisco, nardos, flor de azahar del naranjo Notas de fondo: algodon de azúcar, vainilla, haba tonka",
     "p1": "$101.000"
