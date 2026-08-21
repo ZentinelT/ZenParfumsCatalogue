@@ -111,7 +111,7 @@
     "p": 94200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_771555-MLA88062665347_072025-F.webp",
     "nt": "Salida cardamomo, canela, bergamota Notas de corazón: vainilla, azúcar, elemi Notas de fondo: praliné, almendra, ambroxan, haba tonka, almizcle",
     "p1": "$94.200"
@@ -267,7 +267,7 @@
     "p": 117700,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_724372-MLA52218878998_102022-F.webp",
     "nt": "Salida Bergamota, notas verdes Notas de corazón: Melón, piña, ambar, Acorde goloso · Fondo notas amaderadas, almizcle, vainilla",
     "p1": "$117.700"
@@ -579,7 +579,7 @@
     "p": 92700,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_616191-MLA106687529098_022026-F.webp",
     "nt": "Salida Lichi, bergamota, pimienta rosa Notas de corazón: Raíz de lirio Notas de fondo: Praliné, sándalo, Ambroxan",
     "p1": "$92.700"
@@ -2167,7 +2167,7 @@
     "g": "hombre",
     "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_692761-MLA93546181322_102025-F.webp",
-    "nt": "Salida Notas de salida: Menta, Limón, Manzana Notas de corazón: Notas marinas, Esclarea, Geranio Notas de fondo: Pachulí, Cedro",
+    "nt": "Salida menta, limon, manzana Notas de corazon: notas marinas, esclarea, geranio Notas de fondo: pachuli, cedro",
     "p1": "$73.300"
   },
   {
@@ -2175,13 +2175,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Pride Nebras | EDP",
     "s": "100ml",
-    "p": 80400,
+    "p": 81300,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_621585-MLU54978398824_042023-F.webp",
     "nt": "Salida bayas rojas, mandarina Notas de corazón: vainilla, cacao, rosa Notas de fondo: azúcar, haba tonka, ámbar, almizcle",
-    "p1": "$80.400"
+    "p1": "$81.300"
   },
   {
     "id": 2150,
@@ -2193,7 +2193,7 @@
     "g": "mujer",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_709415-MLA94484855009_102025-F.webp",
-    "nt": "Salida Notas de salida: Caramelo de leche, Crema batida Notas de corazón: Caña de azúcar, Heliotropo Notas de fondo: Vainilla, Ambroxan, Almizcle",
+    "nt": "Salida Caramelo de leche, Crema batida Notas de corazón: Caña de azúcar, Heliotropo Notas de fondo: Vainilla, Ambroxan, Almizcle",
     "p1": "$92.000"
   },
   {
@@ -3231,7 +3231,7 @@
     "p": 88200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_965026-MLA92962664343_092025-F.webp",
     "nt": "Salida Piña, naranja, pomelo Notas de corazón: Ámbar, iris, lavanda Notas de fondo: Haba tonka, almizcle, cachemira, pachulí",
     "p1": "$88.200"
@@ -4401,7 +4401,7 @@
     "p": 128100,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_602624-MLA107246963697_022026-F.webp",
     "nt": "Salida Manzana, bergamota, limón Notas de corazón: Geranio, canela, cardamomo Notas de fondo: Sándalo, vetiver, vainilla, cedro",
     "p1": "$128.100"
@@ -6013,7 +6013,7 @@
     "p": 101900,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_605376-MLA112423107943_052026-F.webp",
     "nt": "Salida nuez moscada, clavo de olor, limon Notas de corazón: leche, rosa, davana Notas de fondo: ambar, pachuli, incienso, ladano",
     "p1": "$101.900"
@@ -6247,7 +6247,7 @@
     "p": 178200,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_631321-MLA110363687832_052026-F.webp",
     "nt": "Salida cidra, bergamota, naranja Notas de corazón: jengibre, neroli, canela Notas de fondo: te negro, ambroxan, madera de gaiac, incienso de olibano",
     "p1": "$178.200"
@@ -6338,7 +6338,7 @@
     "p": 68800,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_884226-MLA93542283848_102025-F.webp",
     "nt": "Salida canela, ron, azucar Notas de corazón: caramelo, cacao, cafe, musgo Notas de fondo: vainilla, haba tonka, cachemira, ladano",
     "p1": "$68.800"
@@ -6364,7 +6364,7 @@
     "p": 69200,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_736404-MLA81125925110_122024-F.webp",
     "nt": "Salida frutas rojas, azafran, nuez moscada Notas de corazón: rosa, jazmin Notas de fondo: oud, cedro, benjui, ambar",
     "p1": "$69.200"
@@ -6481,7 +6481,7 @@
     "p": 66200,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_725534-MLA109571891343_032026-F.webp",
     "nt": "Salida brioche, bergamota, fresia Notas de corazón: abeto balsamico, heliotropo Notas de fondo: vainilla, benjui, praline",
     "p1": "$66.200"
@@ -6507,7 +6507,7 @@
     "p": 75000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_625862-MLA90650035080_082025-F.webp",
     "nt": "Salida pimienta, esclarea, naranja Notas de corazón: cachemira, frambuesa, ambroxan Notas de fondo: sandalo, almizcle, vetiver",
     "p1": "$75.000"
@@ -6728,7 +6728,7 @@
     "p": 105600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_980240-MLA110629473213_042026-F.webp",
     "nt": "Salida iris, citricos Notas de corazón: cuero Notas de fondo: sandalo, almizcle, cedro, oud",
     "p1": "$105.600"
@@ -6806,7 +6806,7 @@
     "p": 55600,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_875378-MLA112114928620_062026-F.webp",
     "nt": "Salida frutas, rosa Notas de corazón: ylang-ylang, cuero, nuez moscada, ambar Notas de fondo: pachuli, vainilla, vetiver, almizcle, cedro",
     "p1": "$55.600"
@@ -6884,7 +6884,7 @@
     "p": 246400,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_750490-MLA47573544667_092021-F.webp",
     "nt": "Salida flor de azahar del naranjo, bergamota Notas de corazón: nardos, jazmin de la india Notas de fondo: vainilla, almizcle, cedro",
     "p1": "$246.400"
@@ -6897,7 +6897,7 @@
     "p": 152600,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_899576-MLA115851534441_082026-F.webp",
     "nt": "Salida notas marinas, pomelo, mandarina Notas de corazón: hoja de laurel, jazmin Notas de fondo: ambar gris, gaiac, musgo de roble, pachuli",
     "p1": "$152.600"
@@ -7027,7 +7027,7 @@
     "p": 248600,
     "c": "internacional",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_703189-MLU70080525755_062023-F.webp",
     "nt": "Salida azafran, bergamota Notas de corazón: oud, rosa Notas de fondo: haba tonka, caña de azucar, ambar, almizcle, musgo de roble",
     "p1": "$248.600"
@@ -7053,7 +7053,7 @@
     "p": 231100,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_656237-MLA89461426627_082025-F.webp",
     "nt": "Salida notas minerales, hojas de violeta, sal Notas de corazón: salvia, jengibre Notas de fondo: maderas, vetiver",
     "p1": "$231.100"

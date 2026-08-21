@@ -1770,29 +1770,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Pride Nebras | EDP",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental / Complejo Árabe",
-    "inspirado_en": "Billie Eilish Eilish (DNA almendra-vainilla)",
-    "notas_salida": "Notas de salida: bayas rojas y mandarina Notas de corazón: vainilla, cacao y rosa Notas de fondo: azúcar, haba tonka, ámbar y almizcle",
-    "descripcion": "Oriental complejo de la línea Pride.",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "perfil_usuario": "Hombres y mujeres 25-55 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Billie Eilish Eilish",
-    "inspiraciones": [
-      {
-        "texto": "Billie Eilish Eilish (DNA almendra-vainilla)",
-        "nombre": "Billie Eilish Eilish",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Bade'e Al Oud For Glory | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -1820,6 +1797,38 @@
         "texto": "Initio Oud for Greatness (clone reconocido — 8h longevidad)",
         "nombre": "Initio Oud for Greatness",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Pride Nebras | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Oriental / Complejo Árabe",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume gourmand más famoso de los últimos años. Captura a la perfección ese ADN único de \"chocolate caliente cremoso, vainilla empolvada y un toque de bayas rojas\", ofreciendo una presentación de colección y un rendimiento muy superior al original a una fracción de su costo.",
+    "notas_salida": "bayas rojas, mandarina",
+    "notas_corazon": "vainilla, cacao, rosa",
+    "notas_fondo": "azúcar, haba tonka, ámbar, almizcle",
+    "descripcion": "La definición en perfume del confort absoluto, el placer de un chocolate caliente de alta calidad y la elegancia gourmand. Lattafa Pride Nebras abre con un impacto jugoso de frutos rojos y mandarina. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón denso y cremoso donde el cacao y la vainilla envuelven los sentidos en una sensación de postre de alta costura. Su evolución final es un secado tibio, azucarado y almizclado, dejando un rastro flotante que transmite sofisticación, una calidez irresistible y una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas con amigas, eventos sociales, uso diario de alto impacto o cuando el objetivo sea recibir cumplidos constantes por un aroma delicioso.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (9h a 11h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado",
+    "perfil_usuario": "Hombres y mujeres 25-55 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Unisex (Femenino por su perfil dulce). Diseñado para personas amantes de los perfumes ultra gourmand, cálidos, dulces y de gran estela. Es la elección perfecta para quienes buscan un aroma de firma reconfortante pero sumamente seductor, ideal para destacar en las épocas de clima fresco o durante la noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70052.2x.avif",
+    "inspirado_en_nombre": "Eilish EDP (Eilish No. 1) de Billie Eilish",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume gourmand más famoso de los últimos años. Captura a la perfección ese ADN único de \"chocolate caliente cremoso, vainilla empolvada y un toque de bayas rojas\", ofreciendo una presentación de colección y un rendimiento muy superior al original a una fracción de su costo.",
+        "nombre": "Eilish EDP (Eilish No. 1) de Billie Eilish",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70052.2x.avif"
       }
     ]
   },
@@ -8897,6 +8906,68 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Pride Blue Sapphire | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático / Azul Premium",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes más elogiados, seductores y vendidos del mundo para el público joven y nocturno. Captura a la perfección ese ADN adictivo de \"frescura mentolada y frutal que se funde con un fondo cremoso de vainilla y haba tonka\", pero ofreciendo una presentación de lujo de la línea Pride y una fijación superior que supera al original.",
+    "notas_salida": "menta, limon, manzana",
+    "notas_corazon": "notas marinas, esclarea, geranio",
+    "notas_fondo": "Pachulí, Cedro",
+    "descripcion": "La definición en perfume de la atracción magnética, la fiesta y la juventud segura de sí misma. Lattafa Pride Blue Sapphire abre con un impacto helado y vibrante de menta y manzana verde. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón de ambroxan limpio que da paso a una evolución final sumamente cálida y golosa. La vainilla y el haba tonka se funden con la piel, dejando un rastro flotante dulce, varonil e irresistible que llama la atención a metros de distancia.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera / Verano",
+    "ocasion": "Citas románticas, salidas nocturnas, fiestas, eventos sociales o cuando el objetivo sea acaparar miradas y recibir cumplidos.",
+    "clima": "Templado / Fresco / Frío",
+    "proyeccion": "Alta",
+    "duracion": "Bestia (10h a 12h+",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado",
+    "perfil_usuario": "Hombres 20-45 años.",
+    "rango_edad_min": 16,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Masculino (Unisex para amantes de lo dulce). Diseñado para hombres seguros, seductores, enérgicos y amantes de las fragancias nocturnas y de alto impacto. Es la elección perfecta para quienes buscan un aroma de firma para salir de fiesta, citas románticas o destacar en cualquier entorno social.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.62762.2x.avif",
+    "inspirado_en_nombre": "Versace Eros Eau de Parfum",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes más elogiados, seductores y vendidos del mundo para el público joven y nocturno. Captura a la perfección ese ADN adictivo de \"frescura mentolada y frutal que se funde con un fondo cremoso de vainilla y haba tonka\", pero ofreciendo una presentación de lujo de la línea Pride y una fijación superior que supera al original.",
+        "nombre": "Versace Eros Eau de Parfum",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.62762.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Pride Nebras Elixir | Elixir",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Oriental / Complejo Árabe Elixir",
+    "inspirado_en": "Eleva el ADN original del chocolate con vainilla a una categoría superior: reduce la faceta comercial de golosina y la transforma en un elixir oscuro, maduro, con cuerpo alcohólico-resinoso y una proyección abrumadora.",
+    "notas_salida": "Caramelo de leche, Crema batida",
+    "notas_corazon": "Caña de azúcar, Heliotropo",
+    "notas_fondo": "Vainilla, Ambroxan, Almizcle",
+    "descripcion": "La definición en perfume del lujo nocturno, el misterio gourmand y la opulencia absoluta. Lattafa Pride Nebras Elixir arranca con un impacto denso y licoroso de frutos negros. En cuestión de minutos despliega su faceta más adictiva y magnética: un corazón oscuro donde el cacao puro y la vainilla bourbon se funden en una crema tibia y pesada. Su evolución final en la piel es un secado resinoso, ambarado y profundamente dulce, dejando un rastro flotante que transmite sofisticación, poder seductor y una presencia que llena cualquier espacio.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas de alto impacto, fiestas exclusivas, galas, eventos nocturnos o cuando quieras que tu aroma permanezca en la memoria de todos.",
+    "clima": "Frío / Fresco / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Legendario / Extracto (12h a 14h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro concentrado",
+    "perfil_usuario": "Hombres y mujeres 25-55 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex (Femenino por su perfil dulce e intenso). Diseñado para personalidades audaces, amantes de los perfumes ultra gourmand, pesados y de rendimiento monstruoso. Es la elección perfecta para quienes buscan una fragancia de firma para la noche, épocas de frío intenso o eventos donde el objetivo absoluto sea deslumbrar.",
+    "inspirado_en_nombre": "La Evolución Extrema de Nebras / Estilo Eilish Intense / Extrait Gourmand de Nicho",
+    "inspiraciones": [
+      {
+        "texto": "Eleva el ADN original del chocolate con vainilla a una categoría superior: reduce la faceta comercial de golosina y la transforma en un elixir oscuro, maduro, con cuerpo alcohólico-resinoso y una proyección abrumadora.",
+        "nombre": "La Evolución Extrema de Nebras / Estilo Eilish Intense / Extrait Gourmand de Nicho"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL WATANIAH - Muheeb | EDP",
     "marca": "Al Wataniah",
     "anno": "2024",
@@ -11916,52 +11987,6 @@
       {
         "texto": "Libre Yves Saint Laurent",
         "nombre": "Yves Saint Laurent Libre",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Pride Blue Sapphire | EDP",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático / Azul Premium",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Notas de salida: Menta, Limón, Manzana Notas de corazón: Notas marinas, Esclarea, Geranio Notas de fondo: Pachulí, Cedro",
-    "descripcion": "Fresco-aromático premium. El azul de la línea Pride Lattafa.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Pride Nebras Elixir | Elixir | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental / Complejo Árabe Elixir",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Notas de salida: Caramelo de leche, Crema batida Notas de corazón: Caña de azúcar, Heliotropo Notas de fondo: Vainilla, Ambroxan, Almizcle",
-    "descripcion": "Versión más concentrada y duradera del Nebras.",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "perfil_usuario": "Hombres y mujeres 25-55 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
