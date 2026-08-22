@@ -241,7 +241,7 @@
     "p": 103600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_986061-CBT79714568670_102024-F.webp",
     "nt": "Salida Azafrán, bergamota, elemi Notas de corazón: Madera de oud, rosa de Bulgaria, lirio de los valles Notas de fondo: Haba tonka, ámbar, almizcle blanco, musgo de roble",
     "p1": "$103.600"
@@ -267,7 +267,7 @@
     "p": 117700,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_724372-MLA52218878998_102022-F.webp",
     "nt": "Salida Bergamota, notas verdes Notas de corazón: Melón, piña, ambar, Acorde goloso · Fondo notas amaderadas, almizcle, vainilla",
     "p1": "$117.700"
@@ -644,7 +644,7 @@
     "p": 90100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_897800-MLA54976209914_042023-F.webp",
     "nt": "Salida Azafrán, jazmín Notas de corazón: Amberwood, ámbar gris Notas de fondo: Resina de abeto, cedro",
     "p1": "$90.100"
@@ -657,7 +657,7 @@
     "p": 92000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_732953-MLA105485158565_012026-F.webp",
     "nt": "Salida Bergamota, pimienta rosa, flor de azahar, jazmín Notas de corazón: Lavanda, elemí, geranio, vetiver, azafrán Notas de fondo: Ambroxan, ámbar, pachulí, cedro, ládano",
     "p1": "$92.000"
@@ -4934,7 +4934,7 @@
     "p": 121500,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_866676-MLA110085246623_042026-F.webp",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$121.500"
@@ -5233,7 +5233,7 @@
     "p": 129700,
     "c": "internacional",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_729606-MLA107585672203_022026-F.webp",
     "nt": "Salida Frutas confitadas, Naranja, Limón Notas de corazón: Goma de mascar, Rosa de Bulgaria, Durazno, Moras, Flor del duraznero, Canela, Jengibre Notas de fondo: Almizcle, Ambroxan, Cedro",
     "p1": "$129.700"
@@ -7053,7 +7053,7 @@
     "p": 231100,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_656237-MLA89461426627_082025-F.webp",
     "nt": "Salida notas minerales, hojas de violeta, sal Notas de corazón: salvia, jengibre Notas de fondo: maderas, vetiver",
     "p1": "$231.100"
