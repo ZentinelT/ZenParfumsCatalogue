@@ -1840,7 +1840,7 @@
     "p": 55500,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_673140-MLM52614549633_112022-F.webp",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$55.500"
@@ -1853,7 +1853,7 @@
     "p": 53300,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_890230-MLA92947597797_092025-F.webp",
     "nt": "Salida bergamota, pomelo, casis Notas de corazón: Cuero, Azafrán, durazno Notas de fondo: Vainilla, Ámbar, Vetiver, Almizcle",
     "p1": "$53.300"
@@ -1931,7 +1931,7 @@
     "p": 66000,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_927931-MLU74237320276_022024-F.webp",
     "nt": "Salida Canela, cardamomo, jengibre Notas de corazón: Praliné, frutas confitadas, flores blancas Notas de fondo: Vainilla, café, haba tonka, Benjuí, almizcle",
     "p1": "$66.000"
@@ -2529,7 +2529,7 @@
     "p": 66400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_931959-MLA91967799189_092025-F.webp",
     "nt": "Salida Orquídea, heliotropo, naranja Notas de corazón: Acorde goloso, frutas tropicales Notas de fondo: Vainilla, almizcle, sándalo",
     "p1": "$66.400"
