@@ -915,36 +915,6 @@
     ]
   },
   {
-    "nombre_completo": "Rasasi - Hawas For Him | EDP | 100ml",
-    "marca": "Rasasi — Dubai",
-    "familia_olfativa": "Aromático Frutal / Acuático — DNA Invictus Aqua",
-    "inspirado_en": "Paco Rabanne Invictus Aqua 2016 (muy cercano — \"Invictus con twist\")",
-    "notas_salida": "Bergamota, limón, frutas",
-    "notas_corazon": "Canela, flor de azahar, notas marinas, cardamomo",
-    "notas_fondo": "Ámbar gris, sándalo, almizcle",
-    "descripcion": "Frutal-acuático juguetón y dulce. Similar a Invictus Aqua pero con más especias y carácter. Extravagante, juvenil y llamativo. Longevidad 5-6h en piel, más en ropa. Beast mode en sillage cuando hace calor. El TikTok lo hizo mundialmente famoso.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, playa, cotidiano, gym",
-    "clima": "Calor",
-    "proyeccion": "Alta (sillage fuerte en calor)",
-    "duracion": "Media-larga (5-6h)",
-    "estela": "Intensa",
-    "color_liquido": "Azul celeste",
-    "perfil_usuario": "Hombres 18-35 años. Jóvenes, activos, de verano. El fresco árabe más famoso de la historia.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Hombres Jóvenes, activos, de verano. El fresco árabe más famoso de la historia.",
-    "inspirado_en_nombre": "Paco Rabanne Invictus Aqua 2016",
-    "inspiraciones": [
-      {
-        "texto": "Paco Rabanne Invictus Aqua 2016 (muy cercano — \"Invictus con twist\")",
-        "nombre": "Paco Rabanne Invictus Aqua 2016",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Angham Edp",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Floral Vainilla / Lavanda Dulce",
@@ -1032,6 +1002,37 @@
         "texto": "Réplica espectacular, densa y de una fidelidad impresionante de uno de los perfumes de nicho más sagrados, elogiados y místicos de la casa francesa. Captura a la perfección ese ADN majestuoso que gira en torno a un incienso ahumado de ultra lujo, entrelazado con la rigidez seca de la madera de cedro y la densidad balsámica y melosa del ládano. Una pócima imponente que grita madurez, autoridad, misterio absoluto y un estatus social muy superior.",
         "nombre": "Full Incense de Montale",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9556.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RASASI - Hawas For Him | EDP",
+    "marca": "Rasasi — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Frutal / Acuático — DNA Invictus Aqua",
+    "inspirado_en": "Paco Rabanne Invictus Aqua 2016 (muy cercano — \"Invictus con twist\")",
+    "notas_salida": "Bergamota, limón, frutas",
+    "notas_corazon": "Canela, flor de azahar, notas marinas, cardamomo",
+    "notas_fondo": "Ámbar gris, sándalo, almizcle",
+    "descripcion": "Frutal-acuático juguetón y dulce. Similar a Invictus Aqua pero con más especias y carácter. Extravagante, juvenil y llamativo. Longevidad 5-6h en piel, más en ropa. Beast mode en sillage cuando hace calor. El TikTok lo hizo mundialmente famoso.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, playa, cotidiano, gym",
+    "clima": "Calor",
+    "proyeccion": "Alta (sillage fuerte en calor)",
+    "duracion": "Media-larga (5-6h)",
+    "estela": "Intensa",
+    "color_liquido": "Azul celeste",
+    "perfil_usuario": "Hombres 18-35 años. Jóvenes, activos, de verano. El fresco árabe más famoso de la historia.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Hombres Jóvenes, activos, de verano. El fresco árabe más famoso de la historia.",
+    "inspirado_en_nombre": "Paco Rabanne Invictus Aqua 2016",
+    "inspiraciones": [
+      {
+        "texto": "Paco Rabanne Invictus Aqua 2016 (muy cercano — \"Invictus con twist\")",
+        "nombre": "Paco Rabanne Invictus Aqua 2016",
+        "imagen_url": ""
       }
     ]
   },
@@ -7934,37 +7935,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - La Vivacité | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "anno": "2024",
-    "genero": "Femenino",
-    "familia_olfativa": "Frutal Floral / DNA La Vie est Belle",
-    "inspirado_en": "Lancôme La Vie est Belle",
-    "notas_salida": "Grosella negra, pera",
-    "notas_corazon": "Iris, flor de azahar, jazmín",
-    "notas_fondo": "Pachulí, praliné, haba tonka, vainilla",
-    "descripcion": "Grosellas y pera con iris y flor de azahar. Base praliné y vainilla. Clone de La Vie est Belle con buena proyección y longevidad.",
-    "momento_dia": "Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, salidas",
-    "clima": "Todo",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga",
-    "estela": "Moderada-intensa",
-    "perfil_usuario": "Mujeres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Lancôme La Vie est Belle",
-    "inspiraciones": [
-      {
-        "texto": "Lancôme La Vie est Belle",
-        "nombre": "Lancôme La Vie est Belle",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "BHARARA - Viking Rio | EDP",
     "genero": "Unisex",
     "familia_olfativa": "Amaderado, nueces., Cacao, Caramelo, Dulce, Cálido especiado, Ámbar, Musgoso, Floral blanco, Terrosos",
@@ -8147,28 +8117,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - La Voie | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral / El Camino",
-    "inspirado_en": "Giorgio Armani My Way",
-    "descripcion": "Floral elegante. Femenino y sofisticado.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 25-50 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Giorgio Armani My Way",
-    "inspiraciones": [
-      {
-        "texto": "Giorgio Armani My Way",
-        "nombre": "Giorgio Armani My Way",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "MAISON ALHAMBRA - L'intrude | EDP",
     "marca": "Maison Alhambra — UAE",
     "genero": "Femenino",
@@ -8274,6 +8222,38 @@
       {
         "texto": "Inspirado en el espíritu indomable, la potencia y la elegancia de los caballos árabes. Es una fragancia que busca el lujo puro, la opulencia y el carácter. Es una alternativa \"niche\" de altísima calidad para quienes aman los perfumes con estela pesada, dulce y amaderada.",
         "nombre": "La Elegancia del Caballo Árabe"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - La Voie | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral / El Camino",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los florales blancos modernos más exitosos y elogiados del mundo. Captura a la perfección ese adictivo ADN de \"flores blancas luminosas con un dulzor chispeante y un fondo limpio de vainilla\", ofreciendo una alternativa con una presentación impecable y un rendimiento excepcional a una fracción de su valor original.",
+    "notas_salida": "Flor de azahar del naranjo, Bergamota",
+    "notas_corazon": "Tuberosa, Jazmín",
+    "notas_fondo": "Vainilla, Almizcle, Cedro",
+    "descripcion": "La definición en perfume de un espíritu libre, la luminosidad y la alegría moderna. Maison Alhambra La Voie abre con un estallido brillante y dulce de flor de azahar y bergamota que genera una energía efervescente. En cuestión de minutos despliega su corazón: un ramo radiante de nardos y jazmín que envuelve a la mujer en un aura cremosa, romántica y sumamente femenina. Su evolución final es un secado tibio, suave y elegante, donde la vainilla y el almizcle blanco dejan un rastro flotante limpio y sumamente atractivo.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional diario, oficina, reuniones, salidas casuales, meriendas, citas de día o eventos informales.",
+    "clima": "Templado / Cálido / Fresco moderado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (6h a 8h)",
+    "estela": "Intensa",
+    "color_liquido": "Rosa pálido",
+    "perfil_usuario": "Mujeres 25-50 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres auténticas, alegres, de espíritu joven y amantes de los perfumes florales blancos con un toque dulzón y chispeante. Es la elección perfecta para quienes buscan un aroma firma versátil que proyecte optimismo, profesionalismo y pulcritud en el día a día.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.62036.2x.avif",
+    "inspirado_en_nombre": "My Way de Giorgio Armani",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los florales blancos modernos más exitosos y elogiados del mundo. Captura a la perfección ese adictivo ADN de \"flores blancas luminosas con un dulzor chispeante y un fondo limpio de vainilla\", ofreciendo una alternativa con una presentación impecable y un rendimiento excepcional a una fracción de su valor original.",
+        "nombre": "My Way de Giorgio Armani",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.62036.2x.avif"
       }
     ]
   },
@@ -9094,6 +9074,37 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - La Vivacité | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "anno": "2024",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Floral / DNA La Vie est Belle",
+    "inspirado_en": "Lancôme La Vie est Belle",
+    "notas_salida": "Grosella negra, pera",
+    "notas_corazon": "Iris, flor de azahar, jazmín",
+    "notas_fondo": "Pachulí, praliné, haba tonka, vainilla",
+    "descripcion": "Grosellas y pera con iris y flor de azahar. Base praliné y vainilla. Clone de La Vie est Belle con buena proyección y longevidad.",
+    "momento_dia": "Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Casual, salidas",
+    "clima": "Todo",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga",
+    "estela": "Moderada-intensa",
+    "perfil_usuario": "Mujeres 20-45 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Lancôme La Vie est Belle",
+    "inspiraciones": [
+      {
+        "texto": "Lancôme La Vie est Belle",
+        "nombre": "Lancôme La Vie est Belle",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL HARAMAIN - Amber Oud Aqua Dubai | Extrait De Parfum",
     "marca": "Al Haramain Perfumes — Arabia Saudí",
     "genero": "Unisex",
@@ -9277,6 +9288,36 @@
     ]
   },
   {
+    "nombre_completo": "RAYHAAN - Aquatica | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Dulce, Coco, Avainillado, Fesco especiado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume veraniego más icónico, exclusivo y codiciado de la historia de la perfumería moderna. Captura a la perfección ese ADN inconfundible de \"cóctel de lima mojada en agua de coco, ron y azúcar\", ofreciendo una alternativa con una fijación sorprendente y un perfil de ultra lujo.",
+    "notas_salida": "lima, leche de coco, bergamota, mandarina",
+    "notas_corazon": "caña de azucar, jazmin, hibisco, gardenia",
+    "notas_fondo": "ron, almizcle, haba tonka, pachuli",
+    "descripcion": "La definición en perfume del lujo bajo el sol, la brisa de una playa caribeña y el placer de un cóctel refrescante. Rayhaan Aquatica abre con un impacto radiante y revitalizador de lima y coco cremoso. En cuestión de minutos despliega su faceta más elogiada: un corazón exótico donde el ron blanco y las notas florales envuelven la piel con una sensación de exclusividad. Su evolución final en la piel es un secado tibio, dulce y profundamente pulcro, dejando un rastro flotante que transmite relax, estatus vacacional y un encanto natural irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Vacaciones, días de playa, salidas casuales, uso diario en verano o eventos diurnos donde quieras destacar con clase.",
+    "clima": "Cálido / Muy Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Notable (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex. Diseñado para personas dinámicas, amantes de los viajes, el estilo de vida al aire libre y las fragancias sofisticadas que escapan de lo convencional. Es la elección perfecta para quienes buscan un aroma de firma veraniego que proyecte elegancia, frescura y un lujo relajado inigualable.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.899.2x.avif",
+    "inspirado_en_nombre": "Virgin Island Water (2007) de Creed",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume veraniego más icónico, exclusivo y codiciado de la historia de la perfumería moderna. Captura a la perfección ese ADN inconfundible de \"cóctel de lima mojada en agua de coco, ron y azúcar\", ofreciendo una alternativa con una fijación sorprendente y un perfil de ultra lujo.",
+        "nombre": "Virgin Island Water (2007) de Creed",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.899.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Halloween - Freesia | EDT | 100ml",
     "marca": "Halloween",
     "anno": "2006",
@@ -9361,36 +9402,6 @@
       {
         "texto": "Louis Vuitton Matière Noire",
         "nombre": "Louis Vuitton Matière Noire",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Armaf - Odyssey Go Mango | EDP | 100ml",
-    "marca": "Armaf — India",
-    "familia_olfativa": "Frutal / Mango Solar Cálido",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Limón, pimienta rosa, jengibre, flores blancas",
-    "notas_corazon": "Mango, haba tonka, madera seca",
-    "notas_fondo": "Ámbar, vainilla, madera de gaiac, almizcle, frutos secos",
-    "descripcion": "Mango jugoso y soleado. Tropical pero no empalagoso. Longevidad moderada para un freshie (7-8h). Excelente para el verano.",
-    "momento_dia": "Día",
-    "estacion": "Verano / Primavera",
-    "ocasion": "Casual, playa, cotidiano",
-    "clima": "Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media-larga (7-8h)",
-    "estela": "Moderada",
-    "color_liquido": "Amarillo / dorado tropical",
-    "perfil_usuario": "Hombres y mujeres 18-35 años. Playeros, tropicales, alegres.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Hombres y mujeres Playeros, tropicales, alegres.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -9483,6 +9494,37 @@
       {
         "texto": "Kilian Angel's Share / El Árbol (boozy-vanillic DNA)",
         "nombre": "Kilian Angel's Share",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ARMAF - Odyssey Go Mango | EDP",
+    "marca": "Armaf — India",
+    "genero": "Unisex",
+    "familia_olfativa": "Frutal / Mango Solar Cálido",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Limón, pimienta rosa, jengibre, flores blancas",
+    "notas_corazon": "Mango, haba tonka, madera seca",
+    "notas_fondo": "Ámbar, vainilla, madera de gaiac, almizcle, frutos secos",
+    "descripcion": "Mango jugoso y soleado. Tropical pero no empalagoso. Longevidad moderada para un freshie (7-8h). Excelente para el verano.",
+    "momento_dia": "Día",
+    "estacion": "Verano / Primavera",
+    "ocasion": "Casual, playa, cotidiano",
+    "clima": "Calor",
+    "proyeccion": "Moderada",
+    "duracion": "Media-larga (7-8h)",
+    "estela": "Moderada",
+    "color_liquido": "Amarillo / dorado tropical",
+    "perfil_usuario": "Hombres y mujeres 18-35 años. Playeros, tropicales, alegres.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Hombres y mujeres Playeros, tropicales, alegres.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
