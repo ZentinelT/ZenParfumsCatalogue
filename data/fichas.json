@@ -2278,29 +2278,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Your Touch Extrait | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental Especiada",
-    "inspirado_en": "Emporio Armani Stronger With You",
-    "notas_salida": "Cardamomo, hojas de violeta, pimienta rosa, menta",
-    "notas_corazon": "Piña, sandía, canela, lavanda, salvia",
-    "notas_fondo": "Vainilla, castaña, amberwood, madera de guayaco, cedro",
-    "descripcion": "Your Touch Extrait de Maison Alhambra es la versión extrait del popular Your Touch, con mayor concentración e intensidad. Misma arquitectura gourmand especiada inspirada en Emporio Armani Stronger With You, con apertura especiada y frutal y base avainillada amaderada.",
-    "momento_dia": "Tarde, Noche",
-    "estacion": "Otoño, Invierno",
-    "proyeccion": "Fuerte",
-    "duracion": "Muy larga (8+ horas)",
-    "inspirado_en_nombre": "Emporio Armani Stronger With You",
-    "inspiraciones": [
-      {
-        "texto": "Emporio Armani Stronger With You",
-        "nombre": "Emporio Armani Stronger With You",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
     "genero": "Masculino",
     "familia_olfativa": "Afrutados, Amaderado, Fresco, Ámbar, Atalcado, ozonico, Acuático, Verde, Cítrico, Salado",
@@ -2356,6 +2333,29 @@
         "texto": "Réplica monumental, densa y de una fidelidad absoluta de uno de los perfumes de ultra nicho americanos más codiciados y virales del mundo gourmand. Captura de forma magistral ese ADN revolucionario basado en recrear la textura dorada, mantecosa y crujiente de un brioche o croissant recién horneado con praliné, pero madurado de forma brillante con el toque místico del abeto balsámico y resinas finas. Una pócima de autor diseñada exclusivamente para los fanáticos de los aromas dulces hiper-realistas de alta costura.",
         "nombre": "Crèmelle de Gallagher Fragrances (USA)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.99662.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Your Touch Extrait | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Especiada",
+    "inspirado_en": "Emporio Armani Stronger With You",
+    "notas_salida": "Cardamomo, hojas de violeta, pimienta rosa, menta",
+    "notas_corazon": "Piña, sandía, canela, lavanda, salvia",
+    "notas_fondo": "Vainilla, castaña, amberwood, madera de guayaco, cedro",
+    "descripcion": "Your Touch Extrait de Maison Alhambra es la versión extrait del popular Your Touch, con mayor concentración e intensidad. Misma arquitectura gourmand especiada inspirada en Emporio Armani Stronger With You, con apertura especiada y frutal y base avainillada amaderada.",
+    "momento_dia": "Tarde, Noche",
+    "estacion": "Otoño, Invierno",
+    "proyeccion": "Fuerte",
+    "duracion": "Muy larga (8+ horas)",
+    "inspirado_en_nombre": "Emporio Armani Stronger With You",
+    "inspiraciones": [
+      {
+        "texto": "Emporio Armani Stronger With You",
+        "nombre": "Emporio Armani Stronger With You",
+        "imagen_url": ""
       }
     ]
   },
@@ -9921,6 +9921,36 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Jean Lowe Inmortal | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Fresco especiado, Cítrico, Aromático, Ámbar, Fresco, Almizclado, Acuático, Herbal",
+    "inspirado_en": "Es un clon extraordinario y sumamente fiel, famoso en la comunidad por calcar esa transición perfecta entre la frescura cítrica helada y la calidez del ámbar gris.",
+    "notas_salida": "Bergamota, pimienta negra.",
+    "notas_corazon": "Cedro, pachulí.",
+    "notas_fondo": "Ámbar, almizcle.",
+    "descripcion": "La definición embotellada del éxito y la pulcritud. Jean Lowe Inmortal abre con una explosión radiante y amarga de toronja combinada con un jengibre picante que despierta los sentidos al instante. Rápidamente, la fragancia se asienta en un corazón limpio y sofisticado de notas acuáticas, romero y salvia, evocando una sensación de frescura ejecutiva. Su secado es un espectáculo de alta costura: una sobredosis de ambroxan y ámbar que se funde en la piel dejando una estela limpia, costosa, sumamente masculina y distinguida.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Oficina / Trabajo formal, Reuniones de negocios, Uso diario premium, Citas de día, Eventos elegantes de día",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "rango_edad_min": 25,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Para hombres seguros, profesionales, ejecutivos o aquellos que buscan un aroma \"firma\" que irradie estatus, pulcritud y sofisticación. Es el perfume ideal para el hombre que quiere oler impecable, destacar en el día a día y proyectar una imagen sumamente cuidada y elegante.",
+    "inspirado_en_imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_839727-MLA83231824993_032025-F.webp",
+    "inspirado_en_nombre": "Louis Vuitton L'Immensité",
+    "inspiraciones": [
+      {
+        "texto": "Es un clon extraordinario y sumamente fiel, famoso en la comunidad por calcar esa transición perfecta entre la frescura cítrica helada y la calidez del ámbar gris.",
+        "nombre": "Louis Vuitton L'Immensité",
+        "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_839727-MLA83231824993_032025-F.webp"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Armaf - Odyssey Revolution | EDP | 100ml",
     "marca": "Armaf — India",
     "familia_olfativa": "Frutal Aromático / Mix Aventus + BR540",
@@ -10043,6 +10073,34 @@
     ]
   },
   {
+    "nombre_completo": "AFNAN - Rare Reef | Extrait De Parfum",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Aromático, Verde, Fesco especiado, Afrutados, Dulce, Amaderado",
+    "inspirado_en": "Rare Reef sorprende porque no se queda en el típico aroma acuático; combina la acidez punzante y viva de la cidra y el pomelo con la dulzura carnosa y madura de los dátiles y el higo, logrando una versatilidad absoluta con un giro de distinción inigualable.",
+    "notas_salida": "naranja, menta, cidra, pomelo, grosellas negras, cilantro",
+    "notas_corazon": "chabacano, albahaca, hojas de violeta, rosa",
+    "notas_fondo": "higo, amberwood, almizcle, datiles",
+    "descripcion": "La definición en perfume de un oasis sofisticado al atardecer, donde la frescura punzante de los cítricos y la menta se funden lentamente con la calidez adictiva de los frutos secos y el higo. Afnan Rare Reef arranca con un impacto efervescente y vigoroso que despierta los sentidos. En cuestión de minutos, despliega su corazón verde y frutal muy elegante, para dar paso a un secado magnético donde los dátiles y el higo se funden con el Amberwood, dejando un rastro flotante exótico, limpio y sumamente seductor.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional con estilo, salidas al aire libre, eventos sociales, reuniones o citas donde busques dejar una huella única y memorable.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino a tono luminoso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, amantes de la exclusividad, de los perfumes complejos que escapan de lo masivo y que buscan un sello personal versátil y elegante.",
+    "inspirado_en_nombre": "Perfumería de Nicho / Estilo \"Fruity-Citrus Complex\" de Alta Gama",
+    "inspiraciones": [
+      {
+        "texto": "Rare Reef sorprende porque no se queda en el típico aroma acuático; combina la acidez punzante y viva de la cidra y el pomelo con la dulzura carnosa y madura de los dátiles y el higo, logrando una versatilidad absoluta con un giro de distinción inigualable.",
+        "nombre": "Perfumería de Nicho / Estilo \"Fruity-Citrus Complex\" de Alta Gama"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Calvin Klein - Eternity Flame Fem | EDP | 100 ml",
     "marca": "Calvin Klein — USA",
     "familia_olfativa": "Floral Frutal / Moderno",
@@ -10158,6 +10216,37 @@
       {
         "texto": "Marly Althair",
         "nombre": "Parfums de Marly Althaïr",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "FRENCH AVENUE - Amber Empire | EDP",
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "familia_olfativa": "Ámbar, Avainillado, Amaderado, Cálido especiado, Almizclado, Atalcado, Dulce, Alcohol",
+    "inspirado_en": "Clive Christian Blonde Amber",
+    "notas_salida": "notas orientales, licor, vainilla, cachemira",
+    "notas_corazon": "ambar, cedro, caña de azucar",
+    "notas_fondo": "Haba tonka, sandalo, Almizcle, ladano",
+    "descripcion": "​Una fragancia opulenta, exótica y profundamente sensual. Amber Empire es un viaje olfativo que combina la calidez del ámbar con la suavidad de la vainilla y un almizcle muy potente. Se siente como una tela de terciopelo sobre la piel: elegante, misterioso y con un toque \"vintage\" moderno que proyecta lujo absoluto. Es un aroma que no se parece a nada convencional.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos de gala, Citas románticas de impacto, Salidas nocturnas de lujo",
+    "clima": "Fresco/Frio",
+    "proyeccion": "Muy alta",
+    "duracion": "Bestial (12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Dorado oscuro",
+    "perfil_usuario": "​Para personas con una personalidad imponente que buscan una fragancia firma única. Es ideal para quienes aman los perfumes nicho, los aromas que dejan una estela inolvidable y que disfrutan de las notas ambaradas y almizcladas que se fusionan con la piel de forma magnética. De 25 a 60 años.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "​Para personas con una personalidad imponente que buscan una fragancia firma única. Es ideal para quienes aman los perfumes nicho, los aromas que dejan una estela inolvidable y que disfrutan de las notas ambaradas y almizcladas que se fusionan con la piel de forma magnética. De",
+    "inspirado_en_nombre": "Clive Christian Blonde Amber",
+    "inspiraciones": [
+      {
+        "texto": "Clive Christian Blonde Amber",
+        "nombre": "Clive Christian Blonde Amber",
         "imagen_url": ""
       }
     ]
@@ -10469,37 +10558,6 @@
     ]
   },
   {
-    "nombre_completo": "Bharara - King | Parfum | 100 ml |",
-    "marca": "Bharara Beauty — USA",
-    "genero": "Masculino",
-    "familia_olfativa": "Frutal Amaderado / Tutti-Frutti Intenso",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Naranja, limón, bergamota",
-    "notas_corazon": "frutas",
-    "notas_fondo": "Vainilla, almizcle blanco, ámbar",
-    "descripcion": "Versión más concentrada y festiva del King. Tutti-frutti con base vainilla suave. Beast mode en longevidad.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Salidas, eventos",
-    "clima": "Todo",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Dorado oscuro",
-    "perfil_usuario": "Hombres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Tubbees - Cookies & Cream | EDP | 50ml",
     "marca": "Tubbees — UAE",
     "genero": "Femenino",
@@ -10549,6 +10607,37 @@
       {
         "texto": "Creación original",
         "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BHARARA - King | Parfum",
+    "marca": "Bharara Beauty — USA",
+    "genero": "Masculino",
+    "familia_olfativa": "Frutal Amaderado / Tutti-Frutti Intenso",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Naranja, limón, bergamota",
+    "notas_corazon": "frutas",
+    "notas_fondo": "Vainilla, almizcle blanco, ámbar",
+    "descripcion": "Versión más concentrada y festiva del King. Tutti-frutti con base vainilla suave. Beast mode en longevidad.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Salidas, eventos",
+    "clima": "Todo",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Dorado oscuro",
+    "perfil_usuario": "Hombres 20-45 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Hombres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -11478,6 +11567,36 @@
     ]
   },
   {
+    "nombre_completo": "BHARARA - Rome Extradose | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "lavanda, Amaderado, Aromático, Cálido especiado, Fesco especiado",
+    "inspirado_en": "Réplica de altísima fidelidad pero potenciada al extremo. Captura a la perfección ese ADN moderno de \"frescura mineral y especiada que funde su salida con un fondo oscuro, amaderado y ambarado\", ofreciendo una fijación y una estela muy superiores al original gracias a la concentración Extradose.",
+    "notas_salida": "especias",
+    "notas_corazon": "lavanda",
+    "notas_fondo": "maderas",
+    "descripcion": "La definición en perfume del carisma urbano, la elegancia nocturna y la fuerza magnética. Bharara Rome Extradose arranca con un impacto moderno y chispeante de jengibre y notas saladas que despiertan los sentidos al instante. En cuestión de minutos despliega su faceta más elogiada: un corazón aromático y especiado que aporta distinción. Su evolución final en la piel es un secado profundo, ahumado y sumamente cálido, donde el ámbar y el vetiver concentrado dejan un rastro flotante imborrable, varonil y de una presencia inigualable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas nocturnas, eventos sociales, reuniones importantes o cuando el objetivo sea acaparar miradas y dejar una huella imborrable.",
+    "clima": "Templado / Fresco / Frío",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional / Extracto (10h a 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, seguros de sí mismos, con estilo urbano, carismáticos y amantes de las fragancias de alto rendimiento que marcan territorio tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101383.2x.avif",
+    "inspirado_en_nombre": "Valentino Uomo Born in Roma",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad pero potenciada al extremo. Captura a la perfección ese ADN moderno de \"frescura mineral y especiada que funde su salida con un fondo oscuro, amaderado y ambarado\", ofreciendo una fijación y una estela muy superiores al original gracias a la concentración Extradose.",
+        "nombre": "Valentino Uomo Born in Roma",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101383.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Luxe Nightlife | EDP | 100ml",
     "familia_olfativa": "Cálido especiado, Caramelo, Amaderado, Florales, Café, Floral blanco, Pachulí, Dulce, Balsámico., Aromático",
     "inspirado_en": "New York Nights Bond No 9",
@@ -11709,6 +11828,36 @@
         "texto": "Amore Caffè Mancera",
         "nombre": "Mancera Amore Caffè",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Infini Musk | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Atalcado, Almizclado, Marino, Aromático, Ámbar, Verde, Amaderado, Floral blanco, Violeta",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de \"almizcle limpio y terapéutico\" más exclusivos, elogiados y costosos del mercado global. Captura a la perfección ese ADN adictivo de \"piel limpia, sándalo cremoso y almizcles blancos de alta gama\", ofreciendo una alternativa con una presentación impecable a una fracción de su valor original.",
+    "notas_salida": "notas acuaticas, bergamota, naranja,",
+    "notas_corazon": "almizcle, violeta, lirio de los valles, rosa",
+    "notas_fondo": "almizcle, ambar, sandalo, vainilla",
+    "descripcion": "La definición en perfume de la paz mental, el lujo de la ropa limpia y la suavidad de la piel hidratada. Maison Alhambra Infini Musk abre con un impacto radiante y revitalizador de cítricos finos. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón floral diáfano que da paso a una evolución final sumamente cremosa. El almizcle blanco y el sándalo se funden con la temperatura corporal, dejando un rastro flotante limpio, reconfortante y de una sofisticación natural irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano / Otoño / Invierno",
+    "ocasion": "Uso profesional diario, oficina, consultorios, reuniones, facultad, salidas diurnas o cuando busques un aroma que enamore a corta distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Notable para un fresco/almizclado (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Unisex. Diseñado para personas elegantes, minimalistas, amantes de los perfumes pulcros, de piel (\"skin scents\") y que buscan transmitir serenidad, éxito profesional y un lujo silencioso. Es la elección perfecta para el uso diario sin restricciones.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66097.2x.avif",
+    "inspirado_en_nombre": "Musk Therapy de Initio Parfums Privés",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de \"almizcle limpio y terapéutico\" más exclusivos, elogiados y costosos del mercado global. Captura a la perfección ese ADN adictivo de \"piel limpia, sándalo cremoso y almizcles blancos de alta gama\", ofreciendo una alternativa con una presentación impecable a una fracción de su valor original.",
+        "nombre": "Musk Therapy de Initio Parfums Privés",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66097.2x.avif"
       }
     ]
   },
@@ -12180,6 +12329,36 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Teriaq Intense | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental Boozy / Ciruelas Especiadas",
+    "inspirado_en": "Composición original por Quentin Bisch — no clone, composición propia notable",
+    "notas_salida": "Azafrán, bergamota",
+    "notas_corazon": "Licor, canela",
+    "notas_fondo": "Ámbar, haba tonka, Benjuí",
+    "descripcion": "Azafrán especiado con licor de ciruela dulce y canela. Boozy pero no empalagoso — más complejo que el OG Teriaq. El azafrán es cálido y especiado, sin notas de cuero. Beast mode en longevidad (body y ropa). \"Masterpiece\" según muchos. Mejor en 2025 formulación.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas, salidas nocturnas, eventos",
+    "clima": "Frío / Templado",
+    "duracion": "Muy larga (6-8h piel, días en ropa)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / granate",
+    "perfil_usuario": "Hombres y mujeres 20-45 años. Para citas nocturnas y salidas especiales. Un best-seller de Lattafa.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Hombres y mujeres Para citas nocturnas y salidas especiales. Un best-seller de Lattafa.",
+    "inspirado_en_nombre": "Composición original por Quentin Bisch",
+    "inspiraciones": [
+      {
+        "texto": "Composición original por Quentin Bisch — no clone, composición propia notable",
+        "nombre": "Composición original por Quentin Bisch",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Mohra | EDP | 100ml",
     "genero": "Unisex",
     "familia_olfativa": "Amaderado, Cálido especiado, Fesco especiado, Atalcado, Cítrico, Pachulí, Ámbar, Lavanda, Aromático",
@@ -12278,35 +12457,6 @@
       {
         "texto": "Creed Centaurus (vía Royal Taboo; comparte DNA con PdM Layton)",
         "nombre": "Creed Centaurus",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Teriaq Intense | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Oriental Boozy / Ciruelas Especiadas",
-    "inspirado_en": "Composición original por Quentin Bisch — no clone, composición propia notable",
-    "notas_salida": "Azafrán, bergamota",
-    "notas_corazon": "Licor, canela",
-    "notas_fondo": "Ámbar, haba tonka, Benjuí",
-    "descripcion": "Azafrán especiado con licor de ciruela dulce y canela. Boozy pero no empalagoso — más complejo que el OG Teriaq. El azafrán es cálido y especiado, sin notas de cuero. Beast mode en longevidad (body y ropa). \"Masterpiece\" según muchos. Mejor en 2025 formulación.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas, salidas nocturnas, eventos",
-    "clima": "Frío / Templado",
-    "duracion": "Muy larga (6-8h piel, días en ropa)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar oscuro / granate",
-    "perfil_usuario": "Hombres y mujeres 20-45 años. Para citas nocturnas y salidas especiales. Un best-seller de Lattafa.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres y mujeres Para citas nocturnas y salidas especiales. Un best-seller de Lattafa.",
-    "inspirado_en_nombre": "Composición original por Quentin Bisch",
-    "inspiraciones": [
-      {
-        "texto": "Composición original por Quentin Bisch — no clone, composición propia notable",
-        "nombre": "Composición original por Quentin Bisch",
         "imagen_url": ""
       }
     ]
@@ -12458,31 +12608,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Céleste | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral Frutal / Celestial",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Frutas",
-    "notas_corazon": "Flores blancas",
-    "notas_fondo": "Almizcle, ámbar",
-    "descripcion": "Floral frutal luminoso. Popular en la comunidad por su nombre evocador. Femenino y elegante.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 20-45 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Versace - Dylan Blue | EDT | 100 ml",
     "marca": "Versace — Italia",
     "anno": "2016",
@@ -12510,6 +12635,31 @@
       {
         "texto": "Creación original",
         "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Céleste | edp",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Frutal / Celestial",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Frutas",
+    "notas_corazon": "Flores blancas",
+    "notas_fondo": "Almizcle, ámbar",
+    "descripcion": "Floral frutal luminoso. Popular en la comunidad por su nombre evocador. Femenino y elegante.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 20-45 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -12606,6 +12756,31 @@
     ]
   },
   {
+    "nombre_completo": "RASASI - Hawas Kobra | EDP",
+    "marca": "Rasasi — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Frutal Acuático / Kobra DNA",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Jengibre, bergamota, tangarina",
+    "notas_corazon": "Canela, té verde, neroli",
+    "notas_fondo": "Almizcle, Maderas, ámbar",
+    "descripcion": "Parte de la línea Hawas. DNA frutal-acuático masculino.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Hombres 18-40 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Leonie | EDP | 100ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Floral Oriental / Lavanda Vainilla",
@@ -12636,33 +12811,9 @@
     ]
   },
   {
-    "nombre_completo": "RASASI - Hawas Kobra | EDP | 100ml",
-    "marca": "Rasasi — Dubai",
-    "genero": "Masculino",
-    "familia_olfativa": "Frutal Acuático / Kobra DNA",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Jengibre, bergamota, tangarina",
-    "notas_corazon": "Canela, té verde, neroli",
-    "notas_fondo": "Almizcle, Maderas, ámbar",
-    "descripcion": "Parte de la línea Hawas. DNA frutal-acuático masculino.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres 18-40 años.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Issey Miyake - L'eau D'issey Pour Homme | EDT | 125 ml",
+    "nombre_completo": "ISSEY MIYAKE - L'eau D'issey Pour Homme | EDT",
     "marca": "Issey Miyake — Japón",
+    "genero": "Masculino",
     "familia_olfativa": "Acuático / Marino Árbol",
     "inspirado_en": "Creación original",
     "notas_salida": "Bergamota, yuzu, cítricos, mandarina",
@@ -12909,36 +13060,6 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Maison Alhambra - Jean Lowe Inmortal | EDP | 100 ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Fresco especiado, Cítrico, Aromático, Ámbar, Fresco, Almizclado, Acuático, Herbal",
-    "inspirado_en": "Es un clon extraordinario y sumamente fiel, famoso en la comunidad por calcar esa transición perfecta entre la frescura cítrica helada y la calidez del ámbar gris.",
-    "notas_salida": "Bergamota, pimienta negra.",
-    "notas_corazon": "Cedro, pachulí.",
-    "notas_fondo": "Ámbar, almizcle.",
-    "descripcion": "La definición embotellada del éxito y la pulcritud. Jean Lowe Inmortal abre con una explosión radiante y amarga de toronja combinada con un jengibre picante que despierta los sentidos al instante. Rápidamente, la fragancia se asienta en un corazón limpio y sofisticado de notas acuáticas, romero y salvia, evocando una sensación de frescura ejecutiva. Su secado es un espectáculo de alta costura: una sobredosis de ambroxan y ámbar que se funde en la piel dejando una estela limpia, costosa, sumamente masculina y distinguida.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano / Otoño",
-    "ocasion": "Oficina / Trabajo formal, Reuniones de negocios, Uso diario premium, Citas de día, Eventos elegantes de día",
-    "clima": "Cálido / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Para hombres seguros, profesionales, ejecutivos o aquellos que buscan un aroma \"firma\" que irradie estatus, pulcritud y sofisticación. Es el perfume ideal para el hombre que quiere oler impecable, destacar en el día a día y proyectar una imagen sumamente cuidada y elegante.",
-    "inspirado_en_imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_839727-MLA83231824993_032025-F.webp",
-    "inspirado_en_nombre": "Louis Vuitton L'Immensité",
-    "inspiraciones": [
-      {
-        "texto": "Es un clon extraordinario y sumamente fiel, famoso en la comunidad por calcar esa transición perfecta entre la frescura cítrica helada y la calidez del ámbar gris.",
-        "nombre": "Louis Vuitton L'Immensité",
-        "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_839727-MLA83231824993_032025-F.webp"
       }
     ]
   },
@@ -13285,36 +13406,6 @@
         "texto": "Réplica conceptual espectacular del \"cítrico millonario\" más codiciado y exclusivo del mundo. Sigue de cerca la misma estructura de alta alcurnia de Tygar, cruzando una apertura cítrica súper brillante y energizante con una base pesada de maderas nobles y ámbar que le otorga un estatus y una fijación incomparables. Pisa destaca por cambiar el pomelo amargo tradicional por un combo mediterráneo más jugoso de mandarina y limón.",
         "nombre": "Bvlgari Tygar",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.41222.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "French Avenue - Amber Empire | EDP | 100ml",
-    "marca": "French Avenue",
-    "familia_olfativa": "Ámbar, Avainillado, Amaderado, Cálido especiado, Almizclado, Atalcado, Dulce, Alcohol",
-    "inspirado_en": "Clive Christian Blonde Amber",
-    "notas_salida": "notas orientales, licor, vainilla, cachemira",
-    "notas_corazon": "ambar, cedro, caña de azucar",
-    "notas_fondo": "Haba tonka, sandalo, Almizcle, ladano",
-    "descripcion": "​Una fragancia opulenta, exótica y profundamente sensual. Amber Empire es un viaje olfativo que combina la calidez del ámbar con la suavidad de la vainilla y un almizcle muy potente. Se siente como una tela de terciopelo sobre la piel: elegante, misterioso y con un toque \"vintage\" moderno que proyecta lujo absoluto. Es un aroma que no se parece a nada convencional.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos de gala, Citas románticas de impacto, Salidas nocturnas de lujo",
-    "clima": "Fresco/Frio",
-    "proyeccion": "Muy alta",
-    "duracion": "Bestial (12h+)",
-    "estela": "Intensa",
-    "color_liquido": "Dorado oscuro",
-    "perfil_usuario": "​Para personas con una personalidad imponente que buscan una fragancia firma única. Es ideal para quienes aman los perfumes nicho, los aromas que dejan una estela inolvidable y que disfrutan de las notas ambaradas y almizcladas que se fusionan con la piel de forma magnética. De 25 a 60 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "​Para personas con una personalidad imponente que buscan una fragancia firma única. Es ideal para quienes aman los perfumes nicho, los aromas que dejan una estela inolvidable y que disfrutan de las notas ambaradas y almizcladas que se fusionan con la piel de forma magnética. De",
-    "inspirado_en_nombre": "Clive Christian Blonde Amber",
-    "inspiraciones": [
-      {
-        "texto": "Clive Christian Blonde Amber",
-        "nombre": "Clive Christian Blonde Amber",
-        "imagen_url": ""
       }
     ]
   },
