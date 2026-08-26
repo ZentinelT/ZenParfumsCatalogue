@@ -105,6 +105,36 @@
     "inspiraciones": []
   },
   {
+    "nombre_completo": "KHADLAJ - Island | Extrait De Parfum",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Amaderado, Coco, Ámbar, Afrutados, Avainillado, Tropical, Atalcado, Iris, Fresco",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume tropical y nocturno más codiciado, elogiado y viral del mundo. Captura a la perfección ese ADN inconfundible de \"piña fresca fundida con un coco cremoso y un fondo avainillado-amaderado de haba tonka\", ofreciendo una alternativa con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su valor original.",
+    "notas_salida": "piña, iris, jengibre, cipres",
+    "notas_corazon": "coco, maderas",
+    "notas_fondo": "haba tonka, sandalo, ambar, ambar gris",
+    "descripcion": "La definición en perfume de la sensualidad tropical, el magnetismo nocturno y la frescura desinhibida. Khadlaj Island arranca con un impacto vibrante y original de piña, iris y jengibre. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón donde el coco cremoso se funde con maderas finas. Su evolución final es un secado cálido, avainillado y ambarado, dejando un rastro flotante muy atractivo, moderno y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Verano / Primavera / Otoño",
+    "ocasion": "Salidas nocturnas, fiestas, encuentros casuales, días de playa/piscina o cuando el objetivo sea proyectar una imagen atractiva, juvenil y magnética",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente (6h a 8h+)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro luminoso",
+    "rango_edad_min": 16,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Unisex (Predominantemente masculino por su perfil enérgico y amaderado, pero muy seductor). Diseñado para personas seguras de sí mismas, audaces y amantes de las fragancias dulces, tropicales y con carácter. Es la elección perfecta para quienes buscan un aroma de firma versátil para destacar tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif",
+    "inspirado_en_nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume tropical y nocturno más codiciado, elogiado y viral del mundo. Captura a la perfección ese ADN inconfundible de \"piña fresca fundida con un coco cremoso y un fondo avainillado-amaderado de haba tonka\", ofreciendo una alternativa con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su valor original.",
+        "nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Rayhaan - Lion | EDP | 100ml",
     "marca": "Rayhaan — UAE",
     "genero": "Masculino",
@@ -186,6 +216,36 @@
       {
         "texto": "Desarrollado por Lattafa para su línea exclusiva Kids, adopta el estándar de oro de la perfumería infantil europea (en la sintonía de clásicos de alta gama como Tous Kids o las colonias cítricas francesas de primera calidad). Su gran mérito es ofrecer una alternativa de excelente fijación en piel, pero con notas nobles, ligeras y totalmente respetuosas con la sensibilidad infantil.",
         "nombre": "Composición Original para el Cuidado Infantil / Estilo Cítrico-Verde Premium"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "CALVIN KLEIN - Obsession Fem | EDP",
+    "marca": "Calvin Klein — USA",
+    "genero": "Femenino",
+    "familia_olfativa": "Oriental / Clásico Ambré de los 80s",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Vainilla, albahaca, bergamota, mandarina, melocotón, limón",
+    "notas_corazon": "Especias, sándalo, cilantro, musgo de roble, cedro, flor de azahar, jazmín, rosa",
+    "notas_fondo": "Ámbar, incienso, algalia, vainilla, vetiver, almizcle",
+    "descripcion": "Clásico oriental de los 80s. Especiado, sensual y amaderado. Intenso y poderoso. Un \"amor u odio\" icónico que define una era.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos, citas, gala",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Nuclear",
+    "color_liquido": "Ámbar oscuro / caramelo",
+    "perfil_usuario": "Mujeres 35-60 años. Amantes de orientales clásicos poderosos. No para principiantes.",
+    "rango_edad_min": 35,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Mujeres Amantes de orientales clásicos poderosos. No para principiantes.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
       }
     ]
   },
@@ -614,6 +674,35 @@
     ]
   },
   {
+    "nombre_completo": "JEAN PAUL GAULTIER - Le Male Elixir Absolu | Elixir",
+    "marca": "JEAN PAUL GAULTIER",
+    "genero": "Masculino",
+    "familia_olfativa": "Cálido especiado, Ámbar, Aromático, Afrutados, Dulce, Avainillado, Lavanda, Canela, Balsámico, Fesco especiado",
+    "inspirado_en": "La evolución más codiciada, elogiada y buscada de la perfumería comercial moderna. Captura a la perfección ese ADN inconfundible de \"frescura mentolada inicial que se funde en una bomba cálida de miel, tabaco y vainilla\", ofreciendo un rendimiento de nivel beast mode absoluto que enamora desde el primer segundo.",
+    "notas_salida": "ciruela, canela, cardamomo, bergamota",
+    "notas_corazon": "lavanda, davana, abrotano",
+    "notas_fondo": "haba tonka, benjui, almizcle ambreta, pachuli, ladano",
+    "descripcion": "La definición en perfume del magnetismo nocturno, la elegancia desafiante y el lujo avainillado más potente del mercado. Le Male Elixir Absolu arranca con un impacto fresco y aromático de menta y lavanda. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón denso donde la miel dorada inunda los sentidos con una calidez suntuosa. Su evolución final es un secado profundo y oscuro, donde el tabaco y la vainilla se adueñan de la piel, dejando un rastro flotante sumamente seductor y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, salidas nocturnas, fiestas, eventos especiales o cuando el objetivo absoluto sea dejar una huella imborrable.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, carismáticos, amantes de las fragancias dulces, intensas y con un rendimiento sobresaliente que exigen destacar en cualquier entorno nocturno o social.",
+    "inspirado_en_nombre": "Le Male Elixir Absolu / Gama Alta de Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "La evolución más codiciada, elogiada y buscada de la perfumería comercial moderna. Captura a la perfección ese ADN inconfundible de \"frescura mentolada inicial que se funde en una bomba cálida de miel, tabaco y vainilla\", ofreciendo un rendimiento de nivel beast mode absoluto que enamora desde el primer segundo.",
+        "nombre": "Le Male Elixir Absolu / Gama Alta de Jean Paul Gaultier"
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Odyssey Mega Man | EDP",
     "marca": "Armaf",
     "anno": "2023",
@@ -794,6 +883,34 @@
     ]
   },
   {
+    "nombre_completo": "AL WATANIAH - Watani Noir | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Fesco especiado, Cálido especiado, Aromático, Cítrico, Almizclado, Amaderado, Cuero, Atalcado, Metalico, Herbal",
+    "inspirado_en": "(Inspirado en los perfiles más codiciados de la perfumería de lujo oriental que combinan la opulencia frutal con notas ahumadas y maderas nobles de máxima jerarquía). Captura a la perfección ese ADN de \"elegancia nocturna, misterio y distinción arrolladora\", ofreciendo una presentación de lujo absoluto y un rendimiento sobresaliente.",
+    "notas_salida": "azafran, bergamota, geranio",
+    "notas_corazon": "cuero, rosa, lirio de los valles",
+    "notas_fondo": "almizcle, maderas, oud",
+    "descripcion": "La definición en perfume del misterio nocturno, la elegancia desafiante y el lujo amaderado más sofisticado. Al Wataniah Watani Noir arranca con un impacto vibrante y frutal de grosellas y bergamota. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón ahumado donde el abedul y el pachuli envuelven los sentidos en una atmósfera de alta costura. Su evolución final es un secado profundo, cálido y ambarado, dejando un rastro flotante sumamente seductor, distinguido y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos nocturnos formales, reuniones de negocios, ocasiones especiales o cuando el objetivo absoluto sea proyectar estatus y poder.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (8h a 10h+)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar profundo",
+    "rango_edad_min": 20,
+    "rango_edad_max": 52,
+    "estilo_descripcion": "Masculino (Unisex para amantes de los aromas intensos y con carácter). Diseñado para hombres seguros de sí mismos, elegantes, con estilo formal o nocturno, y amantes de las fragancias que imponen respeto y admiración.",
+    "inspirado_en_nombre": "Alta Perfumería de Nicho / Estilo \"Dark Royal Woody-Fruity\"",
+    "inspiraciones": [
+      {
+        "texto": "(Inspirado en los perfiles más codiciados de la perfumería de lujo oriental que combinan la opulencia frutal con notas ahumadas y maderas nobles de máxima jerarquía). Captura a la perfección ese ADN de \"elegancia nocturna, misterio y distinción arrolladora\", ofreciendo una presentación de lujo absoluto y un rendimiento sobresaliente.",
+        "nombre": "Alta Perfumería de Nicho / Estilo \"Dark Royal Woody-Fruity\""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Victoria Secret - Body Splash - Love Spell | 250ml",
     "marca": "Victoria's Secret",
     "genero": "Femenino",
@@ -911,6 +1028,36 @@
         "texto": "Réplica espectacular y ultra fiel avalada por el voto masivo de la comunidad global en Fragrantica. Captura a la perfección el aura moderna, sensual y ultra masculina del éxito de Versace, cruzando el chispazo cítrico de la toronja y la pimienta con un fondo pesado de pachulí y ámbar gris. Un aroma todoterreno que derrocha facha, pulcritud y un sex appeal tremendo que no falla jamás.",
         "nombre": "Versace Pour Homme Dylan Blue",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.40031.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ARMAF - Connoisseur Man | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Fesco especiado, Fresco, Cítrico, Afrutados, Aldehidico, Ámbar, Aromático, Amaderado, Cálido especiado, Verde",
+    "inspirado_en": "Réplica de altísima fidelidad que captura a la perfección ese ADN inconfundible de \"salida chispeante especiada que evoluciona hacia un fondo amaderado oscuro ahumado por el incienso y endulzado por la haba tonka\", ofreciendo una alternativa de lujo absoluto con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su costo original.",
+    "notas_salida": "manzana verde, pomelo, jengibre, aldehido",
+    "notas_corazon": "geranio, lavanda, salvia",
+    "notas_fondo": "incienso de olibano, haba tonka, pachuli, cedro",
+    "descripcion": "La definición en perfume de la dualidad perfecta entre la frescura diurna y el misterio nocturno. Armaf Connoisseur Man arranca con un impacto vibrante, chispeante y especiado de jengibre y manzana. En cuestión de minutos despliega su faceta más elogiada y distinguida: un corazón aromático donde la salvia y la lavanda aportan una elegancia pulcra inigualable. Su evolución final es un secado profundo y ahumado gracias al incienso y la haba tonka, dejando un rastro flotante sumamente seductor, formal y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Entorno profesional ejecutivo, reuniones de negocios, eventos formales, citas románticas o cuando el objetivo sea proyectar una imagen de éxito impecable.",
+    "clima": "Templado / Fresco / Cálido moderado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, ejecutivos, amantes de las fragancias modernas, versátiles pero con un toque nocturno oscuro y elegante. Es la elección perfecta para quienes buscan un aroma de firma todoterreno que destaque tanto en la oficina como en salidas formales.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64718.2x.avif",
+    "inspirado_en_nombre": "Y Le Parfum de Yves Saint Laurent",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que captura a la perfección ese ADN inconfundible de \"salida chispeante especiada que evoluciona hacia un fondo amaderado oscuro ahumado por el incienso y endulzado por la haba tonka\", ofreciendo una alternativa de lujo absoluto con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su costo original.",
+        "nombre": "Y Le Parfum de Yves Saint Laurent",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64718.2x.avif"
       }
     ]
   },
@@ -1548,6 +1695,34 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "FRENCH AVENUE - Vie Feu | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Cálido especiado, Amaderado, Mineral, Cuero, Tabaco, cera de abeja, Verde, Amielado",
+    "inspirado_en": "Réplica de altísima fidelidad que captura a la perfección ese ADN inconfundible de \"lujo exclusivo, azafrán especiado sofisticado, maderas nobles y un fondo ambarado-mielado único\", ofreciendo una alternativa de categoría nicho con una presentación impecable y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "azafran, bergamota",
+    "notas_corazon": "cedro, te verde",
+    "notas_fondo": "cera de abeja",
+    "descripcion": "La definición en perfume del lujo silencioso, la exclusividad oriental y la elegancia magnética más refinada. French Avenue Vie Feu arranca con un impacto impactante y especiado de azafrán puro y bergamota. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón donde el té verde y el cedro noble aportan una limpieza sofisticada. Su evolución final es un secado cálido, balsámico y amaderado gracias a la cera de abeja y las notas de cuero, dejando un rastro flotante sumamente distinguido, sobrio y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Entorno profesional ejecutivo, reuniones de negocios, eventos formales, citas románticas o cuando el objetivo sea proyectar una imagen de estatus inquebrantable.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 25,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex (Con un carácter elegante, sobrio y distinguido). Diseñado para personas seguras de sí mismas, amantes de la perfumería de nicho, coleccionistas y quienes buscan un sello personal que proyecte estatus, misterio y una clase inigualable.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66122.2x.avif",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que captura a la perfección ese ADN inconfundible de \"lujo exclusivo, azafrán especiado sofisticado, maderas nobles y un fondo ambarado-mielado único\", ofreciendo una alternativa de categoría nicho con una presentación impecable y un rendimiento sobresaliente a una fracción de su costo original.",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.66122.2x.avif"
       }
     ]
   },
@@ -7763,7 +7938,8 @@
     ]
   },
   {
-    "nombre_completo": "ARMANI - My Way | EDP",
+    "nombre_completo": "EMPORIO ARMANI - My Way | EDP",
+    "marca": "EMPORIO ARMANI",
     "genero": "Femenino",
     "familia_olfativa": "Floral blanco, Nardos, Cítrico, Animálico, Avainillado",
     "inspirado_en": "Representa el estándar actual de los florales blancos de nueva generación: menos maduros o animálicos, y mucho más brillantes, limpios y con un dulzor frutal adictivo.",
@@ -13321,6 +13497,36 @@
     ]
   },
   {
+    "nombre_completo": "PARIS CORNER - Fayora | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Atalcado, Floral blanco, Fresco, Violeta, Iris, Avainillado, Amaderado, Dulce, Tropical, Floral",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las obras maestras más codiciadas, románticas y exclusivas del mundo. Captura a la perfección ese ADN inconfundible de \"vainilla polvosa, malta tostada y almizcles limpios con un corazón floral etéreo\", ofreciendo una alternativa de lujo absoluto con una fijación impecable a una fracción de su costo original.",
+    "notas_salida": "maracuya, rosa",
+    "notas_corazon": "violeta, raiz de lirio, lirio de los valles, jazmin",
+    "notas_fondo": "vainilla, almizcle, sandalo, cedro",
+    "descripcion": "La definición en perfume del refinamiento angélico, la elegancia silenciosa y la pureza seductora. Paris Corner Fayora arranca con un impacto luminoso de kumquat y lima. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón floral empolvado donde el iris y la violeta aportan una textura de terciopelo inigualable. Su evolución final es un secado tibio, almibarado por la malta y profundamente avainillado, dejando un rastro flotante limpio, sofisticado y de una distinción absoluta.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Entorno profesional de alto nivel, eventos sociales elegantes, citas románticas, bodas o cuando el objetivo sea transmitir una imagen de distinción inmaculada.",
+    "clima": "Templado / Fresco / Frío",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro / Translúcido",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres elegantes, soñadoras, sofisticadas y amantes de las fragancias de nicho con perfiles empolvados, avainillados y limpios. Es la elección perfecta para quienes buscan un aroma de firma personal que proyecte clase, delicadeza y un encanto natural inalcanzable.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.15555.2x.avif",
+    "inspirado_en_nombre": "Dama Bianca de Casamorati 1888",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las obras maestras más codiciadas, románticas y exclusivas del mundo. Captura a la perfección ese ADN inconfundible de \"vainilla polvosa, malta tostada y almizcles limpios con un corazón floral etéreo\", ofreciendo una alternativa de lujo absoluto con una fijación impecable a una fracción de su costo original.",
+        "nombre": "Dama Bianca de Casamorati 1888",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.15555.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "F. AVENUE - Meringue | EDP | 100ml",
     "marca": "French Avenue",
     "genero": "Femenino",
@@ -13641,6 +13847,32 @@
         "texto": "El clon exacto de esta joya de alta gama, famosa a nivel mundial por recrear una vibra de bienestar, frescura y lujo relajado inspirada en la costa de California.",
         "nombre": "Louis Vuitton Pacific Chill",
         "imagen_url": "https://acdn-us.mitiendanube.com/stores/005/781/045/products/proyecto-creador-de-logotipos-18-20-48d253a9589e8d365f17399934678436-1024-1024.webp"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VIKTOR&ROLF - Spicebomb Extreme | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Avainillado, Tabaco, Cálido especiado, Dulce, Canela, Atalcado, Fesco especiado",
+    "inspirado_en": "El referente indiscutido de las fragancias masculinas nocturnas y avainilladas con tabaco. Captura a la perfección ese ADN inconfundible de \"explosión de especias dulces abrazadas por un tabaco cremoso y una vainilla de alto impacto\", ofreciendo un rendimiento sobresaliente que enamora tanto al usuario como a quienes lo rodean.",
+    "notas_salida": "vainilla, tabaco, canela, comino, whisky, azafran",
+    "descripcion": "La definición en perfume del poder seductor, la masculinidad moderna y el lujo nocturno. Viktor & Rolf Spicebomb Extreme arranca con un impacto vibrante y especiado de pimienta y lavanda. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón ardiente donde la canela y el azafrán envuelven los sentidos en una atmósfera de alta costura. Su evolución final es un secado profundo, cálido y sumamente goloso, donde el tabaco y la vainilla se adueñan de la piel, dejando un rastro flotante magnético, elegante y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, salidas nocturnas, eventos sociales, ocasiones especiales o cuando el objetivo absoluto sea acaparar miradas y recibir cumplidos.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, con personalidad fuerte, elegantes y amantes de las fragancias con carácter, dulces y de alto rendimiento para climas templados o fríos. Es la elección perfecta para quienes buscan un aroma de firma imponente para destacar de noche.",
+    "inspirado_en_nombre": "Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": "El referente indiscutido de las fragancias masculinas nocturnas y avainilladas con tabaco. Captura a la perfección ese ADN inconfundible de \"explosión de especias dulces abrazadas por un tabaco cremoso y una vainilla de alto impacto\", ofreciendo un rendimiento sobresaliente que enamora tanto al usuario como a quienes lo rodean.",
+        "nombre": "Composición Propia"
       }
     ]
   },
@@ -14864,35 +15096,6 @@
     ]
   },
   {
-    "nombre_completo": "Calvin Klein - Obsession Fem | EDP | 100 ml",
-    "marca": "Calvin Klein — USA",
-    "familia_olfativa": "Oriental / Clásico Ambré de los 80s",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Vainilla, albahaca, bergamota, mandarina, melocotón, limón",
-    "notas_corazon": "Especias, sándalo, cilantro, musgo de roble, cedro, flor de azahar, jazmín, rosa",
-    "notas_fondo": "Ámbar, incienso, algalia, vainilla, vetiver, almizcle",
-    "descripcion": "Clásico oriental de los 80s. Especiado, sensual y amaderado. Intenso y poderoso. Un \"amor u odio\" icónico que define una era.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos, citas, gala",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Nuclear",
-    "color_liquido": "Ámbar oscuro / caramelo",
-    "perfil_usuario": "Mujeres 35-60 años. Amantes de orientales clásicos poderosos. No para principiantes.",
-    "rango_edad_min": 35,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Mujeres Amantes de orientales clásicos poderosos. No para principiantes.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Dolce & Gabbana - The One Intense | EDP | 100 ml",
     "marca": "Dolce & Gabbana — Italia",
     "familia_olfativa": "Oriental Sensual / Vainilla Negra",
@@ -15646,6 +15849,36 @@
         "texto": "Chance Eau Tendre de Chanel",
         "nombre": "Chanel Chance Eau Tendre",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "KHADLAJ - Island Vanilla Dunes | Extrait De Parfum",
+    "genero": "Unisex",
+    "familia_olfativa": "Cálido especiado, Avainillado, Dulce, Canela, Atalcado, Floral blanco, Ámbar, Cítrico, Amaderado, Aromático",
+    "inspirado_en": "Réplica de altísima fidelidad que captura a la perfección ese ADN inconfundible de \"vainilla Bourbon de alta gama envuelta en especias frescas, un toque sutil de praliné y maderas nobles\", ofreciendo una alternativa de lujo absoluto con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "vainilla, canela, cardamomo, bergamota",
+    "notas_corazon": "flor de azahar, gaiac",
+    "notas_fondo": "praline, ambar, almizcle",
+    "descripcion": "La definición en perfume del lujo moderno, la sofisticación especiada y la vainilla más elegante del mercado. Khadlaj Island Vanilla Dunes arranca con un impacto radiante y especiado de canela y cardamomo. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón donde la vainilla Bourbon pura envuelve los sentidos en una caricia sedosa y cremosa. Su evolución final es un secado tibio, ambarado y profundamente varonil/unisex, dejando un rastro flotante limpio, amaderado y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, uso profesional con estilo o cuando el objetivo sea proyectar una imagen sofisticada y memorable.",
+    "clima": "Templado / Fresco / Frío",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (9h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex (Predominantemente masculino por su perfil especiado-amaderado, pero amado por todos los amantes de la buena perfumería). Diseñado para personas elegantes, seguras de sí mismas y amantes de las fragancias avainilladas con un giro especiado y de alta costura. Es la elección perfecta para quienes buscan un aroma de firma que proyecte estatus, éxito y un encanto magnético.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84109.2x.avif",
+    "inspirado_en_nombre": "Althaïr de Parfums de Marly",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que captura a la perfección ese ADN inconfundible de \"vainilla Bourbon de alta gama envuelta en especias frescas, un toque sutil de praliné y maderas nobles\", ofreciendo una alternativa de lujo absoluto con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Althaïr de Parfums de Marly",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84109.2x.avif"
       }
     ]
   },

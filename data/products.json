@@ -540,7 +540,7 @@
     "p": 81400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_747812-MLA105270013167_012026-F.webp",
     "nt": "Salida Limón, grosella negra, manzana, piña, bergamota Notas de corazón: Abedul, jazmín, rosa Notas de fondo: Almizcle, ámbar gris, vainilla, pachulí",
     "p1": "$81.400"
@@ -657,7 +657,7 @@
     "p": 92000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_732953-MLA105485158565_012026-F.webp",
     "nt": "Salida Bergamota, pimienta rosa, flor de azahar, jazmín Notas de corazón: Lavanda, elemí, geranio, vetiver, azafrán Notas de fondo: Ambroxan, ámbar, pachulí, cedro, ládano",
     "p1": "$92.000"
@@ -969,7 +969,7 @@
     "p": 55000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_824522-MLU76118437587_052024-F.webp",
     "nt": "Salida Jazmín, Madreselva Notas de corazón: Lavanda, Pimienta, Azafrán Notas de fondo: Cardamomo, Albahaca, Menta",
     "p1": "$55.000"
@@ -2802,7 +2802,7 @@
     "p": 66600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_794813-MLA82979797869_032025-F.webp",
     "nt": "Salida Bergamota, pimienta negra · Corazón Cedro, pachulí · Fondo Ámbar, almizcle",
     "p1": "$66.600"
@@ -4229,13 +4229,13 @@
     "b": "CALVIN KLEIN",
     "n": "CALVIN KLEIN - Obsession Fem | EDP",
     "s": "100ml",
-    "p": 67600,
+    "p": 81500,
     "c": "internacional",
     "g": "mujer",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_889493-MLU73115331932_122023-F.webp",
     "nt": "Salida Vainilla, albahaca, bergamota, mandarina, melocotón, limón Notas de corazón: Especias, sándalo, cilantro, musgo de roble, cedro, flor de azahar, jazmín, rosa Notas de fondo: Ámbar, incienso, algalia, vainilla, vetiver, almizcle",
-    "p1": "$67.600"
+    "p1": "$81.500"
   },
   {
     "id": 2309,
@@ -4775,13 +4775,13 @@
     "b": "AL WATANIAH",
     "n": "AL WATANIAH - Amethyst | EDP",
     "s": "100ml",
-    "p": 58000,
+    "p": 62000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_803986-MLA85839585871_062025-F.webp",
     "nt": "Salida bergamota Notas de corazón: rosa, oud Notas de fondo: Ámbar, almizcle blanco, vainilla",
-    "p1": "$58.000"
+    "p1": "$62.000"
   },
   {
     "id": 2353,
@@ -5259,7 +5259,7 @@
     "p": 145400,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_753258-MLU72572321830_112023-F.webp",
     "nt": "Salida Pimienta rosa, Pera, Nuez moscada, Elemi, Bergamota Notas de corazón: Rosa, Clavo de olor, Magnolia, Lino Notas de fondo: Vetiver de Haití, Cachemira, Sándalo, Ámbar, Sylkolide",
     "p1": "$145.400"
@@ -5285,7 +5285,7 @@
     "p": 198100,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_750479-MLA92395136588_092025-F.webp",
     "nt": "Salida bergamota, pomelo, notas acuAticas, hojas de higuera Notas de corazón: Ambroxan, pimienta negra, pachulí, violeta, papiro de Egipto Notas de fondo: Incienso, almizcle, haba tonka, azafran",
     "p1": "$198.100"
@@ -5480,7 +5480,7 @@
     "p": 67100,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_Q_NP_949161-MLU70661217773_072023-F.webp",
     "nt": "Salida bergamota, lavanda Notas de corazón: jengibre, Cardamomo Notas de fondo: vetiver, incienso, Almizcle, sandalo, ladano, madera de gaiac",
     "p1": "$67.100"
@@ -6878,8 +6878,8 @@
   },
   {
     "id": 2526,
-    "b": "ARMANI",
-    "n": "ARMANI - My Way | EDP",
+    "b": "EMPORIO ARMANI",
+    "n": "EMPORIO ARMANI - My Way | EDP",
     "s": "90ml",
     "p": 246400,
     "c": "internacional",
@@ -7085,6 +7085,58 @@
     "p1": "$103.600"
   },
   {
+    "id": 2542,
+    "b": "VIKTOR&ROLF",
+    "n": "VIKTOR&ROLF - Spicebomb Extreme | EDP",
+    "s": "90ml",
+    "p": 208300,
+    "c": "internacional",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_843129-MLU72754950078_112023-F.webp",
+    "nt": "Salida vainilla, tabaco, canela, comino, whisky, azafran",
+    "p1": "$208.300"
+  },
+  {
+    "id": 2543,
+    "b": "PARIS CORNER",
+    "n": "PARIS CORNER - Fayora | EDP",
+    "s": "100ml",
+    "p": 92400,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_725714-MLA92066419840_092025-F.webp",
+    "nt": "Salida maracuya, rosa Notas de corazón: violeta, raiz de lirio, lirio de los valles, jazmin Notas de fondo: vainilla, almizcle, sandalo, cedro",
+    "p1": "$92.400"
+  },
+  {
+    "id": 2544,
+    "b": "KHADLAJ",
+    "n": "KHADLAJ - Island Vanilla Dunes | Extrait De Parfum",
+    "s": "100ml",
+    "p": 93100,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_716808-MLA92193023365_092025-F.webp",
+    "nt": "Salida vainilla, canela, cardamomo, bergamota Notas de corazón: flor de azahar, gaiac Notas de fondo: praline, ambar, almizcle",
+    "p1": "$93.100"
+  },
+  {
+    "id": 2545,
+    "b": "KHADLAJ",
+    "n": "KHADLAJ - Island | Extrait De Parfum",
+    "s": "100ml",
+    "p": 93100,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_NQ_NP_869122-MLA96671962556_112025-OO.jpg",
+    "nt": "Salida piña, iris, jengibre, cipres Notas de corazón: coco, maderas Notas de fondo: haba tonka, sandalo, ambar, ambar gris",
+    "p1": "$93.100"
+  },
+  {
     "id": 2546,
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Infini Musk | EDP",
@@ -7109,5 +7161,57 @@
     "i": "https://http2.mlstatic.com/D_NQ_NP_691629-MLA100377007405_122025-OO.jpg",
     "nt": "Salida especias Notas de corazón: lavanda Notas de fondo: maderas",
     "p1": "$111.000"
+  },
+  {
+    "id": 2548,
+    "b": "AL WATANIAH",
+    "n": "AL WATANIAH - Watani Noir | EDP",
+    "s": "100ml",
+    "p": 55200,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_930062-MLA89756882815_082025-F.webp",
+    "nt": "Salida azafran, bergamota, geranio Notas de corazón: cuero, rosa, lirio de los valles Notas de fondo: almizcle, maderas, oud",
+    "p1": "$55.200"
+  },
+  {
+    "id": 2549,
+    "b": "ARMAF",
+    "n": "ARMAF - Connoisseur Man | EDP",
+    "s": "100ml",
+    "p": 91800,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_709844-MLA81886508582_012025-F.webp",
+    "nt": "Salida manzana verde, pomelo, jengibre, aldehido Notas de corazón: geranio, lavanda, salvia Notas de fondo: incienso de olibano, haba tonka, pachuli, cedro",
+    "p1": "$91.800"
+  },
+  {
+    "id": 2550,
+    "b": "FRENCH AVENUE",
+    "n": "FRENCH AVENUE - Vie Feu | EDP",
+    "s": "80ml",
+    "p": 73400,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://acdn-us.mitiendanube.com/stores/003/226/824/products/1024-x-1024-px-2025-08-22t222032-736-3d714b27cafaee0b5d17559121517723-1024-1024.webp",
+    "nt": "Salida azafran, bergamota Notas de corazón: cedro, te verde Notas de fondo: cera de abeja",
+    "p1": "$73.400"
+  },
+  {
+    "id": 2551,
+    "b": "JEAN PAUL GAULTIER",
+    "n": "JEAN PAUL GAULTIER - Le Male Elixir Absolu | Elixir",
+    "s": "125ml",
+    "p": 252400,
+    "c": "internacional",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_722244-MLA83915613119_042025-F.webp",
+    "nt": "Salida ciruela, canela, cardamomo, bergamota Notas de corazón: lavanda, davana, abrotano Notas de fondo: haba tonka, benjui, almizcle ambreta, pachuli, ladano",
+    "p1": "$252.400"
   }
 ]
