@@ -1,0 +1,1116 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="theme-color" content="#f3ede2">
+<title>Match Astral · Zen Parfums</title>
+<meta name="description" content="Descubrí tu perfil olfativo según los 5 elementos del zodíaco chino. Match personalizado con los perfumes de Zen Parfums.">
+<meta property="og:title" content="Tu Match Astral · Zen Parfums">
+<meta property="og:description" content="Descubrí tu perfil olfativo según los 5 elementos. Un test breve con recomendaciones personalizadas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500;600&family=Noto+Serif+SC:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f3ede2;
+  --paper-warm:#ede4d3;
+  --paper-cream:#f9f4ea;
+  --ink:#1a1613;
+  --ink-mid:#4a3f34;
+  --ink-soft:#7c6f5f;
+  --rule:#c9beac;
+  --rule-strong:#8a7d68;
+  --cinnabar:#a83c22;
+  --cinnabar-dark:#7d2814;
+  --gold:#8a6a2a;
+
+  --e-wood:#4a6b3a;
+  --e-fire:#b13a1e;
+  --e-earth:#a37845;
+  --e-metal:#8b8a90;
+  --e-water:#2c556e;
+
+  --f-display:"Fraunces",Georgia,serif;
+  --f-body:"Inter",system-ui,-apple-system,sans-serif;
+  --f-cn:"Noto Serif SC",serif;
+}
+
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0;overflow-x:hidden}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--f-body);
+  line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+  min-height:100vh;
+  background-image:
+    radial-gradient(ellipse at 12% 8%, rgba(168,60,34,0.03), transparent 40%),
+    radial-gradient(ellipse at 88% 92%, rgba(138,106,42,0.04), transparent 45%);
+}
+
+.app{
+  max-width:520px;
+  margin:0 auto;
+  padding:24px 22px 60px;
+  min-height:100vh;
+  position:relative;
+}
+
+/* ==================== TOP BAR ==================== */
+.topbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding-bottom:16px;
+  margin-bottom:24px;
+  border-bottom:1px solid var(--ink);
+}
+.brand{
+  font-family:var(--f-display);
+  font-weight:500;
+  font-size:17px;
+  letter-spacing:-.3px;
+  color:var(--ink);
+  text-decoration:none;
+}
+.brand em{ color:var(--cinnabar); font-style:italic; font-weight:400; }
+.topbar .links{
+  display:flex;
+  gap:12px;
+  align-items:center;
+}
+.topbar a.link-btn{
+  font-size:11px;
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+  color:var(--ink);
+  text-decoration:none;
+  padding:8px 12px;
+  border:1px solid var(--ink);
+  border-radius:999px;
+  transition:all .18s;
+  white-space:nowrap;
+}
+.topbar a.link-btn.primary{
+  background:var(--ink);
+  color:var(--paper);
+}
+.topbar a.link-btn:active{ transform:scale(.96); }
+.topbar a.link-btn .ico{ display:inline-block; margin-right:4px; }
+
+/* ==================== SHARED ==================== */
+.hidden{ display:none !important; }
+.kicker{
+  font-family:var(--f-body);
+  font-size:11px;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  color:var(--cinnabar);
+  margin-bottom:16px;
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.kicker::after{
+  content:"";
+  flex:1;
+  height:1px;
+  background:var(--rule);
+}
+
+/* ==================== LANDING ==================== */
+#landing h1{
+  font-family:var(--f-display);
+  font-weight:300;
+  font-size:clamp(44px, 12vw, 64px);
+  line-height:.92;
+  letter-spacing:-1.5px;
+  margin:0 0 24px;
+  color:var(--ink);
+  font-variation-settings:"opsz" 144;
+}
+#landing h1 em{
+  font-style:italic;
+  color:var(--cinnabar);
+  font-weight:300;
+}
+#landing .lede{
+  font-family:var(--f-display);
+  font-style:italic;
+  font-weight:400;
+  font-size:19px;
+  line-height:1.4;
+  color:var(--ink-mid);
+  margin:0 0 36px;
+}
+#landing .start{
+  display:block;
+  width:100%;
+  padding:22px;
+  background:var(--ink);
+  color:var(--paper);
+  border:none;
+  font-family:var(--f-body);
+  font-size:14px;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  cursor:pointer;
+  border-radius:0;
+  transition:background .18s;
+  margin-bottom:32px;
+}
+#landing .start:hover{ background:var(--cinnabar); }
+#landing .start:active{ transform:scale(.98); }
+#landing .start::after{ content:" →"; letter-spacing:0; }
+
+#landing .meta-facts{
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+  padding-top:20px;
+  border-top:1px solid var(--rule);
+  font-size:10px;
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+  text-align:center;
+}
+#landing .meta-facts span::before{
+  content:"· ";
+  color:var(--cinnabar);
+}
+#landing .meta-facts span:first-child::before{ content:""; }
+
+.landing-cn{
+  position:absolute;
+  right:8px;
+  top:120px;
+  font-family:var(--f-cn);
+  font-size:120px;
+  color:var(--cinnabar);
+  opacity:.06;
+  writing-mode:vertical-rl;
+  letter-spacing:8px;
+  pointer-events:none;
+  z-index:0;
+}
+#landing{ position:relative; z-index:1; }
+
+/* ==================== QUIZ ==================== */
+.progress{
+  margin-bottom:28px;
+}
+.progress-bar{
+  height:2px;
+  background:var(--rule);
+  position:relative;
+  margin-bottom:12px;
+}
+.progress-bar .fill{
+  position:absolute;
+  left:0; top:0; bottom:0;
+  background:var(--cinnabar);
+  transition:width .4s ease;
+}
+.progress-info{
+  display:flex;
+  justify-content:space-between;
+  font-size:11px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+}
+.progress-info .cur{ color:var(--cinnabar); }
+
+#quiz .question{
+  font-family:var(--f-display);
+  font-weight:400;
+  font-size:clamp(28px, 7vw, 38px);
+  line-height:1.05;
+  letter-spacing:-.7px;
+  color:var(--ink);
+  margin:0 0 32px;
+}
+
+#quiz .options{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  margin-bottom:32px;
+}
+.opt{
+  display:flex;
+  align-items:center;
+  gap:16px;
+  padding:18px 20px;
+  background:var(--paper-cream);
+  border:1px solid var(--rule);
+  border-radius:0;
+  cursor:pointer;
+  text-align:left;
+  transition:all .18s;
+  font-family:var(--f-body);
+  font-size:15px;
+  color:var(--ink);
+  min-height:64px;
+}
+.opt:hover{ border-color:var(--ink); }
+.opt.selected{
+  background:var(--ink);
+  color:var(--paper);
+  border-color:var(--ink);
+}
+.opt.selected .cn{ color:var(--paper) !important; opacity:1; }
+.opt .cn{
+  font-family:var(--f-cn);
+  font-size:24px;
+  color:var(--cinnabar);
+  line-height:1;
+  min-width:30px;
+  text-align:center;
+  font-weight:600;
+  transition:color .18s;
+}
+.opt .txt{ flex:1; }
+
+#quiz .nav{
+  display:flex;
+  gap:12px;
+}
+#quiz .nav button{
+  flex:1;
+  padding:18px;
+  border:none;
+  font-family:var(--f-body);
+  font-size:12px;
+  letter-spacing:2.5px;
+  text-transform:uppercase;
+  cursor:pointer;
+  border-radius:0;
+  transition:all .18s;
+}
+#quiz .btn-back{
+  background:transparent;
+  color:var(--ink-soft);
+  border:1px solid var(--rule);
+  flex:0 0 40%;
+}
+#quiz .btn-next{
+  background:var(--ink);
+  color:var(--paper);
+  border:1px solid var(--ink);
+}
+#quiz .btn-next:disabled{
+  opacity:.35;
+  cursor:not-allowed;
+}
+#quiz .btn-next:not(:disabled):hover{
+  background:var(--cinnabar);
+  border-color:var(--cinnabar);
+}
+#quiz .btn-next::after{ content:" →"; letter-spacing:0; }
+#quiz .btn-back::before{ content:"← "; letter-spacing:0; }
+
+/* ==================== RESULT ==================== */
+#result .r-title{
+  font-family:var(--f-display);
+  font-weight:300;
+  font-size:clamp(36px, 10vw, 52px);
+  line-height:.95;
+  letter-spacing:-1px;
+  color:var(--ink);
+  margin:0 0 30px;
+}
+#result .r-title em{ color:var(--cinnabar); font-style:italic; }
+
+.balance-viz{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:0;
+  margin-bottom:32px;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+}
+.balance-viz .side{
+  padding:20px 18px;
+  border-right:1px solid var(--rule);
+}
+.balance-viz .side:last-child{ border-right:none; }
+.balance-viz .side .lab{
+  font-size:10px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+  margin-bottom:8px;
+}
+.balance-viz .side .cn-big{
+  font-family:var(--f-cn);
+  font-size:52px;
+  line-height:.9;
+  font-weight:600;
+  margin-bottom:6px;
+  display:block;
+}
+.balance-viz .side .name{
+  font-family:var(--f-display);
+  font-size:22px;
+  color:var(--ink);
+  letter-spacing:-.3px;
+  margin-bottom:4px;
+}
+.balance-viz .side .desc{
+  font-size:12px;
+  color:var(--ink-mid);
+  line-height:1.4;
+}
+.balance-viz .dom .cn-big{ color:var(--gold); }
+.balance-viz .miss .cn-big{ color:var(--cinnabar); }
+.balance-viz .miss .name{ color:var(--cinnabar); }
+
+.reading{
+  background:var(--paper-cream);
+  border-left:3px solid var(--cinnabar);
+  padding:16px 20px;
+  margin-bottom:36px;
+  font-family:var(--f-display);
+  font-style:italic;
+  font-size:16px;
+  line-height:1.5;
+  color:var(--ink);
+}
+
+#result .picks-title{
+  font-family:var(--f-display);
+  font-weight:400;
+  font-size:28px;
+  color:var(--ink);
+  letter-spacing:-.4px;
+  margin:0 0 6px;
+}
+#result .picks-title em{ color:var(--cinnabar); font-style:italic; }
+#result .picks-sub{
+  font-size:13px;
+  color:var(--ink-soft);
+  margin-bottom:24px;
+  font-style:italic;
+  font-family:var(--f-display);
+}
+
+.pick{
+  display:grid;
+  grid-template-columns:110px 1fr;
+  gap:14px;
+  padding:16px 0;
+  border-top:1px solid var(--rule);
+  align-items:center;
+}
+.pick:last-of-type{ border-bottom:1px solid var(--rule); }
+.pick .p-num{
+  font-size:10px;
+  letter-spacing:1.5px;
+  color:var(--cinnabar);
+  margin-bottom:3px;
+}
+.pick .p-img{
+  aspect-ratio:1/1;
+  background:#fff;
+  border:1px solid var(--rule);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  overflow:hidden;
+}
+.pick .p-img img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  padding:6px;
+}
+.pick .p-brand{
+  font-size:10px;
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+  margin-bottom:2px;
+}
+.pick .p-name{
+  font-family:var(--f-display);
+  font-weight:400;
+  font-size:17px;
+  line-height:1.15;
+  color:var(--ink);
+  letter-spacing:-.2px;
+  margin:0 0 5px;
+}
+.pick .p-notes{
+  font-size:11px;
+  color:var(--ink-mid);
+  line-height:1.4;
+  margin-bottom:6px;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+.pick .p-tags{ display:flex; gap:4px; flex-wrap:wrap; }
+.pick .p-tag{
+  font-size:8px;
+  letter-spacing:.8px;
+  text-transform:uppercase;
+  padding:2px 5px;
+  color:#fff;
+}
+.pick .p-tag.wood{ background:var(--e-wood); }
+.pick .p-tag.fire{ background:var(--e-fire); }
+.pick .p-tag.earth{ background:var(--e-earth); }
+.pick .p-tag.metal{ background:var(--e-metal); }
+.pick .p-tag.water{ background:var(--e-water); }
+
+/* ==================== CTAs FINAL ==================== */
+.cta-block{
+  margin-top:36px;
+  padding:22px 20px;
+  background:var(--paper-warm);
+  border:1px solid var(--rule);
+  text-align:center;
+}
+.cta-block h3{
+  font-family:var(--f-display);
+  font-weight:400;
+  font-size:22px;
+  color:var(--ink);
+  margin:0 0 8px;
+  letter-spacing:-.3px;
+}
+.cta-block p{
+  font-size:13px;
+  color:var(--ink-mid);
+  margin:0 0 18px;
+  line-height:1.5;
+}
+.cta-block .btn-wa{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  background:#25d366;
+  color:#fff;
+  padding:14px 22px;
+  border:none;
+  font-family:var(--f-body);
+  font-size:12px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  text-decoration:none;
+  cursor:pointer;
+  transition:transform .18s;
+}
+.cta-block .btn-wa:hover{ transform:translateY(-2px); }
+.cta-block .btn-wa svg{ width:16px; height:16px; }
+
+.deep-hint{
+  margin-top:24px;
+  padding:16px;
+  border:1px dashed var(--rule-strong);
+  text-align:center;
+  font-size:13px;
+  color:var(--ink-mid);
+  font-family:var(--f-display);
+  font-style:italic;
+  line-height:1.5;
+}
+.deep-hint strong{ color:var(--cinnabar); font-weight:500; }
+
+.restart{
+  margin:36px auto 0;
+  display:block;
+  background:transparent;
+  border:none;
+  color:var(--ink-soft);
+  font-family:var(--f-body);
+  font-size:11px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  cursor:pointer;
+  padding:8px;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+
+/* ==================== LOADING / TRANSICIONES ==================== */
+.loading{
+  text-align:center;
+  padding:60px 20px;
+  font-family:var(--f-display);
+  font-style:italic;
+  font-size:17px;
+  color:var(--ink-soft);
+}
+.fade-in{
+  animation:fadeIn .35s ease;
+}
+@keyframes fadeIn{
+  from { opacity:0; transform:translateY(6px); }
+  to   { opacity:1; transform:translateY(0); }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#141110;
+    --paper-warm:#1c1815;
+    --paper-cream:#221c17;
+    --ink:#f0e8d7;
+    --ink-mid:#c7bda8;
+    --ink-soft:#8c8171;
+    --rule:#3a3226;
+    --rule-strong:#5a4e3a;
+    --cinnabar:#d05a3c;
+    --gold:#c9a760;
+  }
+  .pick .p-img{ background:#f8f3e9; }
+}
+
+/* Desktop centrado con marco */
+@media(min-width:600px){
+  .app{
+    padding:40px 40px 80px;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="app">
+
+  <!-- ==================== TOP BAR ==================== -->
+  <div class="topbar">
+    <a class="brand" href="/">Zen Parfums<em> · atelier</em></a>
+    <div class="links">
+      <a class="link-btn" href="/">Tienda</a>
+    </div>
+  </div>
+
+  <!-- ==================== LANDING ==================== -->
+  <section id="landing" class="fade-in">
+    <div class="landing-cn" aria-hidden="true">五行</div>
+    <div class="kicker">Los 5 elementos · Match</div>
+    <h1>Tu perfume<br><em>te elige.</em></h1>
+    <p class="lede">Un test breve inspirado en los 5 elementos del zodíaco chino. Descubrí qué energía te habita y qué aroma necesita tu piel hoy.</p>
+    <button class="start" type="button" id="btnStart">Empezar</button>
+    <div class="meta-facts">
+      <span id="fPerfumesCount">— perfumes</span>
+      <span>5 preguntas</span>
+      <span>1 minuto</span>
+    </div>
+  </section>
+
+  <!-- ==================== QUIZ ==================== -->
+  <section id="quiz" class="hidden">
+    <div class="progress">
+      <div class="progress-bar"><div class="fill" id="progressFill"></div></div>
+      <div class="progress-info">
+        <span><span class="cur" id="qCur">1</span> DE 5</span>
+        <span id="qPct">20%</span>
+      </div>
+    </div>
+    <h2 class="question" id="qText">—</h2>
+    <div class="options" id="qOptions"></div>
+    <div class="nav">
+      <button class="btn-back" type="button" id="btnBack">Volver</button>
+      <button class="btn-next" type="button" id="btnNext" disabled>Siguiente</button>
+    </div>
+  </section>
+
+  <!-- ==================== RESULT ==================== -->
+  <section id="result" class="hidden">
+    <div class="kicker">Tu perfil elemental</div>
+    <h2 class="r-title">Sos <em id="rDomName">—</em>.<br>Necesitás <em id="rMissName">—</em>.</h2>
+
+    <div class="balance-viz">
+      <div class="side dom">
+        <div class="lab">Tu esencia</div>
+        <span class="cn-big" id="rDomCn">—</span>
+        <div class="name" id="rDomName2">—</div>
+        <div class="desc" id="rDomDesc">—</div>
+      </div>
+      <div class="side miss">
+        <div class="lab">Lo que te falta</div>
+        <span class="cn-big" id="rMissCn">—</span>
+        <div class="name" id="rMissName2">—</div>
+        <div class="desc" id="rMissDesc">—</div>
+      </div>
+    </div>
+
+    <div class="reading" id="rReading">—</div>
+
+    <h3 class="picks-title">Tus 5 <em>fragancias ideales</em></h3>
+    <div class="picks-sub">Elegidas por afinidad con lo que tu energía está pidiendo.</div>
+    <div id="picksList"></div>
+
+    <div class="cta-block">
+      <h3>¿Querés probar alguno?</h3>
+      <p>Todos están disponibles en la tienda. Consultá por WhatsApp para separar o probar en persona.</p>
+      <a class="btn-wa" id="waLink" href="#" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.5 3.5A11.9 11.9 0 0 0 12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.2 1.6 6L0 24l6.2-1.6a12 12 0 0 0 5.8 1.5c6.6 0 12-5.4 12-12 0-3.2-1.2-6.2-3.5-8.4Zm-8.5 18.4a10 10 0 0 1-5.1-1.4l-.4-.2-3.7 1 1-3.6-.3-.4a10 10 0 1 1 8.5 4.6Zm5.5-7.5c-.3-.2-1.8-.9-2-1s-.5-.2-.7.2-.8 1-.9 1.2c-.2.2-.3.2-.6 0-1.7-.8-2.9-1.5-4-3.5-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.5s-.7-1.7-1-2.3c-.3-.6-.5-.5-.7-.5H8c-.2 0-.5.1-.8.4s-1 1-1 2.4 1 2.9 1.2 3.1a11.5 11.5 0 0 0 4.7 4.1c.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.3Z"/></svg>
+        Hablar por WhatsApp
+      </a>
+    </div>
+
+    <div class="deep-hint">
+      💫 <strong>¿Querés el análisis profundo?</strong><br>
+      Escribiendo tu fecha de nacimiento por WhatsApp te preparo un perfil astral completo con el zodíaco chino, la estación actual y una recomendación curada personalmente.
+    </div>
+
+    <button class="restart" type="button" id="btnRestart">Hacer otro match ↻</button>
+  </section>
+
+  <div class="loading hidden" id="loading">Analizando tu perfil…</div>
+
+</div>
+
+<script>
+/* ==============================================================
+   DATOS
+   ============================================================== */
+
+const ELEMENTS = {
+  wood:  { cn:"木", es:"Madera", desc:"El brote que sube. La curiosidad que se abre paso.", scent:"verdes, herbales, cítricos frescos" },
+  fire:  { cn:"火", es:"Fuego",  desc:"El sol pleno. La pasión que ilumina alrededor.",      scent:"especiados, ambarados, cálidos" },
+  earth: { cn:"土", es:"Tierra", desc:"El centro que sostiene. La calma que nutre.",           scent:"dulces, cremosos, gourmand" },
+  metal: { cn:"金", es:"Metal",  desc:"El otoño que refina. La claridad que corta.",           scent:"florales blancos, luminosos, refinados" },
+  water: { cn:"水", es:"Agua",   desc:"La profundidad que guarda. La intuición callada.",      scent:"acuáticos, marinos, transparentes" }
+};
+
+/* Marcas / productos EXCLUIDOS del ranking */
+const EXCLUDED_BRANDS = new Set(["TUBBEES"]);
+
+/* WhatsApp — cambia el número si querés */
+const WHATSAPP_NUMBER = "543515911990";
+const WHATSAPP_TEXT = "Hola! Acabo de hacer el Match Astral en Zen Parfums y quiero consultar por mis recomendaciones ✨";
+
+/* Las 5 preguntas */
+const QUESTIONS = [
+  {
+    q: "¿Qué te hace sentir bien?",
+    opts: [
+      { cn:"木", txt:"Salir a caminar, aire libre", elem:"wood" },
+      { cn:"火", txt:"Salidas hasta que amanezca", elem:"fire" },
+      { cn:"土", txt:"Un buen asado con los tuyos", elem:"earth" },
+      { cn:"金", txt:"Ordenarme y respirar tranquilo", elem:"metal" },
+      { cn:"水", txt:"Estar a solas, sin ruido", elem:"water" }
+    ]
+  },
+  {
+    q: "¿A qué hora sos más vos?",
+    opts: [
+      { cn:"木", txt:"Temprano, con el mate del amanecer", elem:"wood" },
+      { cn:"火", txt:"Al mediodía, con todo activado", elem:"fire" },
+      { cn:"土", txt:"A la tarde, cuando aflojás", elem:"earth" },
+      { cn:"金", txt:"Al atardecer, con el mundo bajando", elem:"metal" },
+      { cn:"水", txt:"De noche, cuando ya no hay nadie", elem:"water" }
+    ]
+  },
+  {
+    q: "¿Qué aroma te tira sin pensarlo?",
+    opts: [
+      { cn:"木", txt:"Algo verde, tipo bosque después de lluvia", elem:"wood" },
+      { cn:"火", txt:"Algo con especias, medio prohibido", elem:"fire" },
+      { cn:"土", txt:"Algo dulce, tipo abrazo cremoso", elem:"earth" },
+      { cn:"金", txt:"Algo floral, elegante, refinado", elem:"metal" },
+      { cn:"水", txt:"Algo fresco, tipo brisa marina", elem:"water" }
+    ]
+  },
+  {
+    q: "¿Cuál estación es la tuya?",
+    opts: [
+      { cn:"木", txt:"Primavera, cuando arranca todo", elem:"wood" },
+      { cn:"火", txt:"Verano, sol pleno", elem:"fire" },
+      { cn:"土", txt:"Los cambios, cuando la estación gira", elem:"earth" },
+      { cn:"金", txt:"Otoño, el aire seco y claro", elem:"metal" },
+      { cn:"水", txt:"Invierno, mate y frazada", elem:"water" }
+    ]
+  },
+  {
+    q: "¿Qué te pide el cuerpo hoy?",
+    opts: [
+      { cn:"木", txt:"Que se destrabe algo", elem:"wood" },
+      { cn:"火", txt:"Que se me prenda la mecha", elem:"fire" },
+      { cn:"土", txt:"Un mimo, bajar un cambio", elem:"earth" },
+      { cn:"金", txt:"Claridad, poder decidir", elem:"metal" },
+      { cn:"水", txt:"Silencio, recogerme", elem:"water" }
+    ]
+  }
+];
+
+/* ==============================================================
+   DICCIONARIO NOTAS → ELEMENTOS (mismo del generador privado)
+   ============================================================== */
+const NOTE_MAP = {
+  wood: ["bergamota","limon","lima","mandarina","pomelo","toronja","yuzu","citrico","citricos",
+    "verbena","hierbaluisa","hierba","hierbas","yerba","menta","hierbabuena","spearmint","peppermint",
+    "lavanda","romero","salvia","tomillo","hinojo","albahaca","estragon","eneldo","cilantro",
+    "eucalipto","pino","abeto","cipres","enebro","junipero","cedro","cedron",
+    "vetiver","galbanum","hoja","hojas","tallos","raiz",
+    "te verde","matcha","higuera","aloe","bambu","bamboo",
+    "geranio","neroli","petitgrain",
+    "manzana verde","pera verde","kiwi","pepino verde",
+    "cardamomo verde","angelica","hierba santa","artemisa","musgo verde","liquenes",
+    "notas verdes","nota verde","verde","verdes",
+    "notas herbales","nota herbal","herbal","herbales",
+    "notas aromaticas","aromatico","aromaticos","aromatica","aromaticas",
+    "acorde verde","acorde herbal","acorde citrico"],
+  fire: ["canela","pimienta","pimientas",
+    "jengibre","cardamomo","clavo","clavo de olor","azafran",
+    "nuez moscada","comino","chile","aji","pimiento","paprika",
+    "incienso","olibano","mirra","opoponax",
+    "ambar","tabaco","tabacos","cuero","cueros",
+    "ron","whisky","cognac","brandy","bourbon","tequila","mezcal","rhum","alcohol",
+    "cafe","espresso",
+    "oud","agarwood","madera de oud",
+    "elemi","ladano","copal","benjui de sumatra",
+    "chai","masala","curry","curcuma",
+    "especia","especias","especiado","especiada","especiados","especiadas",
+    "notas especiadas","acorde especiado","especiados calidos",
+    "resinas","resinoso","resinosa","resinosos","resinosas",
+    "notas calidas","calido","calida","calidos","calidas",
+    "notas orientales","oriental","orientales",
+    "notas ambaradas","ambarado","ambarados","ambarada","ambaradas"],
+  earth: ["vainilla","vainillas","cacao","chocolate","chocolates",
+    "patchouli","pachuli","pachouli",
+    "benjui","sandalo","opoponax",
+    "haba tonka","tonka",
+    "praline","caramelo","caramelos","dulce de leche","miel","malta",
+    "avellana","avellanas","almendra","almendras","coco","leche","crema","chantilly",
+    "arroz","azucar","algodon de azucar",
+    "ambar gris","ambroxan","cetalox",
+    "helianthemum","heliantemo",
+    "manteca","mantequilla","karite","macaron","waffle","biscuit",
+    "musgo de roble","musgo","turba","tierra","raiz de vetiver",
+    "cashmeran","cashmere wood","cachemira","suede cremoso",
+    "maderas","madera","amaderado","amaderada","amaderados","amaderadas","acorde amaderado",
+    "notas dulces","nota dulce","dulce","dulces",
+    "notas gourmand","gourmand","goloso","golosa","golosos","golosas",
+    "notas balsamicas","balsamico","balsamica","balsamicos","balsamicas",
+    "notas cremosas","cremoso","cremosa","cremosos","cremosas",
+    "acorde balsamico","acorde cremoso","acorde dulce"],
+  metal: ["jazmin","jazmines","jasmine","sambac","jazmin sambac",
+    "tuberosa","tuberosas","azahar","azahares","flor de naranjo","naranjo","flor blanca","flores blancas",
+    "magnolia","magnolias","gardenia","gardenias","ylang","ylang ylang","ylang-ylang",
+    "aldehido","aldehidos","aldehidico","aldehidicos",
+    "iris","orris","raiz de iris",
+    "rosa","rosas","rosa blanca","rosa centifolia","rosa de mayo","rosa damascena","petalos de rosa","petalos de rosas",
+    "lirio","lirios","lirio de los valles","muguete","muguet",
+    "nardo","nardos","narciso","narcisos","freesia","freesias","peonia","peonias",
+    "frangipani","plumeria","mimosa","violeta","violetas","hoja de violeta","alheli","camelia","camelias",
+    "azucena","azucenas","lily","white flowers","floral blanco",
+    "almizcle","almizcles","almizcle blanco","musk","musc","white musk",
+    "flor","flores","floral","florales","notas florales","nota floral","acorde floral",
+    "polen","polvo","atalcado","atalcada","atalcados","atalcadas","notas atalcadas","polvoriento",
+    "prisma floral","bouquet floral","ramo floral","ramo","bouquet",
+    "mineral","minerales"],
+  water: ["marino","marina","marinos","marinas","mar","sal","sal marina","salado","brisa","brisa marina",
+    "ozono","ozonico","ozonica","ozonicos","ozonicas","calone","aqua","agua","aguas",
+    "loto","flor de loto","nenufar","nenufares","waterlily",
+    "melon","melones","pepino","sandia",
+    "alga","algas","seaweed","kelp",
+    "lluvia","lluvias","gotas","rocio","niebla","bruma","brumas",
+    "oceano","oceanos","cascada","cascadas","rio","rios",
+    "concha","conchas","nacar","perla","perlas",
+    "cocotero","cocktail acuoso",
+    "notas marinas","nota marina","notas acuaticas","acuatico","acuatica","acuaticos","acuaticas","acorde acuatico","acorde marino",
+    "frescos","fresco","fresca","frescas","notas frescas","nota fresca",
+    "transparente","transparencia"]
+};
+
+const GEN = {wood:"fire", fire:"earth", earth:"metal", metal:"water", water:"wood"};
+
+/* ==============================================================
+   ESTADO
+   ============================================================== */
+let CATALOG = null;
+let ANSWERS = [];      // índices seleccionados por pregunta
+let CUR_Q = 0;
+
+/* ==============================================================
+   HELPERS
+   ============================================================== */
+const $ = s => document.querySelector(s);
+
+function normalize(s){
+  return (s||"").toLowerCase()
+    .normalize("NFD").replace(/\p{Diacritic}/gu,"")
+    .replace(/[^a-z0-9\s]/g," ")
+    .replace(/\s+/g," ").trim();
+}
+
+function noteVectorFor(text){
+  const v = {wood:0,fire:0,earth:0,metal:0,water:0};
+  const n = normalize(text);
+  for (const [elem, kws] of Object.entries(NOTE_MAP)){
+    for (const kw of kws){
+      const nk = normalize(kw);
+      if (!nk) continue;
+      const re = new RegExp("\\b" + nk.replace(/[.*+?^${}()|[\]\\]/g,"\\$&") + "\\b","g");
+      const m = n.match(re);
+      if (m) v[elem] += m.length;
+    }
+  }
+  return v;
+}
+
+function affinity(vec, target){
+  const total = Object.values(vec).reduce((a,b)=>a+b,0);
+  if (total === 0) return 0;
+  let s = 0;
+  for (const [e, count] of Object.entries(vec)){
+    s += (count/total) * (target[e] || 0);
+  }
+  const richness = Math.min(1, Math.log(total + 1) / Math.log(8));
+  return s * richness;
+}
+
+/* ==============================================================
+   CATÁLOGO
+   ============================================================== */
+async function loadCatalog(){
+  if (CATALOG) return CATALOG;
+  const res = await fetch("../data/products.json");
+  if (!res.ok) throw new Error("No se pudo cargar el catálogo");
+  CATALOG = await res.json();
+  return CATALOG;
+}
+
+function eligibleProducts(){
+  return CATALOG.filter(p => {
+    if (EXCLUDED_BRANDS.has((p.b||"").toUpperCase().trim())) return false;
+    if ((p.st||"").toLowerCase() !== "ok") return false;
+    const name = (p.n||"").toLowerCase();
+    const nt   = (p.nt||"").toLowerCase();
+    if (/\bkit\b|\bpack\b|\bduo\b|\btrio\b|\bset\b/.test(name)) return false;
+    if (/\d+\s*x\s*\d+\s*ml/.test(name)) return false;
+    if (/contiene\s+\d+\s+perfumes?|el set incluye|el kit incluye/.test(nt)) return false;
+    if (/\bbody\s*mist\b|\bmist\s*body\b|\bbody\s*splash\b|\bsplash\s*body\b/.test(name)) return false;
+    return true;
+  });
+}
+
+/* ==============================================================
+   NAVEGACIÓN
+   ============================================================== */
+function show(section){
+  ["landing","quiz","result"].forEach(id => {
+    const el = document.getElementById(id);
+    if (id === section) {
+      el.classList.remove("hidden");
+      el.classList.remove("fade-in");
+      // reflow para reiniciar la animación
+      void el.offsetWidth;
+      el.classList.add("fade-in");
+    } else {
+      el.classList.add("hidden");
+    }
+  });
+  window.scrollTo({top:0, behavior:"instant"});
+}
+
+function startQuiz(){
+  ANSWERS = new Array(QUESTIONS.length).fill(null);
+  CUR_Q = 0;
+  renderQuestion();
+  show("quiz");
+}
+
+function renderQuestion(){
+  const q = QUESTIONS[CUR_Q];
+  $("#qText").textContent = q.q;
+  $("#qCur").textContent = CUR_Q + 1;
+  const pct = Math.round(((CUR_Q + 1) / QUESTIONS.length) * 100);
+  $("#qPct").textContent = pct + "%";
+  $("#progressFill").style.width = pct + "%";
+
+  const opts = $("#qOptions");
+  opts.innerHTML = "";
+  q.opts.forEach((o, i) => {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "opt";
+    if (ANSWERS[CUR_Q] === i) btn.classList.add("selected");
+    btn.innerHTML = `<span class="cn">${o.cn}</span><span class="txt">${o.txt}</span>`;
+    btn.addEventListener("click", () => selectOption(i));
+    opts.appendChild(btn);
+  });
+
+  $("#btnBack").disabled = (CUR_Q === 0);
+  $("#btnBack").style.visibility = (CUR_Q === 0) ? "hidden" : "visible";
+  $("#btnNext").disabled = (ANSWERS[CUR_Q] === null);
+  $("#btnNext").textContent = (CUR_Q === QUESTIONS.length - 1) ? "Ver mi match" : "Siguiente";
+}
+
+function selectOption(i){
+  ANSWERS[CUR_Q] = i;
+  const opts = document.querySelectorAll(".opt");
+  opts.forEach((el, idx) => el.classList.toggle("selected", idx === i));
+  $("#btnNext").disabled = false;
+  // Vibration táctil sutil en móviles compatibles
+  if (navigator.vibrate) navigator.vibrate(15);
+}
+
+function nextQuestion(){
+  if (ANSWERS[CUR_Q] === null) return;
+  if (CUR_Q < QUESTIONS.length - 1){
+    CUR_Q++;
+    renderQuestion();
+  } else {
+    computeAndShowResult();
+  }
+}
+
+function backQuestion(){
+  if (CUR_Q > 0){
+    CUR_Q--;
+    renderQuestion();
+  }
+}
+
+/* ==============================================================
+   CÁLCULO DEL RESULTADO
+   ============================================================== */
+async function computeAndShowResult(){
+  $("#loading").classList.remove("hidden");
+  document.getElementById("quiz").classList.add("hidden");
+
+  try {
+    await loadCatalog();
+
+    // Sumar puntos por elemento
+    const balance = {wood:0,fire:0,earth:0,metal:0,water:0};
+    QUESTIONS.forEach((q, qi) => {
+      const ans = ANSWERS[qi];
+      if (ans !== null){
+        balance[q.opts[ans].elem]++;
+      }
+    });
+
+    // Dominante y carencia
+    const sorted = Object.entries(balance).sort((a,b) => b[1] - a[1]);
+    const dominant = sorted[0][0];
+    // "missing" = el elemento con menos puntos (posiblemente 0)
+    const minVal = sorted[sorted.length - 1][1];
+    const missing = sorted.filter(e => e[1] === minVal).map(e => e[0])[0];
+
+    // Nutridor: la MADRE del faltante (elemento que lo genera)
+    let nourisher = null;
+    for (const [mother, child] of Object.entries(GEN)){
+      if (child === missing) { nourisher = mother; break; }
+    }
+
+    // Vector objetivo: prioridad a lo faltante + boost a su madre
+    const target = {};
+    const max = sorted[0][1];
+    for (const [e, count] of Object.entries(balance)){
+      target[e] = (max - count) + 1;
+    }
+    if (nourisher) target[nourisher] = (target[nourisher] || 0) + 2;
+
+    // Rankear productos
+    const perfumes = eligibleProducts();
+    const scored = perfumes.map(p => {
+      const vec = noteVectorFor(p.nt || "");
+      const total = Object.values(vec).reduce((a,b) => a+b, 0);
+      if (total === 0) return null;
+      const s = affinity(vec, target);
+      return { p, vec, score: s };
+    }).filter(Boolean);
+
+    scored.sort((a,b) => b.score - a.score);
+    const top = scored.slice(0, 5);
+
+    renderResult({ balance, dominant, missing, nourisher, top });
+    $("#loading").classList.add("hidden");
+    show("result");
+  } catch(err){
+    $("#loading").classList.add("hidden");
+    alert("Ups, algo falló cargando el catálogo. Recargá la página.");
+    console.error(err);
+    show("landing");
+  }
+}
+
+/* ==============================================================
+   RENDER DEL RESULTADO
+   ============================================================== */
+function renderResult(r){
+  const { dominant, missing, nourisher, top } = r;
+  const dom = ELEMENTS[dominant];
+  const mis = ELEMENTS[missing];
+
+  $("#rDomName").textContent = dom.es;
+  $("#rMissName").textContent = mis.es;
+
+  $("#rDomCn").textContent = dom.cn;
+  $("#rDomName2").textContent = dom.es;
+  $("#rDomDesc").textContent = dom.desc;
+
+  $("#rMissCn").textContent = mis.cn;
+  $("#rMissName2").textContent = mis.es;
+  $("#rMissDesc").textContent = mis.desc;
+
+  // Lectura poética
+  let reading = `Tu energía natural es <strong>${dom.es}</strong> — ${dom.desc.toLowerCase()}`;
+  reading += ` Hoy tu cuerpo pide <strong>${mis.es}</strong>: aromas ${mis.scent}.`;
+  if (nourisher){
+    reading += ` Un toque de <strong>${ELEMENTS[nourisher].es}</strong> (${ELEMENTS[nourisher].scent}) sostiene esa carencia.`;
+  }
+  $("#rReading").innerHTML = reading;
+
+  // Top perfumes
+  const list = $("#picksList");
+  list.innerHTML = "";
+  top.forEach((x, idx) => {
+    const p = x.p;
+    const cleanName = (p.n||"").replace(new RegExp("^"+p.b+"\\s*-\\s*","i"), "").trim();
+    const sortedElems = Object.entries(x.vec).sort((a,b)=>b[1]-a[1]).filter(e=>e[1]>0).slice(0,3);
+    const tags = sortedElems.map(([e]) => `<span class="p-tag ${e}">${ELEMENTS[e].es}</span>`).join("");
+    list.insertAdjacentHTML("beforeend", `
+      <div class="pick">
+        <div class="p-img">${p.i ? `<img src="${p.i}" alt="" loading="lazy">` : ""}</div>
+        <div>
+          <div class="p-num">N.º 0${idx+1}</div>
+          <div class="p-brand">${p.b || ""}</div>
+          <div class="p-name">${cleanName}</div>
+          <div class="p-notes">${p.nt || "Sin notas cargadas."}</div>
+          <div class="p-tags">${tags}</div>
+        </div>
+      </div>
+    `);
+  });
+
+  // WhatsApp link con contexto
+  const topNames = top.map((x, i) => `${i+1}. ${(x.p.b||"")} — ${(x.p.n||"").replace(new RegExp("^"+x.p.b+"\\s*-\\s*","i"), "")}`).join("\n");
+  const waText = `${WHATSAPP_TEXT}\n\nMi perfil: ${dom.es} dominante, necesito ${mis.es}.\n\nMis recomendaciones:\n${topNames}`;
+  const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(waText)}`;
+  $("#waLink").href = waUrl;
+}
+
+/* ==============================================================
+   INIT
+   ============================================================== */
+document.addEventListener("DOMContentLoaded", () => {
+  $("#btnStart").addEventListener("click", startQuiz);
+  $("#btnNext").addEventListener("click", nextQuestion);
+  $("#btnBack").addEventListener("click", backQuestion);
+  $("#btnRestart").addEventListener("click", () => show("landing"));
+
+  // Precargar catálogo para el contador y velocidad
+  loadCatalog().then(() => {
+    const count = eligibleProducts().length;
+    $("#fPerfumesCount").textContent = `${count} perfumes`;
+  }).catch(() => {
+    $("#fPerfumesCount").textContent = "Perfumes del catálogo";
+  });
+});
+</script>
+</body>
+</html>
