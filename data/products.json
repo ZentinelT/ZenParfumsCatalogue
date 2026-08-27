@@ -1642,13 +1642,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Confidential Private Gold | EDP",
     "s": "100ml",
-    "p": 57400,
+    "p": 57500,
     "c": "arabes",
-    "g": "mujer",
+    "g": "unisex",
     "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_814506-MLA99019718174_112025-F.webp",
     "nt": "Salida durazno, maracuya, pera, frambuesa, casis (grosellero negro) Notas de corazón: lirio de los valles Notas de fondo: almizcle, vainilla, sándalo, pachulí, heliotropo",
-    "p1": "$57.400"
+    "p1": "$57.500"
   },
   {
     "id": 2109,
@@ -1892,7 +1892,7 @@
     "p": 80900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_630271-MLA105995812123_012026-F.webp",
     "nt": "Salida Mandarina, bergamota Notas de corazón: Tuberosa, jazmín, rosa Notas de fondo: Vainilla, haba tonka, Amberwood, mirra, Benjuí, Akigalawood",
     "p1": "$80.900"
@@ -2282,7 +2282,7 @@
     "p": 52700,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_840394-MLA90566438307_082025-F.webp",
     "nt": "Salida Bergamota, pimienta, especias Notas de corazón: Caramelo, Especias, cedro Notas de fondo: Ámbar, maderas, almizcle, vainilla",
     "p1": "$52.700"
@@ -4245,7 +4245,7 @@
     "p": 191300,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_772491-MLA86680521420_062025-F.webp",
     "nt": "Salida Lavanda, pomelo, Baya de enebro Notas de corazón: Regaliz negro, azafrán, flor de azahar Notas de fondo: Vainilla, maderas, vetiver",
     "p1": "$191.300"
@@ -4254,14 +4254,14 @@
     "id": 2310,
     "b": "CAROLINA HERRERA",
     "n": "CAROLINA HERRERA - Bad Boy | Parfum",
-    "s": "100ml",
-    "p": 195100,
+    "s": "150ml",
+    "p": 264000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_NQ_NP_2X_755315-MLA90271088154_082025-F.webp",
+    "i": "https://http2.mlstatic.com/D_Q_NP_858573-MLA50334233529_062022-F.webp",
     "nt": "Salida Cannabis, toronja Notas de corazón: Pimienta negra, geranio, cacao Notas de fondo: Cuero, vetiver, sándalo",
-    "p1": "$195.100"
+    "p1": "$264.000"
   },
   {
     "id": 2311,
@@ -4280,14 +4280,14 @@
     "id": 2312,
     "b": "DOLCE & GABBANA",
     "n": "DOLCE & GABBANA - Light Blue Pour Homme | EDT",
-    "s": "100ml",
-    "p": 154800,
+    "s": "125ml",
+    "p": 158400,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_NQ_NP_2X_729364-MLA85814401347_062025-F.webp",
+    "i": "https://http2.mlstatic.com/D_Q_NP_891387-MLA47614374179_092021-F.webp",
     "nt": "Salida Pomelo, bergamota, mandarina, enebro Notas de corazón: Pimienta, romero, rosa Notas de fondo: Almizcle, incienso, musgo de roble",
-    "p1": "$154.800"
+    "p1": "$158.400"
   },
   {
     "id": 2313,
@@ -5701,7 +5701,7 @@
     "p": 101000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "ok",
     "i": "https://http2.mlstatic.com/D_NQ_NP_2X_833315-MLA90918939664_082025-F.webp",
     "nt": "Salida canela, nuez moscada, neroli Notas de corazón: malvavisco, nardos, flor de azahar del naranjo Notas de fondo: algodon de azúcar, vainilla, haba tonka",
     "p1": "$101.000"

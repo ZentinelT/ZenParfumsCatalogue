@@ -1916,6 +1916,38 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Confidential Private Gold | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Frutal Floral / Almizcle Vainilla",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes frutales almizclados más icónicos, elogiados y potentes del mundo. Captura a la perfección ese ADN inconfundible de \"frutas exóticas maduras flotando sobre una nube de almizcle blanco limpio y terroso\" (en la misma sintonía de éxitos globales como Erba Pura), ofreciendo una alternativa de lujo absoluto con una presentación imponente y un rendimiento Beast Mode idéntico al nicho original a una fracción de su costo.",
+    "notas_salida": "durazno, maracuya, pera, frambuesa, casis (grosellero negro)",
+    "notas_corazon": "lirio de los valles",
+    "notas_fondo": "almizcle, vainilla, sándalo, pachulí, heliotropo",
+    "descripcion": "La definición en perfume del verano eterno, la opulencia frutal y la estela más elogiada del mercado. Lattafa Confidential Private Gold arranca con un impacto masivo y jugoso de maracuyá y durazno dulce. En cuestión de minutos despliega su faceta más adictiva: un corazón almizclado que aporta una sensación de limpieza lujosa. Su evolución final es un secado tibio, avainillado y profundamente almizclado, dejando un rastro flotante sumamente seductor, radiante y de una presencia imposible de ignorar.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Salidas casuales, eventos sociales, fiestas, uso diario llamativo o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (9h a 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado luminoso",
+    "perfil_usuario": "Mujeres 20-40 años. Femeninas, accesibles.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex (Predominantemente femenino por su perfil dulce y frutal, pero adorado por quienes buscan estelas imponentes). Diseñado para personas seguras de sí mismas, carismáticas y amantes de las fragancias dulces, intensas y que proyectan alegría, éxito y exclusividad.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.32172.2x.avif",
+    "inspirado_en_nombre": "Kirkè de Tiziana Terenzi",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes frutales almizclados más icónicos, elogiados y potentes del mundo. Captura a la perfección ese ADN inconfundible de \"frutas exóticas maduras flotando sobre una nube de almizcle blanco limpio y terroso\" (en la misma sintonía de éxitos globales como Erba Pura), ofreciendo una alternativa de lujo absoluto con una presentación imponente y un rendimiento Beast Mode idéntico al nicho original a una fracción de su costo.",
+        "nombre": "Kirkè de Tiziana Terenzi",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.32172.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Tharwah Silver | EDP",
     "genero": "Masculino",
     "familia_olfativa": "Aromático, Verde, Fesco especiado, Amaderado, Lavanda, Cítrico, Especiado suave",
@@ -12565,6 +12597,36 @@
     ]
   },
   {
+    "nombre_completo": "CAROLINA HERRERA - Bad Boy | Parfum",
+    "marca": "Carolina Herrera — Venezuela/España",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Especiado / Cuero Dark",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Cannabis, toronja",
+    "notas_corazon": "Pimienta negra, geranio, cacao",
+    "notas_fondo": "Cuero, vetiver, sándalo",
+    "descripcion": "Rebelde y audaz. Cannabis verde con cuero oscuro y pimienta. El malo que huele bien. Intenso, provocador y muy masculino.",
+    "momento_dia": "Noche / Tarde",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas, citas audaces",
+    "clima": "Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Azul eléctrico",
+    "perfil_usuario": "Hombres 20-40 años. Rebeldes, audaces, modernos.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres Rebeldes, audaces, modernos.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - Qimmah for Men | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -12633,35 +12695,6 @@
       {
         "texto": "Creed Centaurus (vía Royal Taboo; comparte DNA con PdM Layton)",
         "nombre": "Creed Centaurus",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Carolina Herrera - Bad Boy | Parfum | 100 ml",
-    "marca": "Carolina Herrera — Venezuela/España",
-    "familia_olfativa": "Aromático Especiado / Cuero Dark",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Cannabis, toronja",
-    "notas_corazon": "Pimienta negra, geranio, cacao",
-    "notas_fondo": "Cuero, vetiver, sándalo",
-    "descripcion": "Rebelde y audaz. Cannabis verde con cuero oscuro y pimienta. El malo que huele bien. Intenso, provocador y muy masculino.",
-    "momento_dia": "Noche / Tarde",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, citas audaces",
-    "clima": "Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Azul eléctrico",
-    "perfil_usuario": "Hombres 20-40 años. Rebeldes, audaces, modernos.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Rebeldes, audaces, modernos.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -15663,37 +15696,6 @@
       {
         "texto": "Creación original",
         "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Confidential Private Gold | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "familia_olfativa": "Frutal Floral / Almizcle Vainilla",
-    "inspirado_en": "Tiziana Terenzi Kirke (DNA frutal-pera-pachulí)",
-    "notas_salida": "durazno, maracuya, pera, frambuesa, casis (grosellero negro)",
-    "notas_corazon": "lirio de los valles",
-    "notas_fondo": "almizcle, vainilla, sándalo, pachulí, heliotropo",
-    "descripcion": "Frutal-floral femenino sobre base almizclada vainillada. Accesible y agradable.",
-    "momento_dia": "Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, salidas",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Dorado",
-    "perfil_usuario": "Mujeres 20-40 años. Femeninas, accesibles.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Mujeres Femeninas, accesibles.",
-    "inspirado_en_nombre": "Tiziana Terenzi Kirke",
-    "inspiraciones": [
-      {
-        "texto": "Tiziana Terenzi Kirke (DNA frutal-pera-pachulí)",
-        "nombre": "Tiziana Terenzi Kirke",
         "imagen_url": ""
       }
     ]
