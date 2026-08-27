@@ -682,12 +682,12 @@ body{
 
   <!-- ==================== RESULT ==================== -->
   <section id="result" class="hidden">
-    <div class="kicker">Tu perfil elemental</div>
-    <h2 class="r-title">Sos <em id="rDomName">—</em>.<br>Necesitás <em id="rMissName">—</em>.</h2>
+    <div class="kicker">Tu tendencia elemental</div>
+    <h2 class="r-title">Tendencia <em id="rDomName">—</em>.<br>Necesitás <em id="rMissName">—</em>.</h2>
 
     <div class="balance-viz">
       <div class="side dom">
-        <div class="lab">Tu esencia</div>
+        <div class="lab">Tu tendencia</div>
         <span class="cn-big" id="rDomCn">—</span>
         <div class="name" id="rDomName2">—</div>
         <div class="desc" id="rDomDesc">—</div>
@@ -1132,7 +1132,7 @@ function renderResult(r){
   $("#rMissDesc").textContent = mis.desc;
 
   // Lectura poética
-  let reading = `Tu energía natural es <strong>${dom.es}</strong> — ${dom.desc.toLowerCase()}`;
+  let reading = `En este momento tu energía tira hacia <strong>${dom.es}</strong> — ${dom.desc.toLowerCase()}`;
   reading += ` Hoy tu cuerpo pide <strong>${mis.es}</strong>: aromas ${mis.scent}.`;
   if (nourisher){
     reading += ` Un toque de <strong>${ELEMENTS[nourisher].es}</strong> (${ELEMENTS[nourisher].scent}) sostiene esa carencia.`;
