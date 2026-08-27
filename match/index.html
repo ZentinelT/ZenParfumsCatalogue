@@ -278,10 +278,10 @@ body{
 #quiz .nav{
   display:flex;
   gap:12px;
+  justify-content:flex-start;
 }
 #quiz .nav button{
-  flex:1;
-  padding:18px;
+  padding:16px 28px;
   border:none;
   font-family:var(--f-body);
   font-size:12px;
@@ -295,8 +295,8 @@ body{
   background:transparent;
   color:var(--ink-soft);
   border:1px solid var(--rule);
-  flex:0 0 40%;
 }
+#quiz .btn-back:hover{ color:var(--ink); border-color:var(--ink); }
 #quiz .btn-next{
   background:var(--ink);
   color:var(--paper);
@@ -619,7 +619,6 @@ body{
     <div class="options" id="qOptions"></div>
     <div class="nav">
       <button class="btn-back" type="button" id="btnBack">Volver</button>
-      <button class="btn-next" type="button" id="btnNext" disabled>Siguiente</button>
     </div>
   </section>
 
@@ -944,17 +943,16 @@ function renderQuestion(){
 
   $("#btnBack").disabled = (CUR_Q === 0);
   $("#btnBack").style.visibility = (CUR_Q === 0) ? "hidden" : "visible";
-  $("#btnNext").disabled = (ANSWERS[CUR_Q] === null);
-  $("#btnNext").textContent = (CUR_Q === QUESTIONS.length - 1) ? "Ver mi match" : "Siguiente";
 }
 
 function selectOption(i){
   ANSWERS[CUR_Q] = i;
   const opts = document.querySelectorAll(".opt");
   opts.forEach((el, idx) => el.classList.toggle("selected", idx === i));
-  $("#btnNext").disabled = false;
   // Vibration táctil sutil en móviles compatibles
   if (navigator.vibrate) navigator.vibrate(15);
+  // Auto-avance con pequeño delay para que se vea la selección
+  setTimeout(nextQuestion, 320);
 }
 
 function nextQuestion(){
@@ -1099,7 +1097,6 @@ function renderResult(r){
    ============================================================== */
 document.addEventListener("DOMContentLoaded", () => {
   $("#btnStart").addEventListener("click", startQuiz);
-  $("#btnNext").addEventListener("click", nextQuestion);
   $("#btnBack").addEventListener("click", backQuestion);
   $("#btnRestart").addEventListener("click", () => show("landing"));
 
