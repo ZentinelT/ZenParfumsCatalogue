@@ -1123,32 +1123,32 @@ async function computeAndShowResult(){
 
     /* Filtro duro por género: si el usuario eligió Ella o Él, EXCLUIMOS el
        opuesto. Unisex siempre entra. Con "Cualquiera" no se filtra nada. */
-    let filteredScored = scored;
+    let scoredFinal;
     if (GENDER === "F" || GENDER === "M"){
-      filteredScored = scored.filter(x => {
+      scoredFinal = scored.filter(x => {
         const g = (x.p.g || "").toLowerCase();
         if (g === "unisex" || g === "") return true;
         return GENDER === "F" ? g === "mujer" : g === "hombre";
       });
       // Pequeño bonus al mismo género vs unisex para priorizar el match exacto
-      filteredScored.forEach(x => {
+      scoredFinal.forEach(x => {
         const g = (x.p.g || "").toLowerCase();
         if ((GENDER === "F" && g === "mujer") || (GENDER === "M" && g === "hombre")){
           x.score = x.score * 1.15;
         }
       });
+    } else {
+      scoredFinal = scored;
     }
-    scored.length = 0;
-    filteredScored.forEach(x => scored.push(x));
 
-    scored.sort((a,b) => b.score - a.score);
+    scoredFinal.sort((a,b) => b.score - a.score);
 
     /* Top 15 con selección ponderada por score:
        los mejores aparecen más seguido, pero se rota entre 15 candidatos
        de alta calidad para dar variedad y distribuir mejor las ventas.
        Peso = score^2 → sesgo suave hacia los top pero con oportunidad para
        "hidden gems" cercanos. */
-    const pool = scored.slice(0, 15);
+    const pool = scoredFinal.slice(0, 15);
     const picked = [];
     const remaining = pool.slice();
     while (picked.length < 5 && remaining.length > 0){
