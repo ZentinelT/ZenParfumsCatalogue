@@ -99,6 +99,11 @@
           <svg class="sel-chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
         </div>
       </div>
+      <label class="stock-toggle" title="Ocultar perfumes sin stock">
+        <input type="checkbox" id="stockToggle" onchange="toggleOnlyStock(this.checked)">
+        <span class="stock-toggle-tk"></span>
+        <span class="stock-toggle-tx">Solo en stock</span>
+      </label>
     </div>
     <div class="pg" id="pg"></div>
     <div class="pag" id="pag"></div>

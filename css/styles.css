@@ -434,3 +434,17 @@ body[data-theme="dark"] .pm-ficha-ico:hover{background:#c89d4d !important;color:
 .fwa{bottom:20px;right:16px;width:50px;height:50px}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+
+/* Toggle "Solo en stock" */
+.stock-toggle{display:inline-flex;align-items:center;gap:8px;padding:9px 14px;font-family:var(--fb);font-size:12px;font-weight:500;letter-spacing:.04em;color:var(--gr);background:var(--w);border:1px solid var(--lg);border-radius:100px;cursor:pointer;user-select:none;transition:border-color var(--t),color var(--t)}
+.stock-toggle:hover{border-color:var(--go);color:var(--bk)}
+.stock-toggle input{position:absolute;opacity:0;pointer-events:none}
+.stock-toggle-tk{position:relative;display:inline-block;width:28px;height:16px;background:var(--lg);border-radius:100px;transition:background var(--t)}
+.stock-toggle-tk::after{content:"";position:absolute;top:2px;left:2px;width:12px;height:12px;background:var(--w);border-radius:50%;transition:transform var(--t);box-shadow:0 1px 2px rgba(0,0,0,.15)}
+.stock-toggle input:checked ~ .stock-toggle-tk{background:var(--go)}
+.stock-toggle input:checked ~ .stock-toggle-tk::after{transform:translateX(12px)}
+.stock-toggle input:checked ~ .stock-toggle-tx{color:var(--bk)}
+body[data-theme="dark"] .stock-toggle{background:var(--w);color:var(--gr)}
+body[data-theme="dark"] .stock-toggle-tk{background:var(--lg)}
+body[data-theme="dark"] .stock-toggle-tk::after{background:var(--dg)}
+@media(max-width:768px){.stock-toggle{justify-content:center;width:100%}}

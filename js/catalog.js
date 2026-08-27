@@ -1,5 +1,9 @@
 var PS = 48;
 var cFil = "todos", cSrch = "", cPg = 1, cSort = "none";
+var cOnlyStock = (function(){
+  try { var v = localStorage.getItem("zp-only-stock"); return v === null ? true : v === "1"; }
+  catch(e) { return true; }
+})();
 
 
 /* ---- SEGMENTED CONTROL FEEDBACK ---- */
@@ -57,6 +61,7 @@ function cleanName(n) {
 }
 function getList() {
   var l = PRODS.filter(function(p){ return p.c !== "accesorios"; });
+  if (cOnlyStock) l = l.filter(function(p){ return p.st !== "out"; });
   if (cFil === "hombre")       l = l.filter(function(p){ return p.g === "hombre"; });
   else if (cFil === "mujer")   l = l.filter(function(p){ return p.g === "mujer"; });
   else if (cFil === "unisex")  l = l.filter(function(p){ return p.g === "unisex"; });
@@ -323,3 +328,9 @@ function populateBrandOptions() {
   }).join("");
 }
 function onSearch(v) { cSrch = v.toLowerCase().trim(); cPg = 1; renderProds(); }
+function toggleOnlyStock(v) {
+  cOnlyStock = !!v;
+  try { localStorage.setItem("zp-only-stock", cOnlyStock ? "1" : "0"); } catch(e){}
+  cPg = 1;
+  renderProds();
+}
