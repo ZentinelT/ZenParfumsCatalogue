@@ -1081,22 +1081,25 @@ async function computeAndShowResult(){
       return { p, vec, score: s };
     }).filter(Boolean);
 
-    /* Bonus por género: si el usuario eligió F o M, favorecemos ese género y
-       unisex. Con "X" (cualquiera) no hay bonus. */
-    scored.forEach(x => {
-      const g = (x.p.g || "").toLowerCase();
-      let bonus = 1.0;
-      if (GENDER === "F"){
-        if (g === "mujer") bonus = 1.5;
-        else if (g === "unisex") bonus = 1.2;
-        else if (g === "hombre") bonus = 0.35;
-      } else if (GENDER === "M"){
-        if (g === "hombre") bonus = 1.5;
-        else if (g === "unisex") bonus = 1.2;
-        else if (g === "mujer") bonus = 0.35;
-      }
-      x.score = x.score * bonus;
-    });
+    /* Filtro duro por género: si el usuario eligió Ella o Él, EXCLUIMOS el
+       opuesto. Unisex siempre entra. Con "Cualquiera" no se filtra nada. */
+    let filteredScored = scored;
+    if (GENDER === "F" || GENDER === "M"){
+      filteredScored = scored.filter(x => {
+        const g = (x.p.g || "").toLowerCase();
+        if (g === "unisex" || g === "") return true;
+        return GENDER === "F" ? g === "mujer" : g === "hombre";
+      });
+      // Pequeño bonus al mismo género vs unisex para priorizar el match exacto
+      filteredScored.forEach(x => {
+        const g = (x.p.g || "").toLowerCase();
+        if ((GENDER === "F" && g === "mujer") || (GENDER === "M" && g === "hombre")){
+          x.score = x.score * 1.15;
+        }
+      });
+    }
+    scored.length = 0;
+    filteredScored.forEach(x => scored.push(x));
 
     scored.sort((a,b) => b.score - a.score);
 
