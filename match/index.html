@@ -405,13 +405,24 @@ body{
   padding:16px 0;
   border-top:1px solid var(--rule);
   align-items:center;
+  text-decoration:none;
+  color:inherit;
+  transition:opacity .18s;
+  cursor:pointer;
 }
+.pick:hover{ opacity:.85; }
+.pick:active{ opacity:.6; }
 .pick:last-of-type{ border-bottom:1px solid var(--rule); }
 .pick .p-num{
   font-size:10px;
   letter-spacing:1.5px;
   color:var(--cinnabar);
   margin-bottom:3px;
+}
+.pick .p-go{
+  color:var(--ink-soft);
+  font-size:9px;
+  letter-spacing:1.2px;
 }
 .pick .p-img{
   aspect-ratio:1/1;
@@ -715,7 +726,7 @@ const QUESTIONS = [
     q: "¿Qué aroma te tira sin pensarlo?",
     opts: [
       { cn:"木", txt:"Algo verde, tipo bosque después de lluvia", elem:"wood" },
-      { cn:"火", txt:"Algo con especias, medio prohibido", elem:"fire" },
+      { cn:"火", txt:"Algo con especias, con carácter", elem:"fire" },
       { cn:"土", txt:"Algo dulce, tipo abrazo cremoso", elem:"earth" },
       { cn:"金", txt:"Algo floral, elegante, refinado", elem:"metal" },
       { cn:"水", txt:"Algo fresco, tipo brisa marina", elem:"water" }
@@ -735,7 +746,7 @@ const QUESTIONS = [
     q: "¿Qué te pide el cuerpo hoy?",
     opts: [
       { cn:"木", txt:"Que se destrabe algo", elem:"wood" },
-      { cn:"火", txt:"Que se me prenda la mecha", elem:"fire" },
+      { cn:"火", txt:"Activarme", elem:"fire" },
       { cn:"土", txt:"Un mimo, bajar un cambio", elem:"earth" },
       { cn:"金", txt:"Claridad, poder decidir", elem:"metal" },
       { cn:"水", txt:"Silencio, recogerme", elem:"water" }
@@ -1072,16 +1083,16 @@ function renderResult(r){
     const sortedElems = Object.entries(x.vec).sort((a,b)=>b[1]-a[1]).filter(e=>e[1]>0).slice(0,3);
     const tags = sortedElems.map(([e]) => `<span class="p-tag ${e}">${ELEMENTS[e].es}</span>`).join("");
     list.insertAdjacentHTML("beforeend", `
-      <div class="pick">
+      <a class="pick" href="/?product=${p.id}">
         <div class="p-img">${p.i ? `<img src="${p.i}" alt="" loading="lazy">` : ""}</div>
         <div>
-          <div class="p-num">N.º 0${idx+1}</div>
+          <div class="p-num">N.º 0${idx+1} · <span class="p-go">Ver en tienda →</span></div>
           <div class="p-brand">${p.b || ""}</div>
           <div class="p-name">${cleanName}</div>
           <div class="p-notes">${p.nt || "Sin notas cargadas."}</div>
           <div class="p-tags">${tags}</div>
         </div>
-      </div>
+      </a>
     `);
   });
 

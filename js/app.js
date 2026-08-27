@@ -25,5 +25,21 @@ document.addEventListener("DOMContentLoaded", function() {
     renderCart();
     renderWish();
     document.querySelectorAll(".rev").forEach(function(el){ revObs.observe(el); });
+
+    /* Deep-link: /?product=ID abre el modal del producto */
+    try {
+      var params = new URLSearchParams(window.location.search);
+      var pid = params.get("product");
+      if (pid && typeof openProduct === "function") {
+        var id = parseInt(pid, 10);
+        if (!isNaN(id)) {
+          setTimeout(function(){
+            var cat = document.getElementById("catalogo");
+            if (cat) cat.scrollIntoView({behavior:"smooth", block:"start"});
+            openProduct(id);
+          }, 200);
+        }
+      }
+    } catch(e) {}
   });
 });
