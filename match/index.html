@@ -1099,7 +1099,28 @@ async function computeAndShowResult(){
     });
 
     scored.sort((a,b) => b.score - a.score);
-    const top = scored.slice(0, 5);
+
+    /* Top 15 con selección ponderada por score:
+       los mejores aparecen más seguido, pero se rota entre 15 candidatos
+       de alta calidad para dar variedad y distribuir mejor las ventas.
+       Peso = score^2 → sesgo suave hacia los top pero con oportunidad para
+       "hidden gems" cercanos. */
+    const pool = scored.slice(0, 15);
+    const picked = [];
+    const remaining = pool.slice();
+    while (picked.length < 5 && remaining.length > 0){
+      const totalW = remaining.reduce((s, x) => s + (x.score * x.score), 0);
+      let r = Math.random() * totalW;
+      let idx = 0;
+      for (let j = 0; j < remaining.length; j++){
+        r -= remaining[j].score * remaining[j].score;
+        if (r <= 0){ idx = j; break; }
+      }
+      picked.push(remaining[idx]);
+      remaining.splice(idx, 1);
+    }
+    picked.sort((a, b) => b.score - a.score);
+    const top = picked;
 
     renderResult({ balance, dominant, missing, nourisher, top });
     $("#loading").classList.add("hidden");
