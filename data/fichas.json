@@ -60,6 +60,37 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Victorioso | EDP",
+    "marca": "MAISON ALHAMBRA",
+    "genero": "Masculino",
+    "familia_olfativa": "Marino, Aromático, Fesco especiado, Ámbar, Amaderado, Cítrico, Musgoso, Salado, Terrosos, Animálico",
+    "inspirado_en": "Réplica espectacular y súper fiel del perfume que redefinió los aromas masculinos frescos y seductores de la última década. Captura a la perfección ese contraste adictivo entre una ráfaga marina helada con pomelo y un fondo amaderado ambarco que huele a triunfo, energía y sensualidad casual.",
+    "notas_salida": "notas marinas, bergamota",
+    "notas_corazon": "hoja de laurel, jazmin",
+    "notas_fondo": "ambar gris, musgo de roble, madera de gaiac, pachuli",
+    "descripcion": "La definición líquida de la victoria, la energía juvenil y el carisma magnético. Victorioso abre con un estallido masivo de notas marinas heladas y el chispazo amargo del pomelo jugoso, recreando una descarga de frescura pura. En su corazón, la fragancia se vuelve sumamente interesante gracias al carácter herbal y ganador de la hoja de laurel combinada con la pulcritud del jazmín. Su evolución final en la piel es un secado súper adictivo donde el ámbar gris y la madera de guayaco se fusionan, dejando una estela flotante, ultra limpia, masculina y sumamente atractiva que evoca éxito y seguridad.",
+    "momento_dia": "Día",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario de firma, post-gimnasio, salidas casuales con amigos, facultad o trabajo, y boliches o bares en noches cálidas. Es el todoterreno definitivo",
+    "clima": "Calor extremo / Cálido / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Larga (7h+ - 8h+)",
+    "estela": "Intensa",
+    "color_liquido": "Translúcido con reflejos azulados/grisáceos sutiles",
+    "rango_edad_min": 15,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Diseñado exclusivamente para hombres activos, modernos, dinámicos y con una facha casual impecable. Es el perfume firma perfecto para el tipo que va al gimnasio, sale a correr, trabaja o va a la facultad y quiere oler riquísimo, limpio y sexy las 24 horas del día. Un aroma todoterreno que jamás falla y que se llena de cumplidos femeninos de forma automática.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18471.2x.avif",
+    "inspirado_en_nombre": "Paco Rabanne Invictus",
+    "inspiraciones": [
+      {
+        "texto": "Réplica espectacular y súper fiel del perfume que redefinió los aromas masculinos frescos y seductores de la última década. Captura a la perfección ese contraste adictivo entre una ráfaga marina helada con pomelo y un fondo amaderado ambarco que huele a triunfo, energía y sensualidad casual.",
+        "nombre": "Paco Rabanne Invictus",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18471.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "RAYHAAN - Wolf | EDP",
     "marca": "RAYHAAN",
     "genero": "Masculino",
@@ -103,36 +134,6 @@
     "proyeccion": "Fuerte",
     "duracion": "Larga (6-8 horas)",
     "inspiraciones": []
-  },
-  {
-    "nombre_completo": "KHADLAJ - Island | Extrait De Parfum",
-    "genero": "Unisex",
-    "familia_olfativa": "Dulce, Amaderado, Coco, Ámbar, Afrutados, Avainillado, Tropical, Atalcado, Iris, Fresco",
-    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume tropical y nocturno más codiciado, elogiado y viral del mundo. Captura a la perfección ese ADN inconfundible de \"piña fresca fundida con un coco cremoso y un fondo avainillado-amaderado de haba tonka\", ofreciendo una alternativa con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su valor original.",
-    "notas_salida": "piña, iris, jengibre, cipres",
-    "notas_corazon": "coco, maderas",
-    "notas_fondo": "haba tonka, sandalo, ambar, ambar gris",
-    "descripcion": "La definición en perfume de la sensualidad tropical, el magnetismo nocturno y la frescura desinhibida. Khadlaj Island arranca con un impacto vibrante y original de piña, iris y jengibre. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón donde el coco cremoso se funde con maderas finas. Su evolución final es un secado cálido, avainillado y ambarado, dejando un rastro flotante muy atractivo, moderno y de una presencia inolvidable.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Verano / Primavera / Otoño",
-    "ocasion": "Salidas nocturnas, fiestas, encuentros casuales, días de playa/piscina o cuando el objetivo sea proyectar una imagen atractiva, juvenil y magnética",
-    "clima": "Cálido / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Sobresaliente (6h a 8h+)",
-    "estela": "Moderada",
-    "color_liquido": "Ámbar claro luminoso",
-    "rango_edad_min": 16,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Unisex (Predominantemente masculino por su perfil enérgico y amaderado, pero muy seductor). Diseñado para personas seguras de sí mismas, audaces y amantes de las fragancias dulces, tropicales y con carácter. Es la elección perfecta para quienes buscan un aroma de firma versátil para destacar tanto de día como de noche.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif",
-    "inspirado_en_nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume tropical y nocturno más codiciado, elogiado y viral del mundo. Captura a la perfección ese ADN inconfundible de \"piña fresca fundida con un coco cremoso y un fondo avainillado-amaderado de haba tonka\", ofreciendo una alternativa con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su valor original.",
-        "nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif"
-      }
-    ]
   },
   {
     "nombre_completo": "Rayhaan - Lion | EDP | 100ml",
@@ -250,39 +251,6 @@
     ]
   },
   {
-    "nombre_completo": "AFNAN - 9pm Pour Femme | EDP",
-    "marca": "Afnan Perfumes — Dubai, UAE",
-    "anno": "2022",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral Frutal / Oriental Dulce Femenino",
-    "inspirado_en": "Réplica espectacular y ultra fiel de una de las fragancias de ultra nicho más costosas, exóticas y deseadas del planeta. Captura a la perfección la esencia del arte flamenco: un perfume intenso, pasional y dramático que contrasta una explosión adictiva de frambuesas y manzanas con un corazón lujoso de iris y una base boscosa e imponente de pino y ciprés. Un elíxir carísimo que grita estatus y sensualidad desmedida.",
-    "notas_salida": "Frambuesa, manzana, violeta, naranja",
-    "notas_corazon": "Rosa, iris, jazmín, peonia",
-    "notas_fondo": "cipres, cedro, pino, ámbar",
-    "descripcion": "La definición perfecta de la pasión, la sensualidad indomable y el lujo de autor. Afnan 9pm Pour Femme abre con una caricia deliciosamente jugosa de frambuesa y manzana madura, envuelta en el toque aterciopelado de la violeta. En su corazón, la fragancia estalla en un buqué de alta sastrería donde el iris atalcado y la rosa imponen una elegancia imponente y aristocrática. Su verdadero secreto se revela en el secado: un despliegue majestuoso de pino y ciprés resinosos envueltos en la calidez magnética del ámbar, dejando en el aire una estela flotante, densa, carísima y con un magnetismo oscuro que resulta completamente irresistible.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Citas románticas de alto impacto, salidas nocturnas VIP, fiestas exclusivas, cenas de gala o cualquier situación donde el objetivo absoluto sea seducir, oler costosa y ser el centro de atención",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Atómico (9h+ - 10h+)",
-    "estela": "Intensa",
-    "color_liquido": "Translúcido con reflejos dorados sutiles",
-    "perfil_usuario": "Mujeres 18-35 años. Amantes de los frutales muy dulces. Probar antes de comprar.",
-    "rango_edad_min": 22,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Diseñado para mujeres decididas, magnéticas, seductoras y elegantes que buscan un perfume de firma nocturno con muchísima personalidad. Es el aroma ideal para quienes aman los aromas dulces y frutales pero exigen una evolución madura, misteriosa, alejada de lo comercial y con una clase que denote éxito y facha implacable.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.44233.2x.avif",
-    "inspirado_en_nombre": "Flamenco de Ramon Monegal",
-    "inspiraciones": [
-      {
-        "texto": "Réplica espectacular y ultra fiel de una de las fragancias de ultra nicho más costosas, exóticas y deseadas del planeta. Captura a la perfección la esencia del arte flamenco: un perfume intenso, pasional y dramático que contrasta una explosión adictiva de frambuesas y manzanas con un corazón lujoso de iris y una base boscosa e imponente de pino y ciprés. Un elíxir carísimo que grita estatus y sensualidad desmedida.",
-        "nombre": "Flamenco de Ramon Monegal",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.44233.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Kids Happy Time | EDP",
     "genero": "Unisex",
     "familia_olfativa": "Floral, Tropical, Lactonico, Coco, Floral blanco, Cítrico, Almizclado, Dulce",
@@ -369,6 +337,39 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "AFNAN - 9pm Pour Femme Purple | EDP",
+    "marca": "Afnan Perfumes — Dubai, UAE",
+    "anno": "2022",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Frutal / Oriental Dulce Femenino",
+    "inspirado_en": "Réplica espectacular y ultra fiel de una de las fragancias de ultra nicho más costosas, exóticas y deseadas del planeta. Captura a la perfección la esencia del arte flamenco: un perfume intenso, pasional y dramático que contrasta una explosión adictiva de frambuesas y manzanas con un corazón lujoso de iris y una base boscosa e imponente de pino y ciprés. Un elíxir carísimo que grita estatus y sensualidad desmedida.",
+    "notas_salida": "Frambuesa, manzana, violeta, naranja",
+    "notas_corazon": "Rosa, iris, jazmín, peonia",
+    "notas_fondo": "cipres, cedro, pino, ámbar",
+    "descripcion": "La definición perfecta de la pasión, la sensualidad indomable y el lujo de autor. Afnan 9pm Pour Femme abre con una caricia deliciosamente jugosa de frambuesa y manzana madura, envuelta en el toque aterciopelado de la violeta. En su corazón, la fragancia estalla en un buqué de alta sastrería donde el iris atalcado y la rosa imponen una elegancia imponente y aristocrática. Su verdadero secreto se revela en el secado: un despliegue majestuoso de pino y ciprés resinosos envueltos en la calidez magnética del ámbar, dejando en el aire una estela flotante, densa, carísima y con un magnetismo oscuro que resulta completamente irresistible.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas de alto impacto, salidas nocturnas VIP, fiestas exclusivas, cenas de gala o cualquier situación donde el objetivo absoluto sea seducir, oler costosa y ser el centro de atención",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Atómico (9h+ - 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Translúcido con reflejos dorados sutiles",
+    "perfil_usuario": "Mujeres 18-35 años. Amantes de los frutales muy dulces. Probar antes de comprar.",
+    "rango_edad_min": 22,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Diseñado para mujeres decididas, magnéticas, seductoras y elegantes que buscan un perfume de firma nocturno con muchísima personalidad. Es el aroma ideal para quienes aman los aromas dulces y frutales pero exigen una evolución madura, misteriosa, alejada de lo comercial y con una clase que denote éxito y facha implacable.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.44233.2x.avif",
+    "inspirado_en_nombre": "Flamenco de Ramon Monegal",
+    "inspiraciones": [
+      {
+        "texto": "Réplica espectacular y ultra fiel de una de las fragancias de ultra nicho más costosas, exóticas y deseadas del planeta. Captura a la perfección la esencia del arte flamenco: un perfume intenso, pasional y dramático que contrasta una explosión adictiva de frambuesas y manzanas con un corazón lujoso de iris y una base boscosa e imponente de pino y ciprés. Un elíxir carísimo que grita estatus y sensualidad desmedida.",
+        "nombre": "Flamenco de Ramon Monegal",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.44233.2x.avif"
       }
     ]
   },
@@ -702,37 +703,6 @@
     ]
   },
   {
-    "nombre_completo": "MAISON ALHAMBRA - Victorioso | EDP",
-    "marca": "MAISON ALHAMBRA",
-    "genero": "Masculino",
-    "familia_olfativa": "Marino, Aromático, Fesco especiado, Ámbar, Amaderado, Cítrico, Musgoso, Salado, Terrosos, Animálico",
-    "inspirado_en": "Réplica espectacular y súper fiel del perfume que redefinió los aromas masculinos frescos y seductores de la última década. Captura a la perfección ese contraste adictivo entre una ráfaga marina helada con pomelo y un fondo amaderado ambarco que huele a triunfo, energía y sensualidad casual.",
-    "notas_salida": "notas marinas, bergamota",
-    "notas_corazon": "hoja de laurel, jazmin",
-    "notas_fondo": "ambar gris, musgo de roble, madera de gaiac, pachuli",
-    "descripcion": "La definición líquida de la victoria, la energía juvenil y el carisma magnético. Victorioso abre con un estallido masivo de notas marinas heladas y el chispazo amargo del pomelo jugoso, recreando una descarga de frescura pura. En su corazón, la fragancia se vuelve sumamente interesante gracias al carácter herbal y ganador de la hoja de laurel combinada con la pulcritud del jazmín. Su evolución final en la piel es un secado súper adictivo donde el ámbar gris y la madera de guayaco se fusionan, dejando una estela flotante, ultra limpia, masculina y sumamente atractiva que evoca éxito y seguridad.",
-    "momento_dia": "Día",
-    "estacion": "Todo el año",
-    "ocasion": "Uso diario de firma, post-gimnasio, salidas casuales con amigos, facultad o trabajo, y boliches o bares en noches cálidas. Es el todoterreno definitivo",
-    "clima": "Calor extremo / Cálido / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Larga (7h+ - 8h+)",
-    "estela": "Intensa",
-    "color_liquido": "Translúcido con reflejos azulados/grisáceos sutiles",
-    "rango_edad_min": 15,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Diseñado exclusivamente para hombres activos, modernos, dinámicos y con una facha casual impecable. Es el perfume firma perfecto para el tipo que va al gimnasio, sale a correr, trabaja o va a la facultad y quiere oler riquísimo, limpio y sexy las 24 horas del día. Un aroma todoterreno que jamás falla y que se llena de cumplidos femeninos de forma automática.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18471.2x.avif",
-    "inspirado_en_nombre": "Paco Rabanne Invictus",
-    "inspiraciones": [
-      {
-        "texto": "Réplica espectacular y súper fiel del perfume que redefinió los aromas masculinos frescos y seductores de la última década. Captura a la perfección ese contraste adictivo entre una ráfaga marina helada con pomelo y un fondo amaderado ambarco que huele a triunfo, energía y sensualidad casual.",
-        "nombre": "Paco Rabanne Invictus",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18471.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Qaaed | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -1026,37 +996,6 @@
         "texto": "Réplica de altísima fidelidad que captura a la perfección ese ADN inconfundible de \"salida chispeante especiada que evoluciona hacia un fondo amaderado oscuro ahumado por el incienso y endulzado por la haba tonka\", ofreciendo una alternativa de lujo absoluto con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su costo original.",
         "nombre": "Y Le Parfum de Yves Saint Laurent",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64718.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Angham Edp",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Floral Vainilla / Lavanda Dulce",
-    "inspirado_en": "Réplica magnífica, suntuosa y sumamente fiel de una de las fragancias gourmand de diseñador más aclamadas, virales y codiciadas del mercado internacional. Captura a la perfección ese codiciado ADN de \"vainilla gourmand refinada con un toque aromático de lavanda y jengibre picante\", inyectándole la potencia, densidad y fijación características de la perfumería árabe de alta gama.",
-    "notas_salida": "jengibre, mandarina, pimienta rosa",
-    "notas_corazon": "lavanda, praliné, cacao, jazmín",
-    "notas_fondo": "vainilla, ámbar, almizcle",
-    "descripcion": "La definición en perfume de la calidez, la elegancia gourmand y la adicción aromática. Lattafa Angham abre con un impacto efervescente y vigorizante de jengibre picante y mandarina jugosa sazonados por pimienta rosa. En cuestión de minutos despliega su faceta más elogiada: un corazón hipnótico donde la lavanda fina se funde con la cremosidad del cacao, el praliné tostado y el jazmín en una armonía perfecta. Su evolución final en la piel es un secado majestuoso, tibio y profundamente sexy, donde la riqueza de la vainilla se entrelaza con la calidez del ámbar y la suavidad del almizcle, dejando un rastro flotante que transmite sofisticación, confort de alto nivel y una atracción imponente.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Citas románticas, salidas nocturnas, eventos ejecutivos, reuniones formales o momentos donde el objetivo sea destacar y recibir cumplidos constantes.",
-    "clima": "Frío / Templado-Fresco",
-    "proyeccion": "Alta",
-    "duracion": "Sobresaliente (8h a 10h)",
-    "estela": "Moderada",
-    "color_liquido": "Ámbar dorado traslúcido",
-    "perfil_usuario": "Mujeres 18-45 años. Femeninas, lavanderas. Alternativa a Burberry Goddess.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Diseñado para mujeres modernas, elegantes, seguras de sí mismas y amantes de las fragancias gourmand refinadas que buscan un aroma de firma versátil, acogedor y magnético. Es la pócima perfecta para quienes exigen oler dulces, costosas y con un carácter sofisticado durante todo el día.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif",
-    "inspirado_en_nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
-    "inspiraciones": [
-      {
-        "texto": "Réplica magnífica, suntuosa y sumamente fiel de una de las fragancias gourmand de diseñador más aclamadas, virales y codiciadas del mercado internacional. Captura a la perfección ese codiciado ADN de \"vainilla gourmand refinada con un toque aromático de lavanda y jengibre picante\", inyectándole la potencia, densidad y fijación características de la perfumería árabe de alta gama.",
-        "nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif"
       }
     ]
   },
@@ -3946,6 +3885,38 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Angham | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Vainilla / Lavanda Dulce",
+    "inspirado_en": "Réplica magnífica, suntuosa y sumamente fiel de una de las fragancias gourmand de diseñador más aclamadas, virales y codiciadas del mercado internacional. Captura a la perfección ese codiciado ADN de \"vainilla gourmand refinada con un toque aromático de lavanda y jengibre picante\", inyectándole la potencia, densidad y fijación características de la perfumería árabe de alta gama.",
+    "notas_salida": "jengibre, mandarina, pimienta rosa",
+    "notas_corazon": "lavanda, praliné, cacao, jazmín",
+    "notas_fondo": "vainilla, ámbar, almizcle",
+    "descripcion": "La definición en perfume de la calidez, la elegancia gourmand y la adicción aromática. Lattafa Angham abre con un impacto efervescente y vigorizante de jengibre picante y mandarina jugosa sazonados por pimienta rosa. En cuestión de minutos despliega su faceta más elogiada: un corazón hipnótico donde la lavanda fina se funde con la cremosidad del cacao, el praliné tostado y el jazmín en una armonía perfecta. Su evolución final en la piel es un secado majestuoso, tibio y profundamente sexy, donde la riqueza de la vainilla se entrelaza con la calidez del ámbar y la suavidad del almizcle, dejando un rastro flotante que transmite sofisticación, confort de alto nivel y una atracción imponente.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas nocturnas, eventos ejecutivos, reuniones formales o momentos donde el objetivo sea destacar y recibir cumplidos constantes.",
+    "clima": "Frío / Templado-Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado traslúcido",
+    "perfil_usuario": "Mujeres 18-45 años. Femeninas, lavanderas. Alternativa a Burberry Goddess.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado para mujeres modernas, elegantes, seguras de sí mismas y amantes de las fragancias gourmand refinadas que buscan un aroma de firma versátil, acogedor y magnético. Es la pócima perfecta para quienes exigen oler dulces, costosas y con un carácter sofisticado durante todo el día.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif",
+    "inspirado_en_nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica magnífica, suntuosa y sumamente fiel de una de las fragancias gourmand de diseñador más aclamadas, virales y codiciadas del mercado internacional. Captura a la perfección ese codiciado ADN de \"vainilla gourmand refinada con un toque aromático de lavanda y jengibre picante\", inyectándole la potencia, densidad y fijación características de la perfumería árabe de alta gama.",
+        "nombre": "Burberry Goddess / Burberry Goddess Intense (Reino Unido)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83483.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL WATANIAH - Graphite | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Unisex",
@@ -4142,6 +4113,37 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "KHADLAJ - Island | Extrait De Parfum",
+    "marca": "KHADLAJ",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Amaderado, Coco, Ámbar, Afrutados, Avainillado, Tropical, Atalcado, Iris, Fresco",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume tropical y nocturno más codiciado, elogiado y viral del mundo. Captura a la perfección ese ADN inconfundible de \"piña fresca fundida con un coco cremoso y un fondo avainillado-amaderado de haba tonka\", ofreciendo una alternativa con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su valor original.",
+    "notas_salida": "piña, iris, jengibre, cipres",
+    "notas_corazon": "coco, maderas",
+    "notas_fondo": "haba tonka, sandalo, ambar, ambar gris",
+    "descripcion": "La definición en perfume de la sensualidad tropical, el magnetismo nocturno y la frescura desinhibida. Khadlaj Island arranca con un impacto vibrante y original de piña, iris y jengibre. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón donde el coco cremoso se funde con maderas finas. Su evolución final es un secado cálido, avainillado y ambarado, dejando un rastro flotante muy atractivo, moderno y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Verano / Primavera / Otoño",
+    "ocasion": "Salidas nocturnas, fiestas, encuentros casuales, días de playa/piscina o cuando el objetivo sea proyectar una imagen atractiva, juvenil y magnética",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente (6h a 8h+)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro luminoso",
+    "rango_edad_min": 16,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Unisex (Predominantemente masculino por su perfil enérgico y amaderado, pero muy seductor). Diseñado para personas seguras de sí mismas, audaces y amantes de las fragancias dulces, tropicales y con carácter. Es la elección perfecta para quienes buscan un aroma de firma versátil para destacar tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif",
+    "inspirado_en_nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume tropical y nocturno más codiciado, elogiado y viral del mundo. Captura a la perfección ese ADN inconfundible de \"piña fresca fundida con un coco cremoso y un fondo avainillado-amaderado de haba tonka\", ofreciendo una alternativa con una presentación imponente y un rendimiento sumamente competitivo a una fracción de su valor original.",
+        "nombre": "Le Beau Le Parfum de Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72158.2x.avif"
       }
     ]
   },
