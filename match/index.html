@@ -1157,7 +1157,31 @@ async function computeAndShowResult(){
        de alta calidad para dar variedad y distribuir mejor las ventas.
        Peso = score^2 → sesgo suave hacia los top pero con oportunidad para
        "hidden gems" cercanos. */
-    const pool = scoredFinal.slice(0, 15);
+    let pool = scoredFinal.slice(0, 15);
+
+    /* Cuota PROPORCIONAL dinámica de perfumes internacionales:
+       aseguramos que el pool tenga al menos el mismo % que el catálogo
+       elegible real. Se ajusta solo cuando cambia el stock. */
+    const isInter = x => (x.p.c || "").toLowerCase() === "internacional";
+    const interInEligible = scoredFinal.filter(isInter).length;
+    let minInterInPicks = 0;
+    if (interInEligible > 0 && scoredFinal.length > 0){
+      const targetProp = interInEligible / scoredFinal.length;
+      const minInterInPool = Math.max(1, Math.round(15 * targetProp));
+      // Cuota para las 5 recomendaciones FINALES (mínimo 1 si hay internacionales)
+      minInterInPicks = Math.max(1, Math.round(5 * targetProp));
+      const currInterPool = pool.filter(isInter).length;
+      if (currInterPool < minInterInPool){
+        const missing = minInterInPool - currInterPool;
+        const extraInters = scoredFinal
+          .filter(x => isInter(x) && !pool.includes(x))
+          .slice(0, missing);
+        const nonInterInPool = pool.filter(x => !isInter(x));
+        const toRemove = nonInterInPool.slice(-extraInters.length);
+        pool = pool.filter(x => !toRemove.includes(x)).concat(extraInters);
+        pool.sort((a, b) => b.score - a.score);
+      }
+    }
     const picked = [];
     const remaining = pool.slice();
     while (picked.length < 5 && remaining.length > 0){
@@ -1171,6 +1195,27 @@ async function computeAndShowResult(){
       picked.push(remaining[idx]);
       remaining.splice(idx, 1);
     }
+
+    /* Garantía POST-sampling: si los 5 elegidos no cumplen la cuota
+       proporcional de internacionales, reemplazamos los peores no-inter
+       por los mejores internacionales del pool que quedaron afuera. */
+    if (minInterInPicks > 0){
+      let currInterPicked = picked.filter(isInter).length;
+      const interLeftInPool = pool.filter(x => isInter(x) && !picked.includes(x))
+                                  .sort((a,b) => b.score - a.score);
+      while (currInterPicked < minInterInPicks && interLeftInPool.length > 0){
+        // Peor no-internacional entre los elegidos
+        const nonInterPicked = picked.filter(x => !isInter(x))
+                                     .sort((a,b) => a.score - b.score);
+        if (nonInterPicked.length === 0) break;
+        const worst = nonInterPicked[0];
+        const nextBest = interLeftInPool.shift();
+        picked.splice(picked.indexOf(worst), 1);
+        picked.push(nextBest);
+        currInterPicked++;
+      }
+    }
+
     picked.sort((a, b) => b.score - a.score);
     const top = picked;
 
