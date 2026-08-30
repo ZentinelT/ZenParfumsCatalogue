@@ -116,22 +116,36 @@ function _novedadesCardHTML(p, badgeLabel, badgeClass) {
     "</div>" +
   "</article>";
 }
-function _renderNovedadesTira(secId, scrId, ids, badgeLabel, badgeClass) {
+function _renderNovedadesTira(secId, scrId, items, badgeLabel, badgeClass) {
   var sec = $(secId), scr = $(scrId);
   if (!sec || !scr) return;
   if (_novedadesFiltroActivo()) { sec.hidden = true; return; }
+  if (!items || !items.length) { sec.hidden = true; return; }
+  sec.hidden = false;
+  scr.innerHTML = items.map(function(p){ return _novedadesCardHTML(p, badgeLabel, badgeClass); }).join("");
+}
+var NOVEDADES_ULTIMOS_N = 12;
+function _ultimosPorId(n) {
+  var pool = PRODS.filter(function(p){ return p.c !== "accesorios"; });
+  if (cOnlyStock) pool = pool.filter(function(p){ return p.st !== "out"; });
+  return pool.slice().sort(function(a,b){ return b.id - a.id; }).slice(0, n);
+}
+function _porIds(ids) {
   var byId = {};
   PRODS.forEach(function(p){ byId[p.id] = p; });
   var items = ids.map(function(id){ return byId[id]; })
                  .filter(function(p){ return p && p.c !== "accesorios"; });
   if (cOnlyStock) items = items.filter(function(p){ return p.st !== "out"; });
-  if (!items.length) { sec.hidden = true; return; }
-  sec.hidden = false;
-  scr.innerHTML = items.map(function(p){ return _novedadesCardHTML(p, badgeLabel, badgeClass); }).join("");
+  return items;
 }
 function renderNovedades() {
-  _renderNovedadesTira("novedadesNuevosSec",  "novedadesNuevosScr",  NOVEDADES.nuevos,  "Nuevo",  "pbadge-nuevo");
-  _renderNovedadesTira("novedadesRestockSec", "novedadesRestockScr", NOVEDADES.restock, "Volvió", "pbadge-restock");
+  /* Primera tira: SIEMPRE los últimos N por id (los agregados más
+     recientemente a Supabase), aunque NOVEDADES.nuevos esté vacío. */
+  _renderNovedadesTira("novedadesNuevosSec",  "novedadesNuevosScr",
+    _ultimosPorId(NOVEDADES_ULTIMOS_N), "Nuevo", "pbadge-nuevo");
+  /* Segunda tira: solo cuando el script detectó restocks reales. */
+  _renderNovedadesTira("novedadesRestockSec", "novedadesRestockScr",
+    _porIds(NOVEDADES.restock), "Volvió", "pbadge-restock");
 }
 
 function renderProds() {
