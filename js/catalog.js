@@ -125,8 +125,10 @@ function _renderNovedadesTira(secId, scrId, items, badgeLabel, badgeClass) {
   scr.innerHTML = items.map(function(p){ return _novedadesCardHTML(p, badgeLabel, badgeClass); }).join("");
 }
 var NOVEDADES_ULTIMOS_N = 12;
-function _ultimosPorId(n) {
-  var pool = PRODS.filter(function(p){ return p.c !== "accesorios"; });
+function _ultimosPorId(n, excluirIds) {
+  var excl = {};
+  (excluirIds || []).forEach(function(id){ excl[id] = true; });
+  var pool = PRODS.filter(function(p){ return p.c !== "accesorios" && !excl[p.id]; });
   if (cOnlyStock) pool = pool.filter(function(p){ return p.st !== "out"; });
   return pool.slice().sort(function(a,b){ return b.id - a.id; }).slice(0, n);
 }
@@ -142,7 +144,7 @@ function renderNovedades() {
   /* Primera tira: SIEMPRE los últimos N por id (los agregados más
      recientemente a Supabase), aunque NOVEDADES.nuevos esté vacío. */
   _renderNovedadesTira("novedadesNuevosSec",  "novedadesNuevosScr",
-    _ultimosPorId(NOVEDADES_ULTIMOS_N), "Nuevo", "pbadge-nuevo");
+    _ultimosPorId(NOVEDADES_ULTIMOS_N, NOVEDADES.restock), "Nuevo", "pbadge-nuevo");
   /* Segunda tira: solo cuando el script detectó restocks reales. */
   _renderNovedadesTira("novedadesRestockSec", "novedadesRestockScr",
     _porIds(NOVEDADES.restock), "Volvió", "pbadge-restock");
