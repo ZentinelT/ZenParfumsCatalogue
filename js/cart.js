@@ -54,7 +54,7 @@ function renderCart() {
     $("cdf").style.display = "block";
     $("cdItems").innerHTML = items.map(function(i) {
       var nm = i.n.indexOf("-") > -1 ? i.n.split("-").slice(1).join("-").split("|")[0].trim() : i.n.split("|")[0].trim();
-      return "<div class=\"cdi\">" +
+      return "<div class=\"cdi\" onclick=\"openProductFromCart(" + i.id + ")\" style=\"cursor:pointer\">" +
         "<div class=\"cdi-ig\">" +
           (i.i ? "<img src=\"" + i.i + "\" referrerpolicy=\"no-referrer\" alt=\"\" loading=\"lazy\" onerror=\"this.style.display=&quot;none&quot;\">" : "") +
         "</div>" +
@@ -63,9 +63,9 @@ function renderCart() {
           "<div class=\"cdi-n\">" + esc(nm) + "</div>" +
           "<div class=\"cdi-s\">" + esc(i.s) + "</div>" +
           "<div class=\"cdi-r\">" +
-            "<button class=\"qb\" onclick=\"chgQty(" + i.id + ",-1)\">&#8722;</button>" +
+            "<button class=\"qb\" onclick=\"event.stopPropagation();chgQty(" + i.id + ",-1)\">&#8722;</button>" +
             "<span class=\"qv\">" + i.qty + "</span>" +
-            "<button class=\"qb\" onclick=\"chgQty(" + i.id + ",1)\">+</button>" +
+            "<button class=\"qb\" onclick=\"event.stopPropagation();chgQty(" + i.id + ",1)\">+</button>" +
           "</div>" +
         "</div>" +
         "<div class=\"cdi-p\">" + fmt(i.p * i.qty) + "</div>" +
@@ -86,4 +86,8 @@ function checkoutWA() {
 }
 function openCart()  { $("cartOv").classList.add("on"); $("cartD").classList.add("on"); document.body.style.overflow="hidden"; }
 function closeCart() { $("cartOv").classList.remove("on"); $("cartD").classList.remove("on"); document.body.style.overflow=""; }
+function openProductFromCart(id) {
+  closeCart();
+  if (typeof openProduct === "function") openProduct(id);
+}
 $("cartBtn").addEventListener("click", openCart);
