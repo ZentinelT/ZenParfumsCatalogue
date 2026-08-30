@@ -313,11 +313,15 @@ function openFicha(id) {
   var nm = cleanName(p.n);
   var insp = "";
   if (f.inspiraciones && f.inspiraciones.length) {
-    insp = f.inspiraciones.map(function(i){
+    insp = f.inspiraciones.filter(function(i){
+      return i && (i.nombre || i.imagen_url);
+    }).map(function(i){
       return "<div class=\"fc-insp\">" +
         (i.imagen_url ? "<img src=\"" + i.imagen_url + "\" referrerpolicy=\"no-referrer\" alt=\"\">" : "") +
-        "<div><div class=\"fc-insp-nm\">" + esc(i.nombre || "") + "</div>" +
-        (i.texto ? "<div class=\"fc-insp-tx\">" + esc(i.texto) + "</div>" : "") + "</div>" +
+        "<div>" +
+          (i.nombre ? "<div class=\"fc-insp-nm\">" + esc(i.nombre) + "</div>" : "") +
+          (i.texto ? "<div class=\"fc-insp-tx\">" + esc(i.texto) + "</div>" : "") +
+        "</div>" +
       "</div>";
     }).join("");
   } else if (f.inspirado_en_nombre) {
