@@ -3,17 +3,26 @@ function fmt(n) { return "$" + Number(n).toLocaleString("es-AR"); }
 // El margen ya viene aplicado desde Python (calcular_precio). No se vuelve a sumar acá.
 var PRODS = [];
 var FICHAS = {};
+var NOVEDADES = { nuevos: [], restock: [] };
 
 function loadCatalogData() {
   return Promise.all([
     fetch("data/products.json").then(function(r){ return r.json(); }),
-    fetch("data/fichas.json").then(function(r){ return r.json(); })
+    fetch("data/fichas.json").then(function(r){ return r.json(); }),
+    fetch("data/novedades.json")
+      .then(function(r){ return r.ok ? r.json() : { nuevos: [], restock: [] }; })
+      .catch(function(){ return { nuevos: [], restock: [] }; })
   ]).then(function(results){
     PRODS = results[0];
     var raw = results[1] || [];
     raw.forEach(function(f){
       if (f && f.nombre_completo) FICHAS[normName(f.nombre_completo)] = f;
     });
+    var nov = results[2] || {};
+    NOVEDADES = {
+      nuevos: Array.isArray(nov.nuevos) ? nov.nuevos : [],
+      restock: Array.isArray(nov.restock) ? nov.restock : []
+    };
   });
 }
 function normName(n) {

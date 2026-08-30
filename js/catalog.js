@@ -84,7 +84,58 @@ function getList() {
   }
   return l;
 }
+/* ---- NOVEDADES: dos secciones separadas (nuevos ingresos + restock) ---- */
+/* Fuente: data/novedades.json, generado por actualizar_catalogo.py comparando
+   contra el products.json anterior. Se ocultan cuando hay filtro/búsqueda. */
+function _novedadesFiltroActivo() {
+  return cFil !== "todos" || !!cSrch || (cSort && cSort !== "none");
+}
+function _novedadesCardHTML(p, badgeLabel, badgeClass) {
+  var nm   = cleanName(p.n);
+  var imgH = p.i
+    ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" loading=\"lazy\" onerror=\"this.style.display=&quot;none&quot;\">"
+    : "";
+  var dis  = p.st === "out" ? " disabled" : "";
+  var priceHtml = p.st === "out"
+    ? "<div><span class=\"pc-pr\" style=\"font-size:12px;letter-spacing:.08em;color:var(--gr);font-weight:600\">SIN STOCK</span></div>"
+    : "<div><span class=\"pc-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span></div>";
+  return "<article class=\"pc\" onclick=\"openProduct(" + p.id + ")\" style=\"cursor:pointer\">" +
+    "<div class=\"pc-img\"><span class=\"pbadge-new " + badgeClass + "\">" + badgeLabel + "</span>" + imgH + "</div>" +
+    "<div class=\"pc-bd\">" +
+      "<div class=\"pc-br\">" + esc(p.b) + "</div>" +
+      "<div class=\"pc-nm\">" + esc(nm) + "</div>" +
+      "<div class=\"pc-ft\">" +
+        priceHtml +
+        "<div class=\"pc-seg\" role=\"group\">" +
+          "<button class=\"pw pc-seg-i" + (isWished(p.id) ? " sel" : "") + "\" data-id=\"" + p.id + "\" title=\"Favoritos\" onclick=\"event.stopPropagation();toggleWish(" + p.id + ")\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"" + (isWished(p.id) ? "currentColor" : "none") + "\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M12 21s-7-4.35-9.5-8.5C.5 8.5 2.5 5 6 5c2 0 3.5 1 6 3.5C14.5 6 16 5 18 5c3.5 0 5.5 3.5 3.5 7.5C19 16.65 12 21 12 21z\"/></svg></button>" +
+          "<button class=\"badd pc-seg-i\" onclick=\"event.stopPropagation();flashSeg(this);addCart(" + p.id + ")\"" + dis + " title=\"Agregar al carrito\">" +
+            "<svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>" +
+          "</button>" +
+        "</div>" +
+      "</div>" +
+    "</div>" +
+  "</article>";
+}
+function _renderNovedadesTira(secId, scrId, ids, badgeLabel, badgeClass) {
+  var sec = $(secId), scr = $(scrId);
+  if (!sec || !scr) return;
+  if (_novedadesFiltroActivo()) { sec.hidden = true; return; }
+  var byId = {};
+  PRODS.forEach(function(p){ byId[p.id] = p; });
+  var items = ids.map(function(id){ return byId[id]; })
+                 .filter(function(p){ return p && p.c !== "accesorios"; });
+  if (cOnlyStock) items = items.filter(function(p){ return p.st !== "out"; });
+  if (!items.length) { sec.hidden = true; return; }
+  sec.hidden = false;
+  scr.innerHTML = items.map(function(p){ return _novedadesCardHTML(p, badgeLabel, badgeClass); }).join("");
+}
+function renderNovedades() {
+  _renderNovedadesTira("novedadesNuevosSec",  "novedadesNuevosScr",  NOVEDADES.nuevos,  "Nuevo",  "pbadge-nuevo");
+  _renderNovedadesTira("novedadesRestockSec", "novedadesRestockScr", NOVEDADES.restock, "Volvió", "pbadge-restock");
+}
+
 function renderProds() {
+  renderNovedades();
   var list  = getList();
   var tot   = list.length;
   var pages = Math.max(1, Math.ceil(tot / PS));

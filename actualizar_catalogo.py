@@ -199,13 +199,42 @@ registros.sort(key=lambda r: r["id"])
 
 print(f"Productos activos: {len(registros)}")
 
-# ---------- 3. ESCRIBIR LOS JSON DE DATOS ----------
+# ---------- 3. DETECTAR NOVEDADES vs PRODUCTS.JSON ANTERIOR ----------
+# Compara la versión anterior (si existe) contra la nueva y arma novedades.json
+# con dos listas: "nuevos" (ids que no estaban) y "restock" (los que estaban
+# sin stock y ahora tienen).
 os.makedirs("data", exist_ok=True)
+prev_path = "data/products.json"
+prev_by_id = {}
+if os.path.exists(prev_path):
+    try:
+        with open(prev_path, "r", encoding="utf-8") as f:
+            prev_data = json.load(f)
+        prev_by_id = {p["id"]: p for p in prev_data if "id" in p}
+    except Exception as e:
+        print(f"No se pudo leer products.json anterior para comparar novedades: {e}")
 
+nuevos_ids = []
+restock_ids = []
+for r in registros:
+    pid = r["id"]
+    prev = prev_by_id.get(pid)
+    if prev is None:
+        nuevos_ids.append(pid)
+    else:
+        if prev.get("st") == "out" and r.get("st") in ("ok", "low"):
+            restock_ids.append(pid)
+
+novedades = {"nuevos": nuevos_ids, "restock": restock_ids}
+with open("data/novedades.json", "w", encoding="utf-8") as f:
+    json.dump(novedades, f, ensure_ascii=False, indent=2)
+print(f"Novedades detectadas: {len(nuevos_ids)} nuevos, {len(restock_ids)} restock")
+
+# ---------- 4. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
     json.dump(registros, f, ensure_ascii=False, indent=2)
 
 with open("data/fichas.json", "w", encoding="utf-8") as f:
     json.dump(fichas_registros, f, ensure_ascii=False, indent=2)
 
-print("Listo: data/products.json y data/fichas.json actualizados")
+print("Listo: data/products.json, data/fichas.json y data/novedades.json actualizados")
