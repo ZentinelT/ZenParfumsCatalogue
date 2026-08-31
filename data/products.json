@@ -1593,7 +1593,7 @@
     "p": 93400,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2104_8ztz56.webp",
     "nt": "Contiene 4 perfumes de 25ml | EDP |: Bade'e Al Oud For Glory Bade'e Al Oud Honor & Glory Bade'e Al Oud Noble Blush Bade'e Al Oud Sublime",
     "p1": "$93.400"
@@ -2308,7 +2308,7 @@
     "p": 60400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2159_cw7zr1.webp",
     "nt": "Salida almendra, cafe Notas de corazón: jazmin, nardos, haba tonka Notas de fondo: vainilla, cacao, sandalo",
     "p1": "$60.400"
@@ -2318,13 +2318,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Queen of Arabia | EDP",
     "s": "100ml",
-    "p": 99800,
+    "p": 101600,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2160_bun29a.webp",
-    "nt": "Corazón Coco, heliotropo Notas de fondo: Vainilla, flores, almizcle",
-    "p1": "$99.800"
+    "nt": "Salida coco, sal Notas de corazón: sandalo, heliotropo Notas de fondo: Vainilla, ambar",
+    "p1": "$101.600"
   },
   {
     "id": 2161,
@@ -2344,39 +2344,39 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Rave Now Black | EDP",
     "s": "100ml",
-    "p": 64000,
+    "p": 65000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2162_gb528b.webp",
     "nt": "Salida Piña, Bergamota, Manzana, Grosella negra Notas de corazón: Abedul, Pachulí, Jazmín, Rosa Notas de fondo: almizcle, Vainilla, Musgo de roble, Ámbar gris",
-    "p1": "$64.000"
+    "p1": "$65.000"
   },
   {
     "id": 2163,
     "b": "LATTAFA",
     "n": "LATTAFA - Rave Now Pink | EDP",
     "s": "100ml",
-    "p": 61600,
+    "p": 62600,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2163_7hhi1k.webp",
-    "nt": "Corazón Frutas Notas de fondo: Almizcle, ámbar",
-    "p1": "$61.600"
+    "nt": "Salida frutas rojas, naranja Notas de corazón: malvavisco, jazmin, lirio de los valles Notas de fondo: vainilla, almizcle, musgo",
+    "p1": "$62.600"
   },
   {
     "id": 2164,
     "b": "LATTAFA",
     "n": "LATTAFA - Rave Rage | EDP",
     "s": "100ml",
-    "p": 64800,
+    "p": 63500,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2164_0n9x2e.webp",
-    "nt": "Corazón Frutas Notas de fondo: Especias, almizcle",
-    "p1": "$64.800"
+    "nt": "Salida manzana, menta Notas de corazón: fresia, albahaca, cilantro Notas de fondo: pachuli, ladano, incienso, cachemira",
+    "p1": "$63.500"
   },
   {
     "id": 2165,
@@ -4037,7 +4037,7 @@
     "p": 73100,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2293_1n7eo8.webp",
     "nt": "Salida Ciruela, cereza, frambuesa Notas de corazón: Orquídea, iris, fresia Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$73.100"
@@ -4674,7 +4674,7 @@
     "p": 56500,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2344_ijg7xi.webp",
     "nt": "Salida pimienta rosa, hediona, bergamota Notas de corazón: Caramelo, jazmín, flor de azahar del naranjo · Fondo Ámbar, almizcle, musgo, vainilla",
     "p1": "$56.500"
@@ -4934,7 +4934,7 @@
     "p": 121500,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2364_902n2l.webp",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$121.500"
@@ -6793,7 +6793,7 @@
     "p": 56900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2519_2ogk5x.webp",
     "nt": "Salida toronja, manzana verde, lila, fresia, moras azules Notas de corazón: te chino, nectarina, azucena, madreselva Notas de fondo: secuoya roja, orquidea, vainilla, ciruela, almizcle, enebro",
     "p1": "$56.900"

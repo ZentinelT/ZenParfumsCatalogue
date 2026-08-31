@@ -136,6 +136,38 @@
     "inspiraciones": []
   },
   {
+    "nombre_completo": "LATTAFA - Queen of Arabia | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Vainilla / Heliotropo Coco",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las vainillas modernas más elogiadas, adictivas y sofisticadas del mundo. Captura a la perfección ese ADN inconfundible de \"pólvora de vainilla cremosa, coco sutilmente atalcado y un fondo amaderado-almizclado que se funde como una segunda piel\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "coco, sal",
+    "notas_corazon": "sandalo, heliotropo",
+    "notas_fondo": "Vainilla, ambar",
+    "descripcion": "La definición en perfume de la elegancia contemporánea, el lujo avainillado y la textura empolvada más seductora del mercado. Lattafa Queen of Arabia arranca con un impacto fascinante de coco cremoso y un toque salino. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón donde el heliotropo aporta esa famosa textura de \"polvo de vainilla\" fina y sofisticada. Su evolución final es un secado profundo de vainilla y sándalo, dejando un rastro flotante sumamente distinguido, cálido y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, uso diario exclusivo, reuniones importantes o cuando el objetivo sea proyectar sofisticación.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "perfil_usuario": "Mujeres 20-50 años. Suaves, reales.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino / Unisex (Amado por los fanáticos de las vainillas de autor complejas y modernas). Diseñado para personas seguras de sí mismas, elegantes, amantes de la alta perfumería y quienes buscan un sello personal que proyecte estatus, misterio y una distinción absoluta.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84933.2x.avif",
+    "inspirado_en_nombre": "Vanilla Powder de Matiere Premiere",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las vainillas modernas más elogiadas, adictivas y sofisticadas del mundo. Captura a la perfección ese ADN inconfundible de \"pólvora de vainilla cremosa, coco sutilmente atalcado y un fondo amaderado-almizclado que se funde como una segunda piel\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Vanilla Powder de Matiere Premiere",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84933.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Rayhaan - Lion | EDP | 100ml",
     "marca": "Rayhaan — UAE",
     "genero": "Masculino",
@@ -247,6 +279,35 @@
         "texto": "Creación original",
         "nombre": "",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Rave Now Black | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Frutal Energético / Rave Party Dark",
+    "inspirado_en": "(Famoso mundialmente por ser el referente supremo de las fragancias ultra frutales con un secado amaderado ahumado que rinde tributo a las mejores vibras de la perfumería moderna de éxito masivo, en la línea de los perfiles más buscados de piña y abedul). Captura a la perfección ese ADN de \"frescura tropical arrolladora que perdura todo el día\", ofreciendo un rendimiento inigualable a una fracción de su costo original.",
+    "notas_salida": "Piña, Bergamota, Manzana, Grosella negra",
+    "notas_corazon": "Abedul, Pachulí, Jazmín, Rosa",
+    "notas_fondo": "almizcle, Vainilla, Musgo de roble, Ámbar gris",
+    "descripcion": "La definición en perfume del verano eterno, la energía vibrante y la estela frutal más elogiada del mercado. Rave Now arranca con un impacto masivo y jugoso de piña dulce que domina por completo los sentidos. En cuestión de minutos despliega su faceta más sofisticada: un corazón amaderado y ahumado gracias al abedul y el pachuli. Su evolución final es un secado tibio, almizclado y avainillado, dejando un rastro flotante sumamente seductor y de una presencia imposible de ignorar.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño / Invierno",
+    "ocasion": "Salidas casuales, eventos sociales, fiestas, uso diario llamativo o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado luminoso",
+    "perfil_usuario": "Jóvenes 18-30 años. Festivos, enérgicos.",
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Masculino / Unisex. Diseñado para personas seguras de sí mismas, enérgicas, amantes de las fragancias dulces, frutales y que exigen un rendimiento extremo para destacar en cualquier entorno diario, casual o nocturno.",
+    "inspirado_en_nombre": "El Rey de los Frutales de Alto Rendimiento / Estilo \"Pineapple Bomb\"",
+    "inspiraciones": [
+      {
+        "texto": "(Famoso mundialmente por ser el referente supremo de las fragancias ultra frutales con un secado amaderado ahumado que rinde tributo a las mejores vibras de la perfumería moderna de éxito masivo, en la línea de los perfiles más buscados de piña y abedul). Captura a la perfección ese ADN de \"frescura tropical arrolladora que perdura todo el día\", ofreciendo un rendimiento inigualable a una fracción de su costo original.",
+        "nombre": "El Rey de los Frutales de Alto Rendimiento / Estilo \"Pineapple Bomb\""
       }
     ]
   },
@@ -459,6 +520,38 @@
         "texto": "Iris oscuro masculino tendencia (comparaciones con Prada L'Homme + Teriaq Intense vibe)",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Rave Now Pink | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Energético / Rave Party Femenino",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes frutales gourmand más adictivos, cremosos y elogiados del mundo. Captura a la perfección ese ADN inconfundible de \"frutas rojas jugosas combinadas con una sobredosis de malvavisco, vainilla y almizcle limpio\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "frutas rojas, naranja",
+    "notas_corazon": "malvavisco, jazmin, lirio de los valles",
+    "notas_fondo": "vainilla, almizcle, musgo",
+    "descripcion": "La definición en perfume del encanto coqueto, la alegría desbordante y la feminidad moderna más tierna y seductora. Rave Now Women arranca con un impacto fresco y vibrante de frutas rojas y naranja. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón goloso donde el malvavisco se funde con un ramo floral blanco. Su evolución final es un secado tibio, avainillado y almizclado, dejando un rastro flotante sutil pero memorable y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano / Otoño / Invierno",
+    "ocasion": "Salidas casuales, días de trabajo, reuniones sociales, citas o uso diario llamativo y alegre.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "estela": "Moderada",
+    "color_liquido": "Rosa claro / Traslúcido",
+    "perfil_usuario": "Mujeres 18-30 años. Festivas, dulces.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres dinámicas, alegres, amantes de las fragancias dulces, frutales y reconfortantes, ideales para dejar una impresión duradera y coqueta en cualquier ocasión.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75968.2x.avif",
+    "inspirado_en_nombre": "Burberry Her Elixir de Parfum",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes frutales gourmand más adictivos, cremosos y elogiados del mundo. Captura a la perfección ese ADN inconfundible de \"frutas rojas jugosas combinadas con una sobredosis de malvavisco, vainilla y almizcle limpio\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Burberry Her Elixir de Parfum",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75968.2x.avif"
       }
     ]
   },
@@ -966,6 +1059,35 @@
         "texto": "Réplica espectacular y ultra fiel avalada por el voto masivo de la comunidad global en Fragrantica. Captura a la perfección el aura moderna, sensual y ultra masculina del éxito de Versace, cruzando el chispazo cítrico de la toronja y la pimienta con un fondo pesado de pachulí y ámbar gris. Un aroma todoterreno que derrocha facha, pulcritud y un sex appeal tremendo que no falla jamás.",
         "nombre": "Versace Pour Homme Dylan Blue",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.40031.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Rave Rage | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Frutal Energético / Rave Explosivo",
+    "inspirado_en": "(Inspirado en los perfiles más buscados de la perfumería moderna que fusionan la vitalidad de la naturaleza verde con una explosión frutal y un secado acuático ultra limpio). Captura a la perfección ese ADN de \"frescura indomable, energía y limpieza absoluta\", ofreciendo una alternativa de lujo con una presentación imponente y un rendimiento sobresaliente.",
+    "notas_salida": "manzana, menta",
+    "notas_corazon": "fresia, albahaca, cilantro",
+    "notas_fondo": "pachuli, ladano, incienso, cachemira",
+    "descripcion": "La definición en perfume de la energía indomable, la frescura botánica y la estela más vibrante del mercado. Rave Rage arranca con un impacto estimulante de notas verdes y frutas jugosas. En cuestión de minutos despliega su faceta más dinámica gracias a las especias frescas. Su evolución final es un secado profundamente acuático y limpio, dejando un rastro flotante sumamente revitalizante y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario, salidas casuales, encuentros informales o cuando el objetivo sea proyectar frescura y dinamismo.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "óptimo (6h a 8h)",
+    "estela": "Moderada",
+    "perfil_usuario": "Jóvenes 18-30 años. Festivos, enérgicos.",
+    "rango_edad_min": 16,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Unisex. Diseñado para personas enérgicas, audaces, amantes de las fragancias frescas, versátiles y que buscan un sello personal moderno acompañado de una presentación felina inconfundible.",
+    "inspirado_en_nombre": "Alta Perfumería de Diseñador / Estilo \"Fresh-Green & Aquatic Powerhouse\"",
+    "inspiraciones": [
+      {
+        "texto": "(Inspirado en los perfiles más buscados de la perfumería moderna que fusionan la vitalidad de la naturaleza verde con una explosión frutal y un secado acuático ultra limpio). Captura a la perfección ese ADN de \"frescura indomable, energía y limpieza absoluta\", ofreciendo una alternativa de lujo con una presentación imponente y un rendimiento sobresaliente.",
+        "nombre": "Alta Perfumería de Diseñador / Estilo \"Fresh-Green & Aquatic Powerhouse\""
       }
     ]
   },
@@ -3191,30 +3313,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Queen of Arabia | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral Vainilla / Heliotropo Coco",
-    "inspirado_en": "Composición propia",
-    "notas_corazon": "Coco, heliotropo",
-    "notas_fondo": "Vainilla, flores, almizcle",
-    "descripcion": "Coco con heliotropo y vainilla. Suave, femenino y envolvente.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 20-50 años. Suaves, reales.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Mujeres Suaves, reales.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "AL HARAMAIN - Amber Oud Dubai Night | Extrait De Parfum",
     "marca": "Al Haramain Perfumes — Arabia Saudí",
     "genero": "Masculino",
@@ -3299,30 +3397,6 @@
         "texto": "Una obra de arte de la perfumería de diseño moderna. Rompe por completo el concepto del fougère clásico (lavanda/barbería) al sumergirlo en una atmósfera ardiente, casi volcánica. Destaca por un contraste adictivo entre un arranque herbal súper prolijo y un secado oscuro, denso y caramelizado que cruza el jarabe de arce con el cacao amargo.",
         "nombre": "Trussardi Primo",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.96193.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Rave Now Black | EDP | 100 Ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Frutal Energético / Rave Party Dark",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Piña, Bergamota, Manzana, Grosella negra",
-    "notas_corazon": "Abedul, Pachulí, Jazmín, Rosa",
-    "notas_fondo": "almizcle, Vainilla, Musgo de roble, Ámbar gris",
-    "descripcion": "Versión oscura masculina de la línea Rave. Frutal y enérgico con DNA dark.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Jóvenes 18-30 años. Festivos, enérgicos.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Jóvenes Festivos, enérgicos.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
       }
     ]
   },
@@ -4004,54 +4078,6 @@
       {
         "texto": "Creación original",
         "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Rave Now Pink | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Femenino",
-    "familia_olfativa": "Frutal Energético / Rave Party Femenino",
-    "inspirado_en": "Composición propia",
-    "notas_corazon": "Frutas",
-    "notas_fondo": "Almizcle, ámbar",
-    "descripcion": "Versión femenina dulce de la línea Rave. Frutal y festivo.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 18-30 años. Festivas, dulces.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres Festivas, dulces.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Rave Rage | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Frutal Energético / Rave Explosivo",
-    "inspirado_en": "Composición propia",
-    "notas_corazon": "Frutas",
-    "notas_fondo": "Especias, almizcle",
-    "descripcion": "La más explosiva de la línea Rave. DNA más potente y explosivo.",
-    "proyeccion": "Alta",
-    "duracion": "Larga",
-    "perfil_usuario": "Jóvenes 18-30 años. Festivos, enérgicos.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Jóvenes Festivos, enérgicos.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -6886,16 +6912,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Sheikh Al Shuyukh Luxe Edition | EDP",
-    "marca": "LATTAFA",
-    "genero": "Unisex",
-    "familia_olfativa": "Cálido especiado, Amaderado, Ámbar, Rosas, Caramelo, Avainillado, Canela, Dulce, Pachulí, Atalcado",
-    "notas_salida": "rosa, canela, azafran",
-    "notas_corazon": "caramelo, pachuli",
-    "notas_fondo": "maderas, vainilla, ambar, ambroxan",
-    "inspiraciones": []
-  },
-  {
     "nombre_completo": "TUBBEES - Bubble Gum | EDP | 50ml",
     "marca": "Tubbees — UAE",
     "genero": "Femenino",
@@ -7007,6 +7023,35 @@
         "texto": "Réplica de alta fidelidad en formato bruma que rinde tributo a la fragancia más coqueta, juvenil y exitosa de la casa Juicy Couture. Captura a la perfección ese adictivo ADN de \"frutos rojos con mandarina, flores blancas cremosas y un secado dulce de praliné/caramelo\", ofreciendo la opción ideal para el uso diario, el retoque en el bolso o la técnica de layering.",
         "nombre": "Viva La Juicy de Juicy Couture",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.4410.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Sheikh Al Shuyukh Luxe Edition | EDP",
+    "marca": "LATTAFA",
+    "genero": "Unisex",
+    "familia_olfativa": "Cálido especiado, Amaderado, Ámbar, Rosas, Caramelo, Avainillado, Canela, Dulce, Pachulí, Atalcado",
+    "inspirado_en": "(Inspirado en los perfiles más adictivos y lujosos de la perfumería de autor que combinan especias nobles con un fondo ambarado-caramelizado de rendimiento excepcional). Captura a la perfección ese ADN de \"calidez suntuosa y elegancia oriental\", ofreciendo una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "rosa, canela, azafran",
+    "notas_corazon": "caramelo, pachuli",
+    "notas_fondo": "maderas, vainilla, ambar, ambroxan",
+    "descripcion": "La definición en perfume del calor envolvente, la opulencia oriental y la estela más elogiada para climas frescos. Lattafa Sheikh Al Shuyukh Luxe Edition arranca con un impacto vibrante y especiado de canela y rosa. En cuestión de minutos despliega su faceta más adictiva: un corazón goloso de caramelo profundo. Su evolución final es un secado tibio, ambarado y avainillado, dejando un rastro flotante sumamente seductor y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (8h a 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, carismáticas y amantes de las fragancias cálidas, intensas y que proyectan elegancia, misterio y éxito.",
+    "inspirado_en_nombre": "Alta Perfumería Oriental de Lujo / Estilo \"Spicy-Caramel & Amber Powerhouse\"",
+    "inspiraciones": [
+      {
+        "texto": "(Inspirado en los perfiles más adictivos y lujosos de la perfumería de autor que combinan especias nobles con un fondo ambarado-caramelizado de rendimiento excepcional). Captura a la perfección ese ADN de \"calidez suntuosa y elegancia oriental\", ofreciendo una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Alta Perfumería Oriental de Lujo / Estilo \"Spicy-Caramel & Amber Powerhouse\""
       }
     ]
   },
