@@ -1122,6 +1122,36 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Jean Lowe Verde Aura | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Afrutados, Especiado suave, Dulce, Aromático, Floral, Almizclado, Amaderado, Atalcado, Rosas",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas más codiciadas, coleccionables y difíciles de conseguir del mundo (actualmente descontinuada por la casa original). Captura a la perfección ese ADN inconfundible de \"frescura cítrica chispeante combinada con el característico aroma herbal y amargo de la hierba mate\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "grosellas negras, cilantro, menta, limon, cidra, naranja",
+    "notas_corazon": "zanahoria, rosa, albahaca, chabacano",
+    "notas_fondo": "higo, datiles, almizcle ambreta",
+    "descripcion": "La definición en perfume de la frescura sofisticada, el verdor elegante y la exclusividad veraniega más codiciada. Maison Alhambra Jean Lowe Verde Aura arranca con un impacto chispeante y efervescente de limoncello y bergamota. En cuestión de minutos despliega su faceta más icónica y adictiva: un corazón verde y aromático dominado por la hoja de mate. Su evolución final es un secado suave, amaderado y almizclado, dejando un rastro flotante fresco, limpio y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario distinguido, actividades al aire libre, encuentros casuales, oficina o cuando el objetivo sea proyectar frescura y estatus sin estridencias.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "óptimo (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, elegantes, amantes de la alta perfumería de autor y quienes buscan un sello personal fresco, distinguido y fuera de lo común.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume/o.53946.jpg",
+    "inspirado_en_nombre": "Cactus Garden de Louis Vuitton",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas más codiciadas, coleccionables y difíciles de conseguir del mundo (actualmente descontinuada por la casa original). Captura a la perfección ese ADN inconfundible de \"frescura cítrica chispeante combinada con el característico aroma herbal y amargo de la hierba mate\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Cactus Garden de Louis Vuitton",
+        "imagen_url": "https://fimgs.net/mdimg/perfume/o.53946.jpg"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Swiss Arabian - Body Mist Pink Rose Petal 1188 | 236ml",
     "marca": "Swiss Arabian — Dubai/Suiza",
     "genero": "Femenino",
@@ -1414,6 +1444,35 @@
         "texto": "Réplica de precisión quirúrgica de uno de los perfumes de la Snake Collection de SHL 777 más codiciados, elogiados y costosos de la perfumería de autor francesa. Captura a la perfección ese adictivo ADN de \"coctel helado de vodka con frutos del bosque, albahaca fresca y maderas sensuales\", permitiendo acceder a una joya de culto por una fracción de su valor original.",
         "nombre": "Pink Boa Stéphane Humbert Lucas 777",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75021.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VALENTINO - Uomo Born In Roma | EDT",
+    "marca": "VALENTINO",
+    "genero": "Masculino",
+    "familia_olfativa": "Mineral, Amaderado, ozonico, Aromático, Acuático, Salado, Herbal, Fesco especiado, Verde, Especiado suave",
+    "inspirado_en": "Representa el estándar actual de la perfumería masculina moderna: un equilibrio perfecto entre la frescura inicial enérgica y un fondo amaderado cálido, elegante y con un toque rebelde gracias a las tachas de su diseño.",
+    "notas_salida": "notas minerales, hojas de violeta, sal",
+    "notas_corazon": "salvia, jengibre",
+    "notas_fondo": "maderas, vetiver",
+    "descripcion": "La definición en perfume de la elegancia rebelde, la noche urbana y el estilo romano actual. Valentino Uomo Born In Roma arranca con un impacto moderno y chispeante de jengibre y notas saladas que despiertan los sentidos. En cuestión de minutos despliega su faceta más elogiada: un corazón aromático de salvia que aporta distinción. Su evolución final en la piel es un secado profundo, ahumado y sofisticado, donde el vetiver deja un rastro flotante magnético, masculino y sumamente atractivo.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Otoño / Primavera / Verano",
+    "ocasion": "Uso profesional, salidas casuales, citas románticas, eventos sociales o momentos donde busques dejar una impresión moderna y elegante.",
+    "clima": "Templado / Cálido / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, seguros de sí mismos, con estilo urbano, carismáticos y amantes de las fragancias versátiles que combinan frescura inicial con fondos profundos. Es la elección perfecta para quienes buscan un aroma de firma versátil tanto para el día como para destacar de noche.",
+    "inspirado_en_nombre": "VALENTINO - Uomo Born In Roma",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar actual de la perfumería masculina moderna: un equilibrio perfecto entre la frescura inicial enérgica y un fondo amaderado cálido, elegante y con un toque rebelde gracias a las tachas de su diseño.",
+        "nombre": "VALENTINO - Uomo Born In Roma"
       }
     ]
   },
@@ -2607,6 +2666,34 @@
     ]
   },
   {
+    "nombre_completo": "JEAN PAUL GAULTIER - Le Male | EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático, Avainillado, Fesco especiado, lavanda, Cálido especiado, Verde, Atalcado, Dulce, Ámbar, Amaderado",
+    "inspirado_en": ". El clásico atemporal por excelencia que revolucionó la perfumería masculina combinando la frescura limpia de la barbería clásica con la sensualidad golosa de la vainilla y el ámbar. Captura a la perfección ese ADN inconfundible de \"hombre irresistible, magnético, limpio y con una presencia que jamás pasa desapercibida\", ofreciendo un rendimiento sobresaliente que sigue marcando tendencia década tras década.",
+    "notas_salida": "lavanda, menta, cardamomo, bergamota, abrotano",
+    "notas_corazon": "canela, flor de azahar del naranjo, alcaravea",
+    "notas_fondo": "vainilla, haba tonka, ambar, sandalo, cedro",
+    "descripcion": "La definición en perfume de la sensualidad atemporal, la frescura de barbería mezclada con dulzura oriental y el magnetismo absoluto. Jean Paul Gaultier Le Male arranca con un impacto vibrante y helado de menta y lavanda. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón especiado donde la canela aporta un calor irresistible. Su evolución final es un secado profundo de vainilla y ámbar, dejando un rastro flotante sumamente reconocible, seductor y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas nocturnas, fiestas, eventos sociales o cuando el objetivo sea proyectar una imagen seductora, icónica y memorable.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado luminoso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, seductores, carismáticos y amantes de las fragancias con carácter, historia y una estela dulce pero masculina que deja huella dondequiera que vayan.",
+    "inspirado_en_nombre": "Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": ". El clásico atemporal por excelencia que revolucionó la perfumería masculina combinando la frescura limpia de la barbería clásica con la sensualidad golosa de la vainilla y el ámbar. Captura a la perfección ese ADN inconfundible de \"hombre irresistible, magnético, limpio y con una presencia que jamás pasa desapercibida\", ofreciendo un rendimiento sobresaliente que sigue marcando tendencia década tras década.",
+        "nombre": "Composición Propia"
+      }
+    ]
+  },
+  {
     "nombre_completo": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
     "genero": "Masculino",
     "familia_olfativa": "Afrutados, Amaderado, Fresco, Ámbar, Atalcado, ozonico, Acuático, Verde, Cítrico, Salado",
@@ -2685,6 +2772,36 @@
         "texto": "Emporio Armani Stronger With You",
         "nombre": "Emporio Armani Stronger With You",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Italia | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Dulce, Amielado, Avainillado, Lavanda, Cítrico, Aromático, Tabaco, Floral, Atalcado, Fesco especiado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "lavanda, limon, bergamota",
+    "notas_corazon": "miel, canela, cachemira, jazmin",
+    "notas_fondo": "vainilla, tabaco, haba tonka",
+    "descripcion": "La definición en perfume del lujo mediterráneo, la opulencia de la miel dorada y el tabaco más sofisticado del mundo. Rayhaan Italia arranca con un impacto vibrante y fresco de lavanda y cítricos brillantes. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón rico y cálido donde la miel y la canela envuelven los sentidos. Su evolución final es un secado profundo de tabaco dulce y vainilla cremosa, dejando un rastro flotante distinguido, seductor y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea proyectar estatus y sofisticación.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino / Unisex (Amado por los conocedores de la perfumería nicho). Diseñado para personas seguras de sí mismas, elegantes, amantes de las fragancias complejas, intensas y que proyectan estatus, misterio y distinción absoluta.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif",
+    "inspirado_en_nombre": "Naxos de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Naxos de Xerjoff",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif"
       }
     ]
   },
@@ -7918,37 +8035,6 @@
     ]
   },
   {
-    "nombre_completo": "ARMAF - Club de Nuit Intense Men | Extrait De Parfum",
-    "genero": "Masculino",
-    "familia_olfativa": "Amaderado Especiado / Aventus DNA",
-    "inspirado_en": "Es el clon definitivo llevado al pináculo de la alta perfumería. Capta el ADN icónico del rey de nicho pero en su faceta más opulenta, donde la piña madura y jugosa se sumerge en una nube de abedul ahumado mucho más denso, espeso y señorial. Gracias a su concentración de extracto, la fijación duplica los estándares comunes, ofreciendo un rendimiento brutal que roza la perfección.",
-    "notas_salida": "Limón, grosella negra, manzana, piña, bergamota",
-    "notas_corazon": "Abedul, jazmín, rosa",
-    "notas_fondo": "Almizcle, ámbar gris, vainilla, pachulí",
-    "descripcion": "La definición líquida de la opulencia, la autoridad absoluta y la facha premium definitiva. Club de Nuit Intense Man Extrait abre con un impacto alucinante, rico y súper equilibrado de piña madura y cítricos sedosos que se sienten naturales y carísimos. Rápidamente abre paso a la transición más elogiada de la perfumería mundial: un corazón majestuoso, denso y profundamente ahumado donde la madera de abedul comanda el aire con un porte señorial único. Su evolución final en la piel es un secado eterno, denso y ultra sexy, donde el toque mineral del ámbar gris de estatus y la pulcritud del almizcle se funden en una textura aceitosa que transmite éxito, masculinidad alfa y una seguridad aplastante.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Reuniones de negocios de alto nivel, boliches premium, citas románticas (imán letal en distancias cortas), eventos formales, fiestas de gala o cualquier situación donde el objetivo absoluto sea oler millonario, pulcro y sumamente imponente.",
-    "clima": "Cálido / Templado / Fresco / Frío",
-    "proyeccion": "Beast mode",
-    "duracion": "Superlativo (\"Modo Bestia Absoluto\" - 10h+)",
-    "estela": "Nuclear",
-    "color_liquido": "Translúcido con un sutil y limpio matiz champán",
-    "perfil_usuario": "Hombres 20-50 años. El referente de los clones árabes. Para todos los que quieren Aventus sin pagar $400+.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Diseñado exclusivamente para hombres de gran presencia, jefes, profesionales, amantes de los cumplidos y de la perfumería de nicho pesada que buscan su aroma de firma definitivo. Es la pócima perfecta para personalidades plantadas que visten de forma impecable (va perfecto con un traje entallado, una camisa blanca premium o un look urbano con mucha facha), detestan pasar desapercibidos y exigen que su perfume dure todo el día dejando una estela de autoridad.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9828.2x.avif",
-    "inspirado_en_nombre": "Creed Aventus (Francia)",
-    "inspiraciones": [
-      {
-        "texto": "Es el clon definitivo llevado al pináculo de la alta perfumería. Capta el ADN icónico del rey de nicho pero en su faceta más opulenta, donde la piña madura y jugosa se sumerge en una nube de abedul ahumado mucho más denso, espeso y señorial. Gracias a su concentración de extracto, la fijación duplica los estándares comunes, ofreciendo un rendimiento brutal que roza la perfección.",
-        "nombre": "Creed Aventus (Francia)",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9828.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "TUBBEES - Titans Splash | EDP | 50ml",
     "marca": "Tubbees — UAE",
     "genero": "Masculino",
@@ -8001,6 +8087,38 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los florales blancos más exitosos y elegantes de la última década. Captura a la perfección ese adictivo ADN de \"flores blancas luminosas (nardos/jazmín) con un fondo cálido, amaderado y avainillado\", ofreciendo un rendimiento brutal y una presentación deslumbrante.",
         "nombre": "L'Interdit de Givenchy",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ARMAF - Club de Nuit Intense Men | Extrait De Parfum",
+    "marca": "ARMAF",
+    "genero": "Masculino",
+    "familia_olfativa": "Amaderado Especiado / Aventus DNA",
+    "inspirado_en": "Es el clon definitivo llevado al pináculo de la alta perfumería. Capta el ADN icónico del rey de nicho pero en su faceta más opulenta, donde la piña madura y jugosa se sumerge en una nube de abedul ahumado mucho más denso, espeso y señorial. Gracias a su concentración de extracto, la fijación duplica los estándares comunes, ofreciendo un rendimiento brutal que roza la perfección.",
+    "notas_salida": "Limón, grosella negra, manzana, piña, bergamota",
+    "notas_corazon": "Abedul, jazmín, rosa",
+    "notas_fondo": "Almizcle, ámbar gris, vainilla, pachulí",
+    "descripcion": "La definición líquida de la opulencia, la autoridad absoluta y la facha premium definitiva. Club de Nuit Intense Man Extrait abre con un impacto alucinante, rico y súper equilibrado de piña madura y cítricos sedosos que se sienten naturales y carísimos. Rápidamente abre paso a la transición más elogiada de la perfumería mundial: un corazón majestuoso, denso y profundamente ahumado donde la madera de abedul comanda el aire con un porte señorial único. Su evolución final en la piel es un secado eterno, denso y ultra sexy, donde el toque mineral del ámbar gris de estatus y la pulcritud del almizcle se funden en una textura aceitosa que transmite éxito, masculinidad alfa y una seguridad aplastante.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Reuniones de negocios de alto nivel, boliches premium, citas románticas (imán letal en distancias cortas), eventos formales, fiestas de gala o cualquier situación donde el objetivo absoluto sea oler millonario, pulcro y sumamente imponente.",
+    "clima": "Cálido / Templado / Fresco / Frío",
+    "proyeccion": "Beast mode",
+    "duracion": "Superlativo (\"Modo Bestia Absoluto\" - 10h+)",
+    "estela": "Nuclear",
+    "color_liquido": "Translúcido con un sutil y limpio matiz champán",
+    "perfil_usuario": "Hombres 20-50 años. El referente de los clones árabes. Para todos los que quieren Aventus sin pagar $400+.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Diseñado exclusivamente para hombres de gran presencia, jefes, profesionales, amantes de los cumplidos y de la perfumería de nicho pesada que buscan su aroma de firma definitivo. Es la pócima perfecta para personalidades plantadas que visten de forma impecable (va perfecto con un traje entallado, una camisa blanca premium o un look urbano con mucha facha), detestan pasar desapercibidos y exigen que su perfume dure todo el día dejando una estela de autoridad.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9828.2x.avif",
+    "inspirado_en_nombre": "Creed Aventus (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Es el clon definitivo llevado al pináculo de la alta perfumería. Capta el ADN icónico del rey de nicho pero en su faceta más opulenta, donde la piña madura y jugosa se sumerge en una nube de abedul ahumado mucho más denso, espeso y señorial. Gracias a su concentración de extracto, la fijación duplica los estándares comunes, ofreciendo un rendimiento brutal que roza la perfección.",
+        "nombre": "Creed Aventus (Francia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.9828.2x.avif"
       }
     ]
   },
@@ -8995,34 +9113,6 @@
         "texto": "Tom Ford Neroli Portofino",
         "nombre": "Tom Ford Neroli Portofino",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "VALENTINO - Uomo Born In Roma | EDT",
-    "genero": "Masculino",
-    "familia_olfativa": "Mineral, Amaderado, ozonico, Aromático, Acuático, Salado, Herbal, Fesco especiado, Verde, Especiado suave",
-    "inspirado_en": "Representa el estándar actual de la perfumería masculina moderna: un equilibrio perfecto entre la frescura inicial enérgica y un fondo amaderado cálido, elegante y con un toque rebelde gracias a las tachas de su diseño.",
-    "notas_salida": "notas minerales, hojas de violeta, sal",
-    "notas_corazon": "salvia, jengibre",
-    "notas_fondo": "maderas, vetiver",
-    "descripcion": "La definición en perfume de la elegancia rebelde, la noche urbana y el estilo romano actual. Valentino Uomo Born In Roma arranca con un impacto moderno y chispeante de jengibre y notas saladas que despiertan los sentidos. En cuestión de minutos despliega su faceta más elogiada: un corazón aromático de salvia que aporta distinción. Su evolución final en la piel es un secado profundo, ahumado y sofisticado, donde el vetiver deja un rastro flotante magnético, masculino y sumamente atractivo.",
-    "momento_dia": "Día / Noche",
-    "estacion": "Otoño / Primavera / Verano",
-    "ocasion": "Uso profesional, salidas casuales, citas románticas, eventos sociales o momentos donde busques dejar una impresión moderna y elegante.",
-    "clima": "Templado / Cálido / Fresco",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Notable (7h a 9h)",
-    "estela": "Moderada",
-    "color_liquido": "Ámbar claro",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, seguros de sí mismos, con estilo urbano, carismáticos y amantes de las fragancias versátiles que combinan frescura inicial con fondos profundos. Es la elección perfecta para quienes buscan un aroma de firma versátil tanto para el día como para destacar de noche.",
-    "inspirado_en_nombre": "VALENTINO - Uomo Born In Roma",
-    "inspiraciones": [
-      {
-        "texto": "Representa el estándar actual de la perfumería masculina moderna: un equilibrio perfecto entre la frescura inicial enérgica y un fondo amaderado cálido, elegante y con un toque rebelde gracias a las tachas de su diseño.",
-        "nombre": "VALENTINO - Uomo Born In Roma"
       }
     ]
   },
@@ -15208,8 +15298,9 @@
     ]
   },
   {
-    "nombre_completo": "Dolce & Gabbana - The One Intense | EDP | 100 ml",
+    "nombre_completo": "DOLCE & GABBANA - The One Intense | EDP",
     "marca": "Dolce & Gabbana — Italia",
+    "genero": "Masculino",
     "familia_olfativa": "Oriental Sensual / Vainilla Negra",
     "inspirado_en": "Creación original",
     "notas_salida": "Neroli, manzana verde, mandarina italiana",
