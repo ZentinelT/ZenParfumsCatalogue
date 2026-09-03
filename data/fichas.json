@@ -3020,6 +3020,36 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Art Of Arabia I | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Fesco especiado, Verde, Cítrico, Aromático, Fresco, Ámbar",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes frescos, jabonosos y ambarados más codiciados, elogiados y lujosos del mundo. Captura a la perfección ese ADN inconfundible de \"salida cítrica especiada con jengibre que da paso al icónico acorde de té negro y un fondo limpio de ambroxan\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "bergamota, menta",
+    "notas_corazon": "te negro, jengibre, lavanda",
+    "notas_fondo": "ambroxan, incienso, canela",
+    "descripcion": "La definición en perfume de la sofisticación moderna, la pulcritud aristocrática y la frescura especiada más codiciada del mercado global. Lattafa Art Of Arabia I arranca con un impacto vibrante, cítrico y especiado de jengibre y bergamota. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón aromático dominado por el té negro y la canela. Su evolución final es un secado profundo de ambroxan y maderas limpias, dejando un rastro flotante sumamente elegante, distinguido y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño / Invierno",
+    "ocasion": "Entorno profesional ejecutivo, reuniones de negocios, uso diario distinguido, citas románticas o cuando el objetivo sea proyectar una imagen de éxito inquebrantable.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex (Perfil fresco, ejecutivo y de alto estatus). Diseñado para personas seguras de sí mismas, amantes de la alta perfumería de autor y quienes buscan un sello personal que proyecte éxito, distinción y pulcritud magnética.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.67370.2x.avif",
+    "inspirado_en_nombre": "Imagination de Louis Vuitton",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes frescos, jabonosos y ambarados más codiciados, elogiados y lujosos del mundo. Captura a la perfección ese ADN inconfundible de \"salida cítrica especiada con jengibre que da paso al icónico acorde de té negro y un fondo limpio de ambroxan\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Imagination de Louis Vuitton",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.67370.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "MAISON ALHAMBRA - Dark Door Sport | EDP",
     "marca": "Maison Alhambra — UAE",
     "genero": "Masculino",
@@ -6005,8 +6035,9 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Jean Lowe Nouveau | EDP | 100 ml",
+    "nombre_completo": "MAISON ALHAMBRA - Jean Lowe Nouveau | EDP",
     "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
     "familia_olfativa": "Oud / Frutal Cacao",
     "inspirado_en": "Louis Vuitton Nouveau Monde (clone propio, puede también llamarse Fraiche en algunas etiquetas)",
     "notas_salida": "Oud, cacao",

@@ -2308,7 +2308,7 @@
     "p": 60400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2159_cw7zr1.webp",
     "nt": "Salida almendra, cafe Notas de corazón: jazmin, nardos, haba tonka Notas de fondo: vainilla, cacao, sandalo",
     "p1": "$60.400"
@@ -2464,7 +2464,7 @@
     "p": 75700,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2171_1qv7aq.webp",
     "nt": "Salida Bergamota, lavanda, cítricos Notas de corazón: Sándalo, cedro, geranio Notas de fondo: Ámbar, almizcle, vetiver",
     "p1": "$75.700"
@@ -2838,13 +2838,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Jean Lowe Nouveau | EDP",
     "s": "100ml",
-    "p": 75400,
+    "p": 76600,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2200_fzseqk.webp",
     "nt": "Salida Oud, cacao Notas de corazón: Pachulí, rosa, azafrán, caramelo Notas de fondo: Cuero, sándalo",
-    "p1": "$75.400"
+    "p1": "$76.600"
   },
   {
     "id": 2201,
@@ -3088,7 +3088,7 @@
     "p": 58600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2219_sitpx5.webp",
     "nt": "Salida Lavanda Notas de corazón: Ámbar Notas de fondo: Vainilla",
     "p1": "$58.600"
@@ -7252,6 +7252,19 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2555_94yjyd.webp",
     "nt": "Salida lavanda, limon, bergamota Notas de corazón: miel, canela, cachemira, jazmin Notas de fondo: vainilla, tabaco, haba tonka",
     "p1": "$122.400"
+  },
+  {
+    "id": 2556,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Art Of Arabia I | EDP",
+    "s": "100ml",
+    "p": 92700,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_677439-MLA82164786950_022025-F.webp",
+    "nt": "Salida bergamota, menta Notas de corazón: te negro, jengibre, lavanda Notas de fondo: ambroxan, incienso, canela",
+    "p1": "$92.700"
   },
   {
     "id": 2557,
