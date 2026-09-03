@@ -3610,6 +3610,35 @@
     ]
   },
   {
+    "nombre_completo": "XERJOFF - Erba Pura | EDP",
+    "marca": "XERJOFF",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Afrutados, Dulce, Almizclado, Atalcado, Avainillado, Ámbar, Fesco especiado",
+    "inspirado_en": "El referente mundial indiscutido de las fragancias ultra frutales de lujo. Captura a la perfección ese ADN inconfundible de \"cóctel frutal efervescente que se funde en una nube de almizcle blanco limpio y vainilla ambarada\", ofreciendo una presencia arrolladora que define el estándar de la perfumería nicho moderna.",
+    "notas_salida": "naranja, bergamota, limon",
+    "notas_corazon": "frutas",
+    "notas_fondo": "almizcle, vainilla, ambar",
+    "descripcion": "La definición en perfume de la alegría desbordante, la opulencia frutal y la estela más potente del mercado de autor. Xerjoff Erba Pura arranca con un impacto masivo, jugoso y chispeante de cítricos sicilianos. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón tropical rebosante de frutas dulces. Su evolución final es un secado icónico de almizcle blanco limpio y vainilla ambarada, dejando un rastro flotante magnético y de una presencia imposible de ignorar.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño / Invierno",
+    "ocasion": "Salidas, eventos sociales, uso diario llamativo o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendario (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, carismáticas, amantes de las fragancias de alto impacto, dulces y frutales que exigen un rendimiento extremo para destacar en cualquier lugar.",
+    "inspirado_en_nombre": "Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": "El referente mundial indiscutido de las fragancias ultra frutales de lujo. Captura a la perfección ese ADN inconfundible de \"cóctel frutal efervescente que se funde en una nube de almizcle blanco limpio y vainilla ambarada\", ofreciendo una presencia arrolladora que define el estándar de la perfumería nicho moderna.",
+        "nombre": "Composición Propia"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AFNAN - Historic Sahara | Extrait de Parfum",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "genero": "Unisex",
@@ -4601,6 +4630,38 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Glacier Ultra | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático / Ultra Male DNA",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes dulces y seductores más icónicos, elogiados y buscados del mundo para la noche y los boliches. Captura a la perfección ese ADN inconfundible de \"salida jugosa de pera combinada con una sobredosis de canela, vainilla negra y un fondo ambarado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "canela, pimienta, limon",
+    "notas_corazon": "Lavanda, Esclarea, Pachulí",
+    "notas_fondo": "Vainilla, Ámbar, Cedro",
+    "descripcion": "La definición en perfume de la seducción juvenil, la dulzura nocturna más adictiva y la estela fiestera por excelencia. Maison Alhambra Glacier Ultra arranca con un impacto vibrante y jugoso de pera dulce y menta fresca. En cuestión de minutos despliega su faceta más elogiada y magnética: un corazón especiado donde la canela aporta un calor irresistible. Su evolución final es un secado profundo de vainilla negra y ámbar, dejando un rastro flotante sumamente reconocible, seductor y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, fiestas, citas románticas, eventos sociales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (8h a 10h",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "perfil_usuario": "Hombres 20-40 años.",
+    "rango_edad_min": 16,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, fiesteros, carismáticos y amantes de las fragancias dulces, intensas y que exigen un rendimiento extremo para destacar en la noche y los eventos sociales.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30947.2x.avif",
+    "inspirado_en_nombre": "Ultra Male de Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes dulces y seductores más icónicos, elogiados y buscados del mundo para la noche y los boliches. Captura a la perfección ese ADN inconfundible de \"salida jugosa de pera combinada con una sobredosis de canela, vainilla negra y un fondo ambarado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Ultra Male de Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30947.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "CALVIN KLEIN - CK Be | EDP",
     "marca": "CALVIN KLEIN",
     "genero": "Unisex",
@@ -5532,29 +5593,6 @@
     ]
   },
   {
-    "nombre_completo": "MAISON ALHAMBRA - Flaming Elixir | EDP",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental / Elixir Ardiente",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Notas de salida: Cereza ácida (guinda), Azafrán Notas de corazón: Cuero, Osmanto, Chabacano (albaricoque), Oliva Notas de fondo: Humo, Notas amaderadas, Cipriol (nagarmota)",
-    "descripcion": "Oriental intenso de fuego. Elixir concentrado para noches de impacto.",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "perfil_usuario": "Hombres 25-50 años.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "FRENCH AVENUE - Liquid Brun | EDP",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "genero": "Masculino",
@@ -5613,6 +5651,38 @@
         "texto": "Réplica de gran fidelidad que rinde tributo al icónico acorde de \"rosa, oud dulce y praliné/vainilla\". Captura a la perfección ese codiciado ADN oriental de \"rosa mielosa abrazada por madera de oud suave, resinas dulces y vainilla resinosa\", ofreciendo un rendimiento y una presencia de nivel superior.",
         "nombre": "Shaghaf Oud de Swiss Arabian",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.50582.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Flaming Elixir | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental / Elixir Ardiente",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de cereza más exclusivos, osados y elogiados del mundo. Captura a la perfección ese ADN inconfundible de \"cereza negra madura envuelta en un aura ahumada, con un fondo de cuero refinado y maderas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "especias",
+    "notas_corazon": "ambar, flores",
+    "notas_fondo": "maderas, resina",
+    "descripcion": "La definición en perfume del misterio atrevido, la cereza oscura y la elegancia nocturna más seductora del mercado de autor. Maison Alhambra Flaming Elixir arranca con un impacto vibrante y frutal de cereza negra. En cuestión de minutos despliega su faceta más icónica y adictiva: un corazón donde el cuero y las notas ahumadas envuelven la fruta en un halo de sofisticación pura. Su evolución final es un secado profundo de maderas finas, dejando un rastro flotante sumamente distinguido, oscuro y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado intenso",
+    "perfil_usuario": "Hombres 25-50 años.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, amantes de la perfumería nicho atrevida, y quienes buscan un sello personal que proyecte audacia, misterio y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78578.2x.avif",
+    "inspirado_en_nombre": "Cherry Smoke de Tom Ford",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de cereza más exclusivos, osados y elogiados del mundo. Captura a la perfección ese ADN inconfundible de \"cereza negra madura envuelta en un aura ahumada, con un fondo de cuero refinado y maderas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Cherry Smoke de Tom Ford",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78578.2x.avif"
       }
     ]
   },
@@ -8353,28 +8423,6 @@
       {
         "texto": "Layaan no es un clon de un perfume en particular, sino que se posiciona como una creación original de Lattafa que sigue la línea de los grandes florales frescos y frutales (estilo J'adore de Dior o Chance Eau Tendre de Chanel). Captura esa sensación de \"recién salida de la ducha\", pulcritud extrema y elegancia sin esfuerzo, ofreciendo la opción ideal para el uso diario, la oficina o momentos donde buscás un aroma que acompañe sin invadir.",
         "nombre": "Estilo \"Clean Luxury\" / Perfumería de Diario de Lujo"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Maison Alhambra - Glacier Ultra | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático / Ultra Male DNA",
-    "inspirado_en": "JPG Ultra Male",
-    "descripcion": "DNA Ultra Male con lavanda y vainilla. Más suave que el Glacier original.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres 20-40 años.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "JPG Ultra Male",
-    "inspiraciones": [
-      {
-        "texto": "JPG Ultra Male",
-        "nombre": "JPG Ultra Male",
-        "imagen_url": ""
       }
     ]
   },

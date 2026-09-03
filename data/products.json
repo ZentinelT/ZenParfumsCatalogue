@@ -553,7 +553,7 @@
     "p": 97000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1776091013792_anvhez.jpg",
     "nt": "Salida Menta, Lavanda Notas de corazón: Vainilla, Benjuí Notas de fondo: Miel, Haba tonka, Tabaco",
     "p1": "$97.000"
@@ -2708,13 +2708,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Flaming Elixir | EDP",
     "s": "100ml",
-    "p": 61000,
+    "p": 60200,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2190_4zpfdd.webp",
-    "nt": "Salida Notas de salida: Cereza ácida (guinda), Azafrán Notas de corazón: Cuero, Osmanto, Chabacano (albaricoque), Oliva Notas de fondo: Humo, Notas amaderadas, Cipriol (nagarmota)",
-    "p1": "$61.000"
+    "nt": "Salida especias Notas de corazón: ambar, flores Notas de fondo: maderas, resina",
+    "p1": "$60.200"
   },
   {
     "id": 2191,
@@ -2773,13 +2773,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Glacier Ultra | EDP",
     "s": "100ml",
-    "p": 60800,
+    "p": 60000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2195_z9ibsr.webp",
-    "nt": "Salida Canela, Pimienta, Limón (lima ácida) Notas de corazón: Lavanda, Esclarea, Pachulí Notas de fondo: Vainilla, Ámbar, Cedro",
-    "p1": "$60.800"
+    "nt": "Salida canela, pimienta, limon Notas de corazón: Lavanda, Esclarea, Pachulí Notas de fondo: Vainilla, Ámbar, Cedro",
+    "p1": "$60.000"
   },
   {
     "id": 2196,
@@ -7262,7 +7262,7 @@
     "c": "arabes",
     "g": "unisex",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_677439-MLA82164786950_022025-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2556_6yu6vg.webp",
     "nt": "Salida bergamota, menta Notas de corazón: te negro, jengibre, lavanda Notas de fondo: ambroxan, incienso, canela",
     "p1": "$92.700"
   },
@@ -7278,5 +7278,18 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2557_m60qo0.webp",
     "nt": "—",
     "p1": "$104.700"
+  },
+  {
+    "id": 2558,
+    "b": "XERJOFF",
+    "n": "XERJOFF - Erba Pura | EDP",
+    "s": "100ml",
+    "p": 333400,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_774858-MLU78336638548_082024-F.webp",
+    "nt": "Salida naranja, bergamota, limon Notas de corazon: frutas Notas de fondo: almizcle, vainilla, ambar",
+    "p1": "$333.400"
   }
 ]
