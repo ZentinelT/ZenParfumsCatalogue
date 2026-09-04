@@ -15,20 +15,20 @@
   {
     "id": 1983,
     "b": "AFNAN",
-    "n": "AFNAN - 9AM Dive | EDP",
+    "n": "AFNAN - 9am Dive | EDP",
     "s": "100ml",
-    "p": 74800,
+    "p": 75600,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1983_2pkhqe.webp",
     "nt": "Salida Limón, menta, grosella negra, pimienta rosa Notas de corazón: Manzana verde, incienso, cedro Notas de fondo: Jengibre, sándalo, jazmín, pachulí",
-    "p1": "$74.800"
+    "p1": "$75.600"
   },
   {
     "id": 1984,
     "b": "AFNAN",
-    "n": "AFNAN - 9PM Black | EDP",
+    "n": "AFNAN - 9pm Black | EDP",
     "s": "100ml",
     "p": 68200,
     "c": "arabes",
@@ -54,15 +54,15 @@
   {
     "id": 1986,
     "b": "AFNAN",
-    "n": "AFNAN - 9PM | Elixir",
+    "n": "AFNAN - 9pm | Elixir",
     "s": "100ml",
-    "p": 92200,
+    "p": 92300,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1986_lygimr.webp",
     "nt": "Salida nuez moscada, elemi, cardamomo Notas de corazón: pimiento, lavanda, cuero Notas de fondo: heliántemo, ládano, pachulí, vainilla",
-    "p1": "$92.200"
+    "p1": "$92.300"
   },
   {
     "id": 1987,
@@ -72,7 +72,7 @@
     "p": 96100,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1987_of1xok.webp",
     "nt": "Salida Manzana Granny Smith, piña, mandarina Notas de corazón: Cedro, vainilla, musgo de roble Notas de fondo: Ámbar gris, almizcle, Madera Seca, caramelo",
     "p1": "$96.100"
@@ -618,7 +618,7 @@
     "p": 124000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2029_nk5qhj.webp",
     "nt": "Salida Piña, limón, bergamota, caramelo, pera, pimienta Notas de corazón: Musgo de roble, Maderas, jazmín, lirio, anís Notas de fondo: Ambroxan, ámbar, almizcle blanco, pachulí, vainilla, cuero, cedro",
     "p1": "$124.000"
@@ -1099,7 +1099,7 @@
     "p": 91500,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2066_s4idk8.webp",
     "nt": "Corazón Sandía, coco Notas de fondo: Amberwood, cacao, ámbar gris",
     "p1": "$91.500"
@@ -1944,7 +1944,7 @@
     "p": 62800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2131_pvcju1.webp",
     "nt": "Salida Pimienta negra, cardamomo, bergamota Notas de corazón: Cuero, madera de oud, pachulí Notas de fondo: Ámbar, benjuí, vainilla, almizcle",
     "p1": "$62.800"
@@ -2308,7 +2308,7 @@
     "p": 60400,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2159_cw7zr1.webp",
     "nt": "Salida almendra, cafe Notas de corazón: jazmin, nardos, haba tonka Notas de fondo: vainilla, cacao, sandalo",
     "p1": "$60.400"
@@ -2529,7 +2529,7 @@
     "p": 72900,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2176_mt7bmo.webp",
     "nt": "Salida Orquídea, heliotropo, naranja Notas de corazón: Acorde goloso, frutas tropicales Notas de fondo: Vainilla, almizcle, sándalo",
     "p1": "$72.900"
@@ -2932,7 +2932,7 @@
     "p": 76600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2207_10au1h.webp",
     "nt": "Salida Cardamomo Notas de corazón: Cuero, Jazmín Sambac Notas de fondo: Ámbar, Musgo, Pachulí",
     "p1": "$76.600"
@@ -3088,7 +3088,7 @@
     "p": 58600,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2219_sitpx5.webp",
     "nt": "Salida Lavanda Notas de corazón: Ámbar Notas de fondo: Vainilla",
     "p1": "$58.600"
@@ -3205,7 +3205,7 @@
     "p": 73300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2228_faavpe.webp",
     "nt": "Salida Bergamota, limón, frutas Notas de corazón: Canela, flor de azahar, notas marinas, cardamomo Notas de fondo: Ámbar gris, sándalo, almizcle",
     "p1": "$73.300"
@@ -4541,13 +4541,13 @@
     "b": "JEAN PAUL GAULTIER",
     "n": "JEAN PAUL GAULTIER - Scandal Pour Homme | Parfum",
     "s": "100ml",
-    "p": 187200,
+    "p": 216400,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2332_ixz341.webp",
     "nt": "Salida Bergamota, pimienta Notas de corazón: Flores blancas, salvia Notas de fondo: Tabaco, benjuí, musgo de roble",
-    "p1": "$187.200"
+    "p1": "$216.400"
   },
   {
     "id": 2333,
@@ -4674,7 +4674,7 @@
     "p": 56500,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2344_ijg7xi.webp",
     "nt": "Salida pimienta rosa, hediona, bergamota Notas de corazón: Caramelo, jazmín, flor de azahar del naranjo · Fondo Ámbar, almizcle, musgo, vainilla",
     "p1": "$56.500"
@@ -4778,7 +4778,7 @@
     "p": 62000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2352_3ityrc.webp",
     "nt": "Salida bergamota Notas de corazón: rosa, oud Notas de fondo: Ámbar, almizcle blanco, vainilla",
     "p1": "$62.000"
@@ -6153,13 +6153,13 @@
     "b": "JEAN PAUL GAULTIER",
     "n": "JEAN PAUL GAULTIER - Scandal Pour Homme Elixir Parfum | Elixir",
     "s": "100ml",
-    "p": 227800,
+    "p": 249200,
     "c": "internacional",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2468_f17nvl.webp",
     "nt": "Salida cereza negra, esclarea, bergamota, limon Notas de corazón: pachuli, lavanda, ron, geranio, menta Notas de fondo: haba tonka, vainilla, akigalawood",
-    "p1": "$227.800"
+    "p1": "$249.200"
   },
   {
     "id": 2469,
@@ -6728,7 +6728,7 @@
     "p": 105600,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2513_es6lnj.webp",
     "nt": "Salida iris, citricos Notas de corazón: cuero Notas de fondo: sandalo, almizcle, cedro, oud",
     "p1": "$105.600"
@@ -6741,7 +6741,7 @@
     "p": 108400,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2514_wmjabc.webp",
     "nt": "Salida canela, pimienta rosa, cardamomo Notas de corazón: pachuli Notas de fondo: benjui, haba tonka, vainilla",
     "p1": "$108.400"
@@ -6819,7 +6819,7 @@
     "p": 69200,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2521_1vl9fp.webp",
     "nt": "Salida Lavanda, notas verdes, bergamota, menta, mandarina Notas de corazón: Hierba verde, durazno, jazmín, fresia, orquídea Notas de fondo: Almizcle, sándalo, cedro, vainilla, ámbar",
     "p1": "$69.200"
@@ -7079,7 +7079,7 @@
     "p": 103600,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2541_571s81.webp",
     "nt": "Salida lima, leche de coco, bergamota, mandarina Notas de corazón: caña de azucar, jazmin, hibisco, gardenia Notas de fondo: ron, almizcle, haba tonka, pachuli",
     "p1": "$103.600"

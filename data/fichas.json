@@ -1876,38 +1876,6 @@
     ]
   },
   {
-    "nombre_completo": "AFNAN - 9PM | Elixir",
-    "marca": "Afnan Perfumes — Dubai, UAE",
-    "anno": "2025",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental Especiada Cuero",
-    "inspirado_en": "JPG Le Male Elixir",
-    "notas_salida": "nuez moscada, elemi, cardamomo",
-    "notas_corazon": "pimiento, lavanda, cuero",
-    "notas_fondo": "heliántemo, ládano, pachulí, vainilla",
-    "descripcion": "Oro líquido embotellado. 9 PM Elixir abre con un chispazo limpio y masculino de lavanda y menta fresca, que rápidamente se rinde ante un corazón ardiente y ultra adictivo de miel pura y tabaco rubio. El secado es un espectáculo: una capa densa y súper cremosa de vainilla y haba tonka que se funde en la piel con una textura pesada, caliente y sumamente erótica. Es un aroma opulento, dulce y diseñado específicamente para conquistar en la noche.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño, Invierno",
-    "ocasion": "Boliche, Fiestas, Salidas nocturnas, Citas románticas de alto impacto",
-    "clima": "Frío",
-    "proyeccion": "Beast mode",
-    "duracion": "Extrema (12+ horas)",
-    "estela": "Nuclear",
-    "color_liquido": "Dorado oscuro / Ámbar intenso",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Para hombres seductores, seguros de sí mismos y con actitud arrolladora. Es ideal para quienes buscan un perfume nocturno de alto impacto que arrase con los cumplidos de las mujeres y que deje una presencia imponente en cualquier lugar cerrado.",
-    "inspirado_en_imagen_url": "https://http2.mlstatic.com/D_Q_NP_756813-MLA74103381769_012024-F.webp",
-    "inspirado_en_nombre": "Jean Paul Gaultier Le Male Elixir",
-    "inspiraciones": [
-      {
-        "texto": "JPG Le Male Elixir",
-        "nombre": "Jean Paul Gaultier Le Male Elixir",
-        "imagen_url": "https://http2.mlstatic.com/D_Q_NP_756813-MLA74103381769_012024-F.webp"
-      }
-    ]
-  },
-  {
     "nombre_completo": "AFNAN - Historic Doria | EDP",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "genero": "Femenino",
@@ -2446,36 +2414,6 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "AFNAN - 9AM Dive | EDP",
-    "marca": "Afnan Perfumes — Dubai, UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático Acuático / DNA Azul moderno",
-    "inspirado_en": "Bleu de Chanel: De acá saca esa apertura cítrica, fina, súper pulcra y elegante de \"olor a jabón de lujo\".\n\nY de Yves Saint Laurent (Eau de Parfum): Le aporta ese toque frutal dulce de manzana verde y jengibre picante que lo vuelve ultra moderno y ganchero.",
-    "notas_salida": "Limón, menta, grosella negra, pimienta rosa",
-    "notas_corazon": "Manzana verde, incienso, cedro",
-    "notas_fondo": "Jengibre, sándalo, jazmín, pachulí",
-    "descripcion": "La frescura azul absoluta en su máxima expresión. 9 AM Dive abre con una ráfaga helada de menta y cítricos jugosos, acompañados por una manzana verde crocante que atrapa desde el primer segundo. En su corazón, el jengibre picante le aporta una energía moderna y ultra limpia. Su secado evoluciona hacia una base amaderada y ambarada sumamente confortable que emula el olor a piel limpia, masculina y costosa después de una ducha de lujo. Es radiante, enérgico y adictivo.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Uso diario premium, Oficina / Trabajo, Gimnasio / Deportivo, Salidas casuales de día, Reuniones informales",
-    "clima": "Cálido / Caluroso / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Larga duración (7-8h)",
-    "estela": "Moderada",
-    "color_liquido": "Azul océano translúcido",
-    "perfil_usuario": "Hombres y mujeres 18-35 años. Estilo fresco, atlético, moderno. Para quienes buscan un \"azul\" asequible y versátil con personalidad propia.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Para hombres activos, modernos y dinámicos que buscan un perfume \"firma\" definitivo para el día a día. Es ideal para el hombre que no quiere complicarse la cabeza eligiendo qué perfume ponerse y busca algo que quede perfecto en cualquier situación, proyectando pulcritud, seguridad y un magnetismo súper fresco.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Bleu de Chanel: De acá saca esa apertura cítrica, fina, súper pulcra y elegante de \"olor a jabón de lujo\".\n\nY de Yves Saint Laurent (Eau de Parfum): Le aporta ese toque frutal dulce de manzana verde y jengibre picante que lo vuelve ultra moderno y ganchero.",
-        "nombre": "Composición propia"
       }
     ]
   },
@@ -4908,6 +4846,36 @@
     ]
   },
   {
+    "nombre_completo": "AFNAN - 9am Dive | EDP",
+    "marca": "Afnan Perfumes — Dubai, UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Acuático / DNA Azul moderno",
+    "inspirado_en": "Bleu de Chanel: De acá saca esa apertura cítrica, fina, súper pulcra y elegante de \"olor a jabón de lujo\".\n\nY de Yves Saint Laurent (Eau de Parfum): Le aporta ese toque frutal dulce de manzana verde y jengibre picante que lo vuelve ultra moderno y ganchero.",
+    "notas_salida": "Limón, menta, grosella negra, pimienta rosa",
+    "notas_corazon": "Manzana verde, incienso, cedro",
+    "notas_fondo": "Jengibre, sándalo, jazmín, pachulí",
+    "descripcion": "La frescura azul absoluta en su máxima expresión. 9 AM Dive abre con una ráfaga helada de menta y cítricos jugosos, acompañados por una manzana verde crocante que atrapa desde el primer segundo. En su corazón, el jengibre picante le aporta una energía moderna y ultra limpia. Su secado evoluciona hacia una base amaderada y ambarada sumamente confortable que emula el olor a piel limpia, masculina y costosa después de una ducha de lujo. Es radiante, enérgico y adictivo.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario premium, Oficina / Trabajo, Gimnasio / Deportivo, Salidas casuales de día, Reuniones informales",
+    "clima": "Cálido / Caluroso / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Larga duración (7-8h)",
+    "estela": "Moderada",
+    "color_liquido": "Azul océano translúcido",
+    "perfil_usuario": "Hombres y mujeres 18-35 años. Estilo fresco, atlético, moderno. Para quienes buscan un \"azul\" asequible y versátil con personalidad propia.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Para hombres activos, modernos y dinámicos que buscan un perfume \"firma\" definitivo para el día a día. Es ideal para el hombre que no quiere complicarse la cabeza eligiendo qué perfume ponerse y busca algo que quede perfecto en cualquier situación, proyectando pulcritud, seguridad y un magnetismo súper fresco.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Bleu de Chanel: De acá saca esa apertura cítrica, fina, súper pulcra y elegante de \"olor a jabón de lujo\".\n\nY de Yves Saint Laurent (Eau de Parfum): Le aporta ese toque frutal dulce de manzana verde y jengibre picante que lo vuelve ultra moderno y ganchero.",
+        "nombre": "Composición propia"
+      }
+    ]
+  },
+  {
     "nombre_completo": "ASDAAF - Ameer Al Arab Imperium | EDP",
     "marca": "Asdaaf (Lattafa group) — UAE",
     "genero": "Masculino",
@@ -5279,6 +5247,70 @@
         "texto": "Creación original",
         "nombre": "",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "AFNAN - 9pm Black | EDP",
+    "marca": "Afnan Perfumes — Dubai, UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Ámbar Vainilla / Oriental Dulce",
+    "inspirado_en": "Es un clon brutal, ultra fiel, que replica esa icónica combinación de pera jugosa, canela y vainilla fiestera. Muchos expertos lo consideran superior al original actual porque es más potente, proyecta más y no tiene esa salida sintética pesada.",
+    "notas_salida": "Manzana, canela, lavanda silvestre, bergamota",
+    "notas_corazon": "Flor de azahar, lirio de los valles",
+    "notas_fondo": "Vainilla, haba tonka, ámbar, pachulí",
+    "descripcion": "Una bomba de seducción nocturna hiperactiva. 9 PM abre con una explosión dulce y sumamente jugosa de pera madura y manzana, combinada con un toque limpio de lavanda. Rápidamente, el aroma se vuelve cálido gracias a una canela ultra sexy, para terminar secando en una nube densa y exquisita de vainilla cremosa y haba tonka. Es un aroma fiestero, dulce, magnético y diseñado específicamente para hacerse notar en la oscuridad y dominar el ambiente.",
+    "momento_dia": "Noche / Tarde",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Boliche, Fiestas, Salidas con amigos, Eventos nocturnos informales, Citas",
+    "clima": "Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Extrema (9-10h+)",
+    "estela": "Intensa",
+    "color_liquido": "Dorado oscuro / ámbar",
+    "perfil_usuario": "Hombres 20-40 años. Seductor, audaz, sofisticado. Para quien quiere ser notado en la noche.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Para hombres jóvenes, extrovertidos y con mucha actitud, que buscan un perfume de alto impacto para salir de noche. Es ideal para quien quiere ser el centro de atención, recibir cumplidos constantes y busca una fragancia que no se apague con nada en ambientes cerrados o concurridos.",
+    "inspirado_en_imagen_url": "https://acdn-us.mitiendanube.com/stores/001/071/596/products/jean-paul-gaultier-le-male-ultra-intense-eau-de-toilette1-871a286ac957775f0e15731798601510-640-0.webp",
+    "inspirado_en_nombre": "Jean Paul Gaultier Ultra Male",
+    "inspiraciones": [
+      {
+        "texto": "Es un clon brutal, ultra fiel, que replica esa icónica combinación de pera jugosa, canela y vainilla fiestera. Muchos expertos lo consideran superior al original actual porque es más potente, proyecta más y no tiene esa salida sintética pesada.",
+        "nombre": "Jean Paul Gaultier Ultra Male",
+        "imagen_url": "https://acdn-us.mitiendanube.com/stores/001/071/596/products/jean-paul-gaultier-le-male-ultra-intense-eau-de-toilette1-871a286ac957775f0e15731798601510-640-0.webp"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "AFNAN - 9pm | Elixir",
+    "marca": "Afnan Perfumes — Dubai, UAE",
+    "anno": "2025",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Especiada Cuero",
+    "inspirado_en": "JPG Le Male Elixir",
+    "notas_salida": "nuez moscada, elemi, cardamomo",
+    "notas_corazon": "pimiento, lavanda, cuero",
+    "notas_fondo": "heliántemo, ládano, pachulí, vainilla",
+    "descripcion": "Oro líquido embotellado. 9 PM Elixir abre con un chispazo limpio y masculino de lavanda y menta fresca, que rápidamente se rinde ante un corazón ardiente y ultra adictivo de miel pura y tabaco rubio. El secado es un espectáculo: una capa densa y súper cremosa de vainilla y haba tonka que se funde en la piel con una textura pesada, caliente y sumamente erótica. Es un aroma opulento, dulce y diseñado específicamente para conquistar en la noche.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño, Invierno",
+    "ocasion": "Boliche, Fiestas, Salidas nocturnas, Citas románticas de alto impacto",
+    "clima": "Frío",
+    "proyeccion": "Beast mode",
+    "duracion": "Extrema (12+ horas)",
+    "estela": "Nuclear",
+    "color_liquido": "Dorado oscuro / Ámbar intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Para hombres seductores, seguros de sí mismos y con actitud arrolladora. Es ideal para quienes buscan un perfume nocturno de alto impacto que arrase con los cumplidos de las mujeres y que deje una presencia imponente en cualquier lugar cerrado.",
+    "inspirado_en_imagen_url": "https://http2.mlstatic.com/D_Q_NP_756813-MLA74103381769_012024-F.webp",
+    "inspirado_en_nombre": "Jean Paul Gaultier Le Male Elixir",
+    "inspiraciones": [
+      {
+        "texto": "JPG Le Male Elixir",
+        "nombre": "Jean Paul Gaultier Le Male Elixir",
+        "imagen_url": "https://http2.mlstatic.com/D_Q_NP_756813-MLA74103381769_012024-F.webp"
       }
     ]
   },
@@ -13897,6 +13929,35 @@
     ]
   },
   {
+    "nombre_completo": "JEAN PAUL GAULTIER - Scandal Pour Homme Elixir Parfum | Elixir",
+    "marca": "JEAN PAUL GAULTIER",
+    "genero": "Masculino",
+    "familia_olfativa": "Acerezado, Avainillado, Aromático, Cálido especiado, Ámbar, Dulce, Amaderado, Pachulí, Lavanda, Fesco especiado",
+    "inspirado_en": "Creación original",
+    "notas_salida": "cereza negra, esclarea, bergamota, limon",
+    "notas_corazon": "pachuli, lavanda, ron, geranio, menta",
+    "notas_fondo": "haba tonka, vainilla, akigalawood",
+    "descripcion": "La definición absoluta de la provocación, el magnetismo licoroso y el estatus nocturno de Jean Paul Gaultier. Scandal Pour Homme Elixir abre de manera impactante con una jugosa y oscura cereza negra combinada con el toque aromático de la esclarea. Rápidamente, la fragancia revela su faceta más peligrosa y atractiva: un corazón encendido por el ron añejo, contrastado de forma magistral por la frescura helada de la menta verde. Su evolución final en la piel es un despliegue de pura adicción: una base masiva de vainilla, haba tonka y el poder molecular del Akigalawood, dejando en el aire una estela densa, carísima, dulce-licorosa y con una presencia arrolladora que domina la noche.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Boliches premium, fiestas exclusivas, eventos nocturnas VIP, citas románticas donde quieras dejar tu marca o cualquier situación donde el objetivo absoluto sea oler costoso y marcar territorio",
+    "clima": "Frío / Muy fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Atómica (10h+ - 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar Intenso / Dorado Oscuro",
+    "rango_edad_min": 18,
+    "rango_edad_max": 42,
+    "estilo_descripcion": "Diseñado para hombres decididos, carismáticos y con una actitud imponente que buscan un perfume de diseñador original para salir a romper la noche. Es ideal para personalidades extrovertidas que disfrutan ser el centro de atención, que exigen fragancias pesadas con una proyección bestial, y que eligen la exclusividad de tener una de las botellas más codiciadas y deseadas del mercado global.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Al Areeq Gold | EDP | 100ml",
     "familia_olfativa": "Cuero, Ámbar, Cálido especiado, Avainillado, Ahumado, Almizclado, atalcado., Animálico, Balsámico, Amaderado",
     "inspirado_en": "Composición propia",
@@ -13922,34 +13983,6 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.46420.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "JEAN PAUL GAULTIER - Scandal Pour Homme Elixir Parfum | Elixir",
-    "genero": "Masculino",
-    "familia_olfativa": "Acerezado, Avainillado, Aromático, Cálido especiado, Ámbar, Dulce, Amaderado, Pachulí, Lavanda, Fesco especiado",
-    "inspirado_en": "Creación original",
-    "notas_salida": "cereza negra, esclarea, bergamota, limon",
-    "notas_corazon": "pachuli, lavanda, ron, geranio, menta",
-    "notas_fondo": "haba tonka, vainilla, akigalawood",
-    "descripcion": "La definición absoluta de la provocación, el magnetismo licoroso y el estatus nocturno de Jean Paul Gaultier. Scandal Pour Homme Elixir abre de manera impactante con una jugosa y oscura cereza negra combinada con el toque aromático de la esclarea. Rápidamente, la fragancia revela su faceta más peligrosa y atractiva: un corazón encendido por el ron añejo, contrastado de forma magistral por la frescura helada de la menta verde. Su evolución final en la piel es un despliegue de pura adicción: una base masiva de vainilla, haba tonka y el poder molecular del Akigalawood, dejando en el aire una estela densa, carísima, dulce-licorosa y con una presencia arrolladora que domina la noche.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Boliches premium, fiestas exclusivas, eventos nocturnas VIP, citas románticas donde quieras dejar tu marca o cualquier situación donde el objetivo absoluto sea oler costoso y marcar territorio",
-    "clima": "Frío / Muy fresco",
-    "proyeccion": "Beast mode",
-    "duracion": "Atómica (10h+ - 12h+)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar Intenso / Dorado Oscuro",
-    "rango_edad_min": 18,
-    "rango_edad_max": 42,
-    "estilo_descripcion": "Diseñado para hombres decididos, carismáticos y con una actitud imponente que buscan un perfume de diseñador original para salir a romper la noche. Es ideal para personalidades extrovertidas que disfrutan ser el centro de atención, que exigen fragancias pesadas con una proyección bestial, y que eligen la exclusividad de tener una de las botellas más codiciadas y deseadas del mercado global.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
       }
     ]
   },
@@ -14715,6 +14748,36 @@
     ]
   },
   {
+    "nombre_completo": "JEAN PAUL GAULTIER - Scandal Pour Homme | Parfum",
+    "marca": "Jean Paul Gaultier — Francia",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Especiado / Tabaco",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Bergamota, pimienta",
+    "notas_corazon": "Flores blancas, salvia",
+    "notas_fondo": "Tabaco, benjuí, musgo de roble",
+    "descripcion": "Tabaco suave con benjuí y musgo de roble sobre bergamota. Oscuro, seductor y maduro. La versión Parfum concentrada — más potente y duradera que el EDT. Para quien quiere impactar.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas, salidas nocturnas, gala",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro",
+    "perfil_usuario": "Hombres 25-50 años. Seductores, maduros, nocturnos.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Hombres Seductores, maduros, nocturnos.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Rayhaan - Ayka for Her | EDP | 100ml",
     "marca": "Rayhaan — UAE",
     "familia_olfativa": "Floral / Peonía Osmanto",
@@ -14775,38 +14838,6 @@
     ]
   },
   {
-    "nombre_completo": "AFNAN - 9PM Black | EDP",
-    "marca": "Afnan Perfumes — Dubai, UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Ámbar Vainilla / Oriental Dulce",
-    "inspirado_en": "Es un clon brutal, ultra fiel, que replica esa icónica combinación de pera jugosa, canela y vainilla fiestera. Muchos expertos lo consideran superior al original actual porque es más potente, proyecta más y no tiene esa salida sintética pesada.",
-    "notas_salida": "Manzana, canela, lavanda silvestre, bergamota",
-    "notas_corazon": "Flor de azahar, lirio de los valles",
-    "notas_fondo": "Vainilla, haba tonka, ámbar, pachulí",
-    "descripcion": "Una bomba de seducción nocturna hiperactiva. 9 PM abre con una explosión dulce y sumamente jugosa de pera madura y manzana, combinada con un toque limpio de lavanda. Rápidamente, el aroma se vuelve cálido gracias a una canela ultra sexy, para terminar secando en una nube densa y exquisita de vainilla cremosa y haba tonka. Es un aroma fiestero, dulce, magnético y diseñado específicamente para hacerse notar en la oscuridad y dominar el ambiente.",
-    "momento_dia": "Noche / Tarde",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Boliche, Fiestas, Salidas con amigos, Eventos nocturnos informales, Citas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Extrema (9-10h+)",
-    "estela": "Intensa",
-    "color_liquido": "Dorado oscuro / ámbar",
-    "perfil_usuario": "Hombres 20-40 años. Seductor, audaz, sofisticado. Para quien quiere ser notado en la noche.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Para hombres jóvenes, extrovertidos y con mucha actitud, que buscan un perfume de alto impacto para salir de noche. Es ideal para quien quiere ser el centro de atención, recibir cumplidos constantes y busca una fragancia que no se apague con nada en ambientes cerrados o concurridos.",
-    "inspirado_en_imagen_url": "https://acdn-us.mitiendanube.com/stores/001/071/596/products/jean-paul-gaultier-le-male-ultra-intense-eau-de-toilette1-871a286ac957775f0e15731798601510-640-0.webp",
-    "inspirado_en_nombre": "Jean Paul Gaultier Ultra Male",
-    "inspiraciones": [
-      {
-        "texto": "Es un clon brutal, ultra fiel, que replica esa icónica combinación de pera jugosa, canela y vainilla fiestera. Muchos expertos lo consideran superior al original actual porque es más potente, proyecta más y no tiene esa salida sintética pesada.",
-        "nombre": "Jean Paul Gaultier Ultra Male",
-        "imagen_url": "https://acdn-us.mitiendanube.com/stores/001/071/596/products/jean-paul-gaultier-le-male-ultra-intense-eau-de-toilette1-871a286ac957775f0e15731798601510-640-0.webp"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Versace - Dylan Blue | EDT | 200ml",
     "marca": "Versace",
     "anno": "2016",
@@ -14830,35 +14861,6 @@
     "rango_edad_min": 20,
     "rango_edad_max": 45,
     "estilo_descripcion": "Hombre Para todos. El azul cotidiano de Versace.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Jean Paul Gaultier - Scandal Pour Homme | Parfum | 100 ml",
-    "marca": "Jean Paul Gaultier — Francia",
-    "familia_olfativa": "Oriental Especiado / Tabaco",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Bergamota, pimienta",
-    "notas_corazon": "Flores blancas, salvia",
-    "notas_fondo": "Tabaco, benjuí, musgo de roble",
-    "descripcion": "Tabaco suave con benjuí y musgo de roble sobre bergamota. Oscuro, seductor y maduro. La versión Parfum concentrada — más potente y duradera que el EDT. Para quien quiere impactar.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas, salidas nocturnas, gala",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar oscuro",
-    "perfil_usuario": "Hombres 25-50 años. Seductores, maduros, nocturnos.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres Seductores, maduros, nocturnos.",
     "inspiraciones": [
       {
         "texto": "Creación original",
