@@ -140,3 +140,31 @@ function getSimilarPerfumes(p, limit) {
   out.sort(function(a,b){ return b.score - a.score; });
   return out.slice(0, limit);
 }
+
+// --- Buscador por notas (mismo motor de arriba, sin perfume ancla) ---
+var NOTE_GROUPS = [
+  { label: "Dulces & Gourmand", notes: ["vainilla","canela","cardamomo"] },
+  { label: "Amaderadas", notes: ["sandalo","cedro","oud"] },
+  { label: "Orientales & Especiadas", notes: ["ambar","pachuli","pimienta rosa","almizcle"] },
+  { label: "Cítricas & Frescas", notes: ["bergamota","limon"] },
+  { label: "Florales", notes: ["jazmin","rosa","lavanda"] },
+  { label: "Cuero & Animal", notes: ["cuero"] }
+];
+
+function getProductsByNotes(notesArr) {
+  if (!notesArr || !notesArr.length) return [];
+  var out = [];
+  PRODS.forEach(function(p){
+    if (p.c === "accesorios") return;
+    var f = getFicha(p);
+    if (!f) return;
+    var notes = simAllNotes(f);
+    var cz = simNoteTokens(f, "notas_corazon");
+    var matched = notesArr.filter(function(n){ return notes.indexOf(n) > -1; });
+    if (!matched.length) return;
+    var score = matched.length + matched.filter(function(n){ return cz.indexOf(n) > -1; }).length;
+    out.push({ product: p, score: score, matched: matched });
+  });
+  out.sort(function(a,b){ return b.score - a.score; });
+  return out;
+}

@@ -1,5 +1,6 @@
 var PS = 48;
 var cFil = "todos", cSrch = "", cPg = 1, cSort = "none";
+var cNotesMode = false, cSelectedNotes = {}, cNotesMatchInfo = {};
 var cOnlyStock = (function(){
   try { var v = localStorage.getItem("zp-only-stock"); return v === null ? true : v === "1"; }
   catch(e) { return true; }
@@ -60,7 +61,16 @@ function cleanName(n) {
   return s.trim();
 }
 function getList() {
-  var l = PRODS.filter(function(p){ return p.c !== "accesorios"; });
+  var l;
+  if (cNotesMode && Object.keys(cSelectedNotes).length) {
+    var scored = getProductsByNotes(Object.keys(cSelectedNotes));
+    cNotesMatchInfo = {};
+    scored.forEach(function(item){ cNotesMatchInfo[item.product.id] = item.matched; });
+    l = scored.map(function(item){ return item.product; });
+  } else {
+    cNotesMatchInfo = {};
+    l = PRODS.filter(function(p){ return p.c !== "accesorios"; });
+  }
   if (cOnlyStock) l = l.filter(function(p){ return p.st !== "out"; });
   if (cFil === "hombre")       l = l.filter(function(p){ return p.g === "hombre"; });
   else if (cFil === "mujer")   l = l.filter(function(p){ return p.g === "mujer"; });
@@ -72,7 +82,7 @@ function getList() {
     var q = cSrch;
     l = l.filter(function(p){ return (p.b+" "+p.n+" "+p.nt).toLowerCase().indexOf(q) > -1; });
   }
-  if (cSort === "asc" || cSort === "desc") {
+  if (!cNotesMode && (cSort === "asc" || cSort === "desc")) {
     l = l.slice().sort(function(a,b){
       var ap = a.p > 0 ? a.p : Infinity;
       var bp = b.p > 0 ? b.p : Infinity;
@@ -160,8 +170,10 @@ function renderProds() {
   var start = (cPg-1)*PS + 1;
 
   $("pcount").textContent = tot > 0
-    ? tot + " producto" + (tot !== 1 ? "s" : "") + " \u00B7 mostrando " + start + "\u2013" + Math.min(cPg*PS, tot)
-    : "Sin resultados.";
+    ? (cNotesMode
+        ? tot + " perfume" + (tot !== 1 ? "s" : "") + " coincide" + (tot !== 1 ? "n" : "") + " \u00B7 mostrando " + start + "\u2013" + Math.min(cPg*PS, tot)
+        : tot + " producto" + (tot !== 1 ? "s" : "") + " \u00B7 mostrando " + start + "\u2013" + Math.min(cPg*PS, tot))
+    : (cNotesMode ? "Sin coincidencias con esas notas." : "Sin resultados.");
 
   var svg = "<svg class=\"pc-svg\" width=\"44\" height=\"74\" viewBox=\"0 0 200 320\" fill=\"none\"><rect x=\"78\" y=\"10\" width=\"44\" height=\"22\" rx=\"5\" fill=\"#B8965A\" opacity=\".55\"/><path d=\"M58 72C58 42 142 42 142 72L150 280C150 296 50 296 50 280Z\" fill=\"none\" stroke=\"#B8965A\" stroke-width=\"2\" opacity=\".35\"/><path d=\"M64 76C64 52 136 52 136 76L144 278C144 290 56 290 56 278Z\" fill=\"rgba(184,150,90,.06)\"/><text x=\"100\" y=\"175\" text-anchor=\"middle\" font-family=\"serif\" font-size=\"12\" fill=\"#C9A96E\" opacity=\".6\" letter-spacing=\"3\">ZEN</text></svg>";
 
@@ -184,6 +196,12 @@ function renderProds() {
     } else if (p.nt && p.nt !== "\u2014") {
       ntH = "<div class=\"pc-nt\">" + esc(p.nt) + "</div>";
     }
+    var matchInfo = cNotesMode ? cNotesMatchInfo[p.id] : null;
+    var matchBadge = "";
+    if (matchInfo) {
+      matchBadge = "<span class=\"match-badge\">" + matchInfo.length + (matchInfo.length === 1 ? " nota en com\u00fan" : " notas en com\u00fan") + "</span>";
+      ntH = "<div class=\"pc-nt\"><b>Coincide en:</b> " + esc(matchInfo.join(", ")) + "</div>";
+    }
     var priceHtml = p.st === "out"
       ? "<div><span class=\"pc-pr\" style=\"font-size:13px;letter-spacing:.08em;color:var(--gr);font-weight:600\">SIN STOCK</span></div>"
       : "<div><span class=\"pc-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span></div>";
@@ -196,6 +214,7 @@ function renderProds() {
         "<div class=\"pc-br\">" + esc(p.b) + "</div>" +
         "<div class=\"pc-nm\">" + esc(nm) + "</div>" +
         "<div class=\"pc-badges\">" +
+          matchBadge +
           (getType(p.n) ? "<span class=\"type-badge\">" + esc(getType(p.n)) + "</span>" : "") +
           (p.s ? "<span class=\"size-badge\">" + esc(p.s) + "</span>" : "") +
         "</div>" +
@@ -400,6 +419,39 @@ function populateBrandOptions() {
   }).join("");
 }
 function onSearch(v) { cSrch = v.toLowerCase().trim(); cPg = 1; renderProds(); }
+
+/* ---- BUSCADOR POR NOTAS (integrado a los filtros) ---- */
+function renderNoteChips() {
+  var box = $("chipGroups");
+  if (!box || typeof NOTE_GROUPS === "undefined") return;
+  box.innerHTML = NOTE_GROUPS.map(function(g){
+    return "<div>" +
+      "<div class=\"chip-group-label\">" + esc(g.label) + "</div>" +
+      "<div class=\"chip-group-row\">" +
+        g.notes.map(function(n){
+          return "<button class=\"chip" + (cSelectedNotes[n] ? " on" : "") + "\" onclick=\"toggleNote('" + n + "')\">" + esc(n) + "</button>";
+        }).join("") +
+      "</div>" +
+    "</div>";
+  }).join("");
+}
+function toggleNote(n) {
+  if (cSelectedNotes[n]) delete cSelectedNotes[n]; else cSelectedNotes[n] = true;
+  renderNoteChips();
+  cPg = 1;
+  renderProds();
+}
+function toggleNotesMode(force) {
+  cNotesMode = (typeof force === "boolean") ? force : !cNotesMode;
+  var btn = $("notesBtn");
+  if (btn) btn.classList.toggle("on", cNotesMode);
+  var panel = $("notesPanel");
+  if (panel) panel.classList.toggle("open", cNotesMode);
+  var sel = $("sortSel");
+  if (sel) sel.disabled = cNotesMode;
+  cPg = 1;
+  renderProds();
+}
 function toggleOnlyStock(v) {
   cOnlyStock = !!v;
   try { localStorage.setItem("zp-only-stock", cOnlyStock ? "1" : "0"); } catch(e){}

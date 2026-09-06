@@ -118,7 +118,24 @@
         <span class="stock-toggle-tk"></span>
         <span class="stock-toggle-tx">Solo en stock</span>
       </label>
+      <button class="notes-btn" id="notesBtn" onclick="toggleNotesMode()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"/></svg>
+        Buscar por notas
+      </button>
     </div>
+
+    <div class="notes-panel" id="notesPanel">
+      <button class="notes-panel-close" id="notesClose" title="Cerrar" onclick="toggleNotesMode(false)">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="4" y1="4" x2="20" y2="20"/><line x1="20" y1="4" x2="4" y2="20"/></svg>
+      </button>
+      <div class="notes-panel-hd">
+        <div class="notes-panel-tt">&#191;Qu&#233; notas te gustan?</div>
+        <div class="notes-panel-sub">Eleg&iacute; una o m&aacute;s &mdash; ordenamos el cat&aacute;logo por cu&aacute;ntas comparte cada perfume.</div>
+        <div class="notes-panel-gr"></div>
+      </div>
+      <div class="chip-groups" id="chipGroups"></div>
+    </div>
+
     <div class="pg" id="pg"></div>
     <div class="pag" id="pag"></div>
     <p class="pcount" id="pcount"></p>
