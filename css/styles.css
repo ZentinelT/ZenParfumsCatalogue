@@ -11,7 +11,7 @@
   --e:cubic-bezier(.4,0,.2,1);--t:.28s;--ts:.5s;--es:cubic-bezier(.16,1,.3,1);
   --mw:1280px;
   --hero-ar:0.5628;--header-h:112px;
-  --hero-photo-light:url('../img/hero-light-desktop.webp?v=4');
+  --hero-photo-light:url('../img/hero-light-desktop-warm.webp?v=1');
   --hero-photo-mobile:url('../img/hero-dark-mobile.webp?v=2');
   --hero-photo-light-mobile:url('../img/hero-light-mobile.webp?v=5');
   --hero-photo:url('../img/hero-dark-desktop.webp?v=2');
@@ -91,14 +91,8 @@ body:not([data-theme="dark"]) .btn-dk:hover{background:#b68e47}
 }
 .hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:80px;background:linear-gradient(to bottom,transparent,var(--ow));pointer-events:none}
 body[data-theme="light"] .hero::after{height:90px}
-body[data-theme="light"]{
-  background-image:
-    linear-gradient(rgba(201,161,97,.14),rgba(201,161,97,.14)),
-    var(--hero-photo);
-  background-blend-mode:screen,normal;
-  background-size:100% calc(100vw * var(--hero-ar)),100% auto;
-  background-position:center top,center top;
-  background-repeat:no-repeat,no-repeat;
+@media(min-width:769px){
+  body[data-theme="light"]{background-image:var(--hero-photo-light)}
 }
 .hero-r{display:none}
 .hdot{position:absolute;border-radius:50%;background:var(--go);opacity:.12;animation:fdot 6s ease-in-out infinite}
