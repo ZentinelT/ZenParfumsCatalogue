@@ -366,6 +366,7 @@ function openFicha(id) {
         frow("Color del l\u00EDquido", f.color_liquido) +
         frow("Rango de edad sugerido", rango) +
       "</div>" +
+      renderSimilarSection(p) +
     "</div>";
   $("fmOv").classList.add("on");
   document.body.style.overflow = "hidden";
@@ -404,4 +405,79 @@ function toggleOnlyStock(v) {
   try { localStorage.setItem("zp-only-stock", cOnlyStock ? "1" : "0"); } catch(e){}
   cPg = 1;
   renderProds();
+}
+
+function simCardHTML(item) {
+  var p = item.product;
+  var nm = cleanName(p.n);
+  var imgH = p.i
+    ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" onerror=\"this.style.display='none'\">"
+    : "";
+
+  // Etiqueta puramente factual (qu\u00E9 coincide), sin opinar sobre cu\u00E1nto se parece el aroma.
+  var badgeTxt;
+  if (item.sharedInspired.length) {
+    badgeTxt = "Mismo inspirador";
+  } else if (item.sameFamily) {
+    badgeTxt = "Misma familia";
+  } else {
+    var nn = item.sharedNotes.length;
+    badgeTxt = nn + (nn === 1 ? " nota en com\u00FAn" : " notas en com\u00FAn");
+  }
+
+  var tags = [];
+  item.sharedNotes.slice(0, 3).forEach(function(n){ tags.push("<span class=\"sim-tag\">" + esc(n) + "</span>"); });
+  var extra = item.sharedNotes.length - 3;
+  if (extra > 0) tags.push("<span class=\"sim-tag sim-tag-dim\">+" + extra + " m\u00E1s</span>");
+
+  var priceHtml = p.st === "out"
+    ? "<span class=\"sim-oos\">Sin stock</span>"
+    : "<span class=\"sim-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span>";
+
+  return (
+    "<div class=\"scard\" onclick=\"openProduct(" + p.id + ")\">" +
+      "<div class=\"scard-img\">" + imgH +
+        "<div class=\"scard-match\">" + esc(badgeTxt) + "</div>" +
+      "</div>" +
+      "<div class=\"scard-bd\">" +
+        "<div class=\"scard-br\">" + esc(p.b) + "</div>" +
+        "<div class=\"scard-nm\">" + esc(nm) + "</div>" +
+        (tags.length ? "<div class=\"scard-tags\">" + tags.join("") + "</div>" : "") +
+        "<div class=\"scard-ft\">" + priceHtml + "</div>" +
+      "</div>" +
+    "</div>"
+  );
+}
+
+function simScroll(btn, dir) {
+  var scr = btn.closest(".sim-scr-wrap").querySelector(".sim-scr");
+  scr.scrollBy({ left: dir * 190, behavior: "smooth" });
+}
+function simUpdateFades(scr) {
+  var wrap = scr.closest(".sim-scr-wrap");
+  wrap.classList.toggle("at-start", scr.scrollLeft <= 4);
+  wrap.classList.toggle("at-end", scr.scrollLeft >= scr.scrollWidth - scr.clientWidth - 4);
+}
+function renderSimilarSection(p) {
+  var items = getSimilarPerfumes(p, 8);
+  if (!items.length) return "";
+  var n = items.length;
+  return (
+    "<div class=\"sim-section\">" +
+      "<div class=\"sim-head\">" +
+        "<div>" +
+          "<div class=\"fc-nt-t\" style=\"margin:0\">Tambi\u00E9n te puede gustar</div>" +
+          "<div class=\"sim-sub\">Ordenados por cu\u00E1nto se parecen a este perfume</div>" +
+        "</div>" +
+        "<span class=\"sim-count\">" + n + (n === 1 ? " resultado" : " resultados") + "</span>" +
+      "</div>" +
+      "<div class=\"sim-scr-wrap at-start\">" +
+        "<div class=\"sim-scr\" onscroll=\"simUpdateFades(this)\">" + items.map(simCardHTML).join("") + "</div>" +
+        "<div class=\"sim-fade sim-fade-l\"></div>" +
+        "<div class=\"sim-fade sim-fade-r\"></div>" +
+        "<button class=\"sim-arrow sim-arrow-l\" onclick=\"simScroll(this,-1)\" aria-label=\"Anterior\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M15 18l-6-6 6-6\"/></svg></button>" +
+        "<button class=\"sim-arrow sim-arrow-r\" onclick=\"simScroll(this,1)\" aria-label=\"Siguiente\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M9 18l6-6-6-6\"/></svg></button>" +
+      "</div>" +
+    "</div>"
+  );
 }
