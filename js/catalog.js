@@ -312,8 +312,10 @@ function openProduct(id) {
       "</div>" +
     "</div>";
 
-  $("pmOv").classList.add("on");
+  var pmOv = $("pmOv");
+  pmOv.classList.remove("on");
   document.body.style.overflow = "hidden";
+  requestAnimationFrame(function(){ requestAnimationFrame(function(){ pmOv.classList.add("on"); }); });
 }
 function closeProduct() {
   $("pmOv").classList.remove("on");
