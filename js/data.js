@@ -61,7 +61,12 @@ function simInspiredKeys(f) {
   return keys;
 }
 
-var FAMILY_STOPWORDS = { "de":true, "y":true, "con":true, "notas":true, "nota":true };
+var FAMILY_STOPWORDS = {
+  "de":true, "y":true, "con":true, "notas":true, "nota":true,
+  "moderno":true, "moderna":true, "azul":true, "energetico":true,
+  "clasico":true, "clasica":true, "elegante":true, "sofisticado":true,
+  "dna":true, "edition":true, "elixir":true, "intense":true
+};
 function simFamilyTokens(f) {
   var v = simNorm(f.familia_olfativa);
   if (!v) return [];
@@ -103,17 +108,20 @@ function getSimilarPerfumes(p, limit) {
     notes0.forEach(function(n){ if (notes1.indexOf(n) > -1) sharedNotesSet[n] = true; });
     var sharedNotes = Object.keys(sharedNotesSet);
 
-    var sharedFamily = family0.filter(function(w){ return family1.indexOf(w) > -1; });
+    var sharedFamilyRaw = family0.filter(function(w){ return family1.indexOf(w) > -1; });
+    // una sola palabra de familia en común es demasiado débil como señal por sí sola
+    // (ej. "floral" solo, o una palabra que ni siquiera describe aroma) -> exigimos 2+
+    var familyMatches = sharedFamilyRaw.length >= 2;
     var sharedInspired = inspired0.filter(function(k){ return inspired1.indexOf(k) > -1; });
 
-    if (!sharedNotes.length && !sharedFamily.length && !sharedInspired.length) {
-      return; // sin ninguna señal de similitud, no entra al ranking
+    if (!sharedNotes.length && !familyMatches && !sharedInspired.length) {
+      return; // sin ninguna señal de similitud real, no entra al ranking
     }
 
     var sharedCorazon = corazon0.filter(function(n){ return corazon1.indexOf(n) > -1; });
 
     var score = sharedNotes.length + sharedCorazon.length * SIM_W_CORAZON_EXTRA;
-    score += sharedFamily.length * SIM_W_FAMILY_WORD;
+    if (familyMatches) score += sharedFamilyRaw.length * SIM_W_FAMILY_WORD;
     if (sharedInspired.length) score += SIM_W_INSPIRED;
 
     if (score <= 0) return;
@@ -123,8 +131,8 @@ function getSimilarPerfumes(p, limit) {
       ficha: f1,
       score: score,
       sharedNotes: sharedNotes,
-      sameFamily: sharedFamily.length > 0,
-      sharedFamilyWords: sharedFamily,
+      sameFamily: familyMatches,
+      sharedFamilyWords: familyMatches ? sharedFamilyRaw : [],
       sharedInspired: sharedInspired
     });
   });
