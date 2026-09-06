@@ -426,9 +426,14 @@ function simCardHTML(item) {
   }
 
   var tags = [];
-  item.sharedNotes.slice(0, 3).forEach(function(n){ tags.push("<span class=\"sim-tag\">" + esc(n) + "</span>"); });
-  var extra = item.sharedNotes.length - 3;
-  if (extra > 0) tags.push("<span class=\"sim-tag sim-tag-dim\">+" + extra + " m\u00E1s</span>");
+  if (item.sharedNotes.length) {
+    item.sharedNotes.slice(0, 3).forEach(function(n){ tags.push("<span class=\"sim-tag\">" + esc(n) + "</span>"); });
+    var extra = item.sharedNotes.length - 3;
+    if (extra > 0) tags.push("<span class=\"sim-tag sim-tag-dim\">+" + extra + " m\u00E1s</span>");
+  } else if (item.sharedFamilyWords && item.sharedFamilyWords.length) {
+    // sin notas puntuales en com\u00FAn: mostramos las palabras de familia olfativa que s\u00ED coinciden
+    item.sharedFamilyWords.slice(0, 3).forEach(function(w){ tags.push("<span class=\"sim-tag\">" + esc(w) + "</span>"); });
+  }
 
   var priceHtml = p.st === "out"
     ? "<span class=\"sim-oos\">Sin stock</span>"
