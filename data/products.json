@@ -3244,7 +3244,7 @@
     "p": 102000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2231_08oide.webp",
     "nt": "Salida Coco, cítricos Notas de corazón: Higo, frutas tropicales Notas de fondo: Tonka, almizcle, ámbar",
     "p1": "$102.000"
@@ -4008,13 +4008,13 @@
     "b": "AZZARO",
     "n": "AZZARO - Wanted | EDP",
     "s": "100ml",
-    "p": 153800,
+    "p": 149300,
     "c": "internacional",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2291_nati3b.webp",
     "nt": "Salida Baya de Enebro, jengibre Notas de corazón: Salvia, cardamomo Notas de fondo: Vetiver, gaiac",
-    "p1": "$153.800"
+    "p1": "$149.300"
   },
   {
     "id": 2292,
@@ -7301,7 +7301,7 @@
     "c": "internacional",
     "g": "hombre",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_736859-MLU73570680922_122023-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2559_te0rt7.webp",
     "nt": "Salida menta, limon, pimienta negra, elemi, may chang Notas de corazón: manzana verde, geranio, lavanda, salvia, pomarose Notas de fondo: haba tonka, ambar, vainilla, pachuli, benjui",
     "p1": "$206.000"
   },
@@ -7314,9 +7314,22 @@
     "c": "arabes",
     "g": "mujer",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_781200-MLA81444404105_122024-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2560_j262ue.webp",
     "nt": "Salida limon, mandarina, cardamomo, pimienta rosa Notas de corazón: lavanda, flor de azahar del naranjo, manzana verde, rosa Notas de fondo: almizcle, musgo, cedro, pachuli",
     "p1": "$86.400"
+  },
+  {
+    "id": 2561,
+    "b": "EMPORIO ARMANI",
+    "n": "EMPORIO ARMANI - Acqua Di Gio KIT Toalla | EDT",
+    "s": "100ml",
+    "p": 191800,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2561_ni26p5.png",
+    "nt": "—",
+    "p1": "$191.800"
   },
   {
     "id": 2562,
@@ -7327,8 +7340,21 @@
     "c": "arabes",
     "g": "unisex",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_724924-CBT112720560202_062026-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2562_vgf133.webp",
     "nt": "—",
     "p1": "$106.800"
+  },
+  {
+    "id": 2563,
+    "b": "EMPORIO ARMANI",
+    "n": "EMPORIO ARMANI - Acqua Di Gio | EDT",
+    "s": "100ml",
+    "p": 154500,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_743368-MLA81004774758_122024-F.webp",
+    "nt": "Salida lima, limon, bergamota, jazmin, naranja, mandarina, neroli Notas de corazón: notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda Notas de fondo: almizcle, cedro, musgo, pachuli, ambar",
+    "p1": "$154.500"
   }
 ]

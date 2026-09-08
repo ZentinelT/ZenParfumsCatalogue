@@ -5839,6 +5839,33 @@
     ]
   },
   {
+    "nombre_completo": "EMPORIO ARMANI - Acqua Di Gio | EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Aromático, Marino, Fesco especiado, Floral, Amaderado, Fresco",
+    "inspirado_en": "El indiscutido rey mundial de los perfumes frescos y acuáticos. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con cítricos mediterráneos jugosos y un fondo limpio de almizcle y maderas\", ofreciendo un rendimiento fresco y atemporal que sigue siendo el favorito absoluto en todo el planeta.",
+    "notas_salida": "lima, limon, bergamota, jazmin, naranja, mandarina, neroli",
+    "notas_corazon": "notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda",
+    "notas_fondo": "almizcle, cedro, musgo, pachuli, ambar",
+    "descripcion": "La definición en perfume de la libertad, la brisa marina y la elegancia fresca más natural del mundo. Giorgio Armani Acqua di Giò arranca con un impacto vibrante y cristalino de notas marinas y cítricos italianos. En cuestión de minutos despliega su faceta más icónica: un corazón aromático y floral con romero y jazmín. Su evolución final es un secado limpio y amaderado, dejando un rastro flotante pulcro, fresco y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Verano / Primavera / Todo el año",
+    "ocasion": "Uso diario, oficina, actividades al aire libre, encuentros casuales o cuando el objetivo sea oler limpio, fresco y elegante sin estridencias.",
+    "proyeccion": "Moderada",
+    "duracion": "Excelente rendimiento para un perfume fresco (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "rango_edad_min": 15,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino. Diseñado para hombres dinámicos, elegantes, amantes de la libertad y de las fragancias frescas, versátiles y que proyectan una pulcritud impecable en cualquier situación.",
+    "inspirado_en_nombre": " Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": "El indiscutido rey mundial de los perfumes frescos y acuáticos. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con cítricos mediterráneos jugosos y un fondo limpio de almizcle y maderas\", ofreciendo un rendimiento fresco y atemporal que sigue siendo el favorito absoluto en todo el planeta.",
+        "nombre": "Composición Propia"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Swiss Arabian - Shirley May Cezar 894 | EDT | 100ml",
     "marca": "Swiss Arabian — Dubai/Suiza",
     "genero": "Masculino",
@@ -14046,8 +14073,9 @@
     ]
   },
   {
-    "nombre_completo": "Azzaro - Wanted | EDP | 100 ml",
+    "nombre_completo": "AZZARO - Wanted | EDP",
     "marca": "Azzaro — Francia",
+    "genero": "Masculino",
     "familia_olfativa": "Aromático / Especiado Suave",
     "inspirado_en": "Creación original",
     "notas_salida": "Baya de Enebro, jengibre",
