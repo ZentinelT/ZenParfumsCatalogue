@@ -5500,6 +5500,36 @@
     ]
   },
   {
+    "nombre_completo": "AFNAN - 9am White | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Cítrico, Almizclado, Aromático, Amaderado, Cálido especiado, Lavanda, Atalcado, Musgoso, Afrutados, Terrosos",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas, luminosas y lujosas más codiciadas del mundo. Captura a la perfección ese ADN inconfundible de \"salida cítrica chispeante combinada con lavanda aromática y un fondo pulcro de almizcle blanco y maderas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "limon, mandarina, cardamomo, pimienta rosa",
+    "notas_corazon": "lavanda, flor de azahar del naranjo, manzana verde, rosa",
+    "notas_fondo": "almizcle, musgo, cedro, pachuli",
+    "descripcion": "La definición en perfume de la pulcritud elegante, la energía luminosa y la estela más fresca y limpia del mercado de autor. Afnan 9am Pour Femme arranca con un impacto chispeante de cítricos dorados. En cuestión de minutos despliega su faceta más sofisticada: un corazón aromático con lavanda y especias cálidas. Su evolución final es un secado de almizcle blanco y maderas finas, dejando un rastro flotante sumamente elegante, distinguido y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario distinguido, oficina, actividades profesionales, encuentros casuales o paseos donde se busque proyectar estatus y pulcritud.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "excelente (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres dinámicas, elegantes, amantes de las fragancias limpias, luminosas y que exigen un rendimiento impecable para el día a día o la rutina profesional.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.31404.2x.avif",
+    "inspirado_en_nombre": "Aqua Vitae Forte de Maison Francis Kurkdjian",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas, luminosas y lujosas más codiciadas del mundo. Captura a la perfección ese ADN inconfundible de \"salida cítrica chispeante combinada con lavanda aromática y un fondo pulcro de almizcle blanco y maderas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Aqua Vitae Forte de Maison Francis Kurkdjian",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.31404.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Mohra Silky Rose | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -5589,6 +5619,35 @@
         "texto": "Réplica colosal, superdotada y ultra-fiel de uno de los perfumes de nicho más versátiles, caros y elogiados del mundo neoyorquino. Captura a la perfección ese ADN legendario que se caracteriza por cruzar la pulcritud de un aroma estilo barbershop de ultra lujo con el dulzor adictivo de la manzana y la vainilla, logrando una pócima perfecta para quienes exigen rendimiento extremo y distinción en cualquier escenario.",
         "nombre": "Lafayette Street de Bond No. 9 (EE.UU.)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51742.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VERSACE - Eros | Parfum",
+    "marca": "VERSACE",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático, Fesco especiado, Verde, Ámbar, Avainillado, Cítrico, Afrutados, Fresco, Cálido especiado, Dulce",
+    "inspirado_en": "Composición Propia",
+    "notas_salida": "menta, limon, pimienta negra, elemi, may chang",
+    "notas_corazon": "manzana verde, geranio, lavanda, salvia, pomarose",
+    "notas_fondo": "haba tonka, ambar, vainilla, pachuli, benjui",
+    "descripcion": "La definición en perfume del magnetismo masculino, la frescura de menta combinada con dulzura ambarada y la elegancia más seductora del mercado de diseñador. Versace Eros Parfum arranca con un impacto vibrante y helado de menta y cítricos italianos. En cuestión de minutos despliega su faceta más adictiva: un corazón aromático con manzana verde y ambroxan. Su evolución final es un secado profundo de vainilla y cuero refinado, dejando un rastro flotante sumamente seductor y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, carismáticos y amantes de las fragancias intensas, elegantes y que proyectan poder, éxito y sensualidad arrolladora.",
+    "inspirado_en_nombre": "Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición Propia",
+        "nombre": "Composición Propia"
       }
     ]
   },
