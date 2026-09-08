@@ -87,7 +87,8 @@ def calcular_stock(row):
     st = row.get("stock_actual")
     if pd.isna(st) or st <= 0:
         return "out"
-    if st <= 2:
+    etiqueta = row.get("etiqueta")
+    if st <= 2 and (pd.isna(etiqueta) or not str(etiqueta).strip()):
         return "low"
     return "ok"
 

@@ -998,7 +998,8 @@ function eligibleProducts(){
     if (/\bkit\b|\bpack\b|\bduo\b|\btrio\b|\bset\b/.test(name)) return false;
     if (/\d+\s*x\s*\d+\s*ml/.test(name)) return false;
     if (/contiene\s+\d+\s+perfumes?|el set incluye|el kit incluye/.test(nt)) return false;
-    if (/\bbody\s*mist\b|\bmist\s*body\b|\bbody\s*splash\b|\bsplash\s*body\b/.test(name)) return false;
+    if (/\bbody\s*(mist|splash|lotion)\b|\bmist\s*body\b|\bsplash\s*body\b/.test(name)) return false;
+    if (/\bkids\b/.test(name)) return false;
     return true;
   });
 }

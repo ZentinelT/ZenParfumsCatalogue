@@ -77,6 +77,8 @@ function getList() {
   else if (cFil === "unisex")  l = l.filter(function(p){ return p.g === "unisex"; });
   else if (cFil === "arabes")  l = l.filter(function(p){ return p.c === "arabes"; });
   else if (cFil === "internacional") l = l.filter(function(p){ return p.c === "internacional"; });
+  else if (cFil === "ninos")   l = l.filter(isKids);
+  else if (cFil === "corporales") l = l.filter(isBodyCare);
   else if (cFil.indexOf("marca:") === 0) { var brand = cFil.slice(6); l = l.filter(function(p){ return p.b === brand; }); }
   if (cSrch) {
     var q = cSrch;

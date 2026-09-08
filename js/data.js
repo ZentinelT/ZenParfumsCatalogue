@@ -34,6 +34,19 @@ function normName(n) {
 }
 function getFicha(p) { return FICHAS[normName(p.n)] || null; }
 
+// --- Línea infantil (TUBBEES + Lattafa Kids): categoría propia, fuera del buscador por notas ---
+function isKids(p) {
+  if (!p) return false;
+  if (p.b === "TUBBEES") return true;
+  if (p.b === "LATTAFA" && /\bkids\b/i.test(p.n)) return true;
+  return false;
+}
+// --- Body splash / body lotion: categoría propia, fuera del buscador por notas ---
+function isBodyCare(p) {
+  if (!p) return false;
+  return /\bbody\s*(splash|lotion|mist)\b|\bmist\s*body\b/i.test(p.n || "");
+}
+
 // --- Perfumes similares (notas + familia olfativa + "inspirado en") ---
 function simNorm(s) {
   return (s || "").toString().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").trim();
@@ -77,15 +90,17 @@ var SIM_W_INSPIRED = 12;
 var SIM_W_FAMILY_WORD = 2; // por cada palabra en comun en familia olfativa (ej. "amaderada", "especiada")
 var SIM_W_CORAZON_EXTRA = 1; // notas de corazon valen 1 (base) + 1 extra = 2
 
-function simIsKids(p) {
-  return /\bkids\b/i.test(p.n);
+function simSegment(p) {
+  if (isKids(p)) return "kids";
+  if (isBodyCare(p)) return "bodycare";
+  return "perfume";
 }
 
 function getSimilarPerfumes(p, limit) {
   limit = limit || 8;
   var f0 = getFicha(p);
   if (!f0) return [];
-  var kids0 = simIsKids(p);
+  var seg0 = simSegment(p);
 
   var notes0 = simAllNotes(f0);
   var corazon0 = simNoteTokens(f0, "notas_corazon");
@@ -95,7 +110,7 @@ function getSimilarPerfumes(p, limit) {
   var out = [];
   PRODS.forEach(function(cand) {
     if (cand.id === p.id) return;
-    if (simIsKids(cand) !== kids0) return; // no mezclar linea infantil con perfumes de adultos
+    if (simSegment(cand) !== seg0) return; // no mezclar linea infantil / body care con perfumes
     var f1 = getFicha(cand);
     if (!f1) return;
 
@@ -155,7 +170,7 @@ function getProductsByNotes(notesArr) {
   if (!notesArr || !notesArr.length) return [];
   var out = [];
   PRODS.forEach(function(p){
-    if (p.c === "accesorios") return;
+    if (p.c === "accesorios" || isKids(p) || isBodyCare(p)) return;
     var f = getFicha(p);
     if (!f) return;
     var notes = simAllNotes(f);
