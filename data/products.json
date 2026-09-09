@@ -150,7 +150,7 @@
     "p": 84200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1993_jsboku.webp",
     "nt": "Salida Bergamota, cítricos, mandarina Notas de corazón: Ámbar, Maderas Notas de fondo: Almizcle, pachulí, Especias",
     "p1": "$84.200"
@@ -1684,7 +1684,7 @@
     "p": 76400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2111_uhbtq1.webp",
     "nt": "Salida Plátano, dulce de leche Notas de corazón: Vainilla, Crema batida Notas de fondo: Praliné, Bizcocho, Almizcle",
     "p1": "$76.400"
@@ -1866,7 +1866,7 @@
     "p": 54000,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2125_30q498.webp",
     "nt": "Salida Cítricos Notas de corazón: Notas florales Notas de fondo: Almizcle, ámbar",
     "p1": "$54.000"
@@ -1957,7 +1957,7 @@
     "p": 70900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2132_j9zo8a.webp",
     "nt": "Salida Bergamota, cítricos, romero Notas de corazón: Cedro, menta, notas marinas Notas de fondo: Almizcle, ámbar gris, maderas",
     "p1": "$70.900"
@@ -3254,13 +3254,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Verde | EDP",
     "s": "100ml",
-    "p": 97400,
+    "p": 109700,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2232_rclxwy.webp",
-    "nt": "Salida Notas de salida: Lima, Manzana verde, Romero Notas de corazón: cítricos, herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
-    "p1": "$97.400"
+    "nt": "Salida lima, manzana verde, romero Notas de corazón: cítricos, herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
+    "p1": "$109.700"
   },
   {
     "id": 2233,
@@ -4099,13 +4099,13 @@
     "b": "CALVIN KLEIN",
     "n": "CALVIN KLEIN - CK Be | EDT",
     "s": "200ml",
-    "p": 81000,
+    "p": 89700,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2298_rxuv80.webp",
     "nt": "Salida Lavanda, notas verdes, bergamota, menta, mandarina Notas de corazón: Hierba verde, durazno, jazmín, fresia, orquídea Notas de fondo: Almizcle, sándalo, cedro, vainilla, ámbar",
-    "p1": "$81.000"
+    "p1": "$89.700"
   },
   {
     "id": 2299,
@@ -5763,13 +5763,13 @@
     "b": "JEAN PAUL GAULTIER",
     "n": "JEAN PAUL GAULTIER - Le Beau Le Parfum Intense | Parfum",
     "s": "125ml",
-    "p": 214100,
+    "p": 209000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2433_diqe8q.webp",
     "nt": "Salida piña, iris, jengibre, ciprés Notas de corazón: coco, Maderas Notas de fondo: haba tonka, sándalo, ámbar, ámbar gris",
-    "p1": "$214.100"
+    "p1": "$209.000"
   },
   {
     "id": 2434,
@@ -6541,15 +6541,15 @@
   {
     "id": 2498,
     "b": "LATTAFA",
-    "n": "LATTAFA - Al Qiam Gold KIT | EDP",
+    "n": "LATTAFA - Pride Al Qiam Gold KIT | EDP",
     "s": "100ml",
-    "p": 85600,
+    "p": 86400,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2498_mz68za.webp",
     "nt": "—",
-    "p1": "$85.600"
+    "p1": "$86.400"
   },
   {
     "id": 2499,

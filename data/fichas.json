@@ -3766,29 +3766,6 @@
     ]
   },
   {
-    "nombre_completo": "RASASI - Hawas Verde | EDP",
-    "marca": "Rasasi — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Acuático Verde / Fresco",
-    "inspirado_en": "Xerjoff Torino 21",
-    "notas_salida": "Notas de salida: Lima, Manzana verde, Romero Notas de corazón: cítricos, herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
-    "descripcion": "Versión verde-fresca de Hawas. DNA acuático con notas verdes. Para el verano.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 18-40 años.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Xerjoff Torino 21",
-    "inspiraciones": [
-      {
-        "texto": "Xerjoff Torino 21",
-        "nombre": "Xerjoff Torino 21",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "ARMAF - Club de Nuit Urban | Elixir",
     "marca": "Armaf — India",
     "genero": "Masculino",
@@ -3816,6 +3793,38 @@
         "texto": "Dior Sauvage Elixir / composición propia enriquecida",
         "nombre": "Dior Sauvage Elixir",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RASASI - Hawas Verde | EDP",
+    "marca": "Rasasi — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Acuático Verde / Fresco",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas, herbales y mentoladas más codiciadas, elogiadas y exclusivas del mundo de autor. Captura a la perfección ese ADN inconfundible de \"estallido gélido de menta, albahaca y cítricos luminosos con un fondo almizclado y limpio\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "lima, manzana verde, romero",
+    "notas_corazon": "cítricos,  herbales",
+    "notas_fondo": "Pachulí, Ámbar, Almizcle",
+    "descripcion": "La definición en perfume de la frescura glacial, la elegancia herbal y la estela más enérgica del mercado de autor. Rasasi Hawas Verde arranca con un impacto vibrante, helado y crujiente de menta viva y albahaca. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón aromático sumamente limpio. Su evolución final es un secado profundo de almizcle blanco y ámbar gris, dejando un rastro flotante magnético, fresco y de una presencia imposible de ignorar.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Todo el año",
+    "ocasion": "Uso diario llamativo, actividades al aire libre, encuentros deportivos, eventos informales o cuando el objetivo sea recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Verde translúcido",
+    "perfil_usuario": "Hombres y mujeres 18-40 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino / Unisex. Diseñado para personas dinámicas, amantes de la perfumería nicho deportiva-elegante, y quienes exigen un sello personal fresco que acapare todas las miradas con distinción.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70424.2x.avif",
+    "inspirado_en_nombre": "Torino21 de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas, herbales y mentoladas más codiciadas, elogiadas y exclusivas del mundo de autor. Captura a la perfección ese ADN inconfundible de \"estallido gélido de menta, albahaca y cítricos luminosos con un fondo almizclado y limpio\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Torino21 de Xerjoff",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70424.2x.avif"
       }
     ]
   },
