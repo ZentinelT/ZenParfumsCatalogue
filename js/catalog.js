@@ -445,6 +445,33 @@ function toggleNote(n) {
   cPg = 1;
   renderProds();
 }
+var NOTES_GENDER_OPTS = [
+  { v: "hombre", l: "Hombre" },
+  { v: "mujer", l: "Mujer" },
+  { v: "ninos", l: "Niños" }
+];
+function renderNotesGenderRow() {
+  var box = $("notesGenderRow");
+  if (!box) return;
+  box.innerHTML = NOTES_GENDER_OPTS.map(function(o){
+    return "<button class=\"chip" + (cFil === o.v ? " on" : "") + "\" onclick=\"setNotesGender('" + o.v + "')\">" + esc(o.l) + "</button>";
+  }).join("");
+}
+function setNotesGender(g) {
+  cFil = (cFil === g) ? "todos" : g;
+  cPg = 1;
+  var sel = $("sortSel");
+  if (sel) sel.value = cFil;
+  if (cFil === "ninos") {
+    // La línea infantil no tiene notas propias en el buscador: al elegir
+    // "Niños" no tiene sentido dejar notas de perfumes de adultos activas
+    // (darían 0 resultados sin explicación).
+    cSelectedNotes = {};
+    renderNoteChips();
+  }
+  renderNotesGenderRow();
+  renderProds();
+}
 function toggleNotesMode(force) {
   cNotesMode = (typeof force === "boolean") ? force : !cNotesMode;
   var btn = $("notesBtn");
@@ -453,6 +480,7 @@ function toggleNotesMode(force) {
   if (panel) panel.classList.toggle("open", cNotesMode);
   var sel = $("sortSel");
   if (sel) sel.disabled = cNotesMode;
+  if (cNotesMode) renderNotesGenderRow();
   cPg = 1;
   renderProds();
 }
