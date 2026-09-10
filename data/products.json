@@ -59,7 +59,7 @@
     "p": 92300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1986_lygimr.webp",
     "nt": "Salida nuez moscada, elemi, cardamomo Notas de corazón: pimiento, lavanda, cuero Notas de fondo: heliántemo, ládano, pachulí, vainilla",
     "p1": "$92.300"
@@ -563,13 +563,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Lionheart Woman | EDP",
     "s": "105ml",
-    "p": 90500,
+    "p": 91300,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2025_36qq7h.webp",
     "nt": "Salida Vainilla, lavanda Notas de corazón: Jengibre, cacao Notas de fondo: Vainilla",
-    "p1": "$90.500"
+    "p1": "$91.300"
   },
   {
     "id": 2026,
@@ -2877,13 +2877,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - La Rouge Baroque | EDP",
     "s": "100ml",
-    "p": 56000,
+    "p": 54600,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2203_74mqoj.webp",
-    "nt": "Salida Azafrán, Pera, Mandarina Notas de corazón: Jazmín, Ylang‑ylang, Lirio Notas de fondo: Madera de cachemira (Cashmere Wood), Ámbar, Almizcle",
-    "p1": "$56.000"
+    "nt": "Salida azafran, pera, mandarina Notas de corazón: Jazmín, Ylang‑ylang, Lirio Notas de fondo: cachemira, Ámbar, Almizcle",
+    "p1": "$54.600"
   },
   {
     "id": 2204,
@@ -2942,13 +2942,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Pacific Blue | EDP",
     "s": "80ml",
-    "p": 57500,
+    "p": 58500,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2208_un4bms.webp",
-    "nt": "Salida Limón (lima ácida), Bergamota, Mandarina, Naranja amarga, Lavanda, Romero, Mirto Notas de corazón: Neroli, Jazmín, Flor de azahar del naranjo Notas de fondo: Ámbar, Angélica, Almizcle ambreta",
-    "p1": "$57.500"
+    "nt": "Salida limon, mandarina, bergamota, naranja, romero, mirto, lavanda Notas de corazón: neroli, flor de azahar del naranjo, jazmin Notas de fondo: Ámbar, Angélica, Almizcle ambreta",
+    "p1": "$58.500"
   },
   {
     "id": 2209,
@@ -3231,7 +3231,7 @@
     "p": 88200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2230_utr26b.webp",
     "nt": "Salida Piña, naranja, pomelo Notas de corazón: Ámbar, iris, lavanda Notas de fondo: Haba tonka, almizcle, cachemira, pachulí",
     "p1": "$88.200"
@@ -4674,7 +4674,7 @@
     "p": 56500,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2344_ijg7xi.webp",
     "nt": "Salida pimienta rosa, hediona, bergamota Notas de corazón: Caramelo, jazmín, flor de azahar del naranjo · Fondo Ámbar, almizcle, musgo, vainilla",
     "p1": "$56.500"
@@ -5997,13 +5997,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Jean Lowe Fantasme | EDP",
     "s": "100ml",
-    "p": 81300,
+    "p": 79600,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2452_tw9yrs.webp",
     "nt": "Salida limon, bergamota, naranja Notas de corazón: jengibre, neroli, canela Notas de fondo: te negro, ambroxan, notas amaderadas",
-    "p1": "$81.300"
+    "p1": "$79.600"
   },
   {
     "id": 2453,
@@ -6260,7 +6260,7 @@
     "p": 83000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2476_8l3zm7.webp",
     "nt": "Salida frutas tropical, toronja Notas de corazón: guayaba, agua de mar Notas de fondo: almizcle, maderas",
     "p1": "$83.000"
@@ -6451,14 +6451,14 @@
     "id": 2491,
     "b": "LATTAFA",
     "n": "LATTAFA - Pride Ajwaa | EDP",
-    "s": "100ml",
-    "p": 16000,
+    "s": "90ml",
+    "p": 85400,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2491_hrn6o8.webp",
     "nt": "Salida datiles, elemi, limon, bergamota Notas de corazón: regaliz, mirra Notas de fondo: benjui, incienso",
-    "p1": "$16.000"
+    "p1": "$85.400"
   },
   {
     "id": 2492,
@@ -7356,5 +7356,18 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2563_tdf1oy.webp",
     "nt": "Salida lima, limon, bergamota, jazmin, naranja, mandarina, neroli Notas de corazón: notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda Notas de fondo: almizcle, cedro, musgo, pachuli, ambar",
     "p1": "$154.500"
+  },
+  {
+    "id": 2564,
+    "b": "GIORGIO ARMANI",
+    "n": "GIORGIO ARMANI - Acqua di Gio Profondo | EDP",
+    "s": "100ml",
+    "p": 127500,
+    "c": "internacional",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_878489-MLA114938286521_072026-F.webp",
+    "nt": "Salida notas marinas, aquozone, bergamota, mandarina Notas de corazón: romero, lavanda, cipres, resina Notas de fondo: notas minerales, almizcle, pachuli, ambar",
+    "p1": "$127.500"
   }
 ]
