@@ -7036,6 +7036,36 @@
     ]
   },
   {
+    "nombre_completo": "RASASI - Hawas Fire | EDP",
+    "marca": "Rasasi — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Especiado Fresco / Mineral",
+    "inspirado_en": "(Una reinterpretación magistral dentro de la exitosa familia Hawas, orientada hacia el sector de los perfumes cálidos, nocturnos y ultra seductores que dominan los cumplidos invernales y de fiesta). Captura a la perfección ese ADN inconfundible de \"especias calientes combinadas con dulzor ambarado y un fondo avainillado magnético\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
+    "notas_salida": "esclarea",
+    "notas_corazon": "notas marinas, jazmin egipcio",
+    "notas_fondo": "ambar, notas minerales, ambar gris",
+    "descripcion": "La definición en perfume del calor seductor, la potencia especiada y la estela más magnética para climas frescos. Rasasi Hawas Fire arranca con un impacto vibrante, cálido y especiado de canela y naranja sanguina. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón resinoso dominado por el benjuí. Su evolución final es un secado profundo de vainilla cremosa y ámbar, dejando un rastro flotante magnético, sofisticado y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas nocturnas, fiestas, citas románticas, eventos especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Muy larga (10-12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar rojizo intenso",
+    "perfil_usuario": "Hombres y mujeres 20-45 años. Para quienes buscan algo único en Hawas. No blind buy recomendado.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, carismáticos y que exigen un sello personal cálido, moderno y con una estela gigante que acapare todas las miradas en la noche.",
+    "inspirado_en_nombre": "Alta Perfumería de Alto Impacto / Estilo \"Warm Spicy & Amber Powerhouse\"",
+    "inspiraciones": [
+      {
+        "texto": "(Una reinterpretación magistral dentro de la exitosa familia Hawas, orientada hacia el sector de los perfumes cálidos, nocturnos y ultra seductores que dominan los cumplidos invernales y de fiesta). Captura a la perfección ese ADN inconfundible de \"especias calientes combinadas con dulzor ambarado y un fondo avainillado magnético\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
+        "nombre": "Alta Perfumería de Alto Impacto / Estilo \"Warm Spicy & Amber Powerhouse\""
+      }
+    ]
+  },
+  {
     "nombre_completo": "AL WATANIAH - Tiger Eye | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Masculino",
@@ -9710,35 +9740,6 @@
         "texto": "Copia de forma fiel, nítida y milimétrica el ADN contemporáneo de Gentleman Society de Givenchy, ofreciendo esa misma vibra de alta costura, pulcritud ejecutiva y sofisticación a una fracción de lo que vale el original de diseñador.",
         "nombre": "Gentleman Society de Givenchy",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78639.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Rasasi - Hawas Fire | EDP | 100ml",
-    "marca": "Rasasi — Dubai",
-    "familia_olfativa": "Especiado Fresco / Mineral",
-    "inspirado_en": "DNA propio — similar a Gissah Imperial Valley pero sin oud",
-    "notas_salida": "Pimienta, cítricos",
-    "notas_corazon": "Especias, minerales",
-    "notas_fondo": "Sándalo, maderas, almizcle, ambroxan",
-    "descripcion": "Fresco-especiado con mineralidad única. Energético y confiado. Longevidad 10-12h beast mode. Gran proyección todo el día. Divisivo — algunos les genera náuseas, pero para quienes lo aman es un 10/10.",
-    "momento_dia": "Todo",
-    "estacion": "Todo el año",
-    "ocasion": "Casual, trabajo, salidas",
-    "clima": "Todo",
-    "duracion": "Muy larga (10-12h)",
-    "estela": "Intensa",
-    "color_liquido": "Rojo / naranja",
-    "perfil_usuario": "Hombres y mujeres 20-45 años. Para quienes buscan algo único en Hawas. No blind buy recomendado.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres y mujeres Para quienes buscan algo único en Hawas. No blind buy recomendado.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "DNA propio — similar a Gissah Imperial Valley pero sin oud",
-        "nombre": "Composición propia",
-        "imagen_url": ""
       }
     ]
   },

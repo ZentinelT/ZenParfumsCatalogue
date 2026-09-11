@@ -579,7 +579,7 @@
     "p": 92700,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2026_0fveif.webp",
     "nt": "Salida Lichi, bergamota, pimienta rosa Notas de corazón: Raíz de lirio Notas de fondo: Praliné, sándalo, Ambroxan",
     "p1": "$92.700"
@@ -644,7 +644,7 @@
     "p": 90900,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2031_zt68yz.webp",
     "nt": "Salida Azafrán, jazmín Notas de corazón: Amberwood, ámbar gris Notas de fondo: Resina de abeto, cedro",
     "p1": "$90.900"
@@ -1710,7 +1710,7 @@
     "p": 63100,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2113_a27eyc.webp",
     "nt": "Salida Flor de azahar, bergamota Notas de corazón: Nardos, jazmín, rosa Notas de fondo: Vainilla, almizcle, sándalo",
     "p1": "$63.100"
@@ -1723,7 +1723,7 @@
     "p": 89900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2114_sx4r0h.webp",
     "nt": "Salida Pomelo, canela, bergamota Notas de corazón: Especias, cedro, cuero Notas de fondo: Ámbar, almizcle, pachulí",
     "p1": "$89.900"
@@ -3176,13 +3176,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Fire | EDP",
     "s": "100ml",
-    "p": 105600,
+    "p": 104400,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2226_1sycet.webp",
-    "nt": "Salida Pimienta, cítricos Notas de corazón: Especias, minerales Notas de fondo: Sándalo, maderas, almizcle, ambroxan",
-    "p1": "$105.600"
+    "nt": "Salida esclarea Notas de corazón: notas marinas, jazmin egipcio Notas de fondo: ambar, notas minerales, ambar gris",
+    "p1": "$104.400"
   },
   {
     "id": 2227,
@@ -3218,7 +3218,7 @@
     "p": 94000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2229_imyrtt.webp",
     "nt": "Salida Manzana, limón, bergamota, Anís Notas de corazón: Ciruela, flor de azahar, cardamomo Notas de fondo: Almizcle, ámbar, driftwood, musgo",
     "p1": "$94.000"
@@ -3296,7 +3296,7 @@
     "p": 79900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2235_bs8oye.webp",
     "nt": "Salida Castaña, especias, elemi Notas de corazón: Salvia Notas de fondo: Vainilla, cuero, oud",
     "p1": "$79.900"
@@ -7105,7 +7105,7 @@
     "p": 92400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2543_xs5gbo.webp",
     "nt": "Salida maracuya, rosa Notas de corazón: violeta, raiz de lirio, lirio de los valles, jazmin Notas de fondo: vainilla, almizcle, sandalo, cedro",
     "p1": "$92.400"
