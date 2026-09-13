@@ -30,13 +30,13 @@
     "b": "AFNAN",
     "n": "AFNAN - 9pm Black | EDP",
     "s": "100ml",
-    "p": 68200,
+    "p": 70000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1984_ok0z37.jpg",
     "nt": "Salida Manzana, canela, lavanda silvestre, bergamota Notas de corazón: Flor de azahar, lirio de los valles Notas de fondo: Vainilla, haba tonka, ámbar, pachulí",
-    "p1": "$68.200"
+    "p1": "$70.000"
   },
   {
     "id": 1985,
@@ -238,13 +238,13 @@
     "b": "AL HARAMAIN",
     "n": "AL HARAMAIN - Amber Oud Dubai Night | Extrait De Parfum",
     "s": "100ml",
-    "p": 103600,
+    "p": 104900,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2000_zf03wn.jpg",
     "nt": "Salida Azafrán, bergamota, elemi Notas de corazón: Madera de oud, rosa de Bulgaria, lirio de los valles Notas de fondo: Haba tonka, ámbar, almizcle blanco, musgo de roble",
-    "p1": "$103.600"
+    "p1": "$104.900"
   },
   {
     "id": 2001,
@@ -1096,13 +1096,13 @@
     "b": "FRENCH AVENUE",
     "n": "FRENCH AVENUE - Atlantis | Extrait de Parfum",
     "s": "100ml",
-    "p": 91500,
+    "p": 104400,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2066_x82zs8.jpg",
-    "nt": "Corazón Sandía, coco Notas de fondo: Amberwood, cacao, ámbar gris",
-    "p1": "$91.500"
+    "nt": "Salida Notas de corazón: Sandía, coco Notas de fondo: Amberwood, cacao, ámbar gris Notas de corazón: Sandía, coco Notas de fondo: Amberwood, cacao, ámbar gris",
+    "p1": "$104.400"
   },
   {
     "id": 2067,
@@ -1837,13 +1837,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Hayaati Black | EDP",
     "s": "100ml",
-    "p": 55500,
+    "p": 59000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2123_33ef3s.jpg",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
-    "p1": "$55.500"
+    "p1": "$59.000"
   },
   {
     "id": 2124,
@@ -1941,13 +1941,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Maahir Black Edition | EDP",
     "s": "100ml",
-    "p": 62800,
+    "p": 71000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2131_zqilbl.jpg",
     "nt": "Salida Pimienta negra, cardamomo, bergamota Notas de corazón: Cuero, madera de oud, pachulí Notas de fondo: Ámbar, benjuí, vainilla, almizcle",
-    "p1": "$62.800"
+    "p1": "$71.000"
   },
   {
     "id": 2132,
@@ -3137,13 +3137,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Black | EDP",
     "s": "100ml",
-    "p": 75900,
+    "p": 101000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2223_oflcv4.jpg",
     "nt": "Salida Frutas, cítricos Notas de corazón: Notas acuáticas, ámbar Notas de fondo: Almizcle, maderas",
-    "p1": "$75.900"
+    "p1": "$101.000"
   },
   {
     "id": 2224,
@@ -3228,13 +3228,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Malibu | EDP",
     "s": "100ml",
-    "p": 88200,
+    "p": 92900,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2230_km3tpo.jpg",
     "nt": "Salida Piña, naranja, pomelo Notas de corazón: Ámbar, iris, lavanda Notas de fondo: Haba tonka, almizcle, cachemira, pachulí",
-    "p1": "$88.200"
+    "p1": "$92.900"
   },
   {
     "id": 2231,
@@ -3969,13 +3969,13 @@
     "b": "ZIMAYA",
     "n": "ZIMAYA - Sharaf Blend | Extrait De Parfum",
     "s": "100ml",
-    "p": 81400,
+    "p": 84500,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2287_kixyqk.jpg",
     "nt": "Salida Datiles, nuez moscada, azafran Notas de corazón: Vainilla, praliné, tuberosa Notas de fondo: Haba tonka, Amberwood, Benjuí, almizcle",
-    "p1": "$81.400"
+    "p1": "$84.500"
   },
   {
     "id": 2288,
@@ -4583,7 +4583,7 @@
     "p": 147000,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2335_nor3yj.jpg",
     "nt": "Salida Pimienta rosa, bergamota Notas de corazón: Rosa, almendra, heliotropo Notas de fondo: Sándalo, almizcle, madera de cedro",
     "p1": "$147.000"
@@ -4596,7 +4596,7 @@
     "p": 68300,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2336_r5zlp3.jpg",
     "nt": "Salida Bergamota, lima, menta Notas de corazón: Geranio, notas maderosas Notas de fondo: Cedro, Maderas, almizcle",
     "p1": "$68.300"
@@ -4934,7 +4934,7 @@
     "p": 123500,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2364_bwdabz.jpg",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$123.500"
@@ -5048,13 +5048,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Khanjar | EDP",
     "s": "85ml",
-    "p": 113300,
+    "p": 110100,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2374_x7zhw4.jpg",
     "nt": "Salida Nuez moscada, pimienta, jengibre Notas de corazón: Violeta, pachulí, cachemira Notas de fondo: Cuero, incienso, vetiver, almizcle",
-    "p1": "$113.300"
+    "p1": "$110.100"
   },
   {
     "id": 2375,
@@ -6273,7 +6273,7 @@
     "p": 155300,
     "c": "internacional",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2477_xz2gma.jpg",
     "nt": "Salida cacao, avellana Notas de corazón: jazmin sambac, cedro Notas de fondo: caramelo, ambroxan, musgo",
     "p1": "$155.300"
@@ -6530,13 +6530,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Maahir Black KIT | EDP",
     "s": "",
-    "p": 78400,
+    "p": 84000,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2497_hsf3hw.jpg",
     "nt": "—",
-    "p1": "$78.400"
+    "p1": "$84.000"
   },
   {
     "id": 2498,
@@ -6738,13 +6738,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Crimson | EDP",
     "s": "100ml",
-    "p": 108400,
+    "p": 104400,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2514_tqcc1s.jpg",
     "nt": "Salida canela, pimienta rosa, cardamomo Notas de corazón: pachuli Notas de fondo: benjui, haba tonka, vainilla",
-    "p1": "$108.400"
+    "p1": "$104.400"
   },
   {
     "id": 2515,
@@ -7369,5 +7369,96 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2564_plctfs.jpg",
     "nt": "Salida notas marinas, aquozone, bergamota, mandarina Notas de corazón: romero, lavanda, cipres, resina Notas de fondo: notas minerales, almizcle, pachuli, ambar",
     "p1": "$127.500"
+  },
+  {
+    "id": 2565,
+    "b": "ARMAF",
+    "n": "ARMAF - Club de Nuit Precieux Iv | Extrait De Parfum",
+    "s": "55ml",
+    "p": 121000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_698061-MLA102172518298_122025-F.webp",
+    "nt": "Salida sal de mar, bergamota, manzana Notas de corazón: ylang-ylang, bayas rojas, azucena blanca, jazmin Notas de fondo: crema batida, vainilla, almizcle, haba tonka, pachuli",
+    "p1": "$121.000"
+  },
+  {
+    "id": 2566,
+    "b": "VERSACE",
+    "n": "VERSACE - Eros Flame | EDP",
+    "s": "100ml",
+    "p": 197600,
+    "c": "internacional",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_683311-MLA89602869050_082025-F.webp",
+    "nt": "Salida mandarina, pimienta, limon, chinotto, romero Notas de corazón: geranio, rosa, pepperwood Notas de fondo: vainilla, haba tonka, sandalo, cedro, pachuli, musgo de roble",
+    "p1": "$197.600"
+  },
+  {
+    "id": 2567,
+    "b": "ARMAF",
+    "n": "ARMAF - Club de Nuit Intense Woman Black | EDP",
+    "s": "105ml",
+    "p": 81000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_824433-MLU74157917147_012024-F.webp",
+    "nt": "Salida rosa, azafran, geranio Notas de corazón: nuez moscada, violeta, pimienta, alcaravea Notas de fondo: pachuli, ambar, vainilla, oud",
+    "p1": "$81.000"
+  },
+  {
+    "id": 2568,
+    "b": "ARMAF",
+    "n": "ARMAF - Odyssey Miniature White Discovery Set 4x12ml | EDP",
+    "s": "12ml",
+    "p": 75800,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://armaf.uk/cdn/shop/files/Discovery-set-group.jpg?v=1780993548&width=5000",
+    "nt": "—",
+    "p1": "$75.800"
+  },
+  {
+    "id": 2569,
+    "b": "RASASI",
+    "n": "RASASI - Hawas Chrome | EDP",
+    "s": "100ml",
+    "p": 116500,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_665163-MLA115690608208_092026-F.webp",
+    "nt": "Salida durazno, frutas amarillas, naranja Notas de corazón: frutas, maracuya, mango, agua Notas de fondo: almizcle, ambar, vainilla",
+    "p1": "$116.500"
+  },
+  {
+    "id": 2570,
+    "b": "AL HARAMAIN",
+    "n": "AL HARAMAIN - Amber Oud Dubai Night KIT | EDP",
+    "s": "75ml",
+    "p": 124800,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_662365-MLA116974704351_082026-F.webp",
+    "nt": "—",
+    "p1": "$124.800"
+  },
+  {
+    "id": 2571,
+    "b": "AL HARAMAIN",
+    "n": "AL HARAMAIN - Amber Oud Ultra Violet | EDP",
+    "s": "120ml",
+    "p": 115800,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_832379-MLU73783505442_012024-F.webp",
+    "nt": "Salida rosa, jengibre, bergamota Notas de corazón: nardos, jazmin, flores blancas Notas de fondo: roble, almizcle, pachuli",
+    "p1": "$115.800"
   }
 ]

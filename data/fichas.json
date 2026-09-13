@@ -697,35 +697,6 @@
     ]
   },
   {
-    "nombre_completo": "RAYHAAN - Crimson | EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Cálido especiado, Avainillado, canela., Ámbar, Especiado suave, Dulce, Aromático",
-    "inspirado_en": "Réplica de precisión quirúrgica de una de las joyas de ultra nicho más exclusivas, elogiadas y costosas de la alta perfumería francesa. Captura a la perfección ese ADN de \"especias calientes bañadas en resinas dulces y vainilla\", permitiendo acceder a la opulencia de un aroma de jeque por una fracción de su valor original.",
-    "notas_salida": "canela, pimienta rosa, cardamomo",
-    "notas_corazon": "pachuli",
-    "notas_fondo": "benjui, haba tonka, vainilla",
-    "descripcion": "La definición líquida del calor, la seducción y la elegancia nocturna de autor. Rayhaan Crimson abre con un impacto cálido, vibrante y súper expansivo de canela dulce y pimienta rosa picante que enciende el ambiente de inmediato. En cuestión de minutos pisa el freno y abre paso a su evolución más fina: un corazón amaderado y elegante donde el pachulí puro equilibra las especias con total distinción. Su evolución final en la piel es un secado eterno, cremoso y profundamente sexy, donde la calidez del benjuí resinoso, el haba tonka y la vainilla crean un velo envolvente que transmite poder, confort de alto nivel y un magnetismo aplastante.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas románticas (donde la canela y la vainilla son imanes en las distancias cortas), salidas nocturnas, boliches premium, fiestas o eventos formales de invierno.",
-    "clima": "Frío / Templado-Fresco",
-    "proyeccion": "Alta",
-    "duracion": "Rendimiento Excelente (8h a 10h)",
-    "estela": "Intensa",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Diseñado para hombres decididos, modernos, de personalidad cálida y seductora que buscan un perfume nocturno, exclusivo e imponente para destacar. Es la pócima perfecta para quienes exigen oler intensos, sofisticados y sumamente atractivos en momentos clave.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95601.2x.avif",
-    "inspirado_en_nombre": "Centaurus de Creed",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de precisión quirúrgica de una de las joyas de ultra nicho más exclusivas, elogiadas y costosas de la alta perfumería francesa. Captura a la perfección ese ADN de \"especias calientes bañadas en resinas dulces y vainilla\", permitiendo acceder a la opulencia de un aroma de jeque por una fracción de su valor original.",
-        "nombre": "Centaurus de Creed",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95601.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "JEAN PAUL GAULTIER - Le Male Elixir Absolu | Elixir",
     "marca": "JEAN PAUL GAULTIER",
     "genero": "Masculino",
@@ -794,6 +765,36 @@
     "notas_fondo": "-",
     "descripcion": "Perfumero de viaje de 5ml. Ideal para llevar tu fragancia favorita en formato compacto y práctico durante viajes o para probar antes de comprar.",
     "inspiraciones": []
+  },
+  {
+    "nombre_completo": "RAYHAAN - Crimson | EDP",
+    "marca": "RAYHAAN",
+    "genero": "Masculino",
+    "familia_olfativa": "Cálido especiado, Avainillado, canela., Ámbar, Especiado suave, Dulce, Aromático",
+    "inspirado_en": "Réplica de precisión quirúrgica de una de las joyas de ultra nicho más exclusivas, elogiadas y costosas de la alta perfumería francesa. Captura a la perfección ese ADN de \"especias calientes bañadas en resinas dulces y vainilla\", permitiendo acceder a la opulencia de un aroma de jeque por una fracción de su valor original.",
+    "notas_salida": "canela, pimienta rosa, cardamomo",
+    "notas_corazon": "pachuli",
+    "notas_fondo": "benjui, haba tonka, vainilla",
+    "descripcion": "La definición líquida del calor, la seducción y la elegancia nocturna de autor. Rayhaan Crimson abre con un impacto cálido, vibrante y súper expansivo de canela dulce y pimienta rosa picante que enciende el ambiente de inmediato. En cuestión de minutos pisa el freno y abre paso a su evolución más fina: un corazón amaderado y elegante donde el pachulí puro equilibra las especias con total distinción. Su evolución final en la piel es un secado eterno, cremoso y profundamente sexy, donde la calidez del benjuí resinoso, el haba tonka y la vainilla crean un velo envolvente que transmite poder, confort de alto nivel y un magnetismo aplastante.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas (donde la canela y la vainilla son imanes en las distancias cortas), salidas nocturnas, boliches premium, fiestas o eventos formales de invierno.",
+    "clima": "Frío / Templado-Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Rendimiento Excelente (8h a 10h)",
+    "estela": "Intensa",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Diseñado para hombres decididos, modernos, de personalidad cálida y seductora que buscan un perfume nocturno, exclusivo e imponente para destacar. Es la pócima perfecta para quienes exigen oler intensos, sofisticados y sumamente atractivos en momentos clave.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95601.2x.avif",
+    "inspirado_en_nombre": "Centaurus de Creed",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de una de las joyas de ultra nicho más exclusivas, elogiadas y costosas de la alta perfumería francesa. Captura a la perfección ese ADN de \"especias calientes bañadas en resinas dulces y vainilla\", permitiendo acceder a la opulencia de un aroma de jeque por una fracción de su valor original.",
+        "nombre": "Centaurus de Creed",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.95601.2x.avif"
+      }
+    ]
   },
   {
     "nombre_completo": "Lattafa - Qaaed | EDP | 100ml",
@@ -884,8 +885,9 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Maahir Black Edition | EDP | 100ml",
+    "nombre_completo": "LATTAFA - Maahir Black Edition | EDP",
     "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
     "familia_olfativa": "Oriental Cuero / Oscuro Especiado",
     "inspirado_en": "Tom Ford Oud Wood / Dior Fahrenheit DNA (vibe oscuro-cuero)",
     "notas_salida": "Pimienta negra, cardamomo, bergamota",
@@ -1571,8 +1573,9 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Hayaati Black | EDP | 100ml",
+    "nombre_completo": "LATTAFA - Hayaati Black | EDP",
     "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
     "familia_olfativa": "Floral / Rosa Sándalo",
     "inspirado_en": "Composición propia",
     "notas_salida": "Bergamota, rosa",
@@ -5356,37 +5359,6 @@
     ]
   },
   {
-    "nombre_completo": "FRENCH AVENUE - Atlantis | Extrait de Parfum",
-    "marca": "French Avenue (Fragrance World) — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Frutal Acuático / Tropical Dulce",
-    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes de nicho veraniegos más virales, codiciados y aclamados del mercado internacional. Captura a la perfección ese adictivo ADN de \"surf, sandía helada, brisa marina y crema de coco\", permitiendo acceder al estatus de un aroma francés de ultra nicho por una fracción de su valor original.",
-    "notas_corazon": "Sandía, coco",
-    "notas_fondo": "Amberwood, cacao, ámbar gris",
-    "descripcion": "La definición líquida del lujo veraniego, la frescura exótica de la cultura surf y la adicción frutal. French Avenue Atlantis abre con un impacto radiante, alegre y súper expansivo de naranjas jugosas y mandarinas recién exprimidas sacudidas por la efervescencia del limón. En cuestión de minutos evoluciona hacia su faceta más elogiada: un corazón hipnótico donde la sandía helada y la cremosidad del coco se funden en una brisa tropical inolvidable. Su secado final en la piel es un contraste exquisito y profundamente sexy, donde el poder mineral del ámbar gris y el Amberwood se entrelazan con la calidez del cacao fino, dejando un rastro flotante que transmite sofisticación, buena onda y un atractivo aplastante.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Verano / Primavera",
-    "ocasion": "Salidas casuales elegantes, pool parties, eventos al aire libre, vacaciones, citas de tarde o uso diario para quienes buscan destacar con un aroma frutal y limpio de gran calidad.",
-    "clima": "Cálido / Muy Caluroso / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Excelente para una Fragancia Frutal-Cítrica (7h a 8h)",
-    "estela": "Moderada",
-    "color_liquido": "Cristalino transparente",
-    "perfil_usuario": "Hombres y mujeres 18-40 años. Playeros, tropicales, veraniegos. Para quien quiere impactar en verano.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Unisex absoluto. Diseñado para hombres y mujeres modernos, desenfadados, de espíritu libre y amantes de las fragancias de autor veraniegas que buscan un aroma de firma fresco, exótico y magnético. Es la pócima perfecta para quienes exigen oler limpios, frutales y sumamente atractivos durante todo el día.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif",
-    "inspirado_en_nombre": "Wavechild de Room 1015 (Francia)",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de precisión quirúrgica de uno de los perfumes de nicho veraniegos más virales, codiciados y aclamados del mercado internacional. Captura a la perfección ese adictivo ADN de \"surf, sandía helada, brisa marina y crema de coco\", permitiendo acceder al estatus de un aroma francés de ultra nicho por una fracción de su valor original.",
-        "nombre": "Wavechild de Room 1015 (Francia)",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Asad Zanzibar  | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Acuático Tropical / Marino Especiado",
@@ -7153,6 +7125,36 @@
     ]
   },
   {
+    "nombre_completo": "AL HARAMAIN - Amber Oud Ultra Violet | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "floral blanco., Nardos, Rosas, Animálico, Amaderado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas más elogiadas, seductoras y magnéticas del mundo. Captura a la perfección ese ADN inconfundible de \"salida especiada de jengibre y naranja sanguina combinada con un corazón blanco de nardos y un fondo profundo de sándalo y pachuli\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "rosa, jengibre, bergamota",
+    "notas_corazon": "nardos, jazmin, flores blancas",
+    "notas_fondo": "roble, almizcle, pachuli",
+    "descripcion": "La definición en perfume del misterio sofisticado, la sensualidad atrevida y la elegancia magnética más codiciada del mercado actual. Al Haramain Amber Oud Ultra Violet arranca con un impacto vibrante y especiado de naranja sanguina y jengibre. En cuestión de minutos despliega su faceta más adictiva: un corazón floral blanco dominado por los nardos y la hoja de pimiento. Su evolución final es un secado profundo de sándalo y pachuli, dejando un rastro flotante sumamente distinguido, misterioso y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado / Púrpura intenso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas y que exigen un sello personal que proyecte poder, distinción y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.68404.2x.avif",
+    "inspirado_en_nombre": "L'Interdit Eau de Parfum Rouge de Givenchy",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas más elogiadas, seductoras y magnéticas del mundo. Captura a la perfección ese ADN inconfundible de \"salida especiada de jengibre y naranja sanguina combinada con un corazón blanco de nardos y un fondo profundo de sándalo y pachuli\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "L'Interdit Eau de Parfum Rouge de Givenchy",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.68404.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Armaf - Odyssey Eau de Montagne | EDP | 100ml",
     "marca": "Armaf — India",
     "familia_olfativa": "Lechoso / Almendrado / Blanco Nórdico",
@@ -7210,6 +7212,36 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ARMAF - Club de Nuit Intense Woman Black | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Fesco especiado, Rosas, Cálido especiado, Pachulí, florales, Ámbar, Atalcado, Avainillado, Amaderado, Aromático",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias nocturnas y de rosa oscura más elogiadas, misteriosas y codiciadas del mundo. Captura a la perfección ese ADN inconfundible de \"rosa opulenta envuelta en un corazón terroso de pachuli y trufa, con un fondo dulce de vainilla y oud\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "rosa, azafran, geranio",
+    "notas_corazon": "nuez moscada, violeta, pimienta, alcaravea",
+    "notas_fondo": "pachuli, ambar, vainilla, oud",
+    "descripcion": "La definición en perfume del misterio sofisticado, la sensualidad gótica y la elegancia más oscura y seductora del mercado de autor. Armaf Club de Nuit Intense Woman arranca con un impacto vibrante de azafrán y rosa profunda. En cuestión de minutos despliega su faceta más adictiva: un corazón terroso dominado por el pachuli y las especias. Su evolución final es un secado profundo de vainilla y oud, dejando un rastro flotante sumamente distinguido, misterioso y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 22,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias nocturnas e intensas, y quienes exigen un sello personal que proyecte poder, distinción y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.1822.2x.avif",
+    "inspirado_en_nombre": "Noir de Noir de Tom Ford",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias nocturnas y de rosa oscura más elogiadas, misteriosas y codiciadas del mundo. Captura a la perfección ese ADN inconfundible de \"rosa opulenta envuelta en un corazón terroso de pachuli y trufa, con un fondo dulce de vainilla y oud\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "Noir de Noir de Tom Ford",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.1822.2x.avif"
       }
     ]
   },
@@ -7673,6 +7705,36 @@
     ]
   },
   {
+    "nombre_completo": "ARMAF - Club de Nuit Precieux Iv | Extrait De Parfum",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Avainillado, Salado, Floral amarillo, Afrutados, Cítrico, Atalcado, Floral blanco, Almizclado, Amaderado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas solares, marinas y golosas más elogiadas y codiciadas del mundo. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con un corazón floral de lirio y un fondo adictivo de merengue y vainilla\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "sal de mar, bergamota, manzana",
+    "notas_corazon": "ylang-ylang, bayas rojas, azucena blanca, jazmin",
+    "notas_fondo": "crema batida, vainilla, almizcle, haba tonka, pachuli",
+    "descripcion": "La definición en perfume de la luminosidad moderna, la brisa marina solar y la dulzura más elegante y adictiva del mercado actual. Armaf Club de Nuit Precieux IV arranca con un impacto vibrante y cristalino de notas marinas y calypsone. En cuestión de minutos despliega su faceta más sofisticada: un corazón floral dominado por el lirio. Su evolución final es un secado profundo y goloso de merengue y almizcle, dejando un rastro flotante sumamente distinguido, magnético y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, encuentros casuales, citas románticas o cuando el objetivo sea oler único, moderno y con una presencia deslumbrante.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Dorado claro",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, modernas, amantes de las fragancias solares, dulces y que exigen un sello personal que proyecte poder, distinción y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83889.2x.avif",
+    "inspirado_en_nombre": "Gaultier Divine de Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas solares, marinas y golosas más elogiadas y codiciadas del mundo. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con un corazón floral de lirio y un fondo adictivo de merengue y vainilla\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "Gaultier Divine de Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83889.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Pride Eternal Oud | EDP",
     "marca": "LATTAFA",
     "genero": "Unisex",
@@ -7901,6 +7963,35 @@
     ]
   },
   {
+    "nombre_completo": "RASASI - Hawas Chrome | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Afrutados, Dulce, Tropical, Almizclado, Ámbar, Atalcado, Fresco",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frutales y tropicales más elogiadas, codiciadas y de mayor rendimiento del mundo. Captura a la perfección ese ADN inconfundible de \"cóctel masivo de frutas tropicales con almizcle blanco y vainilla\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso",
+    "notas_salida": "durazno, frutas amarillas, naranja",
+    "notas_corazon": "frutas, maracuya, mango, agua",
+    "notas_fondo": "almizcle, ambar, vainilla",
+    "descripcion": "La definición en perfume del atardecer tropical, la explosión frutal más adictiva y la estela más potente del mercado moderno. Rasasi Hawas Chrome arranca con un impacto vibrante y ultra jugoso de durazno y frutas amarillas. En cuestión de minutos despliega su faceta más exótica: un corazón dominado por el mango y el maracuyá. Su evolución final es un secado profundo de almizcle blanco y vainilla, dejando un rastro flotante sumamente magnético, dulce y de una presencia imposible de ignorar.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario llamativo, vacaciones, salidas al aire libre, eventos sociales o cuando el objetivo sea recibir cumplidos constantes a metros de distancia.",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Dorado",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, amantes de la perfumería de alto impacto, y quienes exigen un sello personal fresco, frutal y con una estela gigante que acapare todas las miradas.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.76683.2x.avif",
+    "inspirado_en_nombre": "Erba Gold de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frutales y tropicales más elogiadas, codiciadas y de mayor rendimiento del mundo. Captura a la perfección ese ADN inconfundible de \"cóctel masivo de frutas tropicales con almizcle blanco y vainilla\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso",
+        "nombre": "Erba Gold de Xerjoff",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.76683.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "ZIMAYA - Sharaf The Club | EDP | 100ml",
     "marca": "Zimaya",
     "anno": "2024",
@@ -7959,6 +8050,34 @@
         "texto": "Bond No.9 Tribeca",
         "nombre": "Bond No.9 Tribeca",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VERSACE - Eros Flame | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Fesco especiado, Avainillado, Aromático, Amaderado, Cálido especiado, Dulce, Atalcado",
+    "inspirado_en": "Captura a la perfección ese ADN inconfundible de \"cítricos luminosos envueltos en una sobredosis de pimienta y especias cálidas, con un fondo cremoso de vainilla, haba tonka y maderas finas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
+    "notas_salida": "mandarina, pimienta, limon, chinotto, romero",
+    "notas_corazon": "geranio, rosa, pepperwood",
+    "notas_fondo": "vainilla, haba tonka, sandalo, cedro, pachuli, musgo de roble",
+    "descripcion": "La definición en perfume de la pasión desbordante, el contraste entre el fuego y el hielo, y la elegancia más seductora del mercado actual. Versace Eros Flame arranca con un impacto vibrante y especiado de mandarina y pimienta negra. En cuestión de minutos despliega su faceta más adictiva: un corazón cálido dominado por el geranio y las especias. Su evolución final es un secado profundo de vainilla cremosa y maderas nobles, dejando un rastro flotante sumamente magnético, sofisticado y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, salidas nocturnas, eventos especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, apasionados, carismáticos y que exigen un sello personal cálido, moderno y con una estela gigante que acapare todas las miradas.",
+    "inspirado_en_nombre": "Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": "Captura a la perfección ese ADN inconfundible de \"cítricos luminosos envueltos en una sobredosis de pimienta y especias cálidas, con un fondo cremoso de vainilla, haba tonka y maderas finas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
+        "nombre": "Composición Propia"
       }
     ]
   },
@@ -8089,6 +8208,36 @@
     ]
   },
   {
+    "nombre_completo": "ZIMAYA - Sharaf Blend | Extrait De Parfum",
+    "marca": "Zimaya — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Especiado Dulce / DNA Khamrah",
+    "inspirado_en": "Khamrah de Lattafa (misma familia, más suave y sutil) / Angel's Share de Kilian (DNA boozy-especiado)",
+    "notas_salida": "Datiles, nuez moscada, azafran",
+    "notas_corazon": "Vainilla, praliné, tuberosa",
+    "notas_fondo": "Haba tonka, Amberwood, Benjuí, almizcle",
+    "descripcion": "Boozy dulce con dátiles y vainilla cremosa. Muy similar a Khamrah pero más suave, menos dulce y más sutil. Si Khamrah es demasiado fuerte, Sharaf Blend es el punto medio perfecto. Longevidad muy alta. Proyección más moderada que Khamrah. Muy popular.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas, citas, eventos",
+    "clima": "Frío / Templado",
+    "duracion": "Muy larga (longevidad outstanding — persiste incluso después de ducharse)",
+    "estela": "Intensa",
+    "color_liquido": "Dorado / ámbar caramelo",
+    "perfil_usuario": "Hombres y mujeres 20-50 años. Para quienes quieren el DNA de Khamrah pero más refinado y menos agresivo. Un clásico árabe moderno.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Hombres y mujeres Para quienes quieren el DNA de Khamrah pero más refinado y menos agresivo. Un clásico árabe moderno.",
+    "inspirado_en_nombre": "Khamrah de Lattafa",
+    "inspiraciones": [
+      {
+        "texto": "Khamrah de Lattafa (misma familia, más suave y sutil) / Angel's Share de Kilian (DNA boozy-especiado)",
+        "nombre": "Khamrah de Lattafa",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "MAISON ALHAMBRA - Galactic Men Elixir",
     "marca": "Maison Alhambra — UAE",
     "genero": "Masculino",
@@ -8166,36 +8315,6 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Zimaya - Sharaf Blend | Extrait De Parfum | 100ml",
-    "marca": "Zimaya — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental Especiado Dulce / DNA Khamrah",
-    "inspirado_en": "Khamrah de Lattafa (misma familia, más suave y sutil) / Angel's Share de Kilian (DNA boozy-especiado)",
-    "notas_salida": "Datiles, nuez moscada, azafran",
-    "notas_corazon": "Vainilla, praliné, tuberosa",
-    "notas_fondo": "Haba tonka, Amberwood, Benjuí, almizcle",
-    "descripcion": "Boozy dulce con dátiles y vainilla cremosa. Muy similar a Khamrah pero más suave, menos dulce y más sutil. Si Khamrah es demasiado fuerte, Sharaf Blend es el punto medio perfecto. Longevidad muy alta. Proyección más moderada que Khamrah. Muy popular.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, citas, eventos",
-    "clima": "Frío / Templado",
-    "duracion": "Muy larga (longevidad outstanding — persiste incluso después de ducharse)",
-    "estela": "Intensa",
-    "color_liquido": "Dorado / ámbar caramelo",
-    "perfil_usuario": "Hombres y mujeres 20-50 años. Para quienes quieren el DNA de Khamrah pero más refinado y menos agresivo. Un clásico árabe moderno.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres y mujeres Para quienes quieren el DNA de Khamrah pero más refinado y menos agresivo. Un clásico árabe moderno.",
-    "inspirado_en_nombre": "Khamrah de Lattafa",
-    "inspiraciones": [
-      {
-        "texto": "Khamrah de Lattafa (misma familia, más suave y sutil) / Angel's Share de Kilian (DNA boozy-especiado)",
-        "nombre": "Khamrah de Lattafa",
         "imagen_url": ""
       }
     ]
@@ -8350,6 +8469,38 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "FRENCH AVENUE - Atlantis | Extrait de Parfum",
+    "marca": "French Avenue (Fragrance World) — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Frutal Acuático / Tropical Dulce",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes de nicho veraniegos más virales, codiciados y aclamados del mercado internacional. Captura a la perfección ese adictivo ADN de \"surf, sandía helada, brisa marina y crema de coco\", permitiendo acceder al estatus de un aroma francés de ultra nicho por una fracción de su valor original.",
+    "notas_salida": "Notas de corazón: Sandía, coco Notas de fondo: Amberwood, cacao, ámbar gris",
+    "notas_corazon": "Sandía, coco",
+    "notas_fondo": "Amberwood, cacao, ámbar gris",
+    "descripcion": "La definición líquida del lujo veraniego, la frescura exótica de la cultura surf y la adicción frutal. French Avenue Atlantis abre con un impacto radiante, alegre y súper expansivo de naranjas jugosas y mandarinas recién exprimidas sacudidas por la efervescencia del limón. En cuestión de minutos evoluciona hacia su faceta más elogiada: un corazón hipnótico donde la sandía helada y la cremosidad del coco se funden en una brisa tropical inolvidable. Su secado final en la piel es un contraste exquisito y profundamente sexy, donde el poder mineral del ámbar gris y el Amberwood se entrelazan con la calidez del cacao fino, dejando un rastro flotante que transmite sofisticación, buena onda y un atractivo aplastante.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Verano / Primavera",
+    "ocasion": "Salidas casuales elegantes, pool parties, eventos al aire libre, vacaciones, citas de tarde o uso diario para quienes buscan destacar con un aroma frutal y limpio de gran calidad.",
+    "clima": "Cálido / Muy Caluroso / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Excelente para una Fragancia Frutal-Cítrica (7h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino transparente",
+    "perfil_usuario": "Hombres y mujeres 18-40 años. Playeros, tropicales, veraniegos. Para quien quiere impactar en verano.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Unisex absoluto. Diseñado para hombres y mujeres modernos, desenfadados, de espíritu libre y amantes de las fragancias de autor veraniegas que buscan un aroma de firma fresco, exótico y magnético. Es la pócima perfecta para quienes exigen oler limpios, frutales y sumamente atractivos durante todo el día.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif",
+    "inspirado_en_nombre": "Wavechild de Room 1015 (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes de nicho veraniegos más virales, codiciados y aclamados del mercado internacional. Captura a la perfección ese adictivo ADN de \"surf, sandía helada, brisa marina y crema de coco\", permitiendo acceder al estatus de un aroma francés de ultra nicho por una fracción de su valor original.",
+        "nombre": "Wavechild de Room 1015 (Francia)",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif"
       }
     ]
   },
@@ -9525,8 +9676,9 @@
     ]
   },
   {
-    "nombre_completo": "Rasasi - Hawas Black | EDP | 100ml",
+    "nombre_completo": "RASASI - Hawas Black | EDP",
     "marca": "Rasasi — Dubai",
+    "genero": "Masculino",
     "familia_olfativa": "Acuático Frutal / Beast Mode Extremo",
     "inspirado_en": "Nishane Hacivat",
     "notas_salida": "Frutas, cítricos",
