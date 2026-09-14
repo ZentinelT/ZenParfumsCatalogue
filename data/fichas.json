@@ -12484,6 +12484,36 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - No. 2 Men | EDP",
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "familia_olfativa": "Fresco especiado, Cítrico, Aromático, Amaderado, Lavanda, Ámbar, Fresco, Atalcado, Cálido especiado, Almizclado",
+    "inspirado_en": "212 Men de Carolina Herrera",
+    "notas_salida": "bergamota, lavanda",
+    "notas_corazon": "jengibre, Cardamomo",
+    "notas_fondo": "vetiver, incienso, Almizcle, sandalo, ladano, madera de gaiac",
+    "descripcion": "​Una fragancia urbana, dinámica y llena de energía. Se siente como una explosión de frescura verde y cítrica que evoluciona hacia un aroma limpio y ligeramente metálico. Es el olor de un hombre que sabe lo que hace, transmitiendo confianza y sofisticación moderna. Es fresco pero con una base amaderada que le da mucha clase.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Trabajo / Oficina, Gimnasio, Uso diario, Salidas casuales",
+    "clima": "Calor / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Media (6-7h)",
+    "estela": "Moderada",
+    "color_liquido": "Verde clarito/casi transparente",
+    "perfil_usuario": "​Para el hombre activo, profesional y moderno. Es perfecto para quienes buscan una fragancia versátil que sirva tanto para el gimnasio como para una reunión de negocios o una salida casual. Es el aroma ideal para el hombre que quiere oler bien sin ser demasiado invasivo. De 20 a 50 años",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "​Para el hombre activo, profesional y moderno. Es perfecto para quienes buscan una fragancia versátil que sirva tanto para el gimnasio como para una reunión de negocios o una salida casual. Es el aroma ideal para el hombre que quiere oler bien sin ser demasiado invasivo. De",
+    "inspirado_en_nombre": "Carolina Herrera 212 Men",
+    "inspiraciones": [
+      {
+        "texto": "212 Men de Carolina Herrera",
+        "nombre": "Carolina Herrera 212 Men"
+      }
+    ]
+  },
+  {
     "nombre_completo": "French Avenue - Genesis Pisces | EDP | 100ml",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "familia_olfativa": "Aromático Especiado / Profundo",
@@ -12564,37 +12594,6 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Maison Alhambra - No. 2 Men | EDP | 100ml",
-    "marca": "Maison Alhambra",
-    "genero": "Femenino",
-    "familia_olfativa": "Fresco especiado, Cítrico, Aromático, Amaderado, Lavanda, Ámbar, Fresco, Atalcado, Cálido especiado, Almizclado",
-    "inspirado_en": "212 Men de Carolina Herrera",
-    "notas_salida": "bergamota, lavanda",
-    "notas_corazon": "jengibre, Cardamomo",
-    "notas_fondo": "vetiver, incienso, Almizcle, sandalo, ladano, madera de gaiac",
-    "descripcion": "​Una fragancia urbana, dinámica y llena de energía. Se siente como una explosión de frescura verde y cítrica que evoluciona hacia un aroma limpio y ligeramente metálico. Es el olor de un hombre que sabe lo que hace, transmitiendo confianza y sofisticación moderna. Es fresco pero con una base amaderada que le da mucha clase.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Trabajo / Oficina, Gimnasio, Uso diario, Salidas casuales",
-    "clima": "Calor / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Media (6-7h)",
-    "estela": "Moderada",
-    "color_liquido": "Verde clarito/casi transparente",
-    "perfil_usuario": "​Para el hombre activo, profesional y moderno. Es perfecto para quienes buscan una fragancia versátil que sirva tanto para el gimnasio como para una reunión de negocios o una salida casual. Es el aroma ideal para el hombre que quiere oler bien sin ser demasiado invasivo. De 20 a 50 años",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "​Para el hombre activo, profesional y moderno. Es perfecto para quienes buscan una fragancia versátil que sirva tanto para el gimnasio como para una reunión de negocios o una salida casual. Es el aroma ideal para el hombre que quiere oler bien sin ser demasiado invasivo. De",
-    "inspirado_en_nombre": "Carolina Herrera 212 Men",
-    "inspiraciones": [
-      {
-        "texto": "212 Men de Carolina Herrera",
-        "nombre": "Carolina Herrera 212 Men",
         "imagen_url": ""
       }
     ]
