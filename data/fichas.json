@@ -10052,6 +10052,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Ajayeb Dubai | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental / Café Azafrán",
+    "inspirado_en": "Kilian Black Phantom (DNA café-gourmand; inspiración dominante)",
+    "notas_salida": "Azafrán, Piña",
+    "notas_corazon": "Café, Hojas de violeta",
+    "notas_fondo": "Caramelo de mantequilla, Vainilla, Sándalo",
+    "descripcion": "Café y azafrán sobre caramelo y ámbar. Oriental masculino especiado. Para las noches de Dubai.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos, salidas",
+    "clima": "Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Marrón / ámbar oscuro",
+    "perfil_usuario": "Hombres 25-50 años. Orientales, café lovers.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Hombres Orientales, café lovers.",
+    "inspirado_en_nombre": "Kilian Black Phantom",
+    "inspiraciones": [
+      {
+        "texto": "Kilian Black Phantom (DNA café-gourmand; inspiración dominante)",
+        "nombre": "Kilian Black Phantom",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "ZIMAYA - Tiramisu Caramel | EDP",
     "marca": "Zimaya — UAE",
     "genero": "Femenino",
@@ -10139,36 +10170,6 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Ajayeb Dubai | EDP | 100 ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Oriental / Café Azafrán",
-    "inspirado_en": "Kilian Black Phantom (DNA café-gourmand; inspiración dominante)",
-    "notas_salida": "Azafrán, Piña",
-    "notas_corazon": "Café, Hojas de violeta",
-    "notas_fondo": "Caramelo de mantequilla, Vainilla, Sándalo",
-    "descripcion": "Café y azafrán sobre caramelo y ámbar. Oriental masculino especiado. Para las noches de Dubai.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos, salidas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Marrón / ámbar oscuro",
-    "perfil_usuario": "Hombres 25-50 años. Orientales, café lovers.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres Orientales, café lovers.",
-    "inspirado_en_nombre": "Kilian Black Phantom",
-    "inspiraciones": [
-      {
-        "texto": "Kilian Black Phantom (DNA café-gourmand; inspiración dominante)",
-        "nombre": "Kilian Black Phantom",
         "imagen_url": ""
       }
     ]

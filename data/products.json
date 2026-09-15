@@ -98,7 +98,7 @@
     "p": 75900,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1989_z03wl8.jpg",
     "nt": "Salida pomelo, pimienta rosa, enebro, cardamomo Notas de corazón: Bergamota, cedro, nuez moscada, jazmín Notas de fondo: ámbar gris, manzana, almizcle, pachulí",
     "p1": "$75.900"
@@ -1707,13 +1707,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Emaan | EDP",
     "s": "100ml",
-    "p": 63100,
+    "p": 68500,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2113_sagimg.jpg",
     "nt": "Salida Flor de azahar, bergamota Notas de corazón: Nardos, jazmín, rosa Notas de fondo: Vainilla, almizcle, sándalo",
-    "p1": "$63.100"
+    "p1": "$68.500"
   },
   {
     "id": 2114,
@@ -4128,7 +4128,7 @@
     "p": 69900,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2300_etzite.jpg",
     "nt": "Salida Limón, hojas de tomate Notas de corazón: Vaina de cacao Notas de fondo: Cedro, almizcle blanco, vetiver",
     "p1": "$69.900"
@@ -7157,7 +7157,7 @@
     "p": 111000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2547_iceqm8.jpg",
     "nt": "Salida especias Notas de corazón: lavanda Notas de fondo: maderas",
     "p1": "$111.000"
