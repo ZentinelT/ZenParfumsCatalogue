@@ -13851,6 +13851,35 @@
     ]
   },
   {
+    "nombre_completo": "RAYHAAN - Kiss | EDP",
+    "marca": "RAYHAAN",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Afrutado, Avainillado, Lactonico, Coco",
+    "inspirado_en": "No es un dupe directo de perfumes masivos florales. Es una creación exclusiva de la marca que se mete de lleno en la tendencia Gourmand Láctico de alta calidad.",
+    "notas_salida": "fresa, coco, praline, frambuesa",
+    "notas_corazon": "leche condensada, caramelo, flores blancas, flor de azahar del naranjo",
+    "notas_fondo": "vainilla, haba tonka, sándalo, almizcle",
+    "descripcion": "Un verdadero elixir de dulzura, cremosidad y seducción. RAYHAAN Kiss abre con una explosión irresistible y jugosa de fresa y frambuesa, envuelta en la calidez del praliné y un toque de coco tropical. Rápidamente, la fragancia evoluciona hacia su faceta más adictiva y gourmet: un corazón dominado por la untuosidad de la leche condensada y el caramelo derretido, sutilmente equilibrado por la elegancia de la flor de azahar y flores blancas. En su secado, una base reconfortante de vainilla, haba tonka y maderas suaves de sándalo deja en la piel una estela cremosa, pulcra y profundamente magnética.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, trabajo (Perfecto para el uso diario diario, salidas informales o ambientes laborales donde se quiera llevar un aroma amigable, dulce y elogiado)",
+    "clima": "Templado / Calor",
+    "proyeccion": "Moderada",
+    "duracion": "Media (4-6h)",
+    "estela": "Moderada",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Para mujeres coquetas, divertidas y expresivas que aman los aromas intensamente dulces, cremosos y con una marcada identidad gourmand (olor a postre fino o caramelo láctico). Es ideal para quien busca un perfume con personalidad que resalte su lado más dulce y sensual.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "No es un dupe directo de perfumes masivos florales. Es una creación exclusiva de la marca que se mete de lleno en la tendencia Gourmand Láctico de alta calidad.",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Lattafa - Hayaati Al Maleky | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Amaderado / Pimienta Rosa Cedro",
@@ -13900,33 +13929,6 @@
     "inspiraciones": [
       {
         "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "RAYHAAN - Kiss | EDP | 100ml",
-    "familia_olfativa": "Dulce, Afrutado, Avainillado, Lactonico, Coco",
-    "inspirado_en": "No es un dupe directo de perfumes masivos florales. Es una creación exclusiva de la marca que se mete de lleno en la tendencia Gourmand Láctico de alta calidad.",
-    "notas_salida": "fresa, coco, praline, frambuesa",
-    "notas_corazon": "leche condensada, caramelo, flores blancas, flor de azahar del naranjo",
-    "notas_fondo": "vainilla, haba tonka, sándalo, almizcle",
-    "descripcion": "Un verdadero elixir de dulzura, cremosidad y seducción. RAYHAAN Kiss abre con una explosión irresistible y jugosa de fresa y frambuesa, envuelta en la calidez del praliné y un toque de coco tropical. Rápidamente, la fragancia evoluciona hacia su faceta más adictiva y gourmet: un corazón dominado por la untuosidad de la leche condensada y el caramelo derretido, sutilmente equilibrado por la elegancia de la flor de azahar y flores blancas. En su secado, una base reconfortante de vainilla, haba tonka y maderas suaves de sándalo deja en la piel una estela cremosa, pulcra y profundamente magnética.",
-    "momento_dia": "Día / Noche",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, trabajo (Perfecto para el uso diario diario, salidas informales o ambientes laborales donde se quiera llevar un aroma amigable, dulce y elogiado)",
-    "clima": "Templado / Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media (4-6h)",
-    "estela": "Moderada",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Para mujeres coquetas, divertidas y expresivas que aman los aromas intensamente dulces, cremosos y con una marcada identidad gourmand (olor a postre fino o caramelo láctico). Es ideal para quien busca un perfume con personalidad que resalte su lado más dulce y sensual.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "No es un dupe directo de perfumes masivos florales. Es una creación exclusiva de la marca que se mete de lleno en la tendencia Gourmand Láctico de alta calidad.",
         "nombre": "Composición propia",
         "imagen_url": ""
       }
@@ -15501,6 +15503,37 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Sceptre Amazonite | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental / Oud Nuez Moscada",
+    "inspirado_en": "Bvlgari Falkar",
+    "notas_salida": "Nuez moscada, pimienta",
+    "notas_corazon": "Oud, almizcle",
+    "notas_fondo": "maderas, ámbar, almizcle",
+    "descripcion": "Oud oscuro con nuez moscada y almizcle negro. Profundo y masculino. Para amantes del oud árabe con especias.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos, formal",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Verde oscuro / esmeralda",
+    "perfil_usuario": "Hombres 30-55 años. Orientales oscuros.",
+    "rango_edad_min": 30,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Hombres Orientales oscuros.",
+    "inspirado_en_nombre": "Bvlgari Falkar",
+    "inspiraciones": [
+      {
+        "texto": "Bvlgari Falkar",
+        "nombre": "Bvlgari Falkar",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Bad Homme | EDP | 100 ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Especiado / Pimienta Cacao",
@@ -15526,36 +15559,6 @@
       {
         "texto": "Carolina Herrera Bad Boy (DNA pimienta-cacao)",
         "nombre": "Carolina Herrera Bad Boy",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Maison Alhambra - Sceptre Amazonite | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "familia_olfativa": "Oriental / Oud Nuez Moscada",
-    "inspirado_en": "Bvlgari Falkar",
-    "notas_salida": "Nuez moscada, pimienta",
-    "notas_corazon": "Oud, almizcle",
-    "notas_fondo": "maderas, ámbar, almizcle",
-    "descripcion": "Oud oscuro con nuez moscada y almizcle negro. Profundo y masculino. Para amantes del oud árabe con especias.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos, formal",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Verde oscuro / esmeralda",
-    "perfil_usuario": "Hombres 30-55 años. Orientales oscuros.",
-    "rango_edad_min": 30,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres Orientales oscuros.",
-    "inspirado_en_nombre": "Bvlgari Falkar",
-    "inspiraciones": [
-      {
-        "texto": "Bvlgari Falkar",
-        "nombre": "Bvlgari Falkar",
         "imagen_url": ""
       }
     ]
