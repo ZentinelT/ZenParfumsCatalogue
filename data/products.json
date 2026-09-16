@@ -98,7 +98,7 @@
     "p": 75900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1989_z03wl8.jpg",
     "nt": "Salida pomelo, pimienta rosa, enebro, cardamomo Notas de corazón: Bergamota, cedro, nuez moscada, jazmín Notas de fondo: ámbar gris, manzana, almizcle, pachulí",
     "p1": "$75.900"
@@ -121,13 +121,13 @@
     "b": "AFNAN",
     "n": "AFNAN - Supremacy Collector's Edition | EDP",
     "s": "100ml",
-    "p": 143500,
+    "p": 139500,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1991_pd7n4q.jpg",
     "nt": "Salida Piña, bergamota, flores blancas, manzana Notas de corazón: Flor de azahar, abedul, ámbar Notas de fondo: Musgo de roble, almizcle, ámbar gris",
-    "p1": "$143.500"
+    "p1": "$139.500"
   },
   {
     "id": 1992,
@@ -410,7 +410,7 @@
     "p": 53800,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2013_4fto5e.jpg",
     "nt": "Salida pimienta rosa, mandarina Notas de corazón: flor de azahar del naranjo, vaina de cacao, jazmín sambac Notas de fondo: vainilla, haba tonka, pachulí",
     "p1": "$53.800"
@@ -719,13 +719,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Odyssey Candee | EDP",
     "s": "100ml",
-    "p": 68600,
+    "p": 64700,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2037_go5wgw.jpg",
     "nt": "Salida fresa, frambuesa, durazno, bergamota, geranio Notas de corazón: caramelo, jazmín, maracuya Notas de fondo: almizcle, pachulí, ámbar",
-    "p1": "$68.600"
+    "p1": "$64.700"
   },
   {
     "id": 2038,
@@ -784,13 +784,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Odyssey Go Mango | EDP",
     "s": "100ml",
-    "p": 80600,
+    "p": 76600,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2042_8rt7ec.jpg",
     "nt": "Salida Limón, pimienta rosa, jengibre, flores blancas Notas de corazón: Mango, haba tonka, madera seca Notas de fondo: Ámbar, vainilla, madera de gaiac, almizcle, frutos secos",
-    "p1": "$80.600"
+    "p1": "$76.600"
   },
   {
     "id": 2043,
@@ -901,13 +901,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Odyssey Spectra | EDP",
     "s": "100ml",
-    "p": 66200,
+    "p": 66100,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2051_4qblds.jpg",
     "nt": "Salida Canela, manzana, bergamota Notas de corazón: Canela, lavanda, flor de azahar, lirio de los valles Notas de fondo: Vainilla, tabaco, ámbar, haba tonka, pachulí",
-    "p1": "$66.200"
+    "p1": "$66.100"
   },
   {
     "id": 2052,
@@ -2979,15 +2979,15 @@
   {
     "id": 2211,
     "b": "MAISON ALHAMBRA",
-    "n": "MAISON ALHAMBRA - Pink Eclipse Edp",
+    "n": "MAISON ALHAMBRA - Pink Eclipse | EDP",
     "s": "100ml",
-    "p": 61600,
+    "p": 62600,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2211_jl3lo1.jpg",
-    "nt": "Salida bergamota, pera, mandarina tangerina Notas de corazón: flor de azahar del naranjo, jazmín, nerolí Notas de fondo: vainilla, benjuí, ámbar, almizcle",
-    "p1": "$61.600"
+    "nt": "Salida pera, bergamota, mandarina Notas de corazón: flor de azahar del naranjo, jazmín, nerolí Notas de fondo: vainilla, benjuí, ámbar, almizcle",
+    "p1": "$62.600"
   },
   {
     "id": 2212,
@@ -3103,7 +3103,7 @@
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2220_60x64i.jpg",
-    "nt": "Salida Cardamomo, hojas de violeta, pimienta rosa, menta Notas de corazón: Piña, sandía, canela, lavanda, salvia Notas de fondo: Vainilla, castaña, amberwood, madera de guayaco, cedro",
+    "nt": "Salida Cardamomo, hojas de violeta, pimienta rosa, menta Notas de corazón: Piña, sandía, canela, lavanda, salvia Notas de fondo: Vainilla, castaña, amberwood, gaiac, cedro",
     "p1": "$54.300"
   },
   {
@@ -3111,26 +3111,26 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Your Touch Leather | EDP",
     "s": "100ml",
-    "p": 60000,
+    "p": 60100,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2221_cs37g9.jpg",
-    "nt": "Salida Castaña, especias, elemi Notas de corazón: Lavanda, salvia Notas de fondo: Vainilla, cuero, madera de guayaco, madera de oud",
-    "p1": "$60.000"
+    "nt": "Salida haba tonka, canela Notas de corazón: vainilla, jazmin, elemi Notas de fondo: limon, manzana, cedro",
+    "p1": "$60.100"
   },
   {
     "id": 2222,
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Your Touch Santal | EDP",
     "s": "100ml",
-    "p": 59500,
+    "p": 57700,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2222_x1phgm.jpg",
     "nt": "Salida Azafrán Notas de corazón: Castaña, Lavanda Notas de fondo: Sándalo, Cedro, Vainilla",
-    "p1": "$59.500"
+    "p1": "$57.700"
   },
   {
     "id": 2223,
@@ -3179,7 +3179,7 @@
     "p": 104400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2226_ofb845.jpg",
     "nt": "Salida esclarea Notas de corazón: notas marinas, jazmin egipcio Notas de fondo: ambar, notas minerales, ambar gris",
     "p1": "$104.400"
@@ -3917,13 +3917,13 @@
     "b": "ZIMAYA",
     "n": "ZIMAYA - Evolution | EDP",
     "s": "100ml",
-    "p": 64000,
+    "p": 65000,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2283_xrp8tc.jpg",
     "nt": "Salida especias, bergamota, oregano Notas de corazón: ámbar, ladano, opoponaco Notas de fondo: cuero, humo, oud, pachulí",
-    "p1": "$64.000"
+    "p1": "$65.000"
   },
   {
     "id": 2284,
@@ -4128,7 +4128,7 @@
     "p": 69900,
     "c": "internacional",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2300_etzite.jpg",
     "nt": "Salida Limón, hojas de tomate Notas de corazón: Vaina de cacao Notas de fondo: Cedro, almizcle blanco, vetiver",
     "p1": "$69.900"
@@ -4645,13 +4645,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas London | EDP",
     "s": "100ml",
-    "p": 112800,
+    "p": 107600,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2342_h3tuyl.jpg",
-    "nt": "Salida Pimienta rosa, azafrán, pera · Corazón Rosa, incienso, flores blancas · Fondo Maderas rubias, almizcle, ámbar, vainilla",
-    "p1": "$112.800"
+    "nt": "Salida azafran, pimienta rosa, pera Notas de corazón: Rosa, incienso, flores blancas Notas de fondo: Maderas rubias, almizcle, ámbar, vainilla",
+    "p1": "$107.600"
   },
   {
     "id": 2343,
@@ -6104,7 +6104,7 @@
     "p": 88900,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2460_1bl2sa.jpg",
     "nt": "—",
     "p1": "$88.900"
@@ -7359,8 +7359,8 @@
   },
   {
     "id": 2564,
-    "b": "GIORGIO ARMANI",
-    "n": "GIORGIO ARMANI - Acqua di Gio Profondo | EDP",
+    "b": "EMPORIO ARMANI",
+    "n": "EMPORIO ARMANI - Acqua di Gio Profondo | EDP",
     "s": "100ml",
     "p": 127500,
     "c": "internacional",
