@@ -1668,13 +1668,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Eclaire | EDP",
     "s": "100ml",
-    "p": 78400,
+    "p": 91000,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2110_pqmidb.jpg",
     "nt": "Salida Vainilla, leche, caramelo Notas de corazón: Flores blancas, heliotropo Notas de fondo: Vainilla, almizcle, ámbar",
-    "p1": "$78.400"
+    "p1": "$91.000"
   },
   {
     "id": 2111,
@@ -6780,7 +6780,7 @@
     "p": 113400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2518_u2mupn.jpg",
     "nt": "Salida melon, durazno, manzana, bergamota Notas de corazón: ambar, sal de mar, cedro, lirio de los valles Notas de fondo: ambar, sandalo, pachuli, musgo",
     "p1": "$113.400"
@@ -7460,5 +7460,31 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2571_0mjypf.webp",
     "nt": "Salida rosa, jengibre, bergamota Notas de corazón: nardos, jazmin, flores blancas Notas de fondo: roble, almizcle, pachuli",
     "p1": "$115.800"
+  },
+  {
+    "id": 2572,
+    "b": "BHARARA",
+    "n": "BHARARA - Pharaoh Ramesses II | EDP",
+    "s": "100ml",
+    "p": 165000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_648049-MLA83077950831_032025-F.webp",
+    "nt": "Salida cacao, azafran Notas de corazón: canela, cuero Notas de fondo: oud, pachuli, ambar",
+    "p1": "$165.000"
+  },
+  {
+    "id": 2573,
+    "b": "CALVIN KLEIN",
+    "n": "CALVIN KLEIN - Ck One | EDT",
+    "s": "100ml",
+    "p": 80000,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_958992-MLA83255240684_042025-F.webp",
+    "nt": "Salida Limón, bergamota, mandarina, piña, cardamomo, papaya Notas de corazón: Lirio de los valles, jazmín, violeta, rosa, fresia, iris Notas de fondo: Almizcle, cedro, té verde, sándalo, musgo de roble, ámbar",
+    "p1": "$80.000"
   }
 ]

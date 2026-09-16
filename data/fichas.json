@@ -13337,6 +13337,36 @@
     ]
   },
   {
+    "nombre_completo": "BHARARA - Pharaoh Ramesses II | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Cálido especiado, Oud, Cacao, Cuero, Canela, Pachulí, Ámbar, Animálico, Amaderado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias más famosas, elogiadas y de mayor carácter indomable del mundo. Captura a la perfección ese ADN inconfundible de \"salida avasallante de canela y azafrán combinada con un corazón oscuro de tabaco y un fondo indestructible de vainilla, ámbar y oud\", ofreciendo una alternativa de lujo supremo con una presentación de botella escultura imponente y un rendimiento monstruoso",
+    "notas_salida": "cacao, azafran",
+    "notas_corazon": "canela, cuero",
+    "notas_fondo": "oud, pachuli, ambar",
+    "descripcion": "La definición en perfume de la potencia inquebrantable, la seducción nocturna más intensa y la sofisticación especiada del mercado actual. Bharara Pharaoh Ramesses II arranca con un impacto vibrante, hirviente y especiado de canela y azafrán. En cuestión de minutos despliega su faceta más elogiada y buscada: un corazón dominante de tabaco denso y maderas. Su evolución final es un secado supremo de vainilla cremosa, ámbar y oud, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas nocturnas, eventos formales, fiestas, reuniones importantes o cuando el objetivo sea acaparar miradas, proyectar a metros y recibir cumplidos constantes.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendario (12h a 24h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 21,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino / Unisex de Perfil Audaz. Diseñado para personas seguras de sí mismas, líderes, amantes de las fragancias de alto rendimiento (\"Beast Mode\") y quienes exigen un sello personal que proyecte poder, carácter y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.46663.2x.avif",
+    "inspirado_en_nombre": "Red Tobacco Mancera",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias más famosas, elogiadas y de mayor carácter indomable del mundo. Captura a la perfección ese ADN inconfundible de \"salida avasallante de canela y azafrán combinada con un corazón oscuro de tabaco y un fondo indestructible de vainilla, ámbar y oud\", ofreciendo una alternativa de lujo supremo con una presentación de botella escultura imponente y un rendimiento monstruoso",
+        "nombre": "Red Tobacco Mancera",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.46663.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Taureau de Combat | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
