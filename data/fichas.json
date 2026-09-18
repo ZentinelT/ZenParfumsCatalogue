@@ -136,6 +136,37 @@
     "inspiraciones": []
   },
   {
+    "nombre_completo": "FRENCH AVENUE - Veneno Bianco | EDP",
+    "marca": "FRENCH AVENUE",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral blanco, Dulce, Cítrico, Floral amarillo, Lactonico, Amaderado, Coco, Avainillado",
+    "inspirado_en": "Réplica espectacular de una de las joyas veraniegas más exclusivas y deseadas de la alta perfumería francesa. Captura a la perfección la esencia de un verano paradisíaco, elevando el clásico aroma tropical a un terreno de alta costura gracias a su increíble cremosidad láctica, sus flores exóticas y un fondo de coco y vainilla que es una verdadera locura.",
+    "notas_salida": "neroli, leche, bergamota",
+    "notas_corazon": "flores blancas, flor de tiare, ylang-ylang",
+    "notas_fondo": "coco, vainilla, ladano, madera de gaiac",
+    "descripcion": "La definición líquida de un atardecer dorado en el Caribe y el lujo costero. Veneno Bianco abre con una caricia ultra cremosa de leche y la luminosidad radiante del neroli y la bergamota, simulando los primeros rayos de sol en la piel. En su corazón, la fragancia estalla en un viaje exótico gracias al magnetismo de la flor de tiaré y el ylang-ylang, recreando un aura floral playera sofisticada y ultra sensual. Su evolución final es un abrazo adictivo de coco sedoso y vainilla premium, sostenidos por la calidez de la madera de gaiac, dejando en el aire una estela untuosa, carísima y completamente irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario de firma en épocas cálidas, pool parties VIP, paseos al aire libre, vacaciones, citas románticas de tarde o cualquier situación donde el objetivo sea oler riquísimo, costoso y a puro paraíso",
+    "clima": "Calor extremo / Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga (7h+ - 8h+)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido cristalino",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Diseñado para mujeres (y hombres con mucha personalidad) elegantes, sensuales y amantes del sol que buscan una fragancia firma veraniega o diurna de altísimo impacto. Es ideal para personalidades magnéticas que aman los aromas cremosos de coco y vainilla, pero que exigen una sofisticación madura, limpia y exclusiva que se diferencie de los bodies de playa comunes.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.90336.2x.avif",
+    "inspirado_en_nombre": "Kilian Sunkissed Goddess",
+    "inspiraciones": [
+      {
+        "texto": "Réplica espectacular de una de las joyas veraniegas más exclusivas y deseadas de la alta perfumería francesa. Captura a la perfección la esencia de un verano paradisíaco, elevando el clásico aroma tropical a un terreno de alta costura gracias a su increíble cremosidad láctica, sus flores exóticas y un fondo de coco y vainilla que es una verdadera locura.",
+        "nombre": "Kilian Sunkissed Goddess",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.90336.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Queen of Arabia | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -552,6 +583,36 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes frutales gourmand más adictivos, cremosos y elogiados del mundo. Captura a la perfección ese ADN inconfundible de \"frutas rojas jugosas combinadas con una sobredosis de malvavisco, vainilla y almizcle limpio\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
         "nombre": "Burberry Her Elixir de Parfum",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75968.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "CACHAREL - Amor Amor | EDT",
+    "marca": "Cacharel — Francia",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Floral / Oriental Juvenil",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Grosella negra, Naranja, mandarina, pomelo, bergamota",
+    "notas_corazon": "Rosa, damasco, jazmín, azucena, lirio de los valles",
+    "notas_fondo": "Vainilla, haba tonka, almizcle, ámbar, cedro",
+    "descripcion": "Frutal brillante y festivo. Naranja sanguínea con frutas rojas sobre base de vainilla cálida. Icónico de los 2000s. Alegre, juvenil y muy reconocible. Longevidad sorprendente para un EDT (24h+ en piel según muchos).",
+    "momento_dia": "Día / Noche — Versátil",
+    "estacion": "Todo el año / Mejor verano",
+    "ocasion": "Casual, salidas, fiestas, cotidiano",
+    "clima": "Todo",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga (longevidad sorprendente para EDT)",
+    "estela": "Intensa",
+    "color_liquido": "Rojo rubí / translúcido",
+    "perfil_usuario": "Mujeres 15-35 años. Jóvenes, festivas, alegres. El perfume de chica 2000s por excelencia.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres Jóvenes, festivas, alegres. El perfume de chica 2000s por excelencia.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
       }
     ]
   },
@@ -1848,6 +1909,37 @@
     ]
   },
   {
+    "nombre_completo": "RASASI - Hawas Tropical | EDP",
+    "marca": "Rasasi — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Frutal Tropical / Coco",
+    "inspirado_en": "JPG Le Beau Paradise Garden (muy cercano — \"mejor que el original\" según algunos)",
+    "notas_salida": "Coco, cítricos",
+    "notas_corazon": "Higo, frutas tropicales",
+    "notas_fondo": "Tonka, almizcle, ámbar",
+    "descripcion": "Coco cremoso con higo y frutas tropicales. Beast mode en longevidad (10h+ piel, 24h+ ropa). Nuclear. \"El mejor de todos los Hawas\" para muchos fans del coco. Mejor que Malibu en performance. 1-2 sprays máximo.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Playa, casual, vacaciones",
+    "clima": "Frío / Templado",
+    "proyeccion": "Beast mode (4-5h fuerte)",
+    "duracion": "Muy larga (10h+ piel, 24h+ ropa)",
+    "estela": "Nuclear",
+    "color_liquido": "Verde / tropical",
+    "perfil_usuario": "Hombres 18-40 años. Amantes del coco tropical extremo. El mejor de la familia para el verano.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres Amantes del coco tropical extremo. El mejor de la familia para el verano.",
+    "inspirado_en_nombre": "JPG Le Beau Paradise Garden",
+    "inspiraciones": [
+      {
+        "texto": "JPG Le Beau Paradise Garden (muy cercano — \"mejor que el original\" según algunos)",
+        "nombre": "JPG Le Beau Paradise Garden",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "AFNAN - Historic Doria | EDP",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "genero": "Femenino",
@@ -1876,36 +1968,6 @@
         "texto": "Réplica espectacular y ultra fiel de uno de los perfumes más sexies, fiesteros y comentados de la casa Gaultier. Captura a la perfección ese ADN magnético que rompe la madurez del nardo tradicional al inundarlo con una frambuesa dulce y jugosa. La gran ventaja de esta versión de Afnan es el agregado de ambroxan molecular, lo que eleva la proyección y le da un rendimiento moderno, limpio y arrollador en el aire. Una pócima que derrocha facha, picardía y presencia VIP.",
         "nombre": "So Scandal! de Jean Paul Gaultier",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.60942.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Rasasi - Hawas Tropical | EDP | 100ml",
-    "marca": "Rasasi — Dubai",
-    "familia_olfativa": "Frutal Tropical / Coco",
-    "inspirado_en": "JPG Le Beau Paradise Garden (muy cercano — \"mejor que el original\" según algunos)",
-    "notas_salida": "Coco, cítricos",
-    "notas_corazon": "Higo, frutas tropicales",
-    "notas_fondo": "Tonka, almizcle, ámbar",
-    "descripcion": "Coco cremoso con higo y frutas tropicales. Beast mode en longevidad (10h+ piel, 24h+ ropa). Nuclear. \"El mejor de todos los Hawas\" para muchos fans del coco. Mejor que Malibu en performance. 1-2 sprays máximo.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Playa, casual, vacaciones",
-    "clima": "Frío / Templado",
-    "proyeccion": "Beast mode (4-5h fuerte)",
-    "duracion": "Muy larga (10h+ piel, 24h+ ropa)",
-    "estela": "Nuclear",
-    "color_liquido": "Verde / tropical",
-    "perfil_usuario": "Hombres 18-40 años. Amantes del coco tropical extremo. El mejor de la familia para el verano.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Amantes del coco tropical extremo. El mejor de la familia para el verano.",
-    "inspirado_en_nombre": "JPG Le Beau Paradise Garden",
-    "inspiraciones": [
-      {
-        "texto": "JPG Le Beau Paradise Garden (muy cercano — \"mejor que el original\" según algunos)",
-        "nombre": "JPG Le Beau Paradise Garden",
-        "imagen_url": ""
       }
     ]
   },
@@ -6322,34 +6384,6 @@
     ]
   },
   {
-    "nombre_completo": "PACO RABANNE - Invictus | EDT",
-    "genero": "Masculino",
-    "familia_olfativa": "Cítrico, Marino, Aromático, Fesco especiado, Amaderado, Salado, Ámbar, Floral blanco, Acuático, Animálico",
-    "inspirado_en": "Representa el estándar de oro de las fragancias frescas acuático-amaderadas \"caza cumplidos\". Su estela definió una era en la perfumería moderna al combinar la frescura salada del océano con la calidez ambarada de fondo.",
-    "notas_salida": "notas marinas, pomelo, mandarina",
-    "notas_corazon": "hoja de laurel, jazmin",
-    "notas_fondo": "ambar gris, gaiac, musgo de roble, pachuli",
-    "descripcion": "La definición en perfume de la energía competitiva, la frescura de la victoria y el atractivo magnético. Paco Rabanne Invictus EDT abre con una ráfaga efervescente de notas marinas saladas mezcladas con la frescura cítrica del pomelo. En cuestión de minutos despliega su corazón aromático, donde la hoja de laurel aporta una sensación de triunfo y pulcritud. Su evolución final en la piel es un secado tibio, salado y profundamente sexy, donde el ámbar gris y la madera de guayaco se funden con el pachulí, dejando un rastro flotante que transmite juventud, dinamismo y un éxito arrollador.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Primavera / Verano / Otoño",
-    "ocasion": "Salidas casuales, actividades deportivas, boliches, citas informales, uso diario o eventos donde el objetivo sea destacar y recibir cumplidos.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Notable (7h a 9h)",
-    "estela": "Moderada",
-    "color_liquido": "Azul grisáceo cristalino traslúcido",
-    "rango_edad_min": 15,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Masculino. Diseñado para jóvenes y hombres modernos, dinámicos, deportistas, extrovertidos y amantes de los perfumes frescos acuáticos con presencia sensual. Es la elección perfecta para quienes buscan un aroma de firma energizante para el día a día, salidas casuales, boliches o actividades sociales.",
-    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Marítima de Victoria (Francia)",
-    "inspiraciones": [
-      {
-        "texto": "Representa el estándar de oro de las fragancias frescas acuático-amaderadas \"caza cumplidos\". Su estela definió una era en la perfumería moderna al combinar la frescura salada del océano con la calidez ambarada de fondo.",
-        "nombre": "Perfume Original de Diseñador / Firma Olfativa Marítima de Victoria (Francia)"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Pride Shaheen Silver | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -9228,35 +9262,6 @@
     ]
   },
   {
-    "nombre_completo": "Cacharel - Amor Amor | EDT | 100 ml",
-    "marca": "Cacharel — Francia",
-    "familia_olfativa": "Frutal Floral / Oriental Juvenil",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Grosella negra, Naranja, mandarina, pomelo, bergamota",
-    "notas_corazon": "Rosa, damasco, jazmín, azucena, lirio de los valles",
-    "notas_fondo": "Vainilla, haba tonka, almizcle, ámbar, cedro",
-    "descripcion": "Frutal brillante y festivo. Naranja sanguínea con frutas rojas sobre base de vainilla cálida. Icónico de los 2000s. Alegre, juvenil y muy reconocible. Longevidad sorprendente para un EDT (24h+ en piel según muchos).",
-    "momento_dia": "Día / Noche — Versátil",
-    "estacion": "Todo el año / Mejor verano",
-    "ocasion": "Casual, salidas, fiestas, cotidiano",
-    "clima": "Todo",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga (longevidad sorprendente para EDT)",
-    "estela": "Intensa",
-    "color_liquido": "Rojo rubí / translúcido",
-    "perfil_usuario": "Mujeres 15-35 años. Jóvenes, festivas, alegres. El perfume de chica 2000s por excelencia.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Jóvenes, festivas, alegres. El perfume de chica 2000s por excelencia.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Mashrabya | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Unisex",
@@ -10154,36 +10159,6 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "RAYHAAN - Aquatica | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Cítrico, Dulce, Coco, Avainillado, Fesco especiado",
-    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume veraniego más icónico, exclusivo y codiciado de la historia de la perfumería moderna. Captura a la perfección ese ADN inconfundible de \"cóctel de lima mojada en agua de coco, ron y azúcar\", ofreciendo una alternativa con una fijación sorprendente y un perfil de ultra lujo.",
-    "notas_salida": "lima, leche de coco, bergamota, mandarina",
-    "notas_corazon": "caña de azucar, jazmin, hibisco, gardenia",
-    "notas_fondo": "ron, almizcle, haba tonka, pachuli",
-    "descripcion": "La definición en perfume del lujo bajo el sol, la brisa de una playa caribeña y el placer de un cóctel refrescante. Rayhaan Aquatica abre con un impacto radiante y revitalizador de lima y coco cremoso. En cuestión de minutos despliega su faceta más elogiada: un corazón exótico donde el ron blanco y las notas florales envuelven la piel con una sensación de exclusividad. Su evolución final en la piel es un secado tibio, dulce y profundamente pulcro, dejando un rastro flotante que transmite relax, estatus vacacional y un encanto natural irresistible.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Vacaciones, días de playa, salidas casuales, uso diario en verano o eventos diurnos donde quieras destacar con clase.",
-    "clima": "Cálido / Muy Cálido / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Notable (6h a 8h)",
-    "estela": "Moderada",
-    "color_liquido": "Cristalino",
-    "rango_edad_min": 18,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Unisex. Diseñado para personas dinámicas, amantes de los viajes, el estilo de vida al aire libre y las fragancias sofisticadas que escapan de lo convencional. Es la elección perfecta para quienes buscan un aroma de firma veraniego que proyecte elegancia, frescura y un lujo relajado inigualable.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.899.2x.avif",
-    "inspirado_en_nombre": "Virgin Island Water (2007) de Creed",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume veraniego más icónico, exclusivo y codiciado de la historia de la perfumería moderna. Captura a la perfección ese ADN inconfundible de \"cóctel de lima mojada en agua de coco, ron y azúcar\", ofreciendo una alternativa con una fijación sorprendente y un perfil de ultra lujo.",
-        "nombre": "Virgin Island Water (2007) de Creed",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.899.2x.avif"
       }
     ]
   },
@@ -13567,37 +13542,6 @@
     ]
   },
   {
-    "nombre_completo": "FRENCH AVENUE - Veneno Bianco | EDP | 100ml",
-    "marca": "FRENCH AVENUE",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral blanco, Dulce, Cítrico, Floral amarillo, Lactonico, Amaderado, Coco, Avainillado",
-    "inspirado_en": "Réplica espectacular de una de las joyas veraniegas más exclusivas y deseadas de la alta perfumería francesa. Captura a la perfección la esencia de un verano paradisíaco, elevando el clásico aroma tropical a un terreno de alta costura gracias a su increíble cremosidad láctica, sus flores exóticas y un fondo de coco y vainilla que es una verdadera locura.",
-    "notas_salida": "neroli, leche, bergamota",
-    "notas_corazon": "flores blancas, flor de tiare, ylang-ylang",
-    "notas_fondo": "coco, vainilla, ladano, madera de gaiac",
-    "descripcion": "La definición líquida de un atardecer dorado en el Caribe y el lujo costero. Veneno Bianco abre con una caricia ultra cremosa de leche y la luminosidad radiante del neroli y la bergamota, simulando los primeros rayos de sol en la piel. En su corazón, la fragancia estalla en un viaje exótico gracias al magnetismo de la flor de tiaré y el ylang-ylang, recreando un aura floral playera sofisticada y ultra sensual. Su evolución final es un abrazo adictivo de coco sedoso y vainilla premium, sostenidos por la calidez de la madera de gaiac, dejando en el aire una estela untuosa, carísima y completamente irresistible.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Uso diario de firma en épocas cálidas, pool parties VIP, paseos al aire libre, vacaciones, citas románticas de tarde o cualquier situación donde el objetivo sea oler riquísimo, costoso y a puro paraíso",
-    "clima": "Calor extremo / Cálido / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga (7h+ - 8h+)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido cristalino",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Diseñado para mujeres (y hombres con mucha personalidad) elegantes, sensuales y amantes del sol que buscan una fragancia firma veraniega o diurna de altísimo impacto. Es ideal para personalidades magnéticas que aman los aromas cremosos de coco y vainilla, pero que exigen una sofisticación madura, limpia y exclusiva que se diferencie de los bodies de playa comunes.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.90336.2x.avif",
-    "inspirado_en_nombre": "Kilian Sunkissed Goddess",
-    "inspiraciones": [
-      {
-        "texto": "Réplica espectacular de una de las joyas veraniegas más exclusivas y deseadas de la alta perfumería francesa. Captura a la perfección la esencia de un verano paradisíaco, elevando el clásico aroma tropical a un terreno de alta costura gracias a su increíble cremosidad láctica, sus flores exóticas y un fondo de coco y vainilla que es una verdadera locura.",
-        "nombre": "Kilian Sunkissed Goddess",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.90336.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "FRENCH AVENUE - Veneno Scarlet | EDP | 100ml",
     "genero": "Unisex",
     "familia_olfativa": "Afrutados, Dulce, Amaderado, Cuero, Pachulí, Cálido especiado, Aromático",
@@ -13996,35 +13940,6 @@
     ]
   },
   {
-    "nombre_completo": "CALVIN KLEIN - Ck One | EDT",
-    "genero": "Unisex",
-    "familia_olfativa": "Cítrico Fresco / Unisex Fundacional",
-    "inspirado_en": "El indiscutible pionero y referente global de las fragancias unisex en la historia de la perfumería mundial. Captura a la perfección ese ADN inconfundible de \"salida chispeante y cítrica combinada con un corazón limpio de té verde y flores blancas, y un fondo amaderado-almizclado\", ofreciendo un clásico absoluto que sigue tan vigente",
-    "notas_salida": "Limón, bergamota, mandarina, piña, cardamomo, papaya",
-    "notas_corazon": "Lirio de los valles, jazmín, violeta, rosa, fresia, iris",
-    "notas_fondo": "Almizcle, cedro, té verde, sándalo, musgo de roble, ámbar",
-    "descripcion": "La definición en perfume de la libertad, la juventud eterna, la pulcritud universal y la frescura más amigable y exitosa del mercado global. Calvin Klein CK One arranca con un impacto vibrante, fresco y ultra jugoso de cítricos y notas verdes. En cuestión de minutos despliega su faceta más elogiada y característica: un corazón aromático dominado por el té verde y las flores blancas limpias. Su evolución final es un secado profundo de almizcle blanco y maderas claras, dejando un rastro flotante sumamente distinguido, fresco y de una presencia sumamente agradable.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Uso diario informal, entorno laboral distendido, actividades deportivas, estudio o cuando el objetivo sea oler impecable, fresco y con una presencia agradable y universal.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Moderada",
-    "duracion": "Media",
-    "estela": "Moderada",
-    "color_liquido": "Transparente / Cristalino",
-    "perfil_usuario": "Todos — el perfume sin género.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 70,
-    "estilo_descripcion": "Unisex. Diseñado para personas de todas las edades, dinámicas, modernas, amantes de las fragancias limpias, descontracturadas y versátiles, y quienes exigen un sello personal que proyecte naturalidad, energía y pulcritud absoluta.",
-    "inspirado_en_nombre": "Creación original",
-    "inspiraciones": [
-      {
-        "texto": "El indiscutible pionero y referente global de las fragancias unisex en la historia de la perfumería mundial. Captura a la perfección ese ADN inconfundible de \"salida chispeante y cítrica combinada con un corazón limpio de té verde y flores blancas, y un fondo amaderado-almizclado\", ofreciendo un clásico absoluto que sigue tan vigente",
-        "nombre": "Creación original"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Hayaati Al Maleky | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "familia_olfativa": "Amaderado / Pimienta Rosa Cedro",
@@ -14076,6 +13991,36 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "CALVIN KLEIN - Ck One | EDT",
+    "marca": "CALVIN KLEIN",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico Fresco / Unisex Fundacional",
+    "inspirado_en": "El indiscutible pionero y referente global de las fragancias unisex en la historia de la perfumería mundial. Captura a la perfección ese ADN inconfundible de \"salida chispeante y cítrica combinada con un corazón limpio de té verde y flores blancas, y un fondo amaderado-almizclado\", ofreciendo un clásico absoluto que sigue tan vigente",
+    "notas_salida": "Limón, bergamota, mandarina, piña, cardamomo, papaya",
+    "notas_corazon": "Lirio de los valles, jazmín, violeta, rosa, fresia, iris",
+    "notas_fondo": "Almizcle, cedro, té verde, sándalo, musgo de roble, ámbar",
+    "descripcion": "La definición en perfume de la libertad, la juventud eterna, la pulcritud universal y la frescura más amigable y exitosa del mercado global. Calvin Klein CK One arranca con un impacto vibrante, fresco y ultra jugoso de cítricos y notas verdes. En cuestión de minutos despliega su faceta más elogiada y característica: un corazón aromático dominado por el té verde y las flores blancas limpias. Su evolución final es un secado profundo de almizcle blanco y maderas claras, dejando un rastro flotante sumamente distinguido, fresco y de una presencia sumamente agradable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario informal, entorno laboral distendido, actividades deportivas, estudio o cuando el objetivo sea oler impecable, fresco y con una presencia agradable y universal.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada",
+    "duracion": "Media",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "perfil_usuario": "Todos — el perfume sin género.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 70,
+    "estilo_descripcion": "Unisex. Diseñado para personas de todas las edades, dinámicas, modernas, amantes de las fragancias limpias, descontracturadas y versátiles, y quienes exigen un sello personal que proyecte naturalidad, energía y pulcritud absoluta.",
+    "inspirado_en_nombre": "Creación original",
+    "inspiraciones": [
+      {
+        "texto": "El indiscutible pionero y referente global de las fragancias unisex en la historia de la perfumería mundial. Captura a la perfección ese ADN inconfundible de \"salida chispeante y cítrica combinada con un corazón limpio de té verde y flores blancas, y un fondo amaderado-almizclado\", ofreciendo un clásico absoluto que sigue tan vigente",
+        "nombre": "Creación original"
       }
     ]
   },
@@ -14254,6 +14199,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Pride Pisa | EDP",
+    "marca": "LATTAFA",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Amaderado, Ámbar, Atalcado, Aromático",
+    "inspirado_en": "Réplica conceptual espectacular del \"cítrico millonario\" más codiciado y exclusivo del mundo. Sigue de cerca la misma estructura de alta alcurnia de Tygar, cruzando una apertura cítrica súper brillante y energizante con una base pesada de maderas nobles y ámbar que le otorga un estatus y una fijación incomparables. Pisa destaca por cambiar el pomelo amargo tradicional por un combo mediterráneo más jugoso de mandarina y limón.",
+    "notas_salida": "mandarina, limon, bergamota",
+    "notas_corazon": "cedro",
+    "notas_fondo": "sandalo, ambar",
+    "descripcion": "La definición perfecta de la frescura aristocrática, la limpieza de alta sastrería y el encanto del mediterráneo. Lattafa Pisa abre con una explosión radiante y súper vigorizante de mandarina jugosa, limón ácido y la sofisticación de la bergamota, recreando una mañana soleada en la costa italiana. En su corazón, la fragancia se vuelve sumamente prolija y masculina gracias a la sobriedad del cedro noble. Su evolución final es un secado impecable de sándalo cremoso y la calidez limpia del ámbar, dejando en el aire una estela pulcra, atalcada, hiper-fresca y carísima que evoca distinción absoluta.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario de firma, reuniones de trabajo o de oficina, almuerzos casuales, salidas al aire libre, post-gimnasio de lujo o cualquier situación donde el objetivo sea oler impecable, pulcro y fresco",
+    "clima": "Calor extremo / Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Media-larga (6-7h)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido cristalino",
+    "rango_edad_min": 22,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Diseñado para hombres modernos, prolijos y detallistas que priorizan los aromas ultra limpios, frescos y con clase por sobre las modas dulces del montón. Es ideal para el profesional, el emprendedor o el tipo que busca un perfume firma de uso diario que transmita pulcritud, orden y un estatus premium relajado, perfecto para destacar con elegancia sin abrumar a nadie.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.41222.2x.avif",
+    "inspirado_en_nombre": "Bvlgari Tygar",
+    "inspiraciones": [
+      {
+        "texto": "Réplica conceptual espectacular del \"cítrico millonario\" más codiciado y exclusivo del mundo. Sigue de cerca la misma estructura de alta alcurnia de Tygar, cruzando una apertura cítrica súper brillante y energizante con una base pesada de maderas nobles y ámbar que le otorga un estatus y una fijación incomparables. Pisa destaca por cambiar el pomelo amargo tradicional por un combo mediterráneo más jugoso de mandarina y limón.",
+        "nombre": "Bvlgari Tygar",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.41222.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "F. AVENUE - Meringue | EDP | 100ml",
     "marca": "French Avenue",
     "genero": "Femenino",
@@ -14309,36 +14285,6 @@
         "texto": "Creación original",
         "nombre": "",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "LATTAFA - Pride Pisa | EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Cítrico, Amaderado, Ámbar, Atalcado, Aromático",
-    "inspirado_en": "Réplica conceptual espectacular del \"cítrico millonario\" más codiciado y exclusivo del mundo. Sigue de cerca la misma estructura de alta alcurnia de Tygar, cruzando una apertura cítrica súper brillante y energizante con una base pesada de maderas nobles y ámbar que le otorga un estatus y una fijación incomparables. Pisa destaca por cambiar el pomelo amargo tradicional por un combo mediterráneo más jugoso de mandarina y limón.",
-    "notas_salida": "mandarina, limon, bergamota",
-    "notas_corazon": "cedro",
-    "notas_fondo": "sandalo, ambar",
-    "descripcion": "La definición perfecta de la frescura aristocrática, la limpieza de alta sastrería y el encanto del mediterráneo. Lattafa Pisa abre con una explosión radiante y súper vigorizante de mandarina jugosa, limón ácido y la sofisticación de la bergamota, recreando una mañana soleada en la costa italiana. En su corazón, la fragancia se vuelve sumamente prolija y masculina gracias a la sobriedad del cedro noble. Su evolución final es un secado impecable de sándalo cremoso y la calidez limpia del ámbar, dejando en el aire una estela pulcra, atalcada, hiper-fresca y carísima que evoca distinción absoluta.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Uso diario de firma, reuniones de trabajo o de oficina, almuerzos casuales, salidas al aire libre, post-gimnasio de lujo o cualquier situación donde el objetivo sea oler impecable, pulcro y fresco",
-    "clima": "Calor extremo / Cálido / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Media-larga (6-7h)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido cristalino",
-    "rango_edad_min": 22,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Diseñado para hombres modernos, prolijos y detallistas que priorizan los aromas ultra limpios, frescos y con clase por sobre las modas dulces del montón. Es ideal para el profesional, el emprendedor o el tipo que busca un perfume firma de uso diario que transmita pulcritud, orden y un estatus premium relajado, perfecto para destacar con elegancia sin abrumar a nadie.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.41222.2x.avif",
-    "inspirado_en_nombre": "Bvlgari Tygar",
-    "inspiraciones": [
-      {
-        "texto": "Réplica conceptual espectacular del \"cítrico millonario\" más codiciado y exclusivo del mundo. Sigue de cerca la misma estructura de alta alcurnia de Tygar, cruzando una apertura cítrica súper brillante y energizante con una base pesada de maderas nobles y ámbar que le otorga un estatus y una fijación incomparables. Pisa destaca por cambiar el pomelo amargo tradicional por un combo mediterráneo más jugoso de mandarina y limón.",
-        "nombre": "Bvlgari Tygar",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.41222.2x.avif"
       }
     ]
   },
@@ -15717,6 +15663,35 @@
     ]
   },
   {
+    "nombre_completo": "PACO RABANNE - Invictus | EDT",
+    "marca": "PACO RABANNE",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Marino, Aromático, Fesco especiado, Amaderado, Salado, Ámbar, Floral blanco, Acuático, Animálico",
+    "inspirado_en": "Representa el estándar de oro de las fragancias frescas acuático-amaderadas \"caza cumplidos\". Su estela definió una era en la perfumería moderna al combinar la frescura salada del océano con la calidez ambarada de fondo.",
+    "notas_salida": "notas marinas, pomelo, mandarina",
+    "notas_corazon": "hoja de laurel, jazmin",
+    "notas_fondo": "ambar gris, gaiac, musgo de roble, pachuli",
+    "descripcion": "La definición en perfume de la energía competitiva, la frescura de la victoria y el atractivo magnético. Paco Rabanne Invictus EDT abre con una ráfaga efervescente de notas marinas saladas mezcladas con la frescura cítrica del pomelo. En cuestión de minutos despliega su corazón aromático, donde la hoja de laurel aporta una sensación de triunfo y pulcritud. Su evolución final en la piel es un secado tibio, salado y profundamente sexy, donde el ámbar gris y la madera de guayaco se funden con el pachulí, dejando un rastro flotante que transmite juventud, dinamismo y un éxito arrollador.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Salidas casuales, actividades deportivas, boliches, citas informales, uso diario o eventos donde el objetivo sea destacar y recibir cumplidos.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Azul grisáceo cristalino traslúcido",
+    "rango_edad_min": 15,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Masculino. Diseñado para jóvenes y hombres modernos, dinámicos, deportistas, extrovertidos y amantes de los perfumes frescos acuáticos con presencia sensual. Es la elección perfecta para quienes buscan un aroma de firma energizante para el día a día, salidas casuales, boliches o actividades sociales.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Marítima de Victoria (Francia)",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar de oro de las fragancias frescas acuático-amaderadas \"caza cumplidos\". Su estela definió una era en la perfumería moderna al combinar la frescura salada del océano con la calidez ambarada de fondo.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa Marítima de Victoria (Francia)"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Cacharel - Anais Anais | EDT | 100 ml",
     "marca": "Cacharel — Francia",
     "familia_olfativa": "Floral Blanco Clásico / Eterno",
@@ -16649,6 +16624,37 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Aquatica | EDP",
+    "marca": "RAYHAAN",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Dulce, Coco, Avainillado, Fesco especiado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume veraniego más icónico, exclusivo y codiciado de la historia de la perfumería moderna. Captura a la perfección ese ADN inconfundible de \"cóctel de lima mojada en agua de coco, ron y azúcar\", ofreciendo una alternativa con una fijación sorprendente y un perfil de ultra lujo.",
+    "notas_salida": "lima, leche de coco, bergamota, mandarina",
+    "notas_corazon": "caña de azucar, jazmin, hibisco, gardenia",
+    "notas_fondo": "ron, almizcle, haba tonka, pachuli",
+    "descripcion": "La definición en perfume del lujo bajo el sol, la brisa de una playa caribeña y el placer de un cóctel refrescante. Rayhaan Aquatica abre con un impacto radiante y revitalizador de lima y coco cremoso. En cuestión de minutos despliega su faceta más elogiada: un corazón exótico donde el ron blanco y las notas florales envuelven la piel con una sensación de exclusividad. Su evolución final en la piel es un secado tibio, dulce y profundamente pulcro, dejando un rastro flotante que transmite relax, estatus vacacional y un encanto natural irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Vacaciones, días de playa, salidas casuales, uso diario en verano o eventos diurnos donde quieras destacar con clase.",
+    "clima": "Cálido / Muy Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Notable (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex. Diseñado para personas dinámicas, amantes de los viajes, el estilo de vida al aire libre y las fragancias sofisticadas que escapan de lo convencional. Es la elección perfecta para quienes buscan un aroma de firma veraniego que proyecte elegancia, frescura y un lujo relajado inigualable.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.899.2x.avif",
+    "inspirado_en_nombre": "Virgin Island Water (2007) de Creed",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume veraniego más icónico, exclusivo y codiciado de la historia de la perfumería moderna. Captura a la perfección ese ADN inconfundible de \"cóctel de lima mojada en agua de coco, ron y azúcar\", ofreciendo una alternativa con una fijación sorprendente y un perfil de ultra lujo.",
+        "nombre": "Virgin Island Water (2007) de Creed",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.899.2x.avif"
       }
     ]
   }

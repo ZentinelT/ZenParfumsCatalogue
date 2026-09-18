@@ -98,7 +98,7 @@
     "p": 75900,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1989_z03wl8.jpg",
     "nt": "Salida pomelo, pimienta rosa, enebro, cardamomo Notas de corazón: Bergamota, cedro, nuez moscada, jazmín Notas de fondo: ámbar gris, manzana, almizcle, pachulí",
     "p1": "$75.900"
@@ -121,13 +121,13 @@
     "b": "AFNAN",
     "n": "AFNAN - Supremacy Collector's Edition | EDP",
     "s": "100ml",
-    "p": 139500,
+    "p": 149000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1991_pd7n4q.jpg",
     "nt": "Salida Piña, bergamota, flores blancas, manzana Notas de corazón: Flor de azahar, abedul, ámbar Notas de fondo: Musgo de roble, almizcle, ámbar gris",
-    "p1": "$139.500"
+    "p1": "$149.000"
   },
   {
     "id": 1992,
@@ -511,13 +511,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Iconic Blue | EDP",
     "s": "105ml",
-    "p": 92100,
+    "p": 96000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2021_9ave9e.jpg",
     "nt": "Salida Pomelo, limón, menta, pimienta rosa, cilantro Notas de corazón: Jengibre, nuez moscada, melón, jazmín Notas de fondo: Sándalo, ámbar, pachulí, incienso, cedro, ládano",
-    "p1": "$92.100"
+    "p1": "$96.000"
   },
   {
     "id": 2022,
@@ -1720,13 +1720,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Emeer | EDP",
     "s": "100ml",
-    "p": 89900,
+    "p": 93000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2114_9s7yrb.jpg",
     "nt": "Salida Pomelo, canela, bergamota Notas de corazón: Especias, cedro, cuero Notas de fondo: Ámbar, almizcle, pachulí",
-    "p1": "$89.900"
+    "p1": "$93.000"
   },
   {
     "id": 2115,
@@ -2006,13 +2006,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Mayar Rose | EDP",
     "s": "100ml",
-    "p": 67400,
+    "p": 68000,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2136_pgbx47.jpg",
     "nt": "Salida lichi, frambuesa, hojas de violeta Notas de corazón: rosa blanca, peonia, jazmin Notas de fondo: almizcle, vainilla",
-    "p1": "$67.400"
+    "p1": "$68.000"
   },
   {
     "id": 2137,
@@ -2045,13 +2045,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Musamam White Intense | EDP",
     "s": "100ml",
-    "p": 99400,
+    "p": 101000,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2139_uqu1ze.jpg",
     "nt": "Salida Especias, coco, bergamota Notas de corazón: Flores blancas, sándalo Notas de fondo: Almizcle, ámbar, vainilla",
-    "p1": "$99.400"
+    "p1": "$101.000"
   },
   {
     "id": 2140,
@@ -2526,13 +2526,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Yara Rosa | EDP",
     "s": "100ml",
-    "p": 72900,
+    "p": 77000,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2176_8gv4u0.jpg",
     "nt": "Salida Orquídea, heliotropo, naranja Notas de corazón: Acorde goloso, frutas tropicales Notas de fondo: Vainilla, almizcle, sándalo",
-    "p1": "$72.900"
+    "p1": "$77.000"
   },
   {
     "id": 2177,
@@ -2659,7 +2659,7 @@
     "p": 56100,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2186_qp79hp.jpg",
     "nt": "Salida Grosella negra, pera Notas de corazón: Iris, flor de azahar, jazmín Notas de fondo: Pachulí, haba tonka, praliné, vainilla",
     "p1": "$56.100"
@@ -3228,26 +3228,26 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Malibu | EDP",
     "s": "100ml",
-    "p": 92900,
+    "p": 92000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2230_km3tpo.jpg",
     "nt": "Salida Piña, naranja, pomelo Notas de corazón: Ámbar, iris, lavanda Notas de fondo: Haba tonka, almizcle, cachemira, pachulí",
-    "p1": "$92.900"
+    "p1": "$92.000"
   },
   {
     "id": 2231,
     "b": "RASASI",
     "n": "RASASI - Hawas Tropical | EDP",
     "s": "100ml",
-    "p": 102000,
+    "p": 91000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2231_wgeci5.jpg",
     "nt": "Salida Coco, cítricos Notas de corazón: Higo, frutas tropicales Notas de fondo: Tonka, almizcle, ámbar",
-    "p1": "$102.000"
+    "p1": "$91.000"
   },
   {
     "id": 2232,
@@ -4060,13 +4060,13 @@
     "b": "CACHAREL",
     "n": "CACHAREL - Amor Amor | EDT",
     "s": "100ml",
-    "p": 105800,
+    "p": 105000,
     "c": "internacional",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2295_39ohqq.jpg",
     "nt": "Salida Grosella negra, Naranja, mandarina, pomelo, bergamota Notas de corazón: Rosa, damasco, jazmín, azucena, lirio de los valles Notas de fondo: Vainilla, haba tonka, almizcle, ámbar, cedro",
-    "p1": "$105.800"
+    "p1": "$105.000"
   },
   {
     "id": 2296,
@@ -4242,13 +4242,13 @@
     "b": "CAROLINA HERRERA",
     "n": "CAROLINA HERRERA - 212 Black | Elixir",
     "s": "100ml",
-    "p": 191300,
+    "p": 213000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2309_u2siql.jpg",
     "nt": "Salida Lavanda, pomelo, Baya de enebro Notas de corazón: Regaliz negro, azafrán, flor de azahar Notas de fondo: Vainilla, maderas, vetiver",
-    "p1": "$191.300"
+    "p1": "$213.000"
   },
   {
     "id": 2310,
@@ -4710,13 +4710,13 @@
     "b": "AL WATANIAH",
     "n": "AL WATANIAH - Special Oud | EDP",
     "s": "100ml",
-    "p": 48400,
+    "p": 54000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2347_jv1rp0.jpg",
     "nt": "Salida Cuero, durazno, azafrán, caramelo, bayas rojas Notas de corazón: notas amaderadas, pimienta rosa, cipriol, ladano, jengibre Notas de fondo: Madera de oud, pachulí, vainilla, benjuí, almizcle, bálsamo",
-    "p1": "$48.400"
+    "p1": "$54.000"
   },
   {
     "id": 2348,
@@ -5243,13 +5243,13 @@
     "b": "DIOR",
     "n": "DIOR - Sauvage | EDT",
     "s": "100ml",
-    "p": 219500,
+    "p": 225000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2391_30v8cs.jpg",
     "nt": "Salida Bergamota, Pimienta Notas de corazón: Pimienta de Sichuan, Lavanda, Pimienta rosa, Vetiver, Pachulí, Geranio, Elemí Notas de fondo: Ambroxan, Cedro, Ladano",
-    "p1": "$219.500"
+    "p1": "$225.000"
   },
   {
     "id": 2392,
@@ -6049,13 +6049,13 @@
     "b": "FRENCH AVENUE",
     "n": "FRENCH AVENUE - Veneno Bianco | EDP",
     "s": "100ml",
-    "p": 92500,
+    "p": 100000,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2456_8491kf.jpg",
     "nt": "Salida neroli, leche, bergamota Notas de corazón: flores blancas, flor de tiare, ylang-ylang Notas de fondo: coco, vainilla, ladano, madera de gaiac",
-    "p1": "$92.500"
+    "p1": "$100.000"
   },
   {
     "id": 2457,
@@ -6127,13 +6127,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Pride Pisa | EDP",
     "s": "100ml",
-    "p": 88500,
+    "p": 105000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2466_dndq9q.jpg",
     "nt": "Salida mandarina, limon, bergamota Notas de corazón: cedro Notas de fondo: sandalo, ambar",
-    "p1": "$88.500"
+    "p1": "$105.000"
   },
   {
     "id": 2467,
@@ -6894,13 +6894,13 @@
     "b": "PACO RABANNE",
     "n": "PACO RABANNE - Invictus | EDT",
     "s": "100ml",
-    "p": 152600,
+    "p": 155000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2527_w6zv0k.jpg",
     "nt": "Salida notas marinas, pomelo, mandarina Notas de corazón: hoja de laurel, jazmin Notas de fondo: ambar gris, gaiac, musgo de roble, pachuli",
-    "p1": "$152.600"
+    "p1": "$155.000"
   },
   {
     "id": 2528,
@@ -7076,13 +7076,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Aquatica | EDP",
     "s": "100ml",
-    "p": 103600,
+    "p": 102000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2541_etjm03.jpg",
     "nt": "Salida lima, leche de coco, bergamota, mandarina Notas de corazón: caña de azucar, jazmin, hibisco, gardenia Notas de fondo: ron, almizcle, haba tonka, pachuli",
-    "p1": "$103.600"
+    "p1": "$102.000"
   },
   {
     "id": 2542,
