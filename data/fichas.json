@@ -2636,34 +2636,6 @@
     ]
   },
   {
-    "nombre_completo": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
-    "genero": "Masculino",
-    "familia_olfativa": "Afrutados, Amaderado, Fresco, Ámbar, Atalcado, ozonico, Acuático, Verde, Cítrico, Salado",
-    "inspirado_en": "Réplica y evolución del concepto frutal-marino dulce más codiciado de la perfumería moderna. Eleva al máximo exponente el perfil de \"fruta jugosa tropical con brisa salina y ámbar caliente\", entregando una proyección y una duración en \"Modo Bestia\" que desafían a cualquier perfume de diseñador convencional.",
-    "notas_salida": "melon, durazno, manzana, bergamota",
-    "notas_corazon": "ambar, sal de mar, cedro, lirio de los valles",
-    "notas_fondo": "ambar, sandalo, pachuli, musgo",
-    "descripcion": "La definición en perfume de la fiesta estival, la dulzura tropical y el rendimiento atómico. Dumont Nitro Red Intensely abre con una ráfaga vibrante, dulzona y ultra jugosa de melón maduro y durazno abrazados por manzana crujiente. En cuestión de minutos despliega su faceta más elogiada: un corazón acuático-salino donde la sal de mar choca contra el ámbar y la madera de cedro, creando una sensación de piel bronceada en la costa. Su evolución final en la piel es un secado caliente, amaderado y profundamente sexy, donde el sándalo cremoso, el pachulí y el musgo sostienen la dulzura del ámbar durante horas, dejando una estela expansiva que domina cualquier habitación.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Primavera / Verano / Otoño",
-    "ocasion": "Fiestas, boliche, salidas con amigos, citas informales, eventos al aire libre o situaciones donde se busquen cumplidos inmediatos.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Beast mode",
-    "duracion": "Monumental (10h a 12h+)",
-    "estela": "Nuclear",
-    "color_liquido": "Transparente traslúcido",
-    "rango_edad_min": 18,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Unisex con inclinación masculina de perfil alto. Diseñado para personas jóvenes, extrovertidas, seguras de sí mismas y amantes de las fragancias dulces, frutales y potentes que no quieren pasar desapercibidas bajo ninguna circunstancia. Es el perfume definitivo para boliche, salidas nocturnas o momentos donde el objetivo sea destacar y arrasar con los cumplidos.",
-    "inspirado_en_nombre": "Híbrido de Alto Impacto (Rasasi Hawas + Paco Rabanne Invictus Aqua + Matices Ambarados)",
-    "inspiraciones": [
-      {
-        "texto": "Réplica y evolución del concepto frutal-marino dulce más codiciado de la perfumería moderna. Eleva al máximo exponente el perfil de \"fruta jugosa tropical con brisa salina y ámbar caliente\", entregando una proyección y una duración en \"Modo Bestia\" que desafían a cualquier perfume de diseñador convencional.",
-        "nombre": "Híbrido de Alto Impacto (Rasasi Hawas + Paco Rabanne Invictus Aqua + Matices Ambarados)"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Pride Brioche Vanille | EDP",
     "marca": "LATTAFA",
     "genero": "Unisex",
@@ -3059,6 +3031,35 @@
         "texto": "Réplica monumental, densa y de una fidelidad milimétrica de uno de los perfumes de ultra lujo más caros, prestigiosos y codiciados del planeta. Captura de forma magistral ese ADN aristocrático y ardiente que cruza el misticismo del incienso de olíbano con la nota embriagadora de la davana, un corazón sublime de tabaco fino, dátiles melosos y nardos carnales, asentados sobre una base colosal de mirra, ládano y haba tonka. Una fragancia que grita riqueza extrema, poder y distinción absoluta.",
         "nombre": "Blonde Amber de Clive Christian (Londres)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.73595.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
+    "marca": "DUMONT",
+    "genero": "Masculino",
+    "familia_olfativa": "Afrutados, Amaderado, Fresco, Ámbar, Atalcado, ozonico, Acuático, Verde, Cítrico, Salado",
+    "inspirado_en": "Réplica y evolución del concepto frutal-marino dulce más codiciado de la perfumería moderna. Eleva al máximo exponente el perfil de \"fruta jugosa tropical con brisa salina y ámbar caliente\", entregando una proyección y una duración en \"Modo Bestia\" que desafían a cualquier perfume de diseñador convencional.",
+    "notas_salida": "melon, durazno, manzana, bergamota",
+    "notas_corazon": "ambar, sal de mar, cedro, lirio de los valles",
+    "notas_fondo": "ambar, sandalo, pachuli, musgo",
+    "descripcion": "La definición en perfume de la fiesta estival, la dulzura tropical y el rendimiento atómico. Dumont Nitro Red Intensely abre con una ráfaga vibrante, dulzona y ultra jugosa de melón maduro y durazno abrazados por manzana crujiente. En cuestión de minutos despliega su faceta más elogiada: un corazón acuático-salino donde la sal de mar choca contra el ámbar y la madera de cedro, creando una sensación de piel bronceada en la costa. Su evolución final en la piel es un secado caliente, amaderado y profundamente sexy, donde el sándalo cremoso, el pachulí y el musgo sostienen la dulzura del ámbar durante horas, dejando una estela expansiva que domina cualquier habitación.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Fiestas, boliche, salidas con amigos, citas informales, eventos al aire libre o situaciones donde se busquen cumplidos inmediatos.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Monumental (10h a 12h+)",
+    "estela": "Nuclear",
+    "color_liquido": "Transparente traslúcido",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Unisex con inclinación masculina de perfil alto. Diseñado para personas jóvenes, extrovertidas, seguras de sí mismas y amantes de las fragancias dulces, frutales y potentes que no quieren pasar desapercibidas bajo ninguna circunstancia. Es el perfume definitivo para boliche, salidas nocturnas o momentos donde el objetivo sea destacar y arrasar con los cumplidos.",
+    "inspirado_en_nombre": "Híbrido de Alto Impacto (Rasasi Hawas + Paco Rabanne Invictus Aqua + Matices Ambarados)",
+    "inspiraciones": [
+      {
+        "texto": "Réplica y evolución del concepto frutal-marino dulce más codiciado de la perfumería moderna. Eleva al máximo exponente el perfil de \"fruta jugosa tropical con brisa salina y ámbar caliente\", entregando una proyección y una duración en \"Modo Bestia\" que desafían a cualquier perfume de diseñador convencional.",
+        "nombre": "Híbrido de Alto Impacto (Rasasi Hawas + Paco Rabanne Invictus Aqua + Matices Ambarados)"
       }
     ]
   },
@@ -5135,6 +5136,36 @@
     ]
   },
   {
+    "nombre_completo": "DUMONT - Nitro Red | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Amaderado, ozonico, Acuático, Afrutados, Lavanda, Ámbar, Fesco especiado, Cítrico, Aromático, Cálido especiado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo al perfume fresco y triunfador más famoso, vendido y generador de cumplidos de la historia moderna. Captura a la perfección ese ADN inconfundible de \"salida marina y cítrica vibrante combinada con un corazón especiado de laurel y un fondo imponente de ámbar gris y maderas\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+    "notas_salida": "manzana, lavanda, bergamota",
+    "notas_corazon": "sandia, cedro, calamo aromatico",
+    "notas_fondo": "ambar, sandalo, pachuli",
+    "descripcion": "La definición en perfume del triunfo, la energía desbordante y la frescura acuática más adictiva del mercado actual. Dumont Nitro Red arranca con un impacto vibrante, fresco y oceánico de notas marinas y pomelo. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón aromático dominado por la hoja de laurel. Su evolución final es un secado profundo de ámbar gris y maderas de guayaco, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario, actividades deportivas, salidas informales, encuentros o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (9h a 12h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro / Cristalino",
+    "rango_edad_min": 15,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, dinámicos, deportistas, amantes de las fragancias frescas de alto rendimiento (\"Beast Mode\") y quienes exigen un sello personal que proyecte atractivo, victoria y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18471.2x.avif",
+    "inspirado_en_nombre": "Invictus (Eau de Toilette) de Paco Rabanne",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo al perfume fresco y triunfador más famoso, vendido y generador de cumplidos de la historia moderna. Captura a la perfección ese ADN inconfundible de \"salida marina y cítrica vibrante combinada con un corazón especiado de laurel y un fondo imponente de ámbar gris y maderas\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+        "nombre": "Invictus (Eau de Toilette) de Paco Rabanne",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.18471.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "AFNAN - 9pm | Elixir",
     "marca": "Afnan Perfumes — Dubai, UAE",
     "anno": "2025",
@@ -5225,6 +5256,36 @@
       {
         "texto": "No es un clon lineal de un perfume de diseñador tradicional; es una creación propia de la casa Asdaaf que se convirtió en un éxito global masivo por derecho propio. Captura el aura de la perfumería premium basada en la \"limpieza rica\" (en la línea de la sofisticación floral-almizclada de joyas como Musk Therapy de Initio o destellos limpios de la alta costura europea). Redefine el uso del oud y las maderas orientales, usándolos únicamente como un colchón invisible para fijar un bouquet de jazmines y almizcles ultra puros a la piel.",
         "nombre": "Composición Original de Alta Perfumería de Medio Oriente / Estilo Floral-Musk de Realeza"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "EMPER - Stallion Donna Intense | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Avainillado, Floral blanco, Ámbar, Dulce, Afrutado, Atalcado, Almizclado, Amaderado, Balsámico",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas más buscadas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida avainillada adictiva combinada con un corazón floral blanco opulento y un fondo cálido de ámbar\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "bergamota, pomelo, flores",
+    "notas_corazon": "jazmin, rosa, vainilla, sandalo",
+    "notas_fondo": "haba tonka, ambar, almizcle, maderas",
+    "descripcion": "La definición en perfume de la alta costura nocturna, la elegancia italiana y la seducción más adictiva del mercado actual. Emper Stallion Donna Intense arranca con un impacto vibrante, cálido y avainillado de vainilla Bourbon. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón opulento dominado por el jazmín blanco. Su evolución final es un secado supremo de ámbar resinoso y vainilla cremosa, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (9h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Cálido",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, dulces y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78739.2x.avif",
+    "inspirado_en_nombre": "Valentino Donna Born in Roma Intense",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas más buscadas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida avainillada adictiva combinada con un corazón floral blanco opulento y un fondo cálido de ámbar\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "Valentino Donna Born in Roma Intense",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78739.2x.avif"
       }
     ]
   },
@@ -5469,6 +5530,36 @@
       {
         "texto": "Composición Propia",
         "nombre": "Composición Propia"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "AL WATANIAH - Duha | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Aromático, Especiado suave, Cítrico, Dulce, Amaderado, Terrosos, Avainillado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas florales más famosas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida luminosa de azahar y bergamota combinada con un corazón floral blanco opulento y un fondo avainillado-almizclado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "esclarea, naranja",
+    "notas_corazon": "haba tonka, caramelo",
+    "notas_fondo": "vetiver",
+    "descripcion": "La definición en perfume de los descubrimientos, la elegancia floral moderna y la sensualidad más limpia y adictiva del mercado actual. Al Wataniah Duha arranca con un impacto vibrante, fresco y luminoso de flor de azahar y bergamota. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón opulento dominado por nardos y jazmín de la India. Su evolución final es un secado supremo de vainilla de Madagascar y almizcle blanco, dejando un rastro flotante sumamente distinguido, magnético y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, encuentros casuales, citas románticas o cuando el objetivo sea oler único, elegante y con una presencia deslumbrante.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Dorado",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, elegantes, de espíritu libre, amantes de las fragancias florales luminosas, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.62036.2x.avif",
+    "inspirado_en_nombre": "My Way de Giorgio Armani",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas florales más famosas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida luminosa de azahar y bergamota combinada con un corazón floral blanco opulento y un fondo avainillado-almizclado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "My Way de Giorgio Armani",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.62036.2x.avif"
       }
     ]
   },
@@ -6163,6 +6254,36 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ASRAR - Muharib | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Amielado, Tabaco, Lavanda, Cítrico, Aromático, Canela, Cálido especiado, Floral, Ámbar",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más elogiadas, lujosas, elusivas y buscadas de todo el planeta. Captura a la perfección ese ADN inconfundible de \"salida aromática de lavanda y cítricos combinada con un corazón opulento de miel y tabaco y un fondo avainillado-ambarado de clase mundial\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "lavanda, limon, bergamota",
+    "notas_corazon": "miel, canela, cachemira",
+    "notas_fondo": "tabaco, haba tonka, jazmin",
+    "descripcion": "La definición en perfume del lujo mediterráneo, la elegancia sofisticada y la dulzura más refinada y magnética del mercado actual. Maison Asrar Muharib arranca con un impacto vibrante, fresco y aromático de lavanda y cítricos. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón opulento dominado por la miel dorada y la canela. Su evolución final es un secado supremo de tabaco rubio y vainilla cremosa, dejando un rastro flotante sumamente distinguido, magnético y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (9h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex de Perfil Alto / Coleccionista. Diseñado para personas seguras de sí mismas, amantes de la perfumería de autor, el lujo elegante y quienes exigen un sello personal que proyecte intelecto, éxito y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif",
+    "inspirado_en_nombre": "XJ 1861 Naxos de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más elogiadas, lujosas, elusivas y buscadas de todo el planeta. Captura a la perfección ese ADN inconfundible de \"salida aromática de lavanda y cítricos combinada con un corazón opulento de miel y tabaco y un fondo avainillado-ambarado de clase mundial\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "XJ 1861 Naxos de Xerjoff",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif"
       }
     ]
   },

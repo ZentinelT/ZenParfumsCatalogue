@@ -524,13 +524,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Imperiale | EDP",
     "s": "105ml",
-    "p": 92100,
+    "p": 91000,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2022_ni5jte.jpg",
     "nt": "Salida Lichi, Bergamota, Nuez Moscada Notas de corazón: Rosa, Vainilla, almizcle, peonia Notas de fondo: Vainilla, Incienso, Cachemira, Cedro",
-    "p1": "$92.100"
+    "p1": "$91.000"
   },
   {
     "id": 2023,
@@ -615,13 +615,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club De Nuit Precieux I | Extrait De Parfum",
     "s": "55ml",
-    "p": 124000,
+    "p": 131000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2029_feafv8.jpg",
     "nt": "Salida Piña, limón, bergamota, caramelo, pera, pimienta Notas de corazón: Musgo de roble, Maderas, jazmín, lirio, anís Notas de fondo: Ambroxan, ámbar, almizcle blanco, pachulí, vainilla, cuero, cedro",
-    "p1": "$124.000"
+    "p1": "$131.000"
   },
   {
     "id": 2030,
@@ -1070,13 +1070,13 @@
     "b": "EMPER",
     "n": "EMPER - Stallion 53 | EDP",
     "s": "100ml",
-    "p": 77200,
+    "p": 77500,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2064_fe09ys.jpg",
     "nt": "Salida Violeta, cardamomo Notas de corazón: Iris, ámbar Notas de fondo: Sándalo, cuero, papiro, cedro",
-    "p1": "$77.200"
+    "p1": "$77.500"
   },
   {
     "id": 2065,
@@ -1954,13 +1954,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Maahir Legacy | EDP",
     "s": "100ml",
-    "p": 70900,
+    "p": 71000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2132_kyuu33.jpg",
     "nt": "Salida Bergamota, cítricos, romero Notas de corazón: Cedro, menta, notas marinas Notas de fondo: Almizcle, ámbar gris, maderas",
-    "p1": "$70.900"
+    "p1": "$71.000"
   },
   {
     "id": 2133,
@@ -2165,7 +2165,7 @@
     "p": 73300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2148_hlkj7v.jpg",
     "nt": "Salida menta, limon, manzana Notas de corazon: notas marinas, esclarea, geranio Notas de fondo: pachuli, cedro",
     "p1": "$73.300"
@@ -3176,13 +3176,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Fire | EDP",
     "s": "100ml",
-    "p": 104400,
+    "p": 104500,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2226_ofb845.jpg",
     "nt": "Salida esclarea Notas de corazón: notas marinas, jazmin egipcio Notas de fondo: ambar, notas minerales, ambar gris",
-    "p1": "$104.400"
+    "p1": "$104.500"
   },
   {
     "id": 2227,
@@ -3257,7 +3257,7 @@
     "p": 109700,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2232_hvvl1s.jpg",
     "nt": "Salida lima, manzana verde, romero Notas de corazón: cítricos, herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
     "p1": "$109.700"
@@ -4346,13 +4346,13 @@
     "b": "EMPORIO ARMANI",
     "n": "EMPORIO ARMANI - Stronger With You | EDT",
     "s": "100ml",
-    "p": 207400,
+    "p": 207500,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2317_lat1mi.jpg",
     "nt": "Salida Cardamomo, salvia, bergamota Notas de corazón: Castaña, heliotropo, lavanda Notas de fondo: Vainilla, ámbar, pachulí, cedro",
-    "p1": "$207.400"
+    "p1": "$207.500"
   },
   {
     "id": 2318,
@@ -6335,13 +6335,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Pride Artisan Ethnique | EDP",
     "s": "100ml",
-    "p": 68800,
+    "p": 69000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2482_exszog.jpg",
     "nt": "Salida canela, ron, azucar Notas de corazón: caramelo, cacao, cafe, musgo Notas de fondo: vainilla, haba tonka, cachemira, ladano",
-    "p1": "$68.800"
+    "p1": "$69.000"
   },
   {
     "id": 2483,
@@ -6387,13 +6387,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Pride Eternal Oud | EDP",
     "s": "100ml",
-    "p": 84200,
+    "p": 82000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2486_8esb8l.jpg",
     "nt": "Salida ciruela, toronja Notas de corazón: heliotropo, orquidea Notas de fondo: ambar, benjui, vainilla, ladano, haba tonka",
-    "p1": "$84.200"
+    "p1": "$82.000"
   },
   {
     "id": 2487,
@@ -6582,13 +6582,13 @@
     "b": "JEAN PAUL GAULTIER",
     "n": "JEAN PAUL GAULTIER - Le Beau Paradise Garden | EDP",
     "s": "125ml",
-    "p": 204100,
+    "p": 220000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2501_wyc98l.jpg",
     "nt": "Salida notas verdes, notas acuaticas Notas de corazón: coco, higo, sal, menta, jengibre Notas de fondo: haba tonka, sandalo",
-    "p1": "$204.100"
+    "p1": "$220.000"
   },
   {
     "id": 2502,
@@ -6777,13 +6777,13 @@
     "b": "DUMONT",
     "n": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
     "s": "100ml",
-    "p": 113400,
+    "p": 116000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2518_u2mupn.jpg",
     "nt": "Salida melon, durazno, manzana, bergamota Notas de corazón: ambar, sal de mar, cedro, lirio de los valles Notas de fondo: ambar, sandalo, pachuli, musgo",
-    "p1": "$113.400"
+    "p1": "$116.000"
   },
   {
     "id": 2519,
@@ -7287,7 +7287,7 @@
     "p": 333400,
     "c": "internacional",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2558_fljp6y.jpg",
     "nt": "Salida naranja, bergamota, limon Notas de corazon: frutas Notas de fondo: almizcle, vainilla, ambar",
     "p1": "$333.400"
@@ -7499,5 +7499,70 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2574_ibcrpf.webp",
     "nt": "Salida limon Notas de corazón: romero Notas de fondo: pachuli",
     "p1": "$191.000"
+  },
+  {
+    "id": 2575,
+    "b": "DUMONT",
+    "n": "DUMONT - Nitro Red | EDP",
+    "s": "100ml",
+    "p": 96000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_765062-MLA96057262151_102025-F.webp",
+    "nt": "Salida manzana, lavanda, bergamota Notas de corazón: sandia, cedro, calamo aromatico Notas de fondo: ambar, sandalo, pachuli",
+    "p1": "$96.000"
+  },
+  {
+    "id": 2576,
+    "b": "EMPER",
+    "n": "EMPER - Stallion Donna Intense | EDP",
+    "s": "100ml",
+    "p": 80000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_810105-MLA104164913123_012026-F.webp",
+    "nt": "Salida bergamota, pomelo, flores Notas de corazón: jazmin, rosa, vainilla, sandalo Notas de fondo: haba tonka, ambar, almizcle, maderas",
+    "p1": "$80.000"
+  },
+  {
+    "id": 2577,
+    "b": "AL WATANIAH",
+    "n": "AL WATANIAH - Duha | EDP",
+    "s": "100ml",
+    "p": 62000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://www.bigbrands.ae/wp-content/uploads/2026/07/1f5aa07e-5866-4eb0-8a7b-894f30bdad9d.jpg",
+    "nt": "Salida esclarea, naranja Notas de corazón: haba tonka, caramelo Notas de fondo: vetiver",
+    "p1": "$62.000"
+  },
+  {
+    "id": 2578,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Musaman White KIT | EDP",
+    "s": "100ml",
+    "p": 131000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_792415-CBT108253232548_032026-F.webp",
+    "nt": "—",
+    "p1": "$131.000"
+  },
+  {
+    "id": 2580,
+    "b": "MAISON ASRAR",
+    "n": "MAISON ASRAR - Muharib | EDP",
+    "s": "100ml",
+    "p": 151000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_873847-CBT114762880114_082026-F.webp",
+    "nt": "Salida lavanda, limon, bergamota Notas de corazón: miel, canela, cachemira Notas de fondo: tabaco, haba tonka, jazmin",
+    "p1": "$151.000"
   }
 ]
