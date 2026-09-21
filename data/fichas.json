@@ -6568,6 +6568,38 @@
     ]
   },
   {
+    "nombre_completo": "AFNAN - Supremacy Noir | EDP",
+    "marca": "Afnan Perfumes — Dubai, UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Amaderado, Aromático, Verde, Cuero, Conifera, Cítrico, Pachulí",
+    "inspirado_en": "Bottega Veneta Pour Homme Extreme Bottega",
+    "notas_salida": "abejo rojo, bergamota, violeta",
+    "notas_corazon": "pino, cuero, lavanda",
+    "notas_fondo": "pachuli, ladano",
+    "descripcion": "Una fragancia imponente, madura y profundamente masculina. Supremacy Noir evoca el aroma de un bosque de coníferas结合 con el lujo de una campera de cuero fino. Abre con notas súper frescas y herbales de abeto y bergamota, para luego asentarse en un combo adictivo de cuero, pino y resinas oscuras. Es un aroma seco, elegante, sofisticado y con una vibra misteriosa que se aleja por completo de lo dulce comercial.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Uso profesional/Oficina (si vestís formal), Reuniones importantes, Eventos nocturnos, Citas",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Larga (8 a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Marrón ámbar / Traslúcido oscuro",
+    "perfil_usuario": "Para hombres decididos, formales o semi-formales, que buscan proyectar masculinidad clásica, madurez y distinción. Es ideal para los amantes de los aromas amaderados verdes y de cuero, perfectos para el hombre que quiere oler elegante y con mucha autoridad. De 28 a 65 años.",
+    "rango_edad_min": 28,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Para hombres decididos, formales o semi-formales, que buscan proyectar masculinidad clásica, madurez y distinción. Es ideal para los amantes de los aromas amaderados verdes y de cuero, perfectos para el hombre que quiere oler elegante y con mucha autoridad. De",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.29351.2x.avif",
+    "inspirado_en_nombre": "Bottega Veneta Pour Homme Extreme",
+    "inspiraciones": [
+      {
+        "texto": "Bottega Veneta Pour Homme Extreme Bottega",
+        "nombre": "Bottega Veneta Pour Homme Extreme",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.29351.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Eclaire Banoffi | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -6761,6 +6793,36 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "GUY LAROCHE - Drakkar Noir | EDT",
+    "marca": "Guy Laroche — Francia",
+    "genero": "Masculino",
+    "familia_olfativa": "Fougère Aromático / Clásico 80s",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Lavanda, limón, bergamota, romero, menta, cedron, albahaca, artemisia",
+    "notas_corazon": "Enebro, cilantro, canela, ajenjo, clavel, angélica, jazmín.",
+    "notas_fondo": "Musgo de roble, cuero, abeto, agujas de pino, sándalo, vetiver, pachulí, cedro, ámbar, Resina",
+    "descripcion": "El ícono masculino de los 80s. Potente, oscuro y especiado con lavanda y cuero. Reconocido instantáneamente por su botella negra. Clásico eterno que aún genera complimentos. Polarizador — o se ama o se odia.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas, eventos, cotidiano clásico",
+    "clima": "Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Larga",
+    "estela": "Intensa",
+    "color_liquido": "Transparente / dorado",
+    "perfil_usuario": "Hombres 35-70 años. Clásicos de los 80s-90s. Nostalgia pura.",
+    "rango_edad_min": 35,
+    "rango_edad_max": 70,
+    "estilo_descripcion": "Hombres Clásicos de los 80s-90s. Nostalgia pura.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -12125,38 +12187,6 @@
     ]
   },
   {
-    "nombre_completo": "Afnan - Supremacy Noir | EDP | 100ml",
-    "marca": "Afnan Perfumes — Dubai, UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Amaderado, Aromático, Verde, Cuero, Conifera, Cítrico, Pachulí",
-    "inspirado_en": "Bottega Veneta Pour Homme Extreme Bottega",
-    "notas_salida": "abejo rojo, bergamota, violeta",
-    "notas_corazon": "pino, cuero, lavanda",
-    "notas_fondo": "pachuli, ladano",
-    "descripcion": "Una fragancia imponente, madura y profundamente masculina. Supremacy Noir evoca el aroma de un bosque de coníferas结合 con el lujo de una campera de cuero fino. Abre con notas súper frescas y herbales de abeto y bergamota, para luego asentarse en un combo adictivo de cuero, pino y resinas oscuras. Es un aroma seco, elegante, sofisticado y con una vibra misteriosa que se aleja por completo de lo dulce comercial.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Uso profesional/Oficina (si vestís formal), Reuniones importantes, Eventos nocturnos, Citas",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Larga (8 a 10h)",
-    "estela": "Intensa",
-    "color_liquido": "Marrón ámbar / Traslúcido oscuro",
-    "perfil_usuario": "Para hombres decididos, formales o semi-formales, que buscan proyectar masculinidad clásica, madurez y distinción. Es ideal para los amantes de los aromas amaderados verdes y de cuero, perfectos para el hombre que quiere oler elegante y con mucha autoridad. De 28 a 65 años.",
-    "rango_edad_min": 28,
-    "rango_edad_max": 65,
-    "estilo_descripcion": "Para hombres decididos, formales o semi-formales, que buscan proyectar masculinidad clásica, madurez y distinción. Es ideal para los amantes de los aromas amaderados verdes y de cuero, perfectos para el hombre que quiere oler elegante y con mucha autoridad. De",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.29351.2x.avif",
-    "inspirado_en_nombre": "Bottega Veneta Pour Homme Extreme",
-    "inspiraciones": [
-      {
-        "texto": "Bottega Veneta Pour Homme Extreme Bottega",
-        "nombre": "Bottega Veneta Pour Homme Extreme",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.29351.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "French Avenue - Genesis Gemini | EDP | 100ml",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "familia_olfativa": "Aromático Amaderado / Dual",
@@ -15980,36 +16010,6 @@
     "rango_edad_min": 35,
     "rango_edad_max": 65,
     "estilo_descripcion": "Mujeres Nostálgicas, clásicas, argentinas de toda la vida. Uno de los perfumes más vendidos de la historia en Argentina.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Guy Laroche - Drakkar Noir | EDT | 200 ml",
-    "marca": "Guy Laroche — Francia",
-    "genero": "Masculino",
-    "familia_olfativa": "Fougère Aromático / Clásico 80s",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Lavanda, limón, bergamota, romero, menta, cedron, albahaca, artemisia",
-    "notas_corazon": "Enebro, cilantro, canela, ajenjo, clavel, angélica, jazmín.",
-    "notas_fondo": "Musgo de roble, cuero, abeto, agujas de pino, sándalo, vetiver, pachulí, cedro, ámbar, Resina",
-    "descripcion": "El ícono masculino de los 80s. Potente, oscuro y especiado con lavanda y cuero. Reconocido instantáneamente por su botella negra. Clásico eterno que aún genera complimentos. Polarizador — o se ama o se odia.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, eventos, cotidiano clásico",
-    "clima": "Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Larga",
-    "estela": "Intensa",
-    "color_liquido": "Transparente / dorado",
-    "perfil_usuario": "Hombres 35-70 años. Clásicos de los 80s-90s. Nostalgia pura.",
-    "rango_edad_min": 35,
-    "rango_edad_max": 70,
-    "estilo_descripcion": "Hombres Clásicos de los 80s-90s. Nostalgia pura.",
     "inspiraciones": [
       {
         "texto": "Creación original",

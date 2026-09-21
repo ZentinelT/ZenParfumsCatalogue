@@ -384,7 +384,7 @@
     "p": 57200,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2011_gkgla2.jpg",
     "nt": "Salida Limón, Bergamota, Pera, Grosellas negras Notas de corazón: Geranio, Cardamomo Notas de fondo: Sándalo, Cedro, Vainilla",
     "p1": "$57.200"
@@ -1684,7 +1684,7 @@
     "p": 76400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2111_lxwang.jpg",
     "nt": "Salida Plátano, dulce de leche Notas de corazón: Vainilla, Crema batida Notas de fondo: Praliné, Bizcocho, Almizcle",
     "p1": "$76.400"
@@ -1840,7 +1840,7 @@
     "p": 59000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2123_33ef3s.jpg",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$59.000"
@@ -4154,7 +4154,7 @@
     "p": 85600,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2302_angosj.jpg",
     "nt": "Salida Limón, notas verdes, bergamota, mandarina, piña, cardamomo, papaya Notas de corazón: Cardamomo, pimienta, albahaca, osmanthus Notas de fondo: Tabaco, ámbar, pachulí, Maderas, almizcle",
     "p1": "$85.600"
@@ -4385,13 +4385,13 @@
     "b": "G. LAROCHE",
     "n": "GUY LAROCHE - Drakkar Noir | EDT",
     "s": "200ml",
-    "p": 84400,
+    "p": 85800,
     "c": "internacional",
     "g": "hombre",
     "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2320_d9yc1a.jpg",
     "nt": "Salida Lavanda, limón, bergamota, romero, menta, cedron, albahaca, artemisia Notas de corazón: Enebro, cilantro, canela, ajenjo, clavel, angélica, jazmín · Fondo Musgo de roble, cuero, abeto, agujas de pino, sándalo, vetiver, pachulí, cedro, ámbar, Resina",
-    "p1": "$84.400"
+    "p1": "$85.800"
   },
   {
     "id": 2321,
@@ -4609,7 +4609,7 @@
     "p": 62500,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2337_xttzww.jpg",
     "nt": "Salida Bergamota, manzana, especias Notas de corazón: Cedro, especias Notas de fondo: Pachulí, ámbar, almizcle",
     "p1": "$62.500"
@@ -4934,7 +4934,7 @@
     "p": 123500,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2364_bwdabz.jpg",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$123.500"
@@ -5194,7 +5194,7 @@
     "p": 101500,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1781473213259_lvm199.jpg",
     "nt": "Salida Naranja, bergamota, mandarina, enebro, jengibre, limón, salvia Notas de corazón: Cachemira, geranio, manzana, rosa, Notas Ozónicas Notas de fondo: Sándalo, ámbar, almizcle",
     "p1": "$101.500"
@@ -5581,13 +5581,13 @@
     "b": "AFNAN",
     "n": "AFNAN - Supremacy Noir | EDP",
     "s": "100ml",
-    "p": 83400,
+    "p": 85700,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2418_wal8s1.jpg",
     "nt": "Salida abejo rojo, bergamota, violeta Notas de corazón: pino, cuero, lavanda Notas de fondo: pachuli, ladano",
-    "p1": "$83.400"
+    "p1": "$85.700"
   },
   {
     "id": 2419,
@@ -6234,7 +6234,7 @@
     "p": 56300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2474_09h5e7.jpg",
     "nt": "Salida manzanilla, hojas de violeta Notas de corazón: coco, balsamo de abeto Notas de fondo: cachemira, sandalo, haba tonka",
     "p1": "$56.300"
