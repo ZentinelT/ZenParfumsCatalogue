@@ -2308,7 +2308,7 @@
     "p": 60400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2159_jnf1pp.jpg",
     "nt": "Salida almendra, cafe Notas de corazón: jazmin, nardos, haba tonka Notas de fondo: vainilla, cacao, sandalo",
     "p1": "$60.400"
@@ -4544,7 +4544,7 @@
     "p": 216400,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2332_8n9i5u.jpg",
     "nt": "Salida Bergamota, pimienta Notas de corazón: Flores blancas, salvia Notas de fondo: Tabaco, benjuí, musgo de roble",
     "p1": "$216.400"
