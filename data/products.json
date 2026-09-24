@@ -735,7 +735,7 @@
     "p": 59300,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2038_2hbu4b.jpg",
     "nt": "Salida café, pistacho, knafeh, praliné, avellana Notas de corazón: chocolate, vainilla, cardamomo Notas de fondo: caramelo, Amberwood, haba tonka",
     "p1": "$59.300"
@@ -1645,7 +1645,7 @@
     "p": 57500,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2108_zsl2uf.jpg",
     "nt": "Salida durazno, maracuya, pera, frambuesa, casis (grosellero negro) Notas de corazón: lirio de los valles Notas de fondo: almizcle, vainilla, sándalo, pachulí, heliotropo",
     "p1": "$57.500"
@@ -3309,7 +3309,7 @@
     "p": 75400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2236_zv5zf0.jpg",
     "nt": "Salida Pera, bergamota Notas de corazón: Jazmín, peonía, flor de azahar Notas de fondo: Almizcle, ámbar, maderas",
     "p1": "$75.400"
@@ -7131,7 +7131,7 @@
     "p": 93100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2545_ib9ul2.jpg",
     "nt": "Salida piña, iris, jengibre, cipres Notas de corazón: coco, maderas Notas de fondo: haba tonka, sandalo, ambar, ambar gris",
     "p1": "$93.100"
