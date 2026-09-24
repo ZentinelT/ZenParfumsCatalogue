@@ -14525,6 +14525,36 @@
     ]
   },
   {
+    "nombre_completo": "BHARARA - Rome Extradose Puor femme | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Avainillado, Tropical, Afrutado, Ron, Ámbar, Balsámico, Floral blanco",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada (\"Extradose\") que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida frutal-especiada chispeante combinada con un corazón floral blanco radiante y un fondo avainillado-amaderado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso que supera al original",
+    "notas_salida": "bergamota, limon, grosellas negras",
+    "notas_corazon": "coco, ciruela, jazmin, rosa",
+    "notas_fondo": "vainilla, benjui, haba tonka, sandalo",
+    "descripcion": "La definición en perfume de la alta costura romana, la elegancia moderna y la sensualidad más adictiva del mercado actual. Bharara Rome Extradose Pour Femme arranca con un impacto vibrante, fresco y especiado de grosellas negras y pimienta rosa. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón opulento dominado por el jazmín. Su evolución final es un secado supremo de vainilla Bourbon y madera de cachemira, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar cálido / Dorado",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55805.2x.avif",
+    "inspirado_en_nombre": " Valentino Donna Born In Roma Extradose",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada (\"Extradose\") que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida frutal-especiada chispeante combinada con un corazón floral blanco radiante y un fondo avainillado-amaderado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso que supera al original",
+        "nombre": "Valentino Donna Born In Roma Extradose",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55805.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "PARIS CORNER - Fayora | EDP",
     "genero": "Femenino",
     "familia_olfativa": "Atalcado, Floral blanco, Fresco, Violeta, Iris, Avainillado, Amaderado, Dulce, Tropical, Floral",
@@ -14914,33 +14944,34 @@
     ]
   },
   {
-    "nombre_completo": "Rasasi - Hawas Elixir | 100ml",
+    "nombre_completo": "RASASI - Hawas Elixir",
     "marca": "Rasasi — Dubai",
     "anno": "2024",
-    "genero": "Unisex",
+    "genero": "Masculino",
     "familia_olfativa": "Gourmand / Menta Chocolate",
-    "inspirado_en": "Jean Paul Gaultier Le Male Elixir",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada (\"Elixir\") que rinde tributo a una de las fragancias masculinas más exitosas, seductoras y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida mentolada y lavanda fresca combinada con un corazón resinoso de benjuí y un fondo adictivo de miel, tabaco y vainilla\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso",
     "notas_salida": "Menta, bergamota, artemisia",
     "notas_corazon": "Chocolate oscuro, lavanda, Benjuí",
     "notas_fondo": "Vainilla, haba tonka, almizcle blanco",
-    "descripcion": "Menta con chocolate y vainilla. Smooth gourmand de invierno. Beast mode en longevidad desde primer uso. El único Hawas para el invierno.",
+    "descripcion": "La definición en perfume de la seducción nocturna, el magnetismo puro y la dulzura más adictiva y potente del mercado actual. Rasasi Hawas Elixir arranca con un impacto vibrante, fresco y mentolado de menta y lavanda. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón balsámico dominado por el benjuí. Su evolución final es un secado supremo de miel dorada, tabaco rubio y vainilla cremosa, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
     "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Cotidiano, citas, salidas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Muy larga",
-    "estela": "Moderada",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, fiestas, encuentros casuales, citas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendario (10h a 14h)",
+    "estela": "Intensa",
     "perfil_usuario": "Hombres y mujeres 20-45 años.",
-    "rango_edad_min": 20,
+    "rango_edad_min": 18,
     "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Jean Paul Gaultier Le Male Elixir",
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, carismáticos, amantes de las fragancias intensas, dulces y de alto rendimiento (\"Beast Mode\"), y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.81642.2x.avif",
+    "inspirado_en_nombre": "Le Male Elixir Jean Paul Gaultier",
     "inspiraciones": [
       {
-        "texto": "Jean Paul Gaultier Le Male Elixir",
-        "nombre": "Jean Paul Gaultier Le Male Elixir",
-        "imagen_url": ""
+        "texto": "Réplica de altísima fidelidad y concentración potenciada (\"Elixir\") que rinde tributo a una de las fragancias masculinas más exitosas, seductoras y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida mentolada y lavanda fresca combinada con un corazón resinoso de benjuí y un fondo adictivo de miel, tabaco y vainilla\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso",
+        "nombre": "Le Male Elixir Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.81642.2x.avif"
       }
     ]
   },

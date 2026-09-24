@@ -7629,5 +7629,31 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2585_x4ylo9.webp",
     "nt": "Salida iris de la toscana, naranja Notas de corazón: rosa, cuero Notas de fondo: sandalo, almizcle ambreta, oud, cedro",
     "p1": "$65.000"
+  },
+  {
+    "id": 2593,
+    "b": "BHARARA",
+    "n": "BHARARA - Rome Extradose Puor femme | EDP",
+    "s": "100ml",
+    "p": 116000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_603181-MLA118170183685_092026-F.webp",
+    "nt": "Salida bergamota, limon, grosellas negras Notas de corazón: coco, ciruela, jazmin, rosa Notas de fondo: vainilla, benjui, haba tonka, sandalo",
+    "p1": "$116.000"
+  },
+  {
+    "id": 2603,
+    "b": "BHARARA",
+    "n": "BHARARA - Rome Imagine | EDP",
+    "s": "100ml",
+    "p": 115000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_878462-CBT114685652262_082026-F.webp",
+    "nt": "Salida bergamota, limon, naranja, jengibre, pimienta negra Notas de corazon: te, cardamomo, salvia, geranio, flores blancas Notas de fondo: cedro, vetiver, almizcle, ambar, ambroxan",
+    "p1": "$115.000"
   }
 ]
