@@ -12688,36 +12688,6 @@
     ]
   },
   {
-    "nombre_completo": "BHARARA - Rome Extradose | EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "lavanda, Amaderado, Aromático, Cálido especiado, Fesco especiado",
-    "inspirado_en": "Réplica de altísima fidelidad pero potenciada al extremo. Captura a la perfección ese ADN moderno de \"frescura mineral y especiada que funde su salida con un fondo oscuro, amaderado y ambarado\", ofreciendo una fijación y una estela muy superiores al original gracias a la concentración Extradose.",
-    "notas_salida": "especias",
-    "notas_corazon": "lavanda",
-    "notas_fondo": "maderas",
-    "descripcion": "La definición en perfume del carisma urbano, la elegancia nocturna y la fuerza magnética. Bharara Rome Extradose arranca con un impacto moderno y chispeante de jengibre y notas saladas que despiertan los sentidos al instante. En cuestión de minutos despliega su faceta más elogiada: un corazón aromático y especiado que aporta distinción. Su evolución final en la piel es un secado profundo, ahumado y sumamente cálido, donde el ámbar y el vetiver concentrado dejan un rastro flotante imborrable, varonil y de una presencia inigualable.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Citas románticas, salidas nocturnas, eventos sociales, reuniones importantes o cuando el objetivo sea acaparar miradas y dejar una huella imborrable.",
-    "clima": "Templado / Fresco / Frío",
-    "proyeccion": "Beast mode",
-    "duracion": "Excepcional / Extracto (10h a 12h+)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar dorado intenso",
-    "rango_edad_min": 18,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, seguros de sí mismos, con estilo urbano, carismáticos y amantes de las fragancias de alto rendimiento que marcan territorio tanto de día como de noche.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101383.2x.avif",
-    "inspirado_en_nombre": "Valentino Uomo Born in Roma",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad pero potenciada al extremo. Captura a la perfección ese ADN moderno de \"frescura mineral y especiada que funde su salida con un fondo oscuro, amaderado y ambarado\", ofreciendo una fijación y una estela muy superiores al original gracias a la concentración Extradose.",
-        "nombre": "Valentino Uomo Born in Roma",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101383.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Maison Alhambra - Luxe Nightlife | EDP | 100ml",
     "familia_olfativa": "Cálido especiado, Caramelo, Amaderado, Florales, Café, Floral blanco, Pachulí, Dulce, Balsámico., Aromático",
     "inspirado_en": "New York Nights Bond No 9",
@@ -15212,6 +15182,36 @@
     ]
   },
   {
+    "nombre_completo": "BHARARA - Rome Imagine | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Herbal, Fesco especiado, Ámbar, Amaderado, Almizclado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas más exclusivas, elogiadas, codiciadas y de mayor estatus de todo el planeta. Captura a la perfección ese ADN inconfundible de \"salida cítrica deslumbrante combinada con el icónico acorde fresco de té negro, jengibre y un fondo limpio de ambroxan\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "bergamota, limon, naranja, jengibre, pimienta negra",
+    "notas_corazon": "te, cardamomo, salvia, geranio, flores blancas",
+    "notas_fondo": "cedro, vetiver, almizcle, ambar, ambroxan",
+    "descripcion": "La definición en perfume del lujo limpio, la elegancia ejecutiva moderna y la frescura más sofisticada y adictiva del mercado actual. Bharara Rome Imagine arranca con un impacto vibrante, fresco y ultra luminoso de cítricos confitados y bergamota. En cuestión de minutos despliega su faceta más elogiada y buscada: un corazón especiado dominado por el jengibre fresco y el neroli. Su evolución final es un secado supremo de té negro y ambroxan puro, dejando un rastro flotante sumamente distinguido, magnético y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, oficina, reuniones de negocios, citas diurnas o cuando el objetivo sea oler impecable y con una presencia deslumbrante.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex / Masculino de Perfil Alto. Diseñado para personas seguras de sí mismas, amantes de la perfumería de autor, el lujo elegante y quienes exigen un sello personal que proyecte intelecto, clase y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.67370.2x.avif",
+    "inspirado_en_nombre": "Louis Vuitton Imagination",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas más exclusivas, elogiadas, codiciadas y de mayor estatus de todo el planeta. Captura a la perfección ese ADN inconfundible de \"salida cítrica deslumbrante combinada con el icónico acorde fresco de té negro, jengibre y un fondo limpio de ambroxan\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "Louis Vuitton Imagination",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.67370.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "PACO RABANNE - Phantom | EDT",
     "genero": "Masculino",
     "familia_olfativa": "Cítrico, Avainillado, Lavanda, Terrosos, Aromático, Amaderado, Ahumado, Afrutados, Fresco, Fesco especiado",
@@ -16684,6 +16684,37 @@
     ]
   },
   {
+    "nombre_completo": "BHARARA - Rome Extradose | EDP",
+    "marca": "BHARARA",
+    "genero": "Masculino",
+    "familia_olfativa": "lavanda, Amaderado, Aromático, Cálido especiado, Fesco especiado",
+    "inspirado_en": "Réplica de altísima fidelidad pero potenciada al extremo. Captura a la perfección ese ADN moderno de \"frescura mineral y especiada que funde su salida con un fondo oscuro, amaderado y ambarado\", ofreciendo una fijación y una estela muy superiores al original gracias a la concentración Extradose.",
+    "notas_salida": "especias",
+    "notas_corazon": "lavanda",
+    "notas_fondo": "maderas",
+    "descripcion": "La definición en perfume del carisma urbano, la elegancia nocturna y la fuerza magnética. Bharara Rome Extradose arranca con un impacto moderno y chispeante de jengibre y notas saladas que despiertan los sentidos al instante. En cuestión de minutos despliega su faceta más elogiada: un corazón aromático y especiado que aporta distinción. Su evolución final en la piel es un secado profundo, ahumado y sumamente cálido, donde el ámbar y el vetiver concentrado dejan un rastro flotante imborrable, varonil y de una presencia inigualable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas nocturnas, eventos sociales, reuniones importantes o cuando el objetivo sea acaparar miradas y dejar una huella imborrable.",
+    "clima": "Templado / Fresco / Frío",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional / Extracto (10h a 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres modernos, seguros de sí mismos, con estilo urbano, carismáticos y amantes de las fragancias de alto rendimiento que marcan territorio tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101383.2x.avif",
+    "inspirado_en_nombre": "Valentino Uomo Born in Roma",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad pero potenciada al extremo. Captura a la perfección ese ADN moderno de \"frescura mineral y especiada que funde su salida con un fondo oscuro, amaderado y ambarado\", ofreciendo una fijación y una estela muy superiores al original gracias a la concentración Extradose.",
+        "nombre": "Valentino Uomo Born in Roma",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.101383.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Desirable Addiction | EDP | 100ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Gourmand / Limón Panna Cotta",
@@ -16957,6 +16988,66 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo al perfume veraniego más icónico, exclusivo y codiciado de la historia de la perfumería moderna. Captura a la perfección ese ADN inconfundible de \"cóctel de lima mojada en agua de coco, ron y azúcar\", ofreciendo una alternativa con una fijación sorprendente y un perfil de ultra lujo.",
         "nombre": "Virgin Island Water (2007) de Creed",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.899.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BHARARA - Rome Ivory Pour Homme | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Avainillado, Atalcado, Especiado cálido, Aromático, Herbal, Terroso, Ahumado, Cítrico",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada (\"Beast Mode\") que rinde tributo a una de las fragancias masculinas más famosas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida mineral y aromática combinada con un corazón especiado vibrante y un fondo amaderado de vetiver\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso",
+    "notas_salida": "limon, bergamota, naranja",
+    "notas_corazon": "lavanda, pimienta negra, nuez moscada, geranio",
+    "notas_fondo": "almizcle, vainilla, ambar, maderas, incienso, oud",
+    "descripcion": "La definición en perfume de la alta costura romana, la modernidad urbana y la sensualidad más adictiva del mercado actual. Bharara Rome Ivory Pour Homme arranca con un impacto vibrante, fresco y mineral de hojas de violeta y sal. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón especiado dominado por el jengibre y la salvia. Su evolución final es un secado supremo de vetiver terroso y maderas finas, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, dinámicos, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.113443.2x.avif",
+    "inspirado_en_nombre": "Valentino Uomo Born In Roma Ivory",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada (\"Beast Mode\") que rinde tributo a una de las fragancias masculinas más famosas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida mineral y aromática combinada con un corazón especiado vibrante y un fondo amaderado de vetiver\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso",
+        "nombre": "Valentino Uomo Born In Roma Ivory",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.113443.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BHARARA - Rome Ivory Pour Femme | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Gourmand, Floral blanco, Cítrico, Atalcado, Almizclado, Ámbar",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada (\"Beast Mode\") que rinde tributo a una de las fragancias femeninas más elogiadas, modernas y generadoras de cumplidos del mundo. Captura a la perfección ese ADN inconfundible de \"salida chispeante y luminosa combinada con un corazón floral blanco opulento y un fondo avainillado-ambarado de máxima elegancia\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+    "notas_salida": "mandarina, bergamota",
+    "notas_corazon": "flor de azahar, jazmin, tuberosa, malvavisco",
+    "notas_fondo": "vainilla, sandalo, almizcle, ambar",
+    "descripcion": "La definición en perfume de la alta costura moderna, la elegancia luminosa y la sensualidad más adictiva del mercado actual. Bharara Rome Ivory Pour Femme arranca con un impacto vibrante, fresco y ultra luminoso de cítricos chispeantes. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón opulento dominado por el jazmín blanco. Su evolución final es un secado supremo de vainilla cremosa y ámbar gris, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 52,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.113442.2x.avif",
+    "inspirado_en_nombre": "Valentino Donna Born In Roma Ivory",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada (\"Beast Mode\") que rinde tributo a una de las fragancias femeninas más elogiadas, modernas y generadoras de cumplidos del mundo. Captura a la perfección ese ADN inconfundible de \"salida chispeante y luminosa combinada con un corazón floral blanco opulento y un fondo avainillado-ambarado de máxima elegancia\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+        "nombre": "Valentino Donna Born In Roma Ivory",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.113442.2x.avif"
       }
     ]
   }

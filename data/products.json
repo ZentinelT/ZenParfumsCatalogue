@@ -124,7 +124,7 @@
     "p": 149000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1991_pd7n4q.jpg",
     "nt": "Salida Piña, bergamota, flores blancas, manzana Notas de corazón: Flor de azahar, abedul, ámbar Notas de fondo: Musgo de roble, almizcle, ámbar gris",
     "p1": "$149.000"
@@ -813,7 +813,7 @@
     "p": 83000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2044_n37no0.jpg",
     "nt": "Salida Vainilla, ámbar, mandarina, neroli, cardamomo Notas de corazón: Notas orientales, especias, iris, rosa, flor de azahar Notas de fondo: Vainilla, cuero, jazmín, sándalo, ámbar",
     "p1": "$83.000"
@@ -826,7 +826,7 @@
     "p": 62200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2045_hcbo6b.jpg",
     "nt": "Salida limón, naranja, mandarina, bergamota Notas de corazón: notas marinas, flor de azahar del naranjo, jengibre Notas de fondo: te negro, almizcle, ámbar",
     "p1": "$62.200"
@@ -1099,7 +1099,7 @@
     "p": 104400,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2066_x82zs8.jpg",
     "nt": "Salida Notas de corazón: Sandía, coco Notas de fondo: Amberwood, cacao, ámbar gris Notas de corazón: Sandía, coco Notas de fondo: Amberwood, cacao, ámbar gris",
     "p1": "$104.400"
@@ -1489,7 +1489,7 @@
     "p": 103000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2096_3oh3jd.jpg",
     "nt": "Salida Lavanda, ciruela, pimienta rosa Notas de corazón: Cacao, nuez moscada, davana Notas de fondo: Bourbon vanilla, ámbar, vetiver",
     "p1": "$103.000"
@@ -1502,7 +1502,7 @@
     "p": 86400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2097_1k447o.jpg",
     "nt": "Salida Pimienta rosa, Azafrán, Toronja Notas de corazón: Tabaco, Cedro, Vainilla Notas de fondo: Incienso, Ámbar, Pachulí, Cachemira",
     "p1": "$86.400"
@@ -1749,7 +1749,7 @@
     "p": 76600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2116_oostnv.jpg",
     "nt": "Salida Manzana verde, bergamota, jengibre, salvia Notas de corazón: Especias, sándalo Notas de fondo: Almizcle, ámbar, pachulí",
     "p1": "$76.600"
@@ -2854,7 +2854,7 @@
     "p": 86700,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2201_qsbr7w.jpg",
     "nt": "Salida Limón, menta, frutas Notas de corazón: Albaricoque, rosa Notas de fondo: Higo, albahaca, almizcle",
     "p1": "$86.700"
@@ -3205,7 +3205,7 @@
     "p": 73300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2228_7c9h9g.jpg",
     "nt": "Salida Bergamota, limón, frutas Notas de corazón: Canela, flor de azahar, notas marinas, cardamomo Notas de fondo: Ámbar gris, sándalo, almizcle",
     "p1": "$73.300"
@@ -6065,7 +6065,7 @@
     "p": 107600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2457_gwhwrt.jpg",
     "nt": "Salida lavanda, nuez moscada, salvia, bergamota Notas de corazón: cedro, geranio, rosyfolia, mahonial Notas de fondo: cocoapulse, haba tonka, arce, ambrofix, pachuli",
     "p1": "$107.600"
@@ -6845,7 +6845,7 @@
     "p": 113400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2523_zbv1li.jpg",
     "nt": "—",
     "p1": "$113.400"
@@ -7131,7 +7131,7 @@
     "p": 93100,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2545_ib9ul2.jpg",
     "nt": "Salida piña, iris, jengibre, cipres Notas de corazón: coco, maderas Notas de fondo: haba tonka, sandalo, ambar, ambar gris",
     "p1": "$93.100"
@@ -7154,13 +7154,13 @@
     "b": "BHARARA",
     "n": "BHARARA - Rome Extradose | EDP",
     "s": "100ml",
-    "p": 111000,
+    "p": 115000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2547_iceqm8.jpg",
     "nt": "Salida especias Notas de corazón: lavanda Notas de fondo: maderas",
-    "p1": "$111.000"
+    "p1": "$115.000"
   },
   {
     "id": 2548,
@@ -7644,6 +7644,32 @@
     "p1": "$116.000"
   },
   {
+    "id": 2598,
+    "b": "BHARARA",
+    "n": "BHARARA - Rome Ivory Pour Homme | EDP",
+    "s": "100ml",
+    "p": 106000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_896234-MLA110255887133_042026-F.webp",
+    "nt": "Salida limon, bergamota, naranja Notas de corazón: lavanda, pimienta negra, nuez moscada, geranio Notas de fondo: almizcle, vainilla, ambar, maderas, incienso, oud",
+    "p1": "$106.000"
+  },
+  {
+    "id": 2599,
+    "b": "BHARARA",
+    "n": "BHARARA - Rome Ivory Pour Femme | EDP",
+    "s": "100ml",
+    "p": 106000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_942307-MLA112742425979_062026-F.webp",
+    "nt": "Salida mandarina, bergamota Notas de corazón: flor de azahar, jazmin, tuberosa, malvavisco Notas de fondo: vainilla, sandalo, almizcle, ambar",
+    "p1": "$106.000"
+  },
+  {
     "id": 2603,
     "b": "BHARARA",
     "n": "BHARARA - Rome Imagine | EDP",
@@ -7653,7 +7679,7 @@
     "g": "unisex",
     "st": "out",
     "i": "https://http2.mlstatic.com/D_Q_NP_878462-CBT114685652262_082026-F.webp",
-    "nt": "Salida bergamota, limon, naranja, jengibre, pimienta negra Notas de corazon: te, cardamomo, salvia, geranio, flores blancas Notas de fondo: cedro, vetiver, almizcle, ambar, ambroxan",
+    "nt": "Salida bergamota, limon, naranja, jengibre, pimienta negra Notas de corazón: te, cardamomo, salvia, geranio, flores blancas Notas de fondo: cedro, vetiver, almizcle, ambar, ambroxan",
     "p1": "$115.000"
   }
 ]
