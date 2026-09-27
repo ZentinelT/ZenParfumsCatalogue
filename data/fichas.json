@@ -2667,36 +2667,6 @@
     ]
   },
   {
-    "nombre_completo": "RAYHAAN - Italia | EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Dulce, Amielado, Avainillado, Lavanda, Cítrico, Aromático, Tabaco, Floral, Atalcado, Fesco especiado",
-    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
-    "notas_salida": "lavanda, limon, bergamota",
-    "notas_corazon": "miel, canela, cachemira, jazmin",
-    "notas_fondo": "vainilla, tabaco, haba tonka",
-    "descripcion": "La definición en perfume del lujo mediterráneo, la opulencia de la miel dorada y el tabaco más sofisticado del mundo. Rayhaan Italia arranca con un impacto vibrante y fresco de lavanda y cítricos brillantes. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón rico y cálido donde la miel y la canela envuelven los sentidos. Su evolución final es un secado profundo de tabaco dulce y vainilla cremosa, dejando un rastro flotante distinguido, seductor y de una presencia inolvidable.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea proyectar estatus y sofisticación.",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Muy alta",
-    "duracion": "Excepcional (8h a 10h)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar dorado intenso",
-    "rango_edad_min": 20,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Masculino / Unisex (Amado por los conocedores de la perfumería nicho). Diseñado para personas seguras de sí mismas, elegantes, amantes de las fragancias complejas, intensas y que proyectan estatus, misterio y distinción absoluta.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif",
-    "inspirado_en_nombre": "Naxos de Xerjoff",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
-        "nombre": "Naxos de Xerjoff",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "AFNAN - Turathi Red | EDP",
     "genero": "Femenino",
     "familia_olfativa": "Florales, Rosas, Fresco, Almizclado, Floral blanco, Atalcado, Amaderado",
@@ -4952,6 +4922,34 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Ajwad Pink To Pink Creamy | Elixir",
+    "genero": "Femenino",
+    "familia_olfativa": "Afrutados, Dulce, Avainillado, Especiado suave, Chocolate",
+    "inspirado_en": "Una reinterpretación magistral orientada hacia el sector de los perfumes frutales cremosos más elogiados, modernos y generadores de cumplidos del mercado global, emparentados con las tendencias más lujosas de autor",
+    "notas_salida": "frambuesa, grosellas negras, pera",
+    "notas_corazon": "chocolate blanco",
+    "notas_fondo": "vainilla, almizcle, amberwood",
+    "descripcion": "La definición en perfume de la alegría sofisticada, la elegancia cremosa y la sensualidad más moderna y adictiva del mercado actual. Lattafa Ajwad Pink To Pink Creamy arranca con un impacto vibrante, fresco y frutal de guayaba y lichi. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón opulento dominado por la peonía y notas de crema suave. Su evolución final es un secado supremo de vainilla y almizcle crema, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Tono rosado radiante",
+    "rango_edad_min": 15,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_nombre": "Alta Perfumería Nicho y Diseñador / Perfil \"Luxury Creamy Tropical Fruits, Peony & Velvety Musk\"",
+    "inspiraciones": [
+      {
+        "texto": "Una reinterpretación magistral orientada hacia el sector de los perfumes frutales cremosos más elogiados, modernos y generadores de cumplidos del mercado global, emparentados con las tendencias más lujosas de autor",
+        "nombre": "Alta Perfumería Nicho y Diseñador / Perfil \"Luxury Creamy Tropical Fruits, Peony & Velvety Musk\""
       }
     ]
   },
@@ -17196,6 +17194,246 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frutales y tropicales más famosas, elogiadas y buscadas del mundo para la temporada estival. Captura a la perfección ese ADN inconfundible de \"salida deslumbrante de mango y frutos exóticos combinada con un corazón dulce y un fondo de coco y sándalo\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
         "nombre": "Taj Sunset Escada",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.10611.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Pure Crystal | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Amaderado, Cálido especiado, Ámbar, Afrutados, Cítrico, Atalcado, Dulce, Aromático, Fresco, Avainillado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más transgresoras, elogiadas y buscadas del mundo global. Captura a la perfección ese ADN inconfundible de \"salida chispeante y especiada combinada con un corazón embriagador de coñac y un fondo ambarado-avainillado de máxima sensualidad\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+    "notas_salida": "bayas rojas, canela, naranja, toronja, bergamota",
+    "notas_corazon": "coñac, jengibre, esclarea",
+    "notas_fondo": "ambar, sandalo, vainilla, vetiver, almizcle, cardamomo, pachuli",
+    "descripcion": "La definición en perfume del lujo cristalino, la sofisticación moderna y la dualidad perfecta entre la frescura vibrante y la sensualidad nocturna. Lattafa Pure Crystal arranca con un impacto vibrante, fresco y especiado de cítricos efervescentes y canela. En cuestión de minutos despliega su faceta más elogiada y elegante: un corazón opulento dominado por el acorde de coñac y el jengibre. Su evolución final es un secado supremo de ámbar, vainilla cremosa y maderas finas, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, reuniones, salidas nocturnas, eventos o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (9h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería de autor versátil y quienes exigen un sello personal que proyecte intelecto, clase y un poder seductor absoluto tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.81882.2x.avif",
+    "inspirado_en_nombre": "Drunk Lovers BORNTOSTANDOUT®",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más transgresoras, elogiadas y buscadas del mundo global. Captura a la perfección ese ADN inconfundible de \"salida chispeante y especiada combinada con un corazón embriagador de coñac y un fondo ambarado-avainillado de máxima sensualidad\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+        "nombre": "Drunk Lovers BORNTOSTANDOUT®",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.81882.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Pride Queen Of Roses | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Rosas, Cálido especiado, Ámbar, Almizclado, Especiado suave, Pachulí, atalcado, Amaderado, Metalico, Terrosos",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más exclusivas, enigmáticas y buscadas del mundo global. Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán y pimienta rosa combinada con un corazón aterciopelado de rosa búlgara/damascena y un fondo ambarado-avainillado de máxima sensualidad\", ofreciendo una alternativa de lujo supremo",
+    "notas_salida": "rosa, pimienta rosa",
+    "notas_corazon": "azafran, pachuli",
+    "notas_fondo": "ambar, almizcle, vainilla",
+    "descripcion": "La definición en perfume de la realeza floral, la sofisticación oscura y la elegancia más imponente del mercado actual. Lattafa Pride Queen Of Roses arranca con un impacto vibrante, fresco y especiado de pimienta rosa y rosa. En cuestión de minutos despliega su faceta más elogiada y majestuosa: un corazón opulento dominado por el azafrán y el pachuli. Su evolución final es un secado supremo de ámbar dorado y vainilla cremosa, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, reuniones o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendario (12h a 14h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Rosa sutil",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Unisex / Femenino. Diseñado para personas seguras de sí mismas, amantes de la perfumería de nicho y de las rosas de alta gama, y quienes exigen un sello personal que proyecte intelecto, clase y un poder seductor absoluto tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83534.2x.avif",
+    "inspirado_en_nombre": "Brompton Immortals Extrait de Parfum Ex Nihilo",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más exclusivas, enigmáticas y buscadas del mundo global. Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán y pimienta rosa combinada con un corazón aterciopelado de rosa búlgara/damascena y un fondo ambarado-avainillado de máxima sensualidad\", ofreciendo una alternativa de lujo supremo",
+        "nombre": "Brompton Immortals Extrait de Parfum Ex Nihilo",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.83534.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Jardin de Reve | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral, Afrutados, Cítrico, Dulce, Atalcado, Nardos, Fresco, Verde, Almizclado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y vendidas de toda la historia de la perfumería mundial. Captura a la perfección ese ADN inconfundible de \"salida frutal chispeante combinada con un corazón opulento de flores blancas y un fondo limpio y almizclado\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+    "notas_salida": "magnolia, pera, durazno, bergamota, mandarina",
+    "notas_corazon": "jazmin, nardos, lirio de los valles, fresia, orquidea, rosa, violeta, ciruela",
+    "notas_fondo": "almizcle, vainilla, cedro, zarzamora",
+    "descripcion": "La definición en perfume de la elegancia clásica, la sofisticación radiante y la feminidad más pura y elogiada del mercado actual. Maison Alhambra Jardin de Reve arranca con un impacto vibrante, fresco y frutal de pera y magnolia. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por el jazmín de Grasse y la rosa de Damasco. Su evolución final es un secado supremo de almizcle limpio y maderas finas, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, reuniones, eventos formales, bodas o cuando el objetivo sea oler impecable y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (9h a 12h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar claro / Dorado sutil",
+    "rango_edad_min": 18,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, elegantes, amantes de la perfumería clásica de alta gama y quienes exigen un sello personal que proyecte clase, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.210.2x.avif",
+    "inspirado_en_nombre": "J'adore de Dior",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y vendidas de toda la historia de la perfumería mundial. Captura a la perfección ese ADN inconfundible de \"salida frutal chispeante combinada con un corazón opulento de flores blancas y un fondo limpio y almizclado\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+        "nombre": "J'adore de Dior",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.210.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ASRAR - Vanilla Voyage | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Avainillado, Dulce, Caramelo, Ámbar, Atalcado, Amielado, Lactonico, Almizclado, Balsámico",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a la fragancia avainillada más famosa, elogiada y vendida de todo el mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida de caramelo lechoso combinada con un corazón infinito de vainilla pura y un fondo almizclado de máxima sensualidad\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+    "notas_salida": "caramelo, mantequilla",
+    "notas_corazon": "miel, haba tonka, jazmin",
+    "notas_fondo": "vainilla, ambar, almizcle",
+    "descripcion": "La definición en perfume de la indulgencia pura, el placer reconfortante y la dulzura más moderna y buscada del mercado global. Maison Asrar Vanilla Voyage arranca con un impacto envolvente, cremoso y ultra goloso de caramelo y leche dulce. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por la vainilla absoluta y la cumarina. Su evolución final es un secado supremo de almizcle blanco y sándalo, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, reuniones informales, fiestas o cuando el objetivo sea generar una cercanía irresistible y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (12h a 14h)",
+    "estela": "Intensa",
+    "rango_edad_min": 15,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex / Amantes de los Gourmand de Alto Impacto. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería dulce de autor y quienes exigen un sello personal que proyecte cercanía, magnetismo y una sofisticación irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64757.2x.avif",
+    "inspirado_en_nombre": "Bianco Latte Giardini Di Toscana",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a la fragancia avainillada más famosa, elogiada y vendida de todo el mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida de caramelo lechoso combinada con un corazón infinito de vainilla pura y un fondo almizclado de máxima sensualidad\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+        "nombre": "Bianco Latte Giardini Di Toscana",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.64757.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RASASI - Hawas Rouge | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral blanco, Avainillado, Pachulí, Dulce, Ámbar, Atalcado, Cítrico, Amaderado, Almizclado, Afrutados",
+    "inspirado_en": "éplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más icónicas, elogiadas y modernas del mundo. Captura a la perfección ese ADN inconfundible de \"salida jugosa de pera y pimienta rosa combinada con un corazón floral elegante y un fondo de vainilla y cedro de máxima sensualidad\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+    "notas_salida": "pera, bergamota",
+    "notas_corazon": "flor de azahar del naranjo, jazmin, rosa",
+    "notas_fondo": "ambar, pachuli, vainilla, almizcle",
+    "descripcion": "La definición en perfume de la pasión moderna, la elegancia audaz y la sensualidad más adictiva del mercado actual. Rasasi Hawas Rouge arranca con un impacto vibrante, fresco y frutal de pera y pimienta rosa. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón opulento dominado por la rosa y el jazmín. Su evolución final es un secado supremo de vainilla cremosa y maderas de cedro, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar cálido / Rojo vibrante",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.48002.2x.avif",
+    "inspirado_en_nombre": "Sì Passione Giorgio Armani",
+    "inspiraciones": [
+      {
+        "texto": "éplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más icónicas, elogiadas y modernas del mundo. Captura a la perfección ese ADN inconfundible de \"salida jugosa de pera y pimienta rosa combinada con un corazón floral elegante y un fondo de vainilla y cedro de máxima sensualidad\", ofreciendo una alternativa de lujo supremo con una presentación imponente",
+        "nombre": "Sì Passione Giorgio Armani",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.48002.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Terra | EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Ámbar, Cálido especiado, Aromático, Fesco especiado, Balsámico, Avainillado, Cítrico, Dulce, Amaderado",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más exclusivas, enigmáticas y buscadas del mundo global (perteneciente a la codiciada colección Wanderlust). Captura a la perfección ese ADN inconfundible de \"salida especiada y mística combinada con un corazón resinoso de incienso y un fondo ambarado de máxima profundidad\"",
+    "notas_salida": "cardamomo, elemi, pimienta, limon, bergamota",
+    "notas_corazon": "pachuli, comino, cilantro, anis, azafran, ajenjo, flor de azahar del naranjo, rosa, geranio",
+    "notas_fondo": "incienso, vainilla, ambar, benjui, opoponaco, oud, ladano, abedul, almizcle, ambar gris, maltol",
+    "descripcion": "La definición en perfume del misticismo moderno, la sofisticación oscura y la elegancia más imponente del mercado actual. Rayhaan Terra arranca con un impacto vibrante, fresco y especiado de cardamomo y pimienta. En cuestión de minutos despliega su faceta más elogiada y profunda: un corazón opulento dominado por el incienso y las resinas sagradas. Su evolución final es un secado supremo de ámbar dorado y ládano, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, reuniones o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendario (12h a 14h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino. Diseñado para personas seguras de sí mismas, amantes de la perfumería de nicho, de las resinas complejas y de alta gama, y quienes exigen un sello personal que proyecte intelecto, clase y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.97924.2x.avif",
+    "inspirado_en_nombre": "Outlands Amouage",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más exclusivas, enigmáticas y buscadas del mundo global (perteneciente a la codiciada colección Wanderlust). Captura a la perfección ese ADN inconfundible de \"salida especiada y mística combinada con un corazón resinoso de incienso y un fondo ambarado de máxima profundidad\"",
+        "nombre": "Outlands Amouage",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.97924.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RIFFS - Freeze In Flames | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Afrutados, Verde, Dulce, Fresco, Fesco especiado, Cítrico, Aromático, Almizclado, Tropical, Amaderado",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a uno de los perfiles masculinos modernos más elogiados, limpios y generadores de cumplidos del mundo global. Captura a la perfección ese ADN inconfundible de \"salida gélida y cítrica combinada con un corazón de jengibre especiado y un fondo amaderado-ambarado de máxima elegancia\"",
+    "notas_salida": "frambuesa, menta, manzana, bergamota, maracuya",
+    "notas_corazon": "menta, te, lavanda, salvia",
+    "notas_fondo": "almizcle, cedro",
+    "descripcion": "La definición en perfume del contraste térmico, la sofisticación moderna y la dualidad perfecta entre la frescura helada y la sensualidad ardiente. Riffs Freeze In Flames arranca con un impacto vibrante, fresco y gélido de bergamota y menta. En cuestión de minutos despliega su faceta más elogiada y magnética: un corazón opulento dominado por el jengibre y la pimienta negra. Su evolución final es un secado supremo de ámbar dorado y maderas finas, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, reuniones, salidas nocturnas, eventos o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (10h a 12h",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Cristalino con reflejos dorados",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex / Masculino. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería de autor versátil y quienes exigen un sello personal que proyecte intelecto, clase y un poder seductor absoluto tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.120529.2x.avif",
+    "inspirado_en_nombre": "Y Iced Cologne Yves Saint Laurent",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a uno de los perfiles masculinos modernos más elogiados, limpios y generadores de cumplidos del mundo global. Captura a la perfección ese ADN inconfundible de \"salida gélida y cítrica combinada con un corazón de jengibre especiado y un fondo amaderado-ambarado de máxima elegancia\"",
+        "nombre": "Y Iced Cologne Yves Saint Laurent",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.120529.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Italia | EDP",
+    "marca": "RAYHAAN",
+    "genero": "Masculino",
+    "familia_olfativa": "Dulce, Amielado, Avainillado, Lavanda, Cítrico, Aromático, Tabaco, Floral, Atalcado, Fesco especiado",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+    "notas_salida": "lavanda, limon, bergamota",
+    "notas_corazon": "miel, canela, cachemira, jazmin",
+    "notas_fondo": "vainilla, tabaco, haba tonka",
+    "descripcion": "La definición en perfume del lujo mediterráneo, la opulencia de la miel dorada y el tabaco más sofisticado del mundo. Rayhaan Italia arranca con un impacto vibrante y fresco de lavanda y cítricos brillantes. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón rico y cálido donde la miel y la canela envuelven los sentidos. Su evolución final es un secado profundo de tabaco dulce y vainilla cremosa, dejando un rastro flotante distinguido, seductor y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, eventos sociales de alto nivel, reuniones importantes, ocasiones especiales o cuando el objetivo sea proyectar estatus y sofisticación.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino / Unisex (Amado por los conocedores de la perfumería nicho). Diseñado para personas seguras de sí mismas, elegantes, amantes de las fragancias complejas, intensas y que proyectan estatus, misterio y distinción absoluta.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif",
+    "inspirado_en_nombre": "Naxos de Xerjoff",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
+        "nombre": "Naxos de Xerjoff",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif"
       }
     ]
   }

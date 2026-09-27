@@ -6257,13 +6257,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Beach Party | EDP",
     "s": "100ml",
-    "p": 83000,
+    "p": 77000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2476_ukmekt.jpg",
     "nt": "Salida frutas tropical, toronja Notas de corazón: guayaba, agua de mar Notas de fondo: almizcle, maderas",
-    "p1": "$83.000"
+    "p1": "$77.000"
   },
   {
     "id": 2477,
@@ -6777,13 +6777,13 @@
     "b": "DUMONT",
     "n": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
     "s": "100ml",
-    "p": 116000,
+    "p": 112000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2518_u2mupn.jpg",
     "nt": "Salida melon, durazno, manzana, bergamota Notas de corazón: ambar, sal de mar, cedro, lirio de los valles Notas de fondo: ambar, sandalo, pachuli, musgo",
-    "p1": "$116.000"
+    "p1": "$112.000"
   },
   {
     "id": 2519,
@@ -7245,13 +7245,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Italia | EDP",
     "s": "100ml",
-    "p": 122400,
+    "p": 121000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2555_tf1lpg.jpg",
     "nt": "Salida lavanda, limon, bergamota Notas de corazón: miel, canela, cachemira, jazmin Notas de fondo: vainilla, tabaco, haba tonka",
-    "p1": "$122.400"
+    "p1": "$121.000"
   },
   {
     "id": 2556,
@@ -7631,6 +7631,84 @@
     "p1": "$65.000"
   },
   {
+    "id": 2587,
+    "b": "RASASI",
+    "n": "RASASI - Hawas Rouge | EDP",
+    "s": "",
+    "p": 121000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_617615-CBT115582036537_082026-F.webp",
+    "nt": "Salida pera, bergamota Notas de corazón: flor de azahar del naranjo, jazmin, rosa Notas de fondo: ambar, pachuli, vainilla, almizcle",
+    "p1": "$121.000"
+  },
+  {
+    "id": 2588,
+    "b": "RAYHAAN",
+    "n": "RAYHAAN - Terra | EDP",
+    "s": "",
+    "p": 95000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_871727-MLA100262161670_122025-F.webp",
+    "nt": "Salida cardamomo, elemi, pimienta, limon, bergamota Notas de corazón: pachuli, comino, cilantro, anis, azafran, ajenjo, flor de azahar del naranjo, rosa, geranio Notas de fondo: incienso, vainilla, ambar, benjui, opoponaco, oud, ladano, abedul, almizcle, ambar gris, maltol",
+    "p1": "$95.000"
+  },
+  {
+    "id": 2589,
+    "b": "MAISON ASRAR",
+    "n": "MAISON ASRAR - Vanilla Voyage | EDP",
+    "s": "100ml",
+    "p": 132000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_761104-MLA83550126143_042025-F.webp",
+    "nt": "Salida caramelo, mantequilla Notas de corazón: miel, haba tonka, jazmin Notas de fondo: vainilla, ambar, almizcle",
+    "p1": "$132.000"
+  },
+  {
+    "id": 2590,
+    "b": "MAISON ALHAMBRA",
+    "n": "MAISON ALHAMBRA - Jardin de Reve | EDP",
+    "s": "100ml",
+    "p": 75000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_762105-MLA95959994058_102025-F.webp",
+    "nt": "Salida magnolia, pera, durazno, bergamota, mandarina Notas de corazón: jazmin, nardos, lirio de los valles, fresia, orquidea, rosa, violeta, ciruela Notas de fondo: almizcle, vainilla, cedro, zarzamora",
+    "p1": "$75.000"
+  },
+  {
+    "id": 2591,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Pure Crystal | EDP",
+    "s": "100ml",
+    "p": 96000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_813244-MLA104687519838_012026-F.webp",
+    "nt": "Salida bayas rojas, canela, naranja, toronja, bergamota Notas de corazón: coñac, jengibre, esclarea Notas de fondo: ambar, sandalo, vainilla, vetiver, almizcle, cardamomo, pachuli",
+    "p1": "$96.000"
+  },
+  {
+    "id": 2592,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Pride Queen Of Roses | EDP",
+    "s": "",
+    "p": 114000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://cdn.notinoimg.com/detail_main_mq/lattafa/6290362347132_01-o/pride-queen-of-roses___260213.jpg",
+    "nt": "Salida rosa, pimienta rosa Notas de corazón: azafran, pachuli Notas de fondo: ambar, almizcle, vainilla",
+    "p1": "$114.000"
+  },
+  {
     "id": 2593,
     "b": "BHARARA",
     "n": "BHARARA - Rome Extradose Puor femme | EDP",
@@ -7735,6 +7813,32 @@
     "p1": "$125.000"
   },
   {
+    "id": 2601,
+    "b": "RIFFS",
+    "n": "RIFFS - Freeze In Flames | EDP",
+    "s": "100ml",
+    "p": 141000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_860488-MLA116718740588_092026-F.webp",
+    "nt": "Salida frambuesa, menta, manzana, bergamota, maracuya Notas de corazón: menta, te, lavanda, salvia Notas de fondo: almizcle, cedro",
+    "p1": "$141.000"
+  },
+  {
+    "id": 2602,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Khamrah KIT | EDP",
+    "s": "100ml",
+    "p": 87000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_820790-MLA111225511781_052026-F.webp",
+    "nt": "—",
+    "p1": "$87.000"
+  },
+  {
     "id": 2603,
     "b": "BHARARA",
     "n": "BHARARA - Rome Imagine | EDP",
@@ -7746,5 +7850,18 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2603_9b94rs.webp",
     "nt": "Salida bergamota, limon, naranja, jengibre, pimienta negra Notas de corazón: te, cardamomo, salvia, geranio, flores blancas Notas de fondo: cedro, vetiver, almizcle, ambar, ambroxan",
     "p1": "$115.000"
+  },
+  {
+    "id": 2604,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Ajwad Pink To Pink Creamy | Elixir",
+    "s": "60ml",
+    "p": 92000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_921619-MLA116266107760_092026-F.webp",
+    "nt": "Salida frambuesa, grosellas negras, pera Notas de corazón: chocolate blanco Notas de fondo: vainilla, almizcle, amberwood",
+    "p1": "$92.000"
   }
 ]
