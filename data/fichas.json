@@ -8614,37 +8614,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Fakhar Rose | EDP",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral / Rosa Modern",
-    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los florales blancos más exitosos y elegantes de la última década. Captura a la perfección ese adictivo ADN de \"flores blancas luminosas (nardos/jazmín) con un fondo cálido, amaderado y avainillado\", ofreciendo un rendimiento brutal y una presentación deslumbrante.",
-    "notas_salida": "pimienta rosa, bergamota, cardamomo",
-    "notas_corazon": "guayaba, jengibre, lavanda",
-    "notas_fondo": "palo santo, sandalo, incienso",
-    "descripcion": "La definición en perfume de la elegancia clásica moderna, el estatus y la pulcritud sofisticada. Lattafa Fakhar Rose EDP abre con un estallido limpio y brillante de jugo de granada y azucenas que despierta los sentidos con un aura luminosa. En cuestión de minutos despliega su faceta más elogiada: un opulento ramo de nardos y jazmín que envuelve a la mujer en un aura cremosa, romántica y de muchísima clase. Su evolución final es un secado tibio y espectacular, donde la vainilla, el almizcle y el ambroxan dejan un rastro flotante persistente que transmite seguridad, profesionalismo y un encanto inolvidable.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Primavera / Otoño / Invierno",
-    "ocasion": "Uso profesional diario, oficina, reuniones importantes, citas formales, bodas de día o eventos sociales de prestigio.",
-    "clima": "Templado / Fresco / Cálido moderado",
-    "proyeccion": "Alta",
-    "duracion": "Sobresaliente (7h a 9h+)",
-    "estela": "Moderada",
-    "color_liquido": "Cristalino",
-    "perfil_usuario": "Mujeres 20-45 años. Rosas, femeninas.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 68,
-    "estilo_descripcion": "Femenino. Diseñado para mujeres refinadas, seguras de sí mismas, elegantes y amantes de los grandes perfumes florales (particularmente los basados en flores blancas y nardos). Es la elección perfecta para quienes buscan un aroma de firma de alta costura que proyecte clase, ideal para el día a día o eventos formales.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif",
-    "inspirado_en_nombre": "L'Interdit de Givenchy",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los florales blancos más exitosos y elegantes de la última década. Captura a la perfección ese adictivo ADN de \"flores blancas luminosas (nardos/jazmín) con un fondo cálido, amaderado y avainillado\", ofreciendo un rendimiento brutal y una presentación deslumbrante.",
-        "nombre": "L'Interdit de Givenchy",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "ARMAF - Club de Nuit Intense Men | Extrait De Parfum",
     "marca": "ARMAF",
     "genero": "Masculino",
@@ -17434,6 +17403,38 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
         "nombre": "Naxos de Xerjoff",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Fakhar Rose | EDP",
+    "marca": "LATTAFA",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral / Rosa Modern",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a uno de los florales blancos más exitosos y elegantes de la última década. Captura a la perfección ese adictivo ADN de \"flores blancas luminosas (nardos/jazmín) con un fondo cálido, amaderado y avainillado\", ofreciendo un rendimiento brutal y una presentación deslumbrante.",
+    "notas_salida": "pimienta rosa, bergamota, cardamomo",
+    "notas_corazon": "guayaba, jengibre, lavanda",
+    "notas_fondo": "palo santo, sandalo, incienso",
+    "descripcion": "La definición en perfume de la elegancia clásica moderna, el estatus y la pulcritud sofisticada. Lattafa Fakhar Rose EDP abre con un estallido limpio y brillante de jugo de granada y azucenas que despierta los sentidos con un aura luminosa. En cuestión de minutos despliega su faceta más elogiada: un opulento ramo de nardos y jazmín que envuelve a la mujer en un aura cremosa, romántica y de muchísima clase. Su evolución final es un secado tibio y espectacular, donde la vainilla, el almizcle y el ambroxan dejan un rastro flotante persistente que transmite seguridad, profesionalismo y un encanto inolvidable.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Otoño / Invierno",
+    "ocasion": "Uso profesional diario, oficina, reuniones importantes, citas formales, bodas de día o eventos sociales de prestigio.",
+    "clima": "Templado / Fresco / Cálido moderado",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (7h a 9h+)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino",
+    "perfil_usuario": "Mujeres 20-45 años. Rosas, femeninas.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 68,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres refinadas, seguras de sí mismas, elegantes y amantes de los grandes perfumes florales (particularmente los basados en flores blancas y nardos). Es la elección perfecta para quienes buscan un aroma de firma de alta costura que proyecte clase, ideal para el día a día o eventos formales.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif",
+    "inspirado_en_nombre": "L'Interdit de Givenchy",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los florales blancos más exitosos y elegantes de la última década. Captura a la perfección ese adictivo ADN de \"flores blancas luminosas (nardos/jazmín) con un fondo cálido, amaderado y avainillado\", ofreciendo un rendimiento brutal y una presentación deslumbrante.",
+        "nombre": "L'Interdit de Givenchy",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif"
       }
     ]
   }
