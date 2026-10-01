@@ -592,7 +592,7 @@
     "p": 80100,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2027_w2yis7.jpg",
     "nt": "Salida Notas marinas, Frutos Rojos, bergamota Notas de corazón: Violeta, maderas, sándalo Notas de fondo: Almizcle, Ambroxan, vetiver",
     "p1": "$80.100"
@@ -1996,7 +1996,7 @@
     "p": 68000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2135_as5qra.jpg",
     "nt": "Salida mandarina verde, melon, higo, agua de coco Notas de corazón: nenufar, jazmin, flor de loto Notas de fondo: almizcle, ambroxan, sandalo, vainilla",
     "p1": "$68.000"
@@ -4050,7 +4050,7 @@
     "p": 97500,
     "c": "internacional",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2294_p6cayr.jpg",
     "nt": "Salida Madreselva, mandarina, rosa Notas de corazón: Jazmín, flor de tiaré, peonía, clementina Notas de fondo: Almizcle, sándalo, pachulí",
     "p1": "$97.500"
@@ -4349,7 +4349,7 @@
     "p": 207500,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2317_lat1mi.jpg",
     "nt": "Salida Cardamomo, salvia, bergamota Notas de corazón: Castaña, heliotropo, lavanda Notas de fondo: Vainilla, ámbar, pachulí, cedro",
     "p1": "$207.500"
@@ -4492,7 +4492,7 @@
     "p": 105200,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2328_wpv51q.jpg",
     "nt": "Salida Yuzu, bergamota, naranja, mandarina · Corazón Nuez moscada, flor de loto, cardamomo, canela, azafran Notas de fondo: Incienso, papiro de Egipto, ámbar gris, benjuí, ámbar",
     "p1": "$105.200"
@@ -4505,7 +4505,7 @@
     "p": 135800,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2329_7zkt4j.jpg",
     "nt": "Salida Bergamota, yuzu, cítricos, mandarina Notas de corazón: Madera de acuamarina, loto, salvia Notas de fondo: Madera de cedro, almizcle, ámbar, tabaco",
     "p1": "$135.800"
@@ -7326,7 +7326,7 @@
     "p": 191800,
     "c": "internacional",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2561_ni26p5.png",
     "nt": "—",
     "p1": "$191.800"
