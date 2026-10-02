@@ -98,7 +98,7 @@
     "p": 75900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1989_z03wl8.jpg",
     "nt": "Salida pomelo, pimienta rosa, enebro, cardamomo Notas de corazón: Bergamota, cedro, nuez moscada, jazmín Notas de fondo: ámbar gris, manzana, almizcle, pachulí",
     "p1": "$75.900"
@@ -514,7 +514,7 @@
     "p": 96000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2021_9ave9e.jpg",
     "nt": "Salida Pomelo, limón, menta, pimienta rosa, cilantro Notas de corazón: Jengibre, nuez moscada, melón, jazmín Notas de fondo: Sándalo, ámbar, pachulí, incienso, cedro, ládano",
     "p1": "$96.000"
@@ -667,13 +667,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Woman | EDP",
     "s": "105ml",
-    "p": 83000,
+    "p": 87000,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2033_hnuvnq.jpg",
     "nt": "Salida Naranja, pomelo, durazno, bergamota Notas de corazón: Rosa, geranio, jazmín, lichi Notas de fondo: Almizcle, pachulí, vainilla",
-    "p1": "$83.000"
+    "p1": "$87.000"
   },
   {
     "id": 2034,
@@ -1567,7 +1567,7 @@
     "p": 67000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2102_bznzdj.jpg",
     "nt": "Salida Azafrán, incienso, pimienta Notas de corazón: Oud, madera de oud, pachulí Notas de fondo: Ámbar, benjuí, almizcle",
     "p1": "$67.000"
@@ -1616,13 +1616,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Bade'e Al Oud Sublime | EDP",
     "s": "100ml",
-    "p": 65600,
+    "p": 68000,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2106_ausiup.jpg",
     "nt": "Salida Azafrán, bergamota Notas de corazón: Oud, rosa Notas de fondo: Ámbar, almizcle, maderas",
-    "p1": "$65.600"
+    "p1": "$68.000"
   },
   {
     "id": 2107,
@@ -2464,7 +2464,7 @@
     "p": 75700,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2171_nw4typ.jpg",
     "nt": "Salida Bergamota, lavanda, cítricos Notas de corazón: Sándalo, cedro, geranio Notas de fondo: Ámbar, almizcle, vetiver",
     "p1": "$75.700"
@@ -2802,7 +2802,7 @@
     "p": 66600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2197_szx8jo.jpg",
     "nt": "Salida Bergamota, pimienta negra · Corazón Cedro, pachulí · Fondo Ámbar, almizcle",
     "p1": "$66.600"
@@ -4128,7 +4128,7 @@
     "p": 69900,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2300_etzite.jpg",
     "nt": "Salida Limón, hojas de tomate Notas de corazón: Vaina de cacao Notas de fondo: Cedro, almizcle blanco, vetiver",
     "p1": "$69.900"
@@ -7863,5 +7863,70 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2604_katgrg.webp",
     "nt": "Salida frambuesa, grosellas negras, pera Notas de corazón: chocolate blanco Notas de fondo: vainilla, almizcle, amberwood",
     "p1": "$92.000"
+  },
+  {
+    "id": 2621,
+    "b": "MAISON ALHAMBRA",
+    "n": "MAISON ALHAMBRA - Candid | EDP",
+    "s": "100ml",
+    "p": 84000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_698141-MLU71425904721_082023-F.webp",
+    "nt": "Salida bergamota, citricos, piña Notas de corazon: flor de azahar del naranjo, jazmin, rosa Notas de fondo: pachuli, vainilla, haba tonka",
+    "p1": "$84.000"
+  },
+  {
+    "id": 2623,
+    "b": "DOLCE GABBANA",
+    "n": "DOLCE GABBANA - Light Blue | EDT",
+    "s": "100ml",
+    "p": 140000,
+    "c": "internacional",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_884264-MLA45375225808_032021-F.webp",
+    "nt": "Salida limon, manzana, cedro, campanilla Notas de corazón: bambu, jazmin, rosa blanca Notas de fondo: cedro, almizcle, ambar",
+    "p1": "$140.000"
+  },
+  {
+    "id": 2625,
+    "b": "ARMAF",
+    "n": "ARMAF - Club de Nuit Woman Kit | EDP",
+    "s": "100ml",
+    "p": 115000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_820181-MLU76963759789_062024-F.webp",
+    "nt": "—",
+    "p1": "$115.000"
+  },
+  {
+    "id": 2626,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Badee al Oud Sublime Kit | EDP",
+    "s": "100ml",
+    "p": 88000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_801732-MLA113517895061_062026-F.webp",
+    "nt": "—",
+    "p1": "$88.000"
+  },
+  {
+    "id": 2627,
+    "b": "BIDAYA",
+    "n": "BIDAYA - Maktub Le Vie | EDP",
+    "s": "100ml",
+    "p": 98000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://acdn-us.mitiendanube.com/stores/003/226/824/products/copia-de-6295199801116-2025-12-07t233116-779-2e12f9d68bc8ec37dd17651616183337-640-0.webp",
+    "nt": "Salida mango, frutas tropicales, pomelo, limon, casia Notas de corazón: jegibre, nuez moscada, iris Notas de fondo: almizcle, ambar, cedro",
+    "p1": "$98.000"
   }
 ]

@@ -6502,6 +6502,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Bade'e Al Oud Sublime | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Oriental Oud / Azafrán",
+    "inspirado_en": "Kayali Eden Juicy Apple 01 (DNA frutal manzana-lichi)",
+    "notas_salida": "Azafrán, bergamota",
+    "notas_corazon": "Oud, rosa",
+    "notas_fondo": "Ámbar, almizcle, maderas",
+    "descripcion": "Azafrán rico con oud profundo. Oriental árabe masculino. Intenso y poderoso.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Eventos, gala",
+    "clima": "Frío / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Marrón oscuro",
+    "perfil_usuario": "Hombres 30-55 años. Oud lovers, orientales.",
+    "rango_edad_min": 30,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Hombres Oud lovers, orientales.",
+    "inspirado_en_nombre": "Kayali Eden Juicy Apple 01",
+    "inspiraciones": [
+      {
+        "texto": "Kayali Eden Juicy Apple 01 (DNA frutal manzana-lichi)",
+        "nombre": "Kayali Eden Juicy Apple 01",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARD AL ZAAFARAN - Manaal | EDP",
     "marca": "Ard Al Zaafaran — UAE",
     "genero": "Unisex",
@@ -16472,37 +16503,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Bade'e Al Oud Sublime | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "genero": "Unisex",
-    "familia_olfativa": "Oriental Oud / Azafrán",
-    "inspirado_en": "Kayali Eden Juicy Apple 01 (DNA frutal manzana-lichi)",
-    "notas_salida": "Azafrán, bergamota",
-    "notas_corazon": "Oud, rosa",
-    "notas_fondo": "Ámbar, almizcle, maderas",
-    "descripcion": "Azafrán rico con oud profundo. Oriental árabe masculino. Intenso y poderoso.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Eventos, gala",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Marrón oscuro",
-    "perfil_usuario": "Hombres 30-55 años. Oud lovers, orientales.",
-    "rango_edad_min": 30,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Hombres Oud lovers, orientales.",
-    "inspirado_en_nombre": "Kayali Eden Juicy Apple 01",
-    "inspiraciones": [
-      {
-        "texto": "Kayali Eden Juicy Apple 01 (DNA frutal manzana-lichi)",
-        "nombre": "Kayali Eden Juicy Apple 01",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "RAYHAAN - Tonquin Giza | EDP | 100ml",
     "genero": "Unisex",
     "familia_olfativa": "Avainillado, Dulce, Almendrado, Cálido especiado, Aromático, Nueces, Afrutados, Balsámico, Ámbar",
@@ -17438,6 +17438,64 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias avainilladas y de café-latte más codiciadas, elogiadas y buscadas de todo el mundo. Captura a la perfección ese ADN inconfundible de \"salida avellanada y de chocolate combinada con un corazón adictivo de dulce de leche y un fondo de vainilla cremosa infinita\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
         "nombre": "Bianco Latte de Giardini di Toscana",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.88107.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BIDAYA - Maktub Le Vie | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Tropical, Afrutados, Cítrico, Fesco especiado, Fresco, Dulce, Aromático, Amaderado, Almizclado, Atalcado",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más codiciadas, elogiadas y caras de todo el mundo, famosa por encarnar el lujo tropical más sofisticado. Captura a la perfección ese ADN inconfundible de \"salida frutal de mango y jengibre combinada con un corazón amaderado y un fondo ambarado de máxima sensualidad\"",
+    "notas_salida": "mango, frutas tropicales, pomelo, limon, casia",
+    "notas_corazon": "jegibre, nuez moscada, iris",
+    "notas_fondo": "almizcle, ambar, cedro",
+    "descripcion": "La definición en perfume del lujo tropical, la sofisticación moderna y la dualidad más adictiva del mercado actual. Bidaya Maktub Le Vie arranca con un impacto envolvente, fresco y frutal de mango y jengibre chispeante. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por maderas preciosas y cedro. Su evolución final es un secado supremo de ámbar y almizcle blanco, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Salidas, citas, reuniones, eventos o cuando el objetivo sea generar una cercanía irresistible y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex / Amantes de los Nichos Tropicales de Alto Impacto. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería de autor y quienes exigen un sello personal que proyecte cercanía, magnetismo y una sofisticación irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72381.2x.avif",
+    "inspirado_en_nombre": "God of Fire Stéphane Humbert Lucas 777",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más codiciadas, elogiadas y caras de todo el mundo, famosa por encarnar el lujo tropical más sofisticado. Captura a la perfección ese ADN inconfundible de \"salida frutal de mango y jengibre combinada con un corazón amaderado y un fondo ambarado de máxima sensualidad\"",
+        "nombre": "God of Fire Stéphane Humbert Lucas 777",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72381.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "DOLCE GABBANA - Light Blue | EDT",
+    "concentracion": "EDT",
+    "genero": "Femenino",
+    "familia_olfativa": "Cítrico, Amaderado, Fresco, Afrutados, Aromático, Almizclado, Atalcado, Verde",
+    "inspirado_en": "Una de las creaciones maestras más famosas, elogiadas y vendidas de toda la historia de la perfumería moderna, diseñada por el legendario perfumista Olivier Cresp para capturar la quintaesencia de un día soleado, fresco y deslumbrante en el sur de Italia. Combina un estallido chispeante y crujiente de cítricos sicilianos y manzana con un corazón floral acuático y un fondo amaderado-almizclado de limpieza absoluta.",
+    "notas_salida": "limon, manzana, cedro, campanilla",
+    "notas_corazon": "bambu, jazmin, rosa blanca",
+    "notas_fondo": "cedro, almizcle, ambar",
+    "descripcion": "La definición en perfume de la elegancia relajada, la frescura radiante y la limpieza más sofisticada del mercado global. Dolce & Gabbana Light Blue arranca con un impacto vibrante, chispeante y frutal de limón siciliano y manzana verde. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón limpio dominado por notas de bambú y jazmín. Su evolución final es un secado supremo de almizcle blanco y maderas claras, dejando un rastro flotante sumamente distinguido y de una presencia inconfundible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, salidas informales, días de calor o cuando el objetivo sea oler a limpieza lujosa y recibir cumplidos constantes.",
+    "proyeccion": "Moderada",
+    "duracion": "Excelente para un Eau de Toilette (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "rango_edad_min": 15,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, dinámicas, elegantes, amantes de la perfumería clásica de alta gama y quienes exigen un sello personal que proyecte naturalidad, éxito, clase y un encanto irresistible.",
+    "inspirado_en_nombre": "Fragancia Original de Diseñador",
+    "inspiraciones": [
+      {
+        "texto": "Una de las creaciones maestras más famosas, elogiadas y vendidas de toda la historia de la perfumería moderna, diseñada por el legendario perfumista Olivier Cresp para capturar la quintaesencia de un día soleado, fresco y deslumbrante en el sur de Italia. Combina un estallido chispeante y crujiente de cítricos sicilianos y manzana con un corazón floral acuático y un fondo amaderado-almizclado de limpieza absoluta.",
+        "nombre": "Fragancia Original de Diseñador"
       }
     ]
   }
