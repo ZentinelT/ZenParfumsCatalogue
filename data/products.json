@@ -527,7 +527,7 @@
     "p": 91000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2022_ni5jte.jpg",
     "nt": "Salida Lichi, Bergamota, Nuez Moscada Notas de corazón: Rosa, Vainilla, almizcle, peonia Notas de fondo: Vainilla, Incienso, Cachemira, Cedro",
     "p1": "$91.000"
@@ -722,7 +722,7 @@
     "p": 64700,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2037_go5wgw.jpg",
     "nt": "Salida fresa, frambuesa, durazno, bergamota, geranio Notas de corazón: caramelo, jazmín, maracuya Notas de fondo: almizcle, pachulí, ámbar",
     "p1": "$64.700"
@@ -2347,7 +2347,7 @@
     "p": 65000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2162_0hfep5.jpg",
     "nt": "Salida Piña, Bergamota, Manzana, Grosella negra Notas de corazón: Abedul, Pachulí, Jazmín, Rosa Notas de fondo: almizcle, Vainilla, Musgo de roble, Ámbar gris",
     "p1": "$65.000"
@@ -2802,7 +2802,7 @@
     "p": 66600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2197_szx8jo.jpg",
     "nt": "Salida Bergamota, pimienta negra · Corazón Cedro, pachulí · Fondo Ámbar, almizcle",
     "p1": "$66.600"
@@ -2906,7 +2906,7 @@
     "p": 64000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2205_hnvc27.jpg",
     "nt": "Salida Flor de azahar del naranjo, Bergamota Notas de corazón: Tuberosa, Jazmín Notas de fondo: Vainilla, Almizcle, Cedro",
     "p1": "$64.000"
@@ -3556,7 +3556,7 @@
     "p": 66900,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1775049036324_v5e11r.jpg",
     "nt": "Salida Cítricos Notas de corazón: Especias Notas de fondo: Almizcle, notas marinas",
     "p1": "$66.900"
@@ -3725,7 +3725,7 @@
     "p": 66900,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1775049755685_uvk9uo.jpg",
     "nt": "Corazón Especias Notas de fondo: Oud, ámbar",
     "p1": "$66.900"
