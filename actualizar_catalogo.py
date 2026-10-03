@@ -12,11 +12,13 @@ API_URL = "https://syylbuvjuekkanxynpps.supabase.co/rest/v1/productos"
 # Precio = costo (precio x3 de Belle, con el dolar del dia) + margen fijo
 MARGEN_PERFUME = 20000
 MARGEN_KIT = 15000
+MARGEN_KIDS = 15000         # perfumes de ninos (ej. LATTAFA - Kids ...)
 MARGEN_TUBBEES = 12000
 MARGEN_NO_PERFUME = 12000   # body splash, body mist, body lotion, cremas, etc.
 
 NO_PERFUME_RE = re.compile(r"body\s*(splash|mist|lotion|cream|wash)|crema|desodorante|shower\s*gel|gel\s*de\s*ducha|locion\s*corporal|loci\u00f3n\s*corporal", re.IGNORECASE)
 KIT_RE = re.compile(r"\bkit\b", re.IGNORECASE)
+KIDS_RE = re.compile(r"\bkids?\b", re.IGNORECASE)
 
 CAT_MAP = {
     "arabes": "arabes",
@@ -113,6 +115,8 @@ def margen_para(row):
     nombre = str(row.get("nombre", ""))
     if str(row.get("empresa", "")).strip().upper() == "TUBBEES":
         return MARGEN_TUBBEES
+    if KIDS_RE.search(nombre):
+        return MARGEN_KIDS
     if KIT_RE.search(nombre):
         return MARGEN_KIT
     if NO_PERFUME_RE.search(nombre):
