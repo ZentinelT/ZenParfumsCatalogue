@@ -166,6 +166,22 @@ var NOTE_GROUPS = [
   { label: "Cuero & Animal", notes: ["cuero"] }
 ];
 
+// Una nota elegida coincide con sus variantes: "rosa" encuentra "rosa turca",
+// "petalos de rosa", etc. (pero no "pimienta rosa" ni "palo de rosa", que son otra cosa)
+var NOTE_EXCLUDE = { "rosa": /pimienta rosa|palo de rosa/ };
+var _noteRe = {};
+function noteHit(tokens, n) {
+  var re = _noteRe[n] || (_noteRe[n] = new RegExp("(^|[^a-z])" + n.replace(/[.*+?^${}()|[\]\\]/g, "\\function getProductsByNotes(notesArr) {") + "([^a-z]|$)"));
+  var ex = NOTE_EXCLUDE[n];
+  for (var i = 0; i < tokens.length; i++) {
+    var t = tokens[i];
+    if (t === n) return true;
+    if (t.indexOf("contiene ") === 0) continue;
+    if (re.test(t) && !(ex && ex.test(t))) return true;
+  }
+  return false;
+}
+
 function getProductsByNotes(notesArr) {
   if (!notesArr || !notesArr.length) return [];
   var out = [];
@@ -175,9 +191,9 @@ function getProductsByNotes(notesArr) {
     if (!f) return;
     var notes = simAllNotes(f);
     var cz = simNoteTokens(f, "notas_corazon");
-    var matched = notesArr.filter(function(n){ return notes.indexOf(n) > -1; });
+    var matched = notesArr.filter(function(n){ return noteHit(notes, n); });
     if (!matched.length) return;
-    var score = matched.length + matched.filter(function(n){ return cz.indexOf(n) > -1; }).length;
+    var score = matched.length + matched.filter(function(n){ return noteHit(cz, n); }).length;
     out.push({ product: p, score: score, matched: matched });
   });
   out.sort(function(a,b){ return b.score - a.score; });
