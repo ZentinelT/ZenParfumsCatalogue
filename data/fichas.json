@@ -10943,6 +10943,34 @@
     ]
   },
   {
+    "nombre_completo": "CAROLINA HERRERA - La Bomba | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral, Tropical, Afrutados, Avainillado, Fresco, Pachulí",
+    "inspirado_en": "Una creación magistral firmada por la prestigiosa casa de Carolina Herrera, diseñada para encarnar el lujo, la elegancia neoyorquina y una presencia avasallante que deslumbra desde el primer instante. Combina un estallido fresco y chispeante con un corazón floral opulento y un fondo cálido, ambarado y amaderado de altísima fijación.",
+    "notas_salida": "pitahaya, piña, mandarina",
+    "notas_corazon": "frangipani, peonia roja, flor de azahar del naranjo, jazmin, rosyfolia, pomarose",
+    "notas_fondo": "vainilla, pachuli, ambrofix, haba tonka",
+    "descripcion": "La definición en perfume del glamour neoyorquino, la sofisticación audaz y la elegancia más pura y elogiada del mercado global. Carolina Herrera La Bomba original arranca con un impacto vibrante, fresco y frutal. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por flores blancas de alta gama. Su evolución final es un secado supremo de ámbar dorado y maderas finas, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional de Diseñador (9h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Dorado sutil",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, carismáticas, amantes de la perfumería clásica de alta gama y quienes exigen un sello personal que proyecte poder, éxito, elegancia y un encanto irresistible.",
+    "inspirado_en_nombre": "Fragancia Original de Diseñador",
+    "inspiraciones": [
+      {
+        "texto": "Una creación magistral firmada por la prestigiosa casa de Carolina Herrera, diseñada para encarnar el lujo, la elegancia neoyorquina y una presencia avasallante que deslumbra desde el primer instante. Combina un estallido fresco y chispeante con un corazón floral opulento y un fondo cálido, ambarado y amaderado de altísima fijación.",
+        "nombre": "Fragancia Original de Diseñador"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Swiss Arabian - Shirley May Vida Vida 1088 | EDT | 100ml",
     "marca": "Swiss Arabian — Dubai/Suiza",
     "genero": "Femenino",
