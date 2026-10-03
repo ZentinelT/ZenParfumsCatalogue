@@ -7731,6 +7731,35 @@
     ]
   },
   {
+    "nombre_completo": "PACO RABANNE - Lady Million | EDP",
+    "concentracion": "EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral blanco, Dulce, Amielado, Cítrico, Afrutados, Floral, Pachulí, Animálico, Ámbar",
+    "inspirado_en": "Una de las creaciones maestras más famosas, elogiadas y vendidas de todo el mundo moderno, diseñada para encarnar la máxima expresión del lujo, el oro, el poder y la sensualidad femenina. Combina un estallido frutal, fresco y chispeante con un corazón floral blanco opulento y un fondo cálido, adictivo y amielado de altísima fijación.",
+    "notas_salida": "frambuesa, neroli, limon",
+    "notas_corazon": "jazmin, flor del naranjo africano, gardenia",
+    "notas_fondo": "miel, pachuli, ambar",
+    "descripcion": "La definición en perfume del glamour deslumbrante, la sofisticación audaz y la sensualidad más adictiva del mercado global. Rabanne Lady Million arranca con un impacto vibrante, fresco y frutal de frambuesa y neroli. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por la flor de azahar y el jazmín. Su evolución final es un secado supremo de miel blanca y pachuli, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Dorado sutil",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, carismáticas, amantes de la perfumería de alta gama y quienes exigen un sello personal que proyecte poder, éxito, elegancia y un encanto irresistible.",
+    "inspirado_en_nombre": "Fragancia Original de Diseñador",
+    "inspiraciones": [
+      {
+        "texto": "Una de las creaciones maestras más famosas, elogiadas y vendidas de todo el mundo moderno, diseñada para encarnar la máxima expresión del lujo, el oro, el poder y la sensualidad femenina. Combina un estallido frutal, fresco y chispeante con un corazón floral blanco opulento y un fondo cálido, adictivo y amielado de altísima fijación.",
+        "nombre": "Fragancia Original de Diseñador"
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Bad Femme | EDP | 100 ml",
     "marca": "Maison Alhambra — UAE",
     "familia_olfativa": "Floral Gourmand / BR540 DNA",
@@ -17472,7 +17501,38 @@
     ]
   },
   {
-    "nombre_completo": "DOLCE GABBANA - Light Blue | EDT",
+    "nombre_completo": "RASASI - Hawas Reina | EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral blanco, Dulce, Avainillado, Atalcado, Floral, Afrutados, Tropical, Lactónico, Cítrico, Almizclado",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y vendidas de todo el mundo moderno, conocida por encarnar a una diosa moderna y audaz. Captura a la perfección ese ADN inconfundible de \"salida frutal chispeante combinada con un corazón floral elegante y un fondo adictivo de vainilla salada y praliné\"",
+    "notas_salida": "chabacano, pera, canela",
+    "notas_corazon": "jazmin, frangipani, flor de azahar del naranjo, coco, cafe",
+    "notas_fondo": "vainilla, almizcle blanco, ambar, sandalo, azucar",
+    "descripcion": "La definición en perfume de la divinidad moderna, la elegancia gourmand y la sensualidad más adictiva del mercado actual. Rasasi Hawas for Her arranca con un impacto vibrante, fresco y frutal de granada y manzana verde. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por el jazmín y el iris. Su evolución final es un secado supremo de praliné, vainilla y ámbar, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Tono rosado radiante",
+    "rango_edad_min": 15,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.103469.2x.avif",
+    "inspirado_en_nombre": "Olympéa Absolu Rabanne",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y vendidas de todo el mundo moderno, conocida por encarnar a una diosa moderna y audaz. Captura a la perfección ese ADN inconfundible de \"salida frutal chispeante combinada con un corazón floral elegante y un fondo adictivo de vainilla salada y praliné\"",
+        "nombre": "Olympéa Absolu Rabanne",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.103469.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "DOLCE & GABBANA - Light Blue | EDT",
+    "marca": "DOLCE & GABBANA",
     "concentracion": "EDT",
     "genero": "Femenino",
     "familia_olfativa": "Cítrico, Amaderado, Fresco, Afrutados, Aromático, Almizclado, Atalcado, Verde",
