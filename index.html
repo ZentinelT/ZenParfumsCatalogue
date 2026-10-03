@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/styles.css?v=5">
+<link rel="stylesheet" href="css/styles.css?v=6">
 <script data-goatcounter="https://zenparfums.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
@@ -113,7 +113,20 @@
             <option value="internacional">Internacional</option>
             <option value="ninos">Ni&#241;os</option>
             <option value="corporales">Corporales</option>
-            <optgroup label="Marca" id="brandGroup"></optgroup>
+          </select>
+          <svg class="sel-chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
+      <div class="sort-bar">
+        <label class="sort-lb" for="precioSel">Precio</label>
+        <div class="sel-wrap">
+          <select id="precioSel" class="sel-sort" onchange="setPrecio(this.value)">
+            <option value="">Todos</option>
+            <option value="0-60000">Hasta $60.000</option>
+            <option value="60000-80000">$60.000 a $80.000</option>
+            <option value="80000-100000">$80.000 a $100.000</option>
+            <option value="100000-150000">$100.000 a $150.000</option>
+            <option value="150000-">M&#225;s de $150.000</option>
           </select>
           <svg class="sel-chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
         </div>
@@ -256,7 +269,8 @@
 <script src="js/wishlist.js?v=4"></script>
 <script src="js/mobmenu.js"></script>
 <script src="js/catalog.js?v=8"></script>
-<script src="js/marcas.js?v=2"></script>
+<script src="js/precios.js?v=1"></script>
+<script src="js/marcas.js?v=3"></script>
 <script src="js/app.js?v=5"></script>
 </body>
 </html>
