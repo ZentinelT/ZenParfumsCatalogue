@@ -158,19 +158,29 @@ function getSimilarPerfumes(p, limit) {
 
 // --- Buscador por notas (mismo motor de arriba, sin perfume ancla) ---
 var NOTE_GROUPS = [
-  { label: "Dulces & Gourmand", notes: ["vainilla","canela","cardamomo"] },
-  { label: "Amaderadas", notes: ["sandalo","cedro","oud"] },
-  { label: "Orientales & Especiadas", notes: ["ambar","pachuli","pimienta rosa","almizcle"] },
-  { label: "Cítricas & Frescas", notes: ["bergamota","limon"] },
-  { label: "Florales", notes: ["jazmin","rosa","lavanda"] },
+  { label: "Dulces & Gourmand", notes: ["vainilla","haba tonka","caramelo","praline","canela","cacao","cafe","coco"] },
+  { label: "Amaderadas", notes: ["sandalo","cedro","oud","vetiver","musgo"] },
+  { label: "Orientales & Especiadas", notes: ["ambar","almizcle","pachuli","azafran","incienso","cardamomo","pimienta rosa","jengibre","nuez moscada","tabaco"] },
+  { label: "Cítricas & Frescas", notes: ["bergamota","limon","mandarina","naranja","pomelo","menta"] },
+  { label: "Frutales", notes: ["manzana","pera","pina","frutos rojos","durazno"] },
+  { label: "Florales", notes: ["jazmin","rosa","lavanda","azahar","violeta","iris","geranio"] },
   { label: "Cuero & Animal", notes: ["cuero"] }
 ];
+// Cómo se muestra cada nota (con tildes)
+var NOTE_LABEL = { sandalo:"sándalo", limon:"limón", jazmin:"jazmín", pachuli:"pachulí", ambar:"ámbar", azafran:"azafrán", praline:"praliné", cafe:"café", pina:"piña" };
+// Notas que agrupan varias: "frutos rojos" encuentra frambuesa, fresa, etc.
+var NOTE_ALIAS = { "frutos rojos": ["frutos rojos","frambuesa","fresa","grosella","mora","arandano","cereza"] };
 
 // Una nota elegida coincide con sus variantes: "rosa" encuentra "rosa turca",
 // "petalos de rosa", etc. (pero no "pimienta rosa" ni "palo de rosa", que son otra cosa)
 var NOTE_EXCLUDE = { "rosa": /pimienta rosa|palo de rosa/ };
 var _noteRe = {};
 function noteHit(tokens, n) {
+  var al = NOTE_ALIAS[n];
+  if (al) { for (var k = 0; k < al.length; k++) { if (noteHit1(tokens, al[k])) return true; } return false; }
+  return noteHit1(tokens, n);
+}
+function noteHit1(tokens, n) {
   var re = _noteRe[n] || (_noteRe[n] = new RegExp("(^|[^a-z])" + n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "([^a-z]|$)"));
   var ex = NOTE_EXCLUDE[n];
   for (var i = 0; i < tokens.length; i++) {
