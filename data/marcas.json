@@ -1,0 +1,277 @@
+[
+ {
+  "b": "AFNAN",
+  "logo": "img/marcas/afnan.webp",
+  "n": 21
+ },
+ {
+  "b": "AL HARAMAIN",
+  "logo": "img/marcas/alharamain.webp",
+  "n": 19
+ },
+ {
+  "b": "AL WATANIAH",
+  "logo": "img/marcas/alwataniah.webp",
+  "n": 28
+ },
+ {
+  "b": "ARD AL ZAAFARAN",
+  "logo": "img/marcas/ardalzaafaran.webp",
+  "n": 2
+ },
+ {
+  "b": "ARMAF",
+  "logo": "img/marcas/armaf.webp",
+  "n": 55
+ },
+ {
+  "b": "ASDAAF",
+  "logo": "img/marcas/asdaaf.webp",
+  "n": 4
+ },
+ {
+  "b": "ATTRACIONE",
+  "logo": "img/marcas/attracione.webp",
+  "n": 1
+ },
+ {
+  "b": "AZZARO",
+  "logo": "img/marcas/azzaro.webp",
+  "n": 2
+ },
+ {
+  "b": "B. SPEARS",
+  "logo": "img/marcas/bspears.webp",
+  "n": 3
+ },
+ {
+  "b": "BHARARA",
+  "logo": "img/marcas/bharara.webp",
+  "n": 14
+ },
+ {
+  "b": "BIDAYA",
+  "logo": "img/marcas/bidaya.webp",
+  "n": 1
+ },
+ {
+  "b": "BURBERRY",
+  "logo": "img/marcas/burberry.webp",
+  "n": 1
+ },
+ {
+  "b": "CACHAREL",
+  "logo": "img/marcas/cacharel.webp",
+  "n": 3
+ },
+ {
+  "b": "CALVIN KLEIN",
+  "logo": "img/marcas/calvinklein.webp",
+  "n": 13
+ },
+ {
+  "b": "CAROLINA HERRERA",
+  "logo": "img/marcas/carolinaherrera.webp",
+  "n": 4
+ },
+ {
+  "b": "DIOR",
+  "logo": "img/marcas/dior.webp",
+  "n": 1
+ },
+ {
+  "b": "DOLCE & GABBANA",
+  "logo": "img/marcas/dolcegabbana.webp",
+  "n": 7
+ },
+ {
+  "b": "DUMONT",
+  "logo": "img/marcas/dumont.webp",
+  "n": 2
+ },
+ {
+  "b": "E. ARDEN",
+  "logo": "img/marcas/earden.webp",
+  "n": 2
+ },
+ {
+  "b": "EMPER",
+  "logo": "img/marcas/emper.webp",
+  "n": 6
+ },
+ {
+  "b": "EMPORIO ARMANI",
+  "logo": "img/marcas/emporioarmani.webp",
+  "n": 6
+ },
+ {
+  "b": "FRENCH AVENUE",
+  "logo": "img/marcas/frenchavenue.webp",
+  "n": 38
+ },
+ {
+  "b": "G. LAROCHE",
+  "logo": "img/marcas/glaroche.webp",
+  "n": 1
+ },
+ {
+  "b": "G. SABATINI",
+  "logo": "img/marcas/gsabatini.webp",
+  "n": 1
+ },
+ {
+  "b": "GRES",
+  "logo": "img/marcas/gres.webp",
+  "n": 1
+ },
+ {
+  "b": "H. BOSS",
+  "logo": "img/marcas/hboss.webp",
+  "n": 6
+ },
+ {
+  "b": "HALLOWEEN",
+  "logo": "img/marcas/halloween.webp",
+  "n": 4
+ },
+ {
+  "b": "ISSEY MIYAKE",
+  "logo": "img/marcas/isseymiyake.webp",
+  "n": 4
+ },
+ {
+  "b": "J. BOGART",
+  "logo": "img/marcas/jbogart.webp",
+  "n": 2
+ },
+ {
+  "b": "JEAN PAUL GAULTIER",
+  "logo": "img/marcas/jeanpaulgaultier.webp",
+  "n": 6
+ },
+ {
+  "b": "JO MILANO PARIS",
+  "logo": "img/marcas/jomilanoparis.webp",
+  "n": 3
+ },
+ {
+  "b": "KHADLAJ",
+  "logo": "img/marcas/khadlaj.webp",
+  "n": 2
+ },
+ {
+  "b": "LANCÔME",
+  "logo": "img/marcas/lancome.webp",
+  "n": 1
+ },
+ {
+  "b": "LATTAFA",
+  "logo": "img/marcas/lattafa.webp",
+  "n": 154
+ },
+ {
+  "b": "M. BOURBON",
+  "logo": "img/marcas/mbourbon.webp",
+  "n": 1
+ },
+ {
+  "b": "MAISON ALHAMBRA",
+  "logo": "img/marcas/maisonalhambra.webp",
+  "n": 61
+ },
+ {
+  "b": "MAISON ASRAR",
+  "logo": "img/marcas/maisonasrar.webp",
+  "n": 3
+ },
+ {
+  "b": "MONTALE",
+  "logo": "img/marcas/montale.webp",
+  "n": 1
+ },
+ {
+  "b": "MONTBLANC",
+  "logo": "img/marcas/montblanc.webp",
+  "n": 2
+ },
+ {
+  "b": "MOSCHINO",
+  "logo": "img/marcas/moschino.webp",
+  "n": 2
+ },
+ {
+  "b": "PACO RABANNE",
+  "logo": "img/marcas/pacorabanne.webp",
+  "n": 4
+ },
+ {
+  "b": "PARIS CORNER",
+  "logo": "img/marcas/pariscorner.webp",
+  "n": 1
+ },
+ {
+  "b": "RASASI",
+  "logo": "img/marcas/rasasi.webp",
+  "n": 19
+ },
+ {
+  "b": "RAYHAAN",
+  "logo": "img/marcas/rayhaan.webp",
+  "n": 32
+ },
+ {
+  "b": "RIFFS",
+  "logo": "img/marcas/riffs.webp",
+  "n": 2
+ },
+ {
+  "b": "S. FERRARI",
+  "logo": "img/marcas/sferrari.webp",
+  "n": 2
+ },
+ {
+  "b": "SABRINA CARPENTER",
+  "logo": "img/marcas/sabrinacarpenter.webp",
+  "n": 3
+ },
+ {
+  "b": "SWISS ARABIAN",
+  "logo": "img/marcas/swissarabian.webp",
+  "n": 24
+ },
+ {
+  "b": "TUBBEES",
+  "logo": "img/marcas/tubbees.webp",
+  "n": 15
+ },
+ {
+  "b": "VALENTINO",
+  "logo": "img/marcas/valentino.webp",
+  "n": 1
+ },
+ {
+  "b": "VERSACE",
+  "logo": "img/marcas/versace.webp",
+  "n": 5
+ },
+ {
+  "b": "VICTORIA SECRET",
+  "logo": "img/marcas/victoriasecret.webp",
+  "n": 5
+ },
+ {
+  "b": "VIKTOR&ROLF",
+  "logo": "img/marcas/viktorrolf.webp",
+  "n": 1
+ },
+ {
+  "b": "XERJOFF",
+  "logo": "img/marcas/xerjoff.webp",
+  "n": 1
+ },
+ {
+  "b": "ZIMAYA",
+  "logo": "img/marcas/zimaya.webp",
+  "n": 10
+ }
+]

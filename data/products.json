@@ -514,7 +514,7 @@
     "p": 89000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2021_9ave9e.jpg",
     "nt": "Salida Pomelo, limón, menta, pimienta rosa, cilantro Notas de corazón: Jengibre, nuez moscada, melón, jazmín Notas de fondo: Sándalo, ámbar, pachulí, incienso, cedro, ládano",
     "p1": "$89.000"
@@ -2971,7 +2971,7 @@
     "p": 59000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2210_2neea6.jpg",
     "nt": "Salida naranja, bergamota, limon Notas de corazón: frutas Notas de fondo: vainilla, almizcle, ambar",
     "p1": "$59.000"
