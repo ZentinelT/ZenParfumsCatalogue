@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependencias
-        run: pip install pandas requests
+        run: pip install pandas requests pillow
 
       - name: Generar catálogo actualizado
         env:
@@ -33,5 +33,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data/products.json data/fichas.json data/novedades.json
+          git add data/marcas.json img/marcas 2>/dev/null || true
           git diff --quiet --cached || git commit -m "Actualizar catálogo automáticamente"
           git push
