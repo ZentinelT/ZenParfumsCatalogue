@@ -171,7 +171,7 @@ var NOTE_GROUPS = [
 var NOTE_EXCLUDE = { "rosa": /pimienta rosa|palo de rosa/ };
 var _noteRe = {};
 function noteHit(tokens, n) {
-  var re = _noteRe[n] || (_noteRe[n] = new RegExp("(^|[^a-z])" + n.replace(/[.*+?^${}()|[\]\\]/g, "\\function getProductsByNotes(notesArr) {") + "([^a-z]|$)"));
+  var re = _noteRe[n] || (_noteRe[n] = new RegExp("(^|[^a-z])" + n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "([^a-z]|$)"));
   var ex = NOTE_EXCLUDE[n];
   for (var i = 0; i < tokens.length; i++) {
     var t = tokens[i];
