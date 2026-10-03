@@ -28,8 +28,10 @@
         hold();
         var b = el.getAttribute("data-b");
         var actual = (typeof cFil === "string" && cFil.indexOf("marca:") === 0) ? cFil.slice(6) : "";
-        if (typeof setSort === "function") setSort(actual === b ? "todos" : "marca:" + b);
+        var quitar = actual === b;
+        if (typeof setSort === "function") setSort(quitar ? "todos" : "marca:" + b);
         centerOn(el);
+        if (!quitar) setTimeout(irAResultados, 160); // bajar a la grilla filtrada
       });
     });
 
@@ -51,6 +53,14 @@
     focus();
     sync();
     start();
+  }
+
+  function irAResultados() {
+    var t = document.querySelector(".ctrl-row") || document.getElementById("pg");
+    if (!t) return;
+    var hdr = document.getElementById("siteHeader");
+    var off = (hdr ? hdr.getBoundingClientRect().bottom : 0) + 12;
+    window.scrollTo({ top: t.getBoundingClientRect().top + window.pageYOffset - off, behavior: reduce ? "auto" : "smooth" });
   }
 
   function hold() { pausedUntil = performance.now() + RESUME_MS; }
