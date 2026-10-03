@@ -298,6 +298,8 @@ try:
         for m in rm.json():
             if m.get("activo") is False or not m.get("logo"):
                 continue
+            if "BELLE" in _norm_marca(m.get("nombre")):  # nunca mostrar la marca de la distribuidora
+                continue
             logos[_norm_marca(m.get("nombre"))] = m["logo"]
         os.makedirs("img/marcas", exist_ok=True)
         conteo = {}
