@@ -565,3 +565,22 @@ body[data-theme="dark"] .stock-toggle-tk::after{background:var(--dg)}
 .match-badge{font-size:9px;font-weight:600;letter-spacing:.04em;color:#fff;background:var(--go);border-radius:100px;padding:2px 9px;line-height:1.6}
 @media(max-width:700px){.chip-groups{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:460px){.chip-groups{grid-template-columns:1fr}}
+/* ---- CARRUSEL DE MARCAS ---- */
+.mc{position:relative;max-width:1200px;margin:6px auto 30px;-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 14%,#000 86%,transparent 100%);mask-image:linear-gradient(90deg,transparent 0,#000 14%,#000 86%,transparent 100%)}
+.mc-scroll{display:flex;gap:4px;overflow-x:auto;overflow-y:hidden;padding:14px calc(50% - 48px) 8px;scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
+.mc-scroll::-webkit-scrollbar{display:none}
+.mc-it{flex:0 0 96px;display:flex;flex-direction:column;align-items:center;gap:9px;padding:0;background:none;border:0;cursor:pointer;color:inherit;opacity:.38;filter:grayscale(1);transform:scale(.84);transition:transform .35s var(--es),opacity .35s var(--e),filter .35s var(--e)}
+.mc-it.near{opacity:.72;filter:grayscale(.45);transform:scale(.92)}
+.mc-it.on,.mc-it.sel,.mc-it:hover,.mc-it:focus-visible{opacity:1;filter:none}
+.mc-it.on{transform:scale(1.1)}
+.mc-c{width:74px;height:74px;border-radius:50%;background:#fff;display:grid;place-items:center;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,.18);transition:box-shadow .35s var(--e)}
+.mc-c img{width:80%;height:80%;object-fit:contain}
+.mc-n{font:600 9.5px/1.2 var(--fb);letter-spacing:.09em;text-transform:uppercase;color:var(--gr);max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:color .35s var(--e)}
+.mc-it.on .mc-c{box-shadow:0 0 0 2px var(--gl),0 8px 26px rgba(184,150,90,.35)}
+.mc-it.on .mc-n{color:var(--go)}
+body[data-theme="dark"] .mc-it.on .mc-n{color:var(--gl)}
+.mc-it.sel .mc-c{box-shadow:0 0 0 3px var(--gl),0 8px 26px rgba(184,150,90,.45)}
+.mc-it:focus-visible{outline:none}
+.mc-it:focus-visible .mc-c{box-shadow:0 0 0 3px var(--gl)}
+@media(max-width:768px){.mc{margin:0 -20px 22px}.mc-scroll{padding:12px calc(50% - 40px) 6px}.mc-it{flex-basis:80px}.mc-c{width:62px;height:62px}.mc-n{font-size:8.5px}}
+@media(prefers-reduced-motion:reduce){.mc-it{transition:none}}
