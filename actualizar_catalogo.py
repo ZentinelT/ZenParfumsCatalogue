@@ -1,6 +1,9 @@
 import os
 import re
+import io
 import math
+import base64
+import unicodedata
 import json
 import requests
 import pandas as pd
@@ -276,6 +279,62 @@ novedades = {"nuevos": nuevos_ids, "restock": restock_ids}
 with open("data/novedades.json", "w", encoding="utf-8") as f:
     json.dump(novedades, f, ensure_ascii=False, indent=2)
 print(f"Novedades detectadas: {len(nuevos_ids)} nuevos, {len(restock_ids)} restock")
+
+# ---------- 3b. LOGOS DE MARCAS (tabla "marcas" de Belle) ----------
+# Baja los logos (guardados como base64 en Supabase), los achica a 128px webp
+# y los guarda en img/marcas/. data/marcas.json lista solo las marcas del catalogo.
+def _norm_marca(s):
+    s = unicodedata.normalize("NFD", str(s or "").upper())
+    s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
+    return re.sub(r"[^A-Z0-9]", "", s)
+
+marcas_json = []
+try:
+    from PIL import Image
+    rm = requests.get(API_URL.replace("/productos", "/marcas"), headers=headers,
+                      params={"select": "nombre,logo,activo,orden"})
+    if rm.status_code == 200:
+        logos = {}
+        for m in rm.json():
+            if m.get("activo") is False or not m.get("logo"):
+                continue
+            logos[_norm_marca(m.get("nombre"))] = m["logo"]
+        os.makedirs("img/marcas", exist_ok=True)
+        conteo = {}
+        for r in registros:
+            if r["c"] == "accesorios" or not r["b"]:
+                continue
+            conteo[r["b"]] = conteo.get(r["b"], 0) + 1
+        for marca in sorted(conteo):
+            raw = logos.get(_norm_marca(marca))
+            if not raw:
+                continue
+            try:
+                b64 = raw.split(",", 1)[1] if raw.startswith("data:") else raw
+                img = Image.open(io.BytesIO(base64.b64decode(b64))).convert("RGBA")
+                img.thumbnail((128, 128), Image.LANCZOS)
+                lienzo = Image.new("RGBA", (128, 128), (0, 0, 0, 0))
+                lienzo.paste(img, ((128 - img.width) // 2, (128 - img.height) // 2), img)
+                slug = re.sub(r"[^a-z0-9]+", "-", _norm_marca(marca).lower()) or "marca"
+                ruta = f"img/marcas/{slug}.webp"
+                buf = io.BytesIO()
+                lienzo.save(buf, "WEBP", quality=82, method=6)
+                nuevo = buf.getvalue()
+                if not (os.path.exists(ruta) and open(ruta, "rb").read() == nuevo):
+                    with open(ruta, "wb") as f:
+                        f.write(nuevo)
+                marcas_json.append({"b": marca, "logo": ruta, "n": conteo[marca]})
+            except Exception as e:
+                print(f"Logo con error ({marca}): {e}")
+        print(f"Logos de marcas: {len(marcas_json)} de {len(conteo)} marcas")
+    else:
+        print("No se pudo leer la tabla marcas:", rm.status_code)
+except Exception as e:
+    print("Logos de marcas omitidos:", e)
+
+if marcas_json:
+    with open("data/marcas.json", "w", encoding="utf-8") as f:
+        json.dump(marcas_json, f, ensure_ascii=False, indent=1)
 
 # ---------- 4. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
