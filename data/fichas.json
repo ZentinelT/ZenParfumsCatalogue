@@ -617,31 +617,6 @@
     ]
   },
   {
-    "nombre_completo": "TUBBEES - Tropical Island | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Unisex",
-    "familia_olfativa": "Frutal Tropical / Isla",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Piña, naranja, bergamota",
-    "notas_corazon": "Coco, maracuyá, flores blancas",
-    "notas_fondo": "Almizcle blanco, ámbar, sándalo.",
-    "descripcion": "Frutas tropicales. Coco, piña, mango. Veraniego y festivo.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 15-30 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Maahir Honor | EDP",
     "genero": "Masculino",
     "familia_olfativa": "Aromático, Cítrico, Fresco especiado, Verde, Amaderado",
@@ -1124,6 +1099,39 @@
     ]
   },
   {
+    "nombre_completo": "RASASI - Hawas Eclat | EDP",
+    "marca": "Rasasi",
+    "anno": "2023",
+    "concentracion": "EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Frutal",
+    "inspirado_en": "Parfums de Marly Delina Exclusif",
+    "notas_salida": "Lichi, Pera, Bergamota, Pistacho",
+    "notas_corazon": "Rosa, Incienso",
+    "notas_fondo": "Vainilla, Almizcle, Ámbar, Maderas",
+    "descripcion": "Es una fragancia que irradia luminosidad y alegría. A diferencia de la versión masculina que es más acuática, Hawas Eclat para mujer se centra en una apertura frutal vibrante que se transforma en un ramo floral blanco elegante y sofisticado, manteniendo una base limpia y ligeramente amaderada.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Uso diario, oficina y eventos sociales ",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Larga duración (7-9h)",
+    "estela": "Moderada",
+    "color_liquido": "Rosa suave",
+    "perfil_usuario": "Está dirigido a un público Femenino con un rango de edad de entre 20 a 50 años. Es ideal para la mujer moderna que prefiere perfumes que evocan limpieza, brillo y una feminidad contemporánea sin ser excesivamente dulce.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Está dirigido a un público Femenino con un rango de edad de entre Es ideal para la mujer moderna que prefiere perfumes que evocan limpieza, brillo y una feminidad contemporánea sin ser excesivamente dulce.",
+    "inspirado_en_nombre": "Parfums de Marly Delina Exclusif",
+    "inspiraciones": [
+      {
+        "texto": "Parfums de Marly Delina Exclusif",
+        "nombre": "Parfums de Marly Delina Exclusif",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Connoisseur Man | EDP",
     "genero": "Masculino",
     "familia_olfativa": "Fesco especiado, Fresco, Cítrico, Afrutados, Aldehidico, Ámbar, Aromático, Amaderado, Cálido especiado, Verde",
@@ -1421,6 +1429,37 @@
       {
         "texto": "Paco Rabanne 1 Million Gold",
         "nombre": "Paco Rabanne 1 Million Gold",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RASASI - Hawas Ice | EDP",
+    "marca": "Rasasi — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Frutal / Más dulce que OG",
+    "inspirado_en": "Paco Rabanne Invictus Aqua 2018 (más dulce y frutoso que el Hawas original)",
+    "notas_salida": "Manzana, limón, bergamota, Anís",
+    "notas_corazon": "Ciruela, flor de azahar, cardamomo",
+    "notas_fondo": "Almizcle, ámbar, driftwood, musgo",
+    "descripcion": "Similar al Hawas original pero más dulce y con manzana más prominente. Apertura de manzana verde-cardamomo muy fresca. Más aireado y \"wafting\" que el OG. Longevidad stellar (12-15h según reviewers). Las personas a su alrededor lo siguen oliendo horas después aunque el portador vaya noseblind.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano / Todo el año",
+    "ocasion": "Casual, gym, cotidiano",
+    "clima": "Calor / Todo",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga (9-12h)",
+    "estela": "Intensa",
+    "color_liquido": "Celeste hielo / cristalino",
+    "perfil_usuario": "Hombres 18-35 años. Frescos, activos. Si ya tenés Hawas OG, Ice es similar pero más dulce. No es necesario tener ambos.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Hombres Frescos, activos. Si ya tenés Hawas OG, Ice es similar pero más dulce. No es necesario tener ambos.",
+    "inspirado_en_nombre": "Paco Rabanne Invictus Aqua 2018",
+    "inspiraciones": [
+      {
+        "texto": "Paco Rabanne Invictus Aqua 2018 (más dulce y frutoso que el Hawas original)",
+        "nombre": "Paco Rabanne Invictus Aqua 2018",
         "imagen_url": ""
       }
     ]
@@ -7424,36 +7463,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Salvo | Elixir | 60ml",
-    "marca": "Maison Alhambra — UAE",
-    "familia_olfativa": "Especiado Amaderado / Sauvage Elixir DNA",
-    "inspirado_en": "Dior Sauvage Elixir (90% similar — mejor que Asad según algunos)",
-    "notas_salida": "Pomelo, canela, cardamomo, nuez moscada, lavanda, regaliz",
-    "notas_corazon": "Sándalo, ámbar",
-    "notas_fondo": "Vetiver, pachulí, ládano",
-    "descripcion": "Pomelo y cardamomo especiado sobre sándalo y vetiver. Más cerca al Sauvage Elixir que al Asad de Lattafa. Dura 4-8h en piel (variable) pero excelente en ropa. \"El más parecido al Sauvage Elixir\" según muchos.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, eventos, citas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Media-larga (4-8h variable)",
-    "estela": "Moderada-intensa",
-    "color_liquido": "Gris / plateado",
-    "perfil_usuario": "Hombres 20-45 años. Para fans de Sauvage Elixir.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres Para fans de Sauvage Elixir.",
-    "inspirado_en_nombre": "Dior Sauvage Elixir",
-    "inspiraciones": [
-      {
-        "texto": "Dior Sauvage Elixir (90% similar — mejor que Asad según algunos)",
-        "nombre": "Dior Sauvage Elixir",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Swiss Arabian - Shirley May Ki Ki 849 | EDT | 100ml",
     "marca": "Swiss Arabian — Dubai/Suiza",
     "genero": "Femenino",
@@ -7545,31 +7554,6 @@
     "rango_edad_min": 25,
     "rango_edad_max": 55,
     "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "TUBBEES - Bubble Gum | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Candy / Chicle Frutal",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Frutas, clavo de olor",
-    "notas_corazon": "Goma de mascar, naranja",
-    "notas_fondo": "Vainilla, pachulí, Cachemira",
-    "descripcion": "Chicle de frutillas. Dulce extremo. Gourmand candy puro.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 15-25 años. Candy lovers.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 25,
-    "estilo_descripcion": "Mujeres Candy lovers.",
     "inspirado_en_nombre": "Composición propia",
     "inspiraciones": [
       {
@@ -7695,6 +7679,31 @@
       {
         "texto": "(Inspirado en los perfiles más adictivos y lujosos de la perfumería de autor que combinan especias nobles con un fondo ambarado-caramelizado de rendimiento excepcional). Captura a la perfección ese ADN de \"calidez suntuosa y elegancia oriental\", ofreciendo una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
         "nombre": "Alta Perfumería Oriental de Lujo / Estilo \"Spicy-Caramel & Amber Powerhouse\""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Bubble Gum | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Candy / Chicle Frutal",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Frutas, clavo de olor",
+    "notas_corazon": "Goma de mascar, naranja",
+    "notas_fondo": "Vainilla, pachulí, Cachemira",
+    "descripcion": "Chicle de frutillas. Dulce extremo. Gourmand candy puro.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 15-25 años. Candy lovers.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 25,
+    "estilo_descripcion": "Mujeres Candy lovers.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
@@ -8033,81 +8042,6 @@
     ]
   },
   {
-    "nombre_completo": "Tubbees - Cherry Luxe | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Frutal / Cereza Lujosa",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Cereza, Frutos rojos, Heliotropo",
-    "notas_corazon": "Jazmín, Haba tonka, Sándalo",
-    "notas_fondo": "Almizcle, Ámbar gris, Vainilla",
-    "descripcion": "Cereza luxe — versión más refinada de la cereza candy.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 18-35 años.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Tubbees - Chocolate Fudge | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Unisex",
-    "familia_olfativa": "Gourmand / Fudge de Chocolate",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Chocolate, Avellana, Dulce de leche",
-    "notas_corazon": "chocolate, Crema, Caramelo, Almendra",
-    "notas_fondo": "Praliné, Vainilla, Sándalo, Amberwood",
-    "descripcion": "Fudge de chocolate denso y cremoso. Gourmand extremo.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 18-35 años.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "TUBBEES - Pink Sugar | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Candy / Azúcar Rosa",
-    "inspirado_en": "Aquolina Pink Sugar",
-    "notas_salida": "Lirio de los valles, coco, durazno, sándalo",
-    "notas_corazon": "Flores blancas, caramelo, arroz",
-    "notas_fondo": "Almizcle, haba tonka, sándalo, leche",
-    "descripcion": "Azúcar rosa y caramelo. Inspirado en el famoso Pink Sugar de Aquolina. Muy dulce y candy.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 15-30 años. Candy, azúcar.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres Candy, azúcar.",
-    "inspirado_en_nombre": "Aquolina Pink Sugar",
-    "inspiraciones": [
-      {
-        "texto": "Aquolina Pink Sugar",
-        "nombre": "Aquolina Pink Sugar",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "RASASI - Hawas Chrome | EDP",
     "genero": "Unisex",
     "familia_olfativa": "Afrutados, Dulce, Tropical, Almizclado, Ámbar, Atalcado, Fresco",
@@ -8163,6 +8097,81 @@
       {
         "texto": "Creed Aventus",
         "nombre": "Creed Aventus",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Cherry Luxe | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal / Cereza Lujosa",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Cereza, Frutos rojos, Heliotropo",
+    "notas_corazon": "Jazmín, Haba tonka, Sándalo",
+    "notas_fondo": "Almizcle, Ámbar gris, Vainilla",
+    "descripcion": "Cereza luxe — versión más refinada de la cereza candy.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 18-35 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Chocolate Fudge | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Unisex",
+    "familia_olfativa": "Gourmand / Fudge de Chocolate",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Chocolate, Avellana, Dulce de leche",
+    "notas_corazon": "chocolate, Crema, Caramelo, Almendra",
+    "notas_fondo": "Praliné, Vainilla, Sándalo, Amberwood",
+    "descripcion": "Fudge de chocolate denso y cremoso. Gourmand extremo.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Hombres y mujeres 18-35 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Hombres y mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Pink Sugar | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Candy / Azúcar Rosa",
+    "inspirado_en": "Aquolina Pink Sugar",
+    "notas_salida": "Lirio de los valles, coco, durazno, sándalo",
+    "notas_corazon": "Flores blancas, caramelo, arroz",
+    "notas_fondo": "Almizcle, haba tonka, sándalo, leche",
+    "descripcion": "Azúcar rosa y caramelo. Inspirado en el famoso Pink Sugar de Aquolina. Muy dulce y candy.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 15-30 años. Candy, azúcar.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Mujeres Candy, azúcar.",
+    "inspirado_en_nombre": "Aquolina Pink Sugar",
+    "inspiraciones": [
+      {
+        "texto": "Aquolina Pink Sugar",
+        "nombre": "Aquolina Pink Sugar",
         "imagen_url": ""
       }
     ]
@@ -8440,31 +8449,6 @@
     ]
   },
   {
-    "nombre_completo": "Tubbees - Dreamy Treats | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Gourmand / Sueño Dulce",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Lirio de los valles, Coco, Durazno, Sándalo",
-    "notas_corazon": "Flores blancas, Arroz, Caramelo",
-    "notas_fondo": "Leche, Almizcle, Sándalo, Haba tonka",
-    "descripcion": "Mix de treats dulces. Frutal-gourmand suave.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 15-30 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Mayar Cherry Intense | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -8493,6 +8477,31 @@
         "texto": "Toma la aclamada tendencia del \"ADN de cereza negra\" y la transforma, alejándose del perfil alicorado (licor/almendra) para enfocarse en un perfil más frutal y chocolatoso (\"mermelada de cereza con cacao y frutillas\").",
         "nombre": "Tom Ford Lost Cherry",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51411.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Dreamy Treats | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Sueño Dulce",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Lirio de los valles, Coco, Durazno, Sándalo",
+    "notas_corazon": "Flores blancas, Arroz, Caramelo",
+    "notas_fondo": "Leche, Almizcle, Sándalo, Haba tonka",
+    "descripcion": "Mix de treats dulces. Frutal-gourmand suave.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 15-30 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
@@ -8593,31 +8602,6 @@
     ]
   },
   {
-    "nombre_completo": "TUBBEES - Pistachio Kunafa | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Unisex",
-    "familia_olfativa": "Gourmand / Postre Árabe",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Pistacho, caramelo",
-    "notas_corazon": "Vainilla, masa horneada",
-    "notas_fondo": "Ámbar, caramelo, almizcle",
-    "descripcion": "Kunafa de pistacho — postre árabe icónico. La tendencia Dubai 2024 en fragancia.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 18-35 años. Pistacho lovers.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Hombres y mujeres Pistacho lovers.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "FRENCH AVENUE - Atlantis | Extrait de Parfum",
     "marca": "French Avenue (Fragrance World) — Dubai",
     "genero": "Unisex",
@@ -8676,31 +8660,6 @@
       {
         "texto": "Inspiración en la línea de frescura mediterránea de ultra lujo (en la línea de grandes éxitos veraniegos como Mandarino di Amalfi de Tom Ford o la frescura cítrica-gengibre de Imagination de Louis Vuitton). Captura al 100% ese ADN de \"vacaciones de lujo\", evocando una camisa de lino blanca impecable, sol de tarde y un estatus de limpieza premium inigualable. Armaf agarra este concepto refrescante y lo dota de una base fijadora de almizcle y ámbar que estira la vida de los cítricos de forma espectacular.",
         "nombre": "Composición propia"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "TUBBEES - Titans Splash | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Masculino",
-    "familia_olfativa": "Acuático / Titán",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Grosella negra, bergamota, pera",
-    "notas_corazon": "Flor de azahar del naranjo, ylang-ylang, jazmín, violeta, azucena",
-    "notas_fondo": "Cedro, ámbar, almizcle, musgo",
-    "descripcion": "Acuático fresco masculino. El más masculino de Tubbees.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres 18-35 años.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Hombres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
       }
     ]
   },
@@ -8765,6 +8724,31 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias femeninas más elogiadas, modernas y codiciadas del mundo de la alta costura. Captura a la perfección ese ADN inconfundible de \"salida frutal de pera combinada con un corazón radiante de azahar y neroli, sobre un fondo avainillado y ambarado de altísima calidad\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
         "nombre": "Prada Paradoxe de Prada",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75668.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Titans Splash | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Acuático / Titán",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Grosella negra, bergamota, pera",
+    "notas_corazon": "Flor de azahar del naranjo, ylang-ylang, jazmín, violeta, azucena",
+    "notas_fondo": "Cedro, ámbar, almizcle, musgo",
+    "descripcion": "Acuático fresco masculino. El más masculino de Tubbees.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Hombres 18-35 años.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Hombres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
@@ -9317,6 +9301,34 @@
     ]
   },
   {
+    "nombre_completo": "VICTORIA SECRET - Body Splash - Pure Seduction",
+    "marca": "Victoria's Secret — USA",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal / Ciruela Magnolia",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Ciruela",
+    "notas_corazon": "Magnolia, jazmín",
+    "descripcion": "Ciruela dulce con magnolia. Seductor y frutal. Para el verano.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, cotidiano",
+    "clima": "Calor",
+    "duracion": "Corta (body splash)",
+    "estela": "Discreta",
+    "perfil_usuario": "Mujeres 15-35 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "MAISON ALHAMBRA - L'intrude | EDP",
     "marca": "Maison Alhambra — UAE",
     "genero": "Femenino",
@@ -9344,34 +9356,6 @@
         "texto": "Réplica de precisión quirúrgica de uno de los perfumes femeninos más icónicos, premiados y deseados del mundo. Captura a la perfección ese codiciado ADN de \"flores blancas prohibidas e intensas contrapuestas a una base oscura de pachulí y ambroxan\", entregando una alternativa accesible con un rendimiento y presencia impecables.",
         "nombre": "L'Interdit Eau de Parfum de Givenchy",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51488.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Victoria Secret - Body Splash - Pure Seduction | 250ml",
-    "marca": "Victoria's Secret — USA",
-    "genero": "Femenino",
-    "familia_olfativa": "Frutal / Ciruela Magnolia",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Ciruela",
-    "notas_corazon": "Magnolia, jazmín",
-    "descripcion": "Ciruela dulce con magnolia. Seductor y frutal. Para el verano.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, cotidiano",
-    "clima": "Calor",
-    "duracion": "Corta (body splash)",
-    "estela": "Discreta",
-    "perfil_usuario": "Mujeres 15-35 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
       }
     ]
   },
@@ -10075,39 +10059,6 @@
       {
         "texto": "Creación original",
         "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "TUBBEES - Pacificrim | EDP | 50ml",
-    "marca": "TUBBEES",
-    "anno": "2023",
-    "concentracion": "EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Floral Frutal",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Melon, durazno, mandarina, manzana",
-    "notas_corazon": "Notas afrutadas, violeta, lirio de los valles, jazmín, orquídea, raiz de lirio, rosa",
-    "notas_fondo": "Almizcle, cedro, vetiver",
-    "descripcion": "Es una fragancia vibrante y refrescante que evoca un paraíso tropical. Destaca por su apertura intensamente frutal y jugosa, que evoluciona hacia un corazón floral complejo y delicado, para finalmente asentarse en una base limpia y amaderada que aporta equilibrio y durabilidad.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, trabajo, Actividades al aire libre y uso diario informal.",
-    "clima": "Templado / Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media (4-6h)",
-    "estela": "Moderada",
-    "color_liquido": "Dorado claro / champagne",
-    "perfil_usuario": "Público joven y adolescente (12 a 25 años) que busca una fragancia alegre, energética y fácil de llevar.",
-    "rango_edad_min": 12,
-    "rango_edad_max": 25,
-    "estilo_descripcion": "Público joven y adolescente () que busca una fragancia alegre, energética y fácil de llevar.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -10880,37 +10831,6 @@
     ]
   },
   {
-    "nombre_completo": "MAISON ALHAMBRA - Glacier Bella | EDP",
-    "marca": "Maison Alhambra — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral Especiado / Femenino Glaciar",
-    "inspirado_en": "Jean Paul Gaultier La Belle",
-    "notas_salida": "Lavanda, menta, bergamota, cardamomo",
-    "notas_corazon": "Lavanda, vainilla",
-    "notas_fondo": "Vainilla, Benjuí, maderas",
-    "descripcion": "Versión femenina del DNA Glacier. Floral especiado con vainilla. Para las noches de invierno femeninas.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, citas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada-baja (se va nose-blind rápido)",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Azul / celeste",
-    "perfil_usuario": "Hombres 20-40 años. Para fans de Le Male / Spicebomb a bajo precio.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Para fans de Le Male / Spicebomb a bajo precio.",
-    "inspirado_en_nombre": "Jean Paul Gaultier La Belle",
-    "inspiraciones": [
-      {
-        "texto": "Jean Paul Gaultier La Belle",
-        "nombre": "Jean Paul Gaultier La Belle",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "AL WATANIAH - Sabah Al Ward Sugar | EDP",
     "marca": "Al Wataniah — UAE",
     "genero": "Femenino",
@@ -11145,37 +11065,6 @@
       {
         "texto": "YSL Y EDP (90% similar — considerado el mejor clone disponible del Y EDP)",
         "nombre": "YSL Y EDP",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "TUBBEES - Berry Blast | EDP | 50ml",
-    "marca": "Tubbees",
-    "anno": "2024",
-    "concentracion": "EDP",
-    "genero": "Femenino",
-    "familia_olfativa": "Chipre Frutal.",
-    "inspirado_en": "Si de Giorgio Armani",
-    "notas_salida": "Grosella negra, bergamota, fresia",
-    "notas_corazon": "Pachulí, rosa, jazmín",
-    "notas_fondo": "Almizcle, vainilla",
-    "descripcion": "Berry Blast es una fragancia sofisticada y envolvente que rinde homenaje a la elegancia moderna. Su apertura es una explosión vibrante de grosellas negras y bergamota que aporta una frescura frutal inmediata. En el corazón, la delicadeza de la rosa y el jazmín se entrelazan con la profundidad del pachulí, creando un aura de feminidad segura y chic. Finalmente, su fondo de vainilla y almizcle deja una estela dulce, cremosa y persistente que se siente como una caricia en la piel, ideal para quien busca dejar una impresión memorable y refinada.",
-    "momento_dia": "Día / Noche",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Trabajo, reuniones sociales, cenas románticas",
-    "clima": "Templado / Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media (4-6h)",
-    "estela": "Moderada",
-    "color_liquido": "Dorado claro / champagne",
-    "perfil_usuario": "Este perfume es ideal para la mujer que busca un equilibrio entre la dulzura frutal y la elegancia floral. Es una excelente adición a tu inventario de fragancias árabes, ya que ofrece una interpretación de alta calidad de un perfil olfativo tipo \"Si\", muy valorado por su versatilidad para el uso diario o eventos especiales. Es perfecto para clientas que prefieren aromas con presencia, pero con un secado suave y seductor.",
-    "estilo_descripcion": "Este perfume es ideal para la mujer que busca un equilibrio entre la dulzura frutal y la elegancia floral. Es una excelente adición a tu inventario de fragancias árabes, ya que ofrece una interpretación de alta calidad de un perfil olfativo tipo \"Si\", muy valorado por su versatilidad para el uso diario o eventos especiales. Es perfecto para clientas que prefieren aromas con presencia, pero con un secado suave y seductor.",
-    "inspirado_en_nombre": "Giorgio Armani Sì",
-    "inspiraciones": [
-      {
-        "texto": "Si de Giorgio Armani",
-        "nombre": "Giorgio Armani Sì",
         "imagen_url": ""
       }
     ]
@@ -11758,37 +11647,6 @@
     ]
   },
   {
-    "nombre_completo": "Sabrina Carpenter - Sweet Tooth | EDP | 75ml",
-    "marca": "Sabrina Carpenter",
-    "genero": "Femenino",
-    "familia_olfativa": "Dulce, Avainillado, Atalcado, Almizclado, Lactonico",
-    "inspirado_en": "Fresh Cream Warm Cashmere Philosophy",
-    "notas_salida": "malvavisco, chocolate, jengibre confitado, bergamota",
-    "notas_corazon": "vainilla, leche de coco, jazmín",
-    "notas_fondo": "crema batida, azúcar, almizcle, cachemira",
-    "descripcion": "​Es como un abrazo dulce en un día frío. Sweet Tooth abre con una nota hiperrealista de chocolate blanco y malvaviscos esponjosos, que rápidamente se funde en un corazón de leche de coco y vainilla tibia. El secado se siente como una nube de crema batida y cachemira. No es un dulce pesado o empalagoso que sature; es un aroma suave, tierno, cremoso y extremadamente reconfortante que dan ganas de oler todo el tiempo.",
-    "momento_dia": "Día / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Uso diario, Escuela/Universidad, Salidas casuales, Tardes de películas en casa",
-    "clima": "Templado / Frío",
-    "proyeccion": "Moderada",
-    "duracion": "Media (5-6h)",
-    "estela": "Discreta",
-    "color_liquido": "Blanco translucido",
-    "perfil_usuario": "​Para chicas coquetas, tiernas y amantes de los aromas dulces sutiles y \"esponjosos\". Es ideal para quien busca un perfume que transmita calidez, inocencia y una vibra limpia pero deliciosamente comestible. Perfecta para usar después de bañarse, para ir a estudiar o para días relajados. De 12 a 30 años.",
-    "rango_edad_min": 12,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "​Para chicas coquetas, tiernas y amantes de los aromas dulces sutiles y \"esponjosos\". Es ideal para quien busca un perfume que transmita calidez, inocencia y una vibra limpia pero deliciosamente comestible. Perfecta para usar después de bañarse, para ir a estudiar o para días relajados. De",
-    "inspirado_en_nombre": "Philosophy Fresh Cream Warm Cashmere",
-    "inspiraciones": [
-      {
-        "texto": "Fresh Cream Warm Cashmere Philosophy",
-        "nombre": "Philosophy Fresh Cream Warm Cashmere",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Armaf - Odyssey Aqua | EDP | 100ml",
     "marca": "Armaf — India",
     "anno": "2023",
@@ -11821,6 +11679,31 @@
     ]
   },
   {
+    "nombre_completo": "TUBBEES - Cookies & Cream | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Galleta con Crema",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Manteca, Azúcar",
+    "notas_corazon": "Leche, Chocolate",
+    "notas_fondo": "Vainilla, Almizcle blanco",
+    "descripcion": "Galleta Oreo con crema. Vainilla y cacao. El más popular de Tubbees.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 15-30 años. Gourmand.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Mujeres Gourmand.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "HUGO BOSS - Bottled Night | EDT",
     "marca": "Hugo Boss — Alemania",
     "genero": "Masculino",
@@ -11846,31 +11729,6 @@
       {
         "texto": "Creación original",
         "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Tubbees - Cookies & Cream | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Gourmand / Galleta con Crema",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Manteca, Azúcar",
-    "notas_corazon": "Leche, Chocolate",
-    "notas_fondo": "Vainilla, Almizcle blanco",
-    "descripcion": "Galleta Oreo con crema. Vainilla y cacao. El más popular de Tubbees.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 15-30 años. Gourmand.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres Gourmand.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -12120,6 +11978,37 @@
     ]
   },
   {
+    "nombre_completo": "SABRINA CARPENTER - Sweet Tooth Caramel Dream | EDP",
+    "marca": "SABRINA CARPENTER",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Caramelo, Avainillado, Cálido especiado, Atalcado, Amaderado, Cacao, Pachulí, Almendrado, Balsámico",
+    "inspirado_en": "Eilish de Billie Eilish",
+    "notas_salida": "azúcar, leche de almendras, naranja, fresia, limón",
+    "notas_corazon": "chocolate, vainilla, flor de azahar del naranjo, orquídea",
+    "notas_fondo": "caramelo, pachuli, sándalo, almizcle, ámbar",
+    "descripcion": "​Una delicia oscura y magnética. Caramel Dream abre con una nota intensa de caramelo tostado y almendras dulces que rápidamente se funde en un corazón exquisito de chocolate oscuro y vainilla. El secado es lo mejor de la fragancia: una mezcla cálida de sándalo, ámbar y pachulí suave que transforma la dulzura en un aroma maduro, sensual y misterioso. Es seductor, reconfortante y con una textura de postre premium.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, Salidas nocturnas, Fiestas informales, Eventos donde quieras llamar la atención dulcemente",
+    "clima": "Templado / Frío",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga (6 a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Marron ambar muy clarito",
+    "perfil_usuario": "​Para mujeres y chicas que aman los perfumes dulces pero buscan algo con más carácter, misterio y sensualidad para la noche. Ideal para quienes disfrutan de las notas de chocolate amargo y caramelo, y quieren una fragancia que se sienta como un abrigo cálido y sofisticado. De 17 a 38 años",
+    "rango_edad_min": 17,
+    "rango_edad_max": 38,
+    "estilo_descripcion": "​Para mujeres y chicas que aman los perfumes dulces pero buscan algo con más carácter, misterio y sensualidad para la noche. Ideal para quienes disfrutan de las notas de chocolate amargo y caramelo, y quieren una fragancia que se sienta como un abrigo cálido y sofisticado. De",
+    "inspirado_en_nombre": "Billie Eilish Eilish",
+    "inspiraciones": [
+      {
+        "texto": "Eilish de Billie Eilish",
+        "nombre": "Billie Eilish Eilish",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "F. AVENUE - After Effect | EDP | 80ml",
     "marca": "French Avenue",
     "anno": "2024",
@@ -12147,36 +12036,6 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Sabrina Carpenter - Sweet Tooth Caramel Dream | EDP | 75ml",
-    "genero": "Femenino",
-    "familia_olfativa": "Dulce, Caramelo, Avainillado, Cálido especiado, Atalcado, Amaderado, Cacao, Pachulí, Almendrado, Balsámico",
-    "inspirado_en": "Eilish de Billie Eilish",
-    "notas_salida": "azúcar, leche de almendras, naranja, fresia, limón",
-    "notas_corazon": "chocolate, vainilla, flor de azahar del naranjo, orquídea",
-    "notas_fondo": "caramelo, pachuli, sándalo, almizcle, ámbar",
-    "descripcion": "​Una delicia oscura y magnética. Caramel Dream abre con una nota intensa de caramelo tostado y almendras dulces que rápidamente se funde en un corazón exquisito de chocolate oscuro y vainilla. El secado es lo mejor de la fragancia: una mezcla cálida de sándalo, ámbar y pachulí suave que transforma la dulzura en un aroma maduro, sensual y misterioso. Es seductor, reconfortante y con una textura de postre premium.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas románticas, Salidas nocturnas, Fiestas informales, Eventos donde quieras llamar la atención dulcemente",
-    "clima": "Templado / Frío",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga (6 a 8h)",
-    "estela": "Moderada",
-    "color_liquido": "Marron ambar muy clarito",
-    "perfil_usuario": "​Para mujeres y chicas que aman los perfumes dulces pero buscan algo con más carácter, misterio y sensualidad para la noche. Ideal para quienes disfrutan de las notas de chocolate amargo y caramelo, y quieren una fragancia que se sienta como un abrigo cálido y sofisticado. De 17 a 38 años",
-    "rango_edad_min": 17,
-    "rango_edad_max": 38,
-    "estilo_descripcion": "​Para mujeres y chicas que aman los perfumes dulces pero buscan algo con más carácter, misterio y sensualidad para la noche. Ideal para quienes disfrutan de las notas de chocolate amargo y caramelo, y quieren una fragancia que se sienta como un abrigo cálido y sofisticado. De",
-    "inspirado_en_nombre": "Billie Eilish Eilish",
-    "inspiraciones": [
-      {
-        "texto": "Eilish de Billie Eilish",
-        "nombre": "Billie Eilish Eilish",
         "imagen_url": ""
       }
     ]
@@ -12266,35 +12125,6 @@
       {
         "texto": "Variante oscura de QAF con caramelo y especias",
         "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Sabrina Carpenter - Sweet Tooth Cherry Baby | EDP | 75ml",
-    "genero": "Femenino",
-    "familia_olfativa": "Dulce, Acerezado, Afrutados, Ámbar, Almizclado, Chocolate, Cálido especiado",
-    "inspirado_en": "Lost Cherry de Tom Ford",
-    "notas_salida": "cereza, azúcar moreno, ciruela, manzana",
-    "notas_corazon": "chocolate, amapola roja, orquídea de vainilla, peonia",
-    "notas_fondo": "almizcle, cachemira, ámbar, pachuli, resina",
-    "descripcion": "Una tentación frutal y cremosa. Cherry Baby abre con una nota hiperrealista de cerezas maduras y licor dulce que te atrapa de inmediato. Rápidamente, el aroma evoluciona hacia un corazón delicioso donde la cereza se sumerge en chocolate con leche derretido y flores rojas. El secado es una nube tibia de vainilla, cachemira y ámbar. Es jugoso, magnético, dulce y con una vibra coqueta que se siente divertida y sensual a la vez.",
-    "momento_dia": "Día / Noche (Es súper versátil. Su lado jugoso va genial de tarde y su fondo de chocolate y licor rinde hermoso de noche)",
-    "estacion": "Otoño / Invierno / Primavera (La cereza y el chocolate se disfrutan al máximo con temperaturas templadas o frescas).",
-    "ocasion": "Citas, Salidas con amigas, Fiestas informales, Uso diario si te gusta llamar la atención dulcemente.",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga duración (6-8h)",
-    "estela": "Moderada",
-    "color_liquido": "Rojo cereza translúcido / Rosado intenso",
-    "perfil_usuario": "Para mujeres y chicas audaces, coquetas y fanáticas de las fragancias frutales intensas. Ideal para quienes aman la nota de cereza pero buscan una alternativa cremosa, tipo postre o bombón, que sea hiperfemenina y genere cumplidos al instante. De 15 a 35 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Para mujeres y chicas audaces, coquetas y fanáticas de las fragancias frutales intensas. Ideal para quienes aman la nota de cereza pero buscan una alternativa cremosa, tipo postre o bombón, que sea hiperfemenina y genere cumplidos al instante. De",
-    "inspirado_en_nombre": "Tom Ford Lost Cherry",
-    "inspiraciones": [
-      {
-        "texto": "Lost Cherry de Tom Ford",
-        "nombre": "Tom Ford Lost Cherry",
         "imagen_url": ""
       }
     ]
@@ -12664,6 +12494,38 @@
     ]
   },
   {
+    "nombre_completo": "MONTBLANC - Starwalker | EDT",
+    "marca": "Montblanc",
+    "anno": "2005",
+    "concentracion": "EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Amaderada Especiada",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Bambú, Bergamota, Mandarina",
+    "notas_corazon": "Almizcle blanco, Sándalo, Cedro",
+    "notas_fondo": "Jengibre, Resina de abeto, Nuez moscada, Ámbar",
+    "descripcion": "Es una fragancia excepcionalmente limpia, sutil y moderna. Se distingue por su nota de bambú que aporta una frescura verde y acuática única, complementada por un fondo amaderado suave y un toque de jengibre. Es un aroma que evoca calma, profesionalismo y una sofisticación sin esfuerzo.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Oficina, entornos cerrados, uso diario casual y climas calurosos",
+    "clima": "Calor / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Media (4-6h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente",
+    "perfil_usuario": "Está dirigido a un público Masculino con un rango de edad de entre 20 a 50 años. Ideal para profesionales que buscan un aroma que no sea invasivo, que proyecte una imagen de pulcritud, serenidad y modernidad en el día a día.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Está dirigido a un público Masculino con un rango de edad de entre Ideal para profesionales que buscan un aroma que no sea invasivo, que proyecte una imagen de pulcritud, serenidad y modernidad en el día a día.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Maison Alhambra - Luxe Emerald | EDP | 100ml",
     "familia_olfativa": "Florales, Fresco, Cítrico, Rosas, Afrutados",
     "inspirado_en": "Greenwich Village de Bond No 9",
@@ -12947,6 +12809,37 @@
     ]
   },
   {
+    "nombre_completo": "MAISON ALHAMBRA - Salvo | Elixir",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Masculino",
+    "familia_olfativa": "Especiado Amaderado / Sauvage Elixir DNA",
+    "inspirado_en": "Dior Sauvage Elixir (90% similar — mejor que Asad según algunos)",
+    "notas_salida": "Pomelo, canela, cardamomo, nuez moscada, lavanda, regaliz",
+    "notas_corazon": "Sándalo, ámbar",
+    "notas_fondo": "Vetiver, pachulí, ládano",
+    "descripcion": "Pomelo y cardamomo especiado sobre sándalo y vetiver. Más cerca al Sauvage Elixir que al Asad de Lattafa. Dura 4-8h en piel (variable) pero excelente en ropa. \"El más parecido al Sauvage Elixir\" según muchos.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas, eventos, citas",
+    "clima": "Frío / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Media-larga (4-8h variable)",
+    "estela": "Moderada-intensa",
+    "color_liquido": "Gris / plateado",
+    "perfil_usuario": "Hombres 20-45 años. Para fans de Sauvage Elixir.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Hombres Para fans de Sauvage Elixir.",
+    "inspirado_en_nombre": "Dior Sauvage Elixir",
+    "inspiraciones": [
+      {
+        "texto": "Dior Sauvage Elixir (90% similar — mejor que Asad según algunos)",
+        "nombre": "Dior Sauvage Elixir",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "RAYHAAN - Pacific Aura | EDP | 100ml",
     "genero": "Masculino",
     "familia_olfativa": "Cítrico, Verde, Aromático, Fesco especiado, Afrutados, Ámbar",
@@ -12972,36 +12865,6 @@
       {
         "texto": "Pacific Chill de Louis Vuitton",
         "nombre": "Louis Vuitton Pacific Chill",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Rasasi - Hawas Ice | EDP | 100ml",
-    "marca": "Rasasi — Dubai",
-    "familia_olfativa": "Aromático Frutal / Más dulce que OG",
-    "inspirado_en": "Paco Rabanne Invictus Aqua 2018 (más dulce y frutoso que el Hawas original)",
-    "notas_salida": "Manzana, limón, bergamota, Anís",
-    "notas_corazon": "Ciruela, flor de azahar, cardamomo",
-    "notas_fondo": "Almizcle, ámbar, driftwood, musgo",
-    "descripcion": "Similar al Hawas original pero más dulce y con manzana más prominente. Apertura de manzana verde-cardamomo muy fresca. Más aireado y \"wafting\" que el OG. Longevidad stellar (12-15h según reviewers). Las personas a su alrededor lo siguen oliendo horas después aunque el portador vaya noseblind.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano / Todo el año",
-    "ocasion": "Casual, gym, cotidiano",
-    "clima": "Calor / Todo",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga (9-12h)",
-    "estela": "Intensa",
-    "color_liquido": "Celeste hielo / cristalino",
-    "perfil_usuario": "Hombres 18-35 años. Frescos, activos. Si ya tenés Hawas OG, Ice es similar pero más dulce. No es necesario tener ambos.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Hombres Frescos, activos. Si ya tenés Hawas OG, Ice es similar pero más dulce. No es necesario tener ambos.",
-    "inspirado_en_nombre": "Paco Rabanne Invictus Aqua 2018",
-    "inspiraciones": [
-      {
-        "texto": "Paco Rabanne Invictus Aqua 2018 (más dulce y frutoso que el Hawas original)",
-        "nombre": "Paco Rabanne Invictus Aqua 2018",
         "imagen_url": ""
       }
     ]
@@ -13069,6 +12932,39 @@
     ]
   },
   {
+    "nombre_completo": "TUBBEES - Pacificrim | EDP",
+    "marca": "TUBBEES",
+    "anno": "2023",
+    "concentracion": "EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Floral Frutal",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Melon, durazno, mandarina, manzana",
+    "notas_corazon": "Notas afrutadas, violeta, lirio de los valles, jazmín, orquídea, raiz de lirio, rosa",
+    "notas_fondo": "Almizcle, cedro, vetiver",
+    "descripcion": "Es una fragancia vibrante y refrescante que evoca un paraíso tropical. Destaca por su apertura intensamente frutal y jugosa, que evoluciona hacia un corazón floral complejo y delicado, para finalmente asentarse en una base limpia y amaderada que aporta equilibrio y durabilidad.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, trabajo, Actividades al aire libre y uso diario informal.",
+    "clima": "Templado / Calor",
+    "proyeccion": "Moderada",
+    "duracion": "Media (4-6h)",
+    "estela": "Moderada",
+    "color_liquido": "Dorado claro / champagne",
+    "perfil_usuario": "Público joven y adolescente (12 a 25 años) que busca una fragancia alegre, energética y fácil de llevar.",
+    "rango_edad_min": 12,
+    "rango_edad_max": 25,
+    "estilo_descripcion": "Público joven y adolescente () que busca una fragancia alegre, energética y fácil de llevar.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Yum Yum | EDP",
     "marca": "Armaf",
     "genero": "Femenino",
@@ -13095,6 +12991,31 @@
       {
         "texto": "Yum Pistachio Gelato 33 de Kayali",
         "nombre": "Kayali Yum Pistachio Gelato 33",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Pistachio Kunafa | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Unisex",
+    "familia_olfativa": "Gourmand / Postre Árabe",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Pistacho, caramelo",
+    "notas_corazon": "Vainilla, masa horneada",
+    "notas_fondo": "Ámbar, caramelo, almizcle",
+    "descripcion": "Kunafa de pistacho — postre árabe icónico. La tendencia Dubai 2024 en fragancia.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Hombres y mujeres 18-35 años. Pistacho lovers.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Hombres y mujeres Pistacho lovers.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -13389,6 +13310,31 @@
     ]
   },
   {
+    "nombre_completo": "TUBBEES - Sweet Caramel | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Caramelo",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Crema, Manteca, Nuez",
+    "notas_corazon": "Leche, Vainilla",
+    "notas_fondo": "Vainilla, Haba tonka",
+    "descripcion": "Caramelo puro y envolvente. Clásico gourmand Tubbees.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 15-30 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Tag Donna Colorata | EDP | 100ml",
     "genero": "Femenino",
     "familia_olfativa": "Cítrico, Afrutados, Avainillado, Animálico, Aromático, Ámbar, Amaderado, Verde, Dulce",
@@ -13414,6 +13360,31 @@
       {
         "texto": "Libre Yves Saint Laurent",
         "nombre": "Yves Saint Laurent Libre",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Tropical Island | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Unisex",
+    "familia_olfativa": "Frutal Tropical / Isla",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Piña, naranja, bergamota",
+    "notas_corazon": "Coco, maracuyá, flores blancas",
+    "notas_fondo": "Almizcle blanco, ámbar, sándalo.",
+    "descripcion": "Frutas tropicales. Coco, piña, mango. Veraniego y festivo.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Hombres y mujeres 15-30 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Hombres y mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -13840,33 +13811,7 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Victoria | EDP | 100 ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "anno": "2024",
-    "genero": "Femenino",
-    "familia_olfativa": "Frutal Floral / Limón Merengue",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Limón, neroli",
-    "notas_corazon": "Rosa, jazmín",
-    "notas_fondo": "Vainilla, almizcle",
-    "descripcion": "Tarta de limón merengue con neroli. Fresco-gourmand. Alegre y optimista.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 18-35 años. Alegres, cítricas.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Alegres, cítricas.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Versace - Dylan Blue | EDT | 100 ml",
+    "nombre_completo": "VERSACE - Dylan Blue | EDT",
     "marca": "Versace — Italia",
     "anno": "2016",
     "concentracion": "EDT",
@@ -13893,6 +13838,32 @@
       {
         "texto": "Creación original",
         "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "Lattafa - Victoria | EDP | 100 ml",
+    "marca": "Lattafa Perfumes — Dubai",
+    "anno": "2024",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Floral / Limón Merengue",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Limón, neroli",
+    "notas_corazon": "Rosa, jazmín",
+    "notas_fondo": "Vainilla, almizcle",
+    "descripcion": "Tarta de limón merengue con neroli. Fresco-gourmand. Alegre y optimista.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 18-35 años. Alegres, cítricas.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres Alegres, cítricas.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -14008,8 +13979,40 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Leonie | EDP | 100ml",
+    "nombre_completo": "TUBBEES - Unicorn Vanilla | EDP",
+    "marca": "TUBBEES",
+    "anno": "2023",
+    "concentracion": "EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Ámbar Vainilla",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Citricos, grosella negra, bayas de asaí",
+    "notas_corazon": "Flores blancas, té matcha, rosa",
+    "notas_fondo": "Vainilla, algodón de azúcar, sándalo",
+    "descripcion": "Es una fragancia extremadamente dulce, cremosa y juguetona. Combina una apertura frutal y vibrante con un corazón suave de té matcha, desembocando en una base cálida y \"gourmand\" dominada por la vainilla y el algodón de azúcar que recuerda a una feria de dulces.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año (especialmente Primavera y Otoño)",
+    "ocasion": "Casual, trabajo, Salidas con amigos o eventos informales por la tarde.",
+    "clima": "Templano / Calor",
+    "proyeccion": "Moderada",
+    "duracion": "Media (4-6h)",
+    "estela": "Moderada",
+    "color_liquido": "Dorado claro / champagne",
+    "perfil_usuario": "Público joven que prefiere fragancias dulces y divertidas. Ideal para quienes buscan un aroma \"gourmand\" suave y versátil para el uso diario.",
+    "estilo_descripcion": "Público joven que prefiere fragancias dulces y divertidas. Ideal para quienes buscan un aroma \"gourmand\" suave y versátil para el uso diario.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Leonie | EDP",
     "marca": "Maison Alhambra — UAE",
+    "genero": "Femenino",
     "familia_olfativa": "Floral Oriental / Lavanda Vainilla",
     "inspirado_en": "Yves Saint Laurent Libre",
     "notas_salida": "Lavanda, bergamota",
@@ -14381,31 +14384,6 @@
     ]
   },
   {
-    "nombre_completo": "Tubbees - Sweet Caramel | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Gourmand / Caramelo",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Crema, Manteca, Nuez",
-    "notas_corazon": "Leche, Vainilla",
-    "notas_fondo": "Vainilla, Haba tonka",
-    "descripcion": "Caramelo puro y envolvente. Clásico gourmand Tubbees.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 15-30 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "CALVIN KLEIN - Ck One | EDT",
     "marca": "CALVIN KLEIN",
     "genero": "Unisex",
@@ -14528,31 +14506,6 @@
     ]
   },
   {
-    "nombre_completo": "Tubbees - Candy Pop | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "genero": "Unisex",
-    "familia_olfativa": "Candy / Pop Frutal",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Frutos rojos, Manzana, Bergamota",
-    "notas_corazon": "Flor de azahar del naranjo, Jazmín",
-    "notas_fondo": "Sándalo, Caramelo, Almizcle, Vainilla",
-    "descripcion": "Pop candy frutal. Dulce y efervescente como una gaseosa de caramelos.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Hombres y mujeres 15-30 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Hombres y mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "RASASI - Hawas Pink | EDP | 100ml",
     "genero": "Femenino",
     "familia_olfativa": "Dulce, Floral blanco, Avainillado, canela., atalcado., Cálido especiado, Nardos, Caramelo, Fesco especiado",
@@ -14636,6 +14589,31 @@
         "texto": "Réplica de altísima fidelidad y concentración potenciada (\"Extradose\") que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y generadoras de cumplidos del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida frutal-especiada chispeante combinada con un corazón floral blanco radiante y un fondo avainillado-amaderado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento monstruoso que supera al original",
         "nombre": "Valentino Donna Born In Roma Extradose",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55805.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Candy Pop | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Unisex",
+    "familia_olfativa": "Candy / Pop Frutal",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Frutos rojos, Manzana, Bergamota",
+    "notas_corazon": "Flor de azahar del naranjo, Jazmín",
+    "notas_fondo": "Sándalo, Caramelo, Almizcle, Vainilla",
+    "descripcion": "Pop candy frutal. Dulce y efervescente como una gaseosa de caramelos.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Hombres y mujeres 15-30 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Hombres y mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
@@ -14997,38 +14975,6 @@
     ]
   },
   {
-    "nombre_completo": "DOLCE & GABBANA - King | EDT | 100ml",
-    "marca": "Dolce & Gabbana — Italia",
-    "anno": "2019",
-    "concentracion": "EDT",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático Fresco / Mediterráneo Cítrico",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Baya de enebro, naranja, limón",
-    "notas_corazon": "Pimiento, lavanda, esclarea, geranio",
-    "notas_fondo": "Vetiver, cedro, pachulí",
-    "descripcion": "Cítrico italiano con lavanda y vetiver. Fresco, mediterráneo y masculino. Limpio y veraniego con base terrosa.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, trabajo, cotidiano",
-    "clima": "Templado / Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media",
-    "estela": "Moderada",
-    "color_liquido": "Dorado claro",
-    "perfil_usuario": "Hombres 20-40 años. Mediterráneos, frescos, italianos.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Mediterráneos, frescos, italianos.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "RASASI - Hawas Elixir",
     "marca": "Rasasi — Dubai",
     "anno": "2024",
@@ -15087,6 +15033,38 @@
     ]
   },
   {
+    "nombre_completo": "DOLCE & GABBANA - King | EDT",
+    "marca": "Dolce & Gabbana — Italia",
+    "anno": "2019",
+    "concentracion": "EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático Fresco / Mediterráneo Cítrico",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Baya de enebro, naranja, limón",
+    "notas_corazon": "Pimiento, lavanda, esclarea, geranio",
+    "notas_fondo": "Vetiver, cedro, pachulí",
+    "descripcion": "Cítrico italiano con lavanda y vetiver. Fresco, mediterráneo y masculino. Limpio y veraniego con base terrosa.",
+    "momento_dia": "Día",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, trabajo, cotidiano",
+    "clima": "Templado / Calor",
+    "proyeccion": "Moderada",
+    "duracion": "Media",
+    "estela": "Moderada",
+    "color_liquido": "Dorado claro",
+    "perfil_usuario": "Hombres 20-40 años. Mediterráneos, frescos, italianos.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres Mediterráneos, frescos, italianos.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Sakeena | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Femenino",
@@ -15108,36 +15086,6 @@
     "rango_edad_min": 18,
     "rango_edad_max": 35,
     "estilo_descripcion": "Mujeres Tropicales, dulces, alegres.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Tubbees - Strawberry Cheesecake | EDP | 50ml",
-    "marca": "Tubbees — UAE",
-    "familia_olfativa": "Gourmand / Fresa Cheesecake",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Fresa, frambuesa, bergamota",
-    "notas_corazon": "Crema, notas florales",
-    "notas_fondo": "Vainilla, graham, almizcle",
-    "descripcion": "Cheesecake de fresa en perfume. Gourmand extremo con base de galleta y vainilla. Para los amantes absolutos de lo dulce.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Casual",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Rosado fresa",
-    "perfil_usuario": "Mujeres 15-30 años. Gourmand extremo.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres Gourmand extremo.",
     "inspirado_en_nombre": "Composición propia",
     "inspiraciones": [
       {
@@ -15323,6 +15271,37 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas más exclusivas, elogiadas, codiciadas y de mayor estatus de todo el planeta. Captura a la perfección ese ADN inconfundible de \"salida cítrica deslumbrante combinada con el icónico acorde fresco de té negro, jengibre y un fondo limpio de ambroxan\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
         "nombre": "Louis Vuitton Imagination",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.67370.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Strawberry Cheesecake | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Fresa Cheesecake",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Fresa, frambuesa, bergamota",
+    "notas_corazon": "Crema, notas florales",
+    "notas_fondo": "Vainilla, graham, almizcle",
+    "descripcion": "Cheesecake de fresa en perfume. Gourmand extremo con base de galleta y vainilla. Para los amantes absolutos de lo dulce.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Casual",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "estela": "Moderada",
+    "color_liquido": "Rosado fresa",
+    "perfil_usuario": "Mujeres 15-30 años. Gourmand extremo.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Mujeres Gourmand extremo.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
@@ -15804,34 +15783,31 @@
     ]
   },
   {
-    "nombre_completo": "Rasasi - Hawas Eclat | EDP | 100ml",
-    "marca": "Rasasi",
-    "anno": "2023",
-    "concentracion": "EDP",
+    "nombre_completo": "ISSEY MIYAKE - L'eau D'issey Woman | EDP",
+    "marca": "Issey Miyake",
+    "anno": "1992",
+    "concentracion": "EDT",
     "genero": "Femenino",
-    "familia_olfativa": "Floral Frutal",
-    "inspirado_en": "Parfums de Marly Delina Exclusif",
-    "notas_salida": "Lichi, Pera, Bergamota, Pistacho",
-    "notas_corazon": "Rosa, Incienso",
-    "notas_fondo": "Vainilla, Almizcle, Ámbar, Maderas",
-    "descripcion": "Es una fragancia que irradia luminosidad y alegría. A diferencia de la versión masculina que es más acuática, Hawas Eclat para mujer se centra en una apertura frutal vibrante que se transforma en un ramo floral blanco elegante y sofisticado, manteniendo una base limpia y ligeramente amaderada.",
+    "familia_olfativa": "Floral Acuática",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Loto, melon, fresia, rosa, ciclamen, calone",
+    "notas_corazon": "Lirio de los valles, azucena, peonia, clavel",
+    "notas_fondo": "Almizcle, nardos, maderas exóticas, osmanto, cedro, sándalo, ámbar",
+    "descripcion": "Es una fragancia icónica que evoca la pureza y la frescura del agua sobre la piel de una mujer. Su aroma es limpio, zen y atemporal, destacando por una combinación magistral de flores acuáticas y notas transparentes que transmiten una elegancia serena y natural.",
     "momento_dia": "Día",
     "estacion": "Primavera / Verano",
-    "ocasion": "Uso diario, oficina y eventos sociales ",
-    "clima": "Cálido / Templado",
+    "ocasion": "Uso diario, oficina, eventos casuales y momentos de relajación.",
+    "clima": "Fresco / Templado / Calor",
     "proyeccion": "Moderada",
-    "duracion": "Larga duración (7-9h)",
+    "duracion": "Media - Larga (6-8h)",
     "estela": "Moderada",
-    "color_liquido": "Rosa suave",
-    "perfil_usuario": "Está dirigido a un público Femenino con un rango de edad de entre 20 a 50 años. Es ideal para la mujer moderna que prefiere perfumes que evocan limpieza, brillo y una feminidad contemporánea sin ser excesivamente dulce.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Está dirigido a un público Femenino con un rango de edad de entre Es ideal para la mujer moderna que prefiere perfumes que evocan limpieza, brillo y una feminidad contemporánea sin ser excesivamente dulce.",
-    "inspirado_en_nombre": "Parfums de Marly Delina Exclusif",
+    "color_liquido": "Transparente",
+    "perfil_usuario": "Está dirigido a un público Femenino con un rango de edad amplio, desde los 25 años en adelante, ideal para mujeres que buscan un aroma minimalista, sofisticado y que proyecte una sensación de limpieza y frescura absoluta.",
+    "estilo_descripcion": "Está dirigido a un público Femenino con un rango de edad amplio, desde los 25 años en adelante, ideal para mujeres que buscan un aroma minimalista, sofisticado y que proyecte una sensación de limpieza y frescura absoluta.",
     "inspiraciones": [
       {
-        "texto": "Parfums de Marly Delina Exclusif",
-        "nombre": "Parfums de Marly Delina Exclusif",
+        "texto": "Creación original",
+        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -15865,37 +15841,6 @@
         "texto": "Réplica espectacular y ultra fiel de una de las fragancias de ultra nicho más exclusivas, modernas y costosas del planeta. Captura a la perfección ese ADN de \"amuleto azul\": un aroma hipnótico y magnético que combina la jugosidad crujiente de la pera y el pomelo rosado con la pulcritud de la flor de azahar, asentándose sobre una base molecular, cremosa y limpia que grita lujo futurista, dinero y distinción absoluta.",
         "nombre": "Blue Talisman de Ex Nihilo (París)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84224.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "TUBBEES - Unicorn Vanilla | EDP | 50ml",
-    "marca": "TUBBEES",
-    "anno": "2023",
-    "concentracion": "EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Ámbar Vainilla",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Citricos, grosella negra, bayas de asaí",
-    "notas_corazon": "Flores blancas, té matcha, rosa",
-    "notas_fondo": "Vainilla, algodón de azúcar, sándalo",
-    "descripcion": "Es una fragancia extremadamente dulce, cremosa y juguetona. Combina una apertura frutal y vibrante con un corazón suave de té matcha, desembocando en una base cálida y \"gourmand\" dominada por la vainilla y el algodón de azúcar que recuerda a una feria de dulces.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año (especialmente Primavera y Otoño)",
-    "ocasion": "Casual, trabajo, Salidas con amigos o eventos informales por la tarde.",
-    "clima": "Templano / Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media (4-6h)",
-    "estela": "Moderada",
-    "color_liquido": "Dorado claro / champagne",
-    "perfil_usuario": "Público joven que prefiere fragancias dulces y divertidas. Ideal para quienes buscan un aroma \"gourmand\" suave y versátil para el uso diario.",
-    "estilo_descripcion": "Público joven que prefiere fragancias dulces y divertidas. Ideal para quienes buscan un aroma \"gourmand\" suave y versátil para el uso diario.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
       }
     ]
   },
@@ -15958,6 +15903,37 @@
     ]
   },
   {
+    "nombre_completo": "RAYHAAN - Dahliya | EDP",
+    "marca": "Rayhaan — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Frutal / Pera Jazmín",
+    "inspirado_en": "Versace Pour Femme Dylan Blue",
+    "notas_salida": "Pera, bergamota",
+    "notas_corazon": "Jazmín, peonía, flor de azahar",
+    "notas_fondo": "Almizcle, ámbar, maderas",
+    "descripcion": "Pera suave con jazmín y peonía. Floral femenino elegante. Moderada pero consistente.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Todo el año",
+    "ocasion": "Cotidiano, trabajo",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Larga (7h+)",
+    "estela": "Moderada",
+    "color_liquido": "Rosado",
+    "perfil_usuario": "Mujeres 20-45 años. Florales, femeninas, elegantes.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Mujeres Florales, femeninas, elegantes.",
+    "inspirado_en_nombre": "Versace Pour Femme Dylan Blue",
+    "inspiraciones": [
+      {
+        "texto": "Versace Pour Femme Dylan Blue",
+        "nombre": "Versace Pour Femme Dylan Blue",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Club De Nuit Urban Man | EDP | 100ml",
     "genero": "Masculino",
     "familia_olfativa": "Amaderado, Fesco especiado, Aromático, Cítrico, Cálido especiado, Terrosos, Verde, Pachulí, Lavanda, atalcado.",
@@ -15984,36 +15960,6 @@
         "texto": "Recrea a la perfección ese estilo \"Barber Shop\" moderno, de elegancia británica y sastrería fina. Es un aroma pulcro, sofisticado y sumamente masculino que equilibra la frescura cítrica con un fondo terroso muy distinguido.",
         "nombre": "Burberry Mr. Burberry",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.32565.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Rayhaan - Dahliya | EDP | 100ml",
-    "marca": "Rayhaan — UAE",
-    "familia_olfativa": "Floral Frutal / Pera Jazmín",
-    "inspirado_en": "Versace Pour Femme Dylan Blue",
-    "notas_salida": "Pera, bergamota",
-    "notas_corazon": "Jazmín, peonía, flor de azahar",
-    "notas_fondo": "Almizcle, ámbar, maderas",
-    "descripcion": "Pera suave con jazmín y peonía. Floral femenino elegante. Moderada pero consistente.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Todo el año",
-    "ocasion": "Cotidiano, trabajo",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Larga (7h+)",
-    "estela": "Moderada",
-    "color_liquido": "Rosado",
-    "perfil_usuario": "Mujeres 20-45 años. Florales, femeninas, elegantes.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Mujeres Florales, femeninas, elegantes.",
-    "inspirado_en_nombre": "Versace Pour Femme Dylan Blue",
-    "inspiraciones": [
-      {
-        "texto": "Versace Pour Femme Dylan Blue",
-        "nombre": "Versace Pour Femme Dylan Blue",
-        "imagen_url": ""
       }
     ]
   },
@@ -16496,38 +16442,6 @@
     ]
   },
   {
-    "nombre_completo": "Montblanc - Starwalker | EDT | 75ml",
-    "marca": "Montblanc",
-    "anno": "2005",
-    "concentracion": "EDT",
-    "genero": "Masculino",
-    "familia_olfativa": "Amaderada Especiada",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Bambú, Bergamota, Mandarina",
-    "notas_corazon": "Almizcle blanco, Sándalo, Cedro",
-    "notas_fondo": "Jengibre, Resina de abeto, Nuez moscada, Ámbar",
-    "descripcion": "Es una fragancia excepcionalmente limpia, sutil y moderna. Se distingue por su nota de bambú que aporta una frescura verde y acuática única, complementada por un fondo amaderado suave y un toque de jengibre. Es un aroma que evoca calma, profesionalismo y una sofisticación sin esfuerzo.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Oficina, entornos cerrados, uso diario casual y climas calurosos",
-    "clima": "Calor / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Media (4-6h)",
-    "estela": "Moderada",
-    "color_liquido": "Transparente",
-    "perfil_usuario": "Está dirigido a un público Masculino con un rango de edad de entre 20 a 50 años. Ideal para profesionales que buscan un aroma que no sea invasivo, que proyecte una imagen de pulcritud, serenidad y modernidad en el día a día.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Está dirigido a un público Masculino con un rango de edad de entre Ideal para profesionales que buscan un aroma que no sea invasivo, que proyecte una imagen de pulcritud, serenidad y modernidad en el día a día.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Moschino - Toy 2 Bubble Gum | EDT | 100ml",
     "marca": "Moschino",
     "anno": "2021",
@@ -16640,36 +16554,6 @@
     "color_liquido": "zul profundo / Cobalto",
     "perfil_usuario": "Ideal para un hombre joven o de mediana edad, urbano y dinámico, que disfruta de la vida nocturna y busca un aroma con carácter que lo haga sobresalir. Es perfecto para quienes gustan de fragancias con un toque comestible y masculino (café/licor) que transmiten misterio, audacia y una sofisticación rebelde",
     "estilo_descripcion": "Ideal para un hombre joven o de mediana edad, urbano y dinámico, que disfruta de la vida nocturna y busca un aroma con carácter que lo haga sobresalir. Es perfecto para quienes gustan de fragancias con un toque comestible y masculino (café/licor) que transmiten misterio, audacia y una sofisticación rebelde",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "ISSEY MIYAKE - L'eau D'issey Woman | EDP | 100ml",
-    "marca": "Issey Miyake",
-    "anno": "1992",
-    "concentracion": "EDT",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral Acuática",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Loto, melon, fresia, rosa, ciclamen, calone",
-    "notas_corazon": "Lirio de los valles, azucena, peonia, clavel",
-    "notas_fondo": "Almizcle, nardos, maderas exóticas, osmanto, cedro, sándalo, ámbar",
-    "descripcion": "Es una fragancia icónica que evoca la pureza y la frescura del agua sobre la piel de una mujer. Su aroma es limpio, zen y atemporal, destacando por una combinación magistral de flores acuáticas y notas transparentes que transmiten una elegancia serena y natural.",
-    "momento_dia": "Día",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Uso diario, oficina, eventos casuales y momentos de relajación.",
-    "clima": "Fresco / Templado / Calor",
-    "proyeccion": "Moderada",
-    "duracion": "Media - Larga (6-8h)",
-    "estela": "Moderada",
-    "color_liquido": "Transparente",
-    "perfil_usuario": "Está dirigido a un público Femenino con un rango de edad amplio, desde los 25 años en adelante, ideal para mujeres que buscan un aroma minimalista, sofisticado y que proyecte una sensación de limpieza y frescura absoluta.",
-    "estilo_descripcion": "Está dirigido a un público Femenino con un rango de edad amplio, desde los 25 años en adelante, ideal para mujeres que buscan un aroma minimalista, sofisticado y que proyecte una sensación de limpieza y frescura absoluta.",
     "inspiraciones": [
       {
         "texto": "Creación original",
@@ -17584,6 +17468,130 @@
       {
         "texto": "Una de las creaciones maestras más famosas, elogiadas y vendidas de toda la historia de la perfumería moderna, diseñada por el legendario perfumista Olivier Cresp para capturar la quintaesencia de un día soleado, fresco y deslumbrante en el sur de Italia. Combina un estallido chispeante y crujiente de cítricos sicilianos y manzana con un corazón floral acuático y un fondo amaderado-almizclado de limpieza absoluta.",
         "nombre": "Fragancia Original de Diseñador"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "TUBBEES - Berry Blast | EDP",
+    "marca": "Tubbees",
+    "anno": "2024",
+    "concentracion": "EDP",
+    "genero": "Femenino",
+    "familia_olfativa": "Chipre Frutal.",
+    "inspirado_en": "Si de Giorgio Armani",
+    "notas_salida": "Grosella negra, bergamota, fresia",
+    "notas_corazon": "Pachulí, rosa, jazmín",
+    "notas_fondo": "Almizcle, vainilla",
+    "descripcion": "Berry Blast es una fragancia sofisticada y envolvente que rinde homenaje a la elegancia moderna. Su apertura es una explosión vibrante de grosellas negras y bergamota que aporta una frescura frutal inmediata. En el corazón, la delicadeza de la rosa y el jazmín se entrelazan con la profundidad del pachulí, creando un aura de feminidad segura y chic. Finalmente, su fondo de vainilla y almizcle deja una estela dulce, cremosa y persistente que se siente como una caricia en la piel, ideal para quien busca dejar una impresión memorable y refinada.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Trabajo, reuniones sociales, cenas románticas",
+    "clima": "Templado / Calor",
+    "proyeccion": "Moderada",
+    "duracion": "Media (4-6h)",
+    "estela": "Moderada",
+    "color_liquido": "Dorado claro / champagne",
+    "perfil_usuario": "Este perfume es ideal para la mujer que busca un equilibrio entre la dulzura frutal y la elegancia floral. Es una excelente adición a tu inventario de fragancias árabes, ya que ofrece una interpretación de alta calidad de un perfil olfativo tipo \"Si\", muy valorado por su versatilidad para el uso diario o eventos especiales. Es perfecto para clientas que prefieren aromas con presencia, pero con un secado suave y seductor.",
+    "estilo_descripcion": "Este perfume es ideal para la mujer que busca un equilibrio entre la dulzura frutal y la elegancia floral. Es una excelente adición a tu inventario de fragancias árabes, ya que ofrece una interpretación de alta calidad de un perfil olfativo tipo \"Si\", muy valorado por su versatilidad para el uso diario o eventos especiales. Es perfecto para clientas que prefieren aromas con presencia, pero con un secado suave y seductor.",
+    "inspirado_en_nombre": "Giorgio Armani Sì",
+    "inspiraciones": [
+      {
+        "texto": "Si de Giorgio Armani",
+        "nombre": "Giorgio Armani Sì",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "SABRINA CARPENTER - Sweet Tooth | EDP",
+    "marca": "Sabrina Carpenter",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Avainillado, Atalcado, Almizclado, Lactonico",
+    "inspirado_en": "Fresh Cream Warm Cashmere Philosophy",
+    "notas_salida": "malvavisco, chocolate, jengibre confitado, bergamota",
+    "notas_corazon": "vainilla, leche de coco, jazmín",
+    "notas_fondo": "crema batida, azúcar, almizcle, cachemira",
+    "descripcion": "​Es como un abrazo dulce en un día frío. Sweet Tooth abre con una nota hiperrealista de chocolate blanco y malvaviscos esponjosos, que rápidamente se funde en un corazón de leche de coco y vainilla tibia. El secado se siente como una nube de crema batida y cachemira. No es un dulce pesado o empalagoso que sature; es un aroma suave, tierno, cremoso y extremadamente reconfortante que dan ganas de oler todo el tiempo.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Uso diario, Escuela/Universidad, Salidas casuales, Tardes de películas en casa",
+    "clima": "Templado / Frío",
+    "proyeccion": "Moderada",
+    "duracion": "Media (5-6h)",
+    "estela": "Discreta",
+    "color_liquido": "Blanco translucido",
+    "perfil_usuario": "​Para chicas coquetas, tiernas y amantes de los aromas dulces sutiles y \"esponjosos\". Es ideal para quien busca un perfume que transmita calidez, inocencia y una vibra limpia pero deliciosamente comestible. Perfecta para usar después de bañarse, para ir a estudiar o para días relajados. De 12 a 30 años.",
+    "rango_edad_min": 12,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "​Para chicas coquetas, tiernas y amantes de los aromas dulces sutiles y \"esponjosos\". Es ideal para quien busca un perfume que transmita calidez, inocencia y una vibra limpia pero deliciosamente comestible. Perfecta para usar después de bañarse, para ir a estudiar o para días relajados. De",
+    "inspirado_en_nombre": "Philosophy Fresh Cream Warm Cashmere",
+    "inspiraciones": [
+      {
+        "texto": "Fresh Cream Warm Cashmere Philosophy",
+        "nombre": "Philosophy Fresh Cream Warm Cashmere",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "SABRINA CARPENTER - Sweet Tooth Cherry Baby | EDP",
+    "marca": "SABRINA CARPENTER",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Acerezado, Afrutados, Ámbar, Almizclado, Chocolate, Cálido especiado",
+    "inspirado_en": "Lost Cherry de Tom Ford",
+    "notas_salida": "cereza, azúcar moreno, ciruela, manzana",
+    "notas_corazon": "chocolate, amapola roja, orquídea de vainilla, peonia",
+    "notas_fondo": "almizcle, cachemira, ámbar, pachuli, resina",
+    "descripcion": "Una tentación frutal y cremosa. Cherry Baby abre con una nota hiperrealista de cerezas maduras y licor dulce que te atrapa de inmediato. Rápidamente, el aroma evoluciona hacia un corazón delicioso donde la cereza se sumerge en chocolate con leche derretido y flores rojas. El secado es una nube tibia de vainilla, cachemira y ámbar. Es jugoso, magnético, dulce y con una vibra coqueta que se siente divertida y sensual a la vez.",
+    "momento_dia": "Día / Noche (Es súper versátil. Su lado jugoso va genial de tarde y su fondo de chocolate y licor rinde hermoso de noche)",
+    "estacion": "Otoño / Invierno / Primavera (La cereza y el chocolate se disfrutan al máximo con temperaturas templadas o frescas).",
+    "ocasion": "Citas, Salidas con amigas, Fiestas informales, Uso diario si te gusta llamar la atención dulcemente.",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga duración (6-8h)",
+    "estela": "Moderada",
+    "color_liquido": "Rojo cereza translúcido / Rosado intenso",
+    "perfil_usuario": "Para mujeres y chicas audaces, coquetas y fanáticas de las fragancias frutales intensas. Ideal para quienes aman la nota de cereza pero buscan una alternativa cremosa, tipo postre o bombón, que sea hiperfemenina y genere cumplidos al instante. De 15 a 35 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Para mujeres y chicas audaces, coquetas y fanáticas de las fragancias frutales intensas. Ideal para quienes aman la nota de cereza pero buscan una alternativa cremosa, tipo postre o bombón, que sea hiperfemenina y genere cumplidos al instante. De",
+    "inspirado_en_nombre": "Tom Ford Lost Cherry",
+    "inspiraciones": [
+      {
+        "texto": "Lost Cherry de Tom Ford",
+        "nombre": "Tom Ford Lost Cherry",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Glacier Bella | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Especiado / Femenino Glaciar",
+    "inspirado_en": "éplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y sensuales del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida jugosa de pera combinada con un corazón floral y un fondo avainillado-amaderado de máxima adicción\"",
+    "notas_salida": "pera, bergamota",
+    "notas_corazon": "flores, cuero",
+    "notas_fondo": "Vainilla, almizcle, ambar, vetiver",
+    "descripcion": "La definición en perfume de la tentación moderna, la elegancia golosa y la sensualidad más adictiva del mercado actual. Maison Alhambra Glacier Bella arranca con un impacto vibrante, fresco y frutal de pera verde. En cuestión de minutos despliega su faceta más elogiada y famosa: un corazón opulento dominado por notas florales y frutales de alta gama. Su evolución final es un secado supremo de vainilla cremosa y vetiver, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (10h a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar cálido / Tono dorado rosado",
+    "perfil_usuario": "Hombres 20-40 años. Para fans de Le Male / Spicebomb a bajo precio.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55786.2x.avif",
+    "inspirado_en_nombre": "La Belle Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "éplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y sensuales del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida jugosa de pera combinada con un corazón floral y un fondo avainillado-amaderado de máxima adicción\"",
+        "nombre": "La Belle Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55786.2x.avif"
       }
     ]
   }
