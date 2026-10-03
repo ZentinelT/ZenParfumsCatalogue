@@ -1,5 +1,6 @@
 import os
 import re
+import math
 import json
 import requests
 import pandas as pd
@@ -8,8 +9,14 @@ import pandas as pd
 API_KEY = os.environ["SUPABASE_KEY"]
 API_URL = "https://syylbuvjuekkanxynpps.supabase.co/rest/v1/productos"
 
-MARGEN_NORMAL = 16000
-MARGEN_TUBBEES = 11000
+# Precio = costo (precio x3 de Belle, con el dolar del dia) + margen fijo
+MARGEN_PERFUME = 20000
+MARGEN_KIT = 15000
+MARGEN_TUBBEES = 12000
+MARGEN_NO_PERFUME = 12000   # body splash, body mist, body lotion, cremas, etc.
+
+NO_PERFUME_RE = re.compile(r"body\s*(splash|mist|lotion|cream|wash)|crema|desodorante|shower\s*gel|gel\s*de\s*ducha|locion\s*corporal|loci\u00f3n\s*corporal", re.IGNORECASE)
+KIT_RE = re.compile(r"\bkit\b", re.IGNORECASE)
 
 CAT_MAP = {
     "arabes": "arabes",
@@ -29,6 +36,17 @@ if response.status_code != 200:
 
 df = pd.DataFrame(response.json())
 print(f"Productos descargados: {len(df)}")
+
+# Cotizacion del dolar que usa Belle para calcular sus precios
+COTIZ = 0.0
+try:
+    rc = requests.get(API_URL.replace("/productos", "/configuracion"), headers=headers,
+                      params={"select": "clave,valor", "clave": "eq.cotizacion_usd"})
+    if rc.status_code == 200 and rc.json():
+        COTIZ = float(rc.json()[0]["valor"])
+except Exception as e:
+    print("No se pudo leer la cotizacion:", e)
+print(f"Cotizacion Belle: {COTIZ or 'no disponible (se usa precio_med_ars guardado)'}")
 
 # ---------- 1b. DESCARGAR FICHAS TÉCNICAS ----------
 FICHAS_TABLE_CANDIDATES = ["fichas_perfume", "fichas_perfumes", "fichas_tecnicas", "fichas", "ficha_producto", "fichas_productos", "producto_fichas"]
@@ -75,13 +93,37 @@ CATEGORIAS_PERMITIDAS = ["arabes", "internacionales"]
 df = df[df["cat_catalogo"].astype(str).str.strip().isin(CATEGORIAS_PERMITIDAS)]
 print(f"Productos tras filtrar por categoría {CATEGORIAS_PERMITIDAS}: {len(df)}")
 
-def calcular_precio(row):
-    base = row.get("precio_min_ars")
-    if pd.isna(base):
-        return 0
+def _num(v):
+    try:
+        v = float(v)
+        return 0.0 if pd.isna(v) else v
+    except Exception:
+        return 0.0
+
+def calcular_costo(row):
+    """Precio x3 de Belle, calculado igual que su web (calcP) con el dolar del dia."""
+    ci, cl = _num(row.get("costo_ind")), _num(row.get("costo_log"))
+    ct = math.ceil(ci + cl) if ci > 0 else 0
+    gm, ge = _num(row.get("gan_usd_may")), _num(row.get("gan_usd_med"))
+    if COTIZ > 0 and (ct > 0 or ge > 0):
+        return int(math.ceil((ct + gm + ge) * COTIZ / 100) * 100)
+    return int(_num(row.get("precio_med_ars")))
+
+def margen_para(row):
+    nombre = str(row.get("nombre", ""))
     if str(row.get("empresa", "")).strip().upper() == "TUBBEES":
-        return int(base + MARGEN_TUBBEES)
-    return int(base + MARGEN_NORMAL)
+        return MARGEN_TUBBEES
+    if KIT_RE.search(nombre):
+        return MARGEN_KIT
+    if NO_PERFUME_RE.search(nombre):
+        return MARGEN_NO_PERFUME
+    return MARGEN_PERFUME
+
+def calcular_precio(row):
+    costo = calcular_costo(row)
+    if not costo:
+        return 0
+    return int(costo + margen_para(row))
 
 def calcular_stock(row):
     st = row.get("stock_actual")
