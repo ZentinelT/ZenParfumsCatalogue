@@ -96,6 +96,15 @@
     if (!items.length) return;
     var b = (typeof cFil === "string" && cFil.indexOf("marca:") === 0) ? cFil.slice(6) : "";
     items.forEach(function (el) { el.classList.toggle("sel", !!b && el.getAttribute("data-b") === b); });
+    // "Ordenar por" ya no lista marcas: mostrar ahí la marca elegida mientras esté activa
+    var s = document.getElementById("sortSel");
+    if (s) {
+      var o = s.querySelector("option[data-mc]");
+      if (b) {
+        if (!o) { o = document.createElement("option"); o.setAttribute("data-mc", "1"); s.appendChild(o); }
+        o.value = "marca:" + b; o.textContent = b; s.value = o.value;
+      } else if (o) { o.remove(); }
+    }
   }
 
   function start() {
