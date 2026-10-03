@@ -433,7 +433,7 @@ function renderNoteChips() {
       "<div class=\"chip-group-label\">" + esc(g.label) + "</div>" +
       "<div class=\"chip-group-row\">" +
         g.notes.map(function(n){
-          return "<button class=\"chip" + (cSelectedNotes[n] ? " on" : "") + "\" onclick=\"toggleNote('" + n + "')\">" + esc(n) + "</button>";
+          return "<button class=\"chip" + (cSelectedNotes[n] ? " on" : "") + "\" onclick=\"toggleNote('" + n + "')\">" + esc((typeof NOTE_LABEL !== "undefined" && NOTE_LABEL[n]) || n) + "</button>";
         }).join("") +
       "</div>" +
     "</div>";
