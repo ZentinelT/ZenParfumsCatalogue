@@ -131,6 +131,18 @@
           <svg class="sel-chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
         </div>
       </div>
+      <div class="sort-bar">
+        <label class="sort-lb" for="estSel">&#191;Para cu&#225;ndo?</label>
+        <div class="sel-wrap">
+          <select id="estSel" class="sel-sort" onchange="setEstacion(this.value)">
+            <option value="">Todo</option>
+            <option value="calor">&#9728;&#65039; Para el calor</option>
+            <option value="frio">&#10052;&#65039; Para el fr&#237;o</option>
+            <option value="todo">&#128260; Todo el a&#241;o</option>
+          </select>
+          <svg class="sel-chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </div>
+      </div>
       <label class="stock-toggle" title="Ocultar perfumes sin stock">
         <input type="checkbox" id="stockToggle" onchange="toggleOnlyStock(this.checked)">
         <span class="stock-toggle-tk"></span>
@@ -270,6 +282,7 @@
 <script src="js/mobmenu.js"></script>
 <script src="js/catalog.js?v=9"></script>
 <script src="js/precios.js?v=1"></script>
+<script src="js/estacion.js?v=1"></script>
 <script src="js/marcas.js?v=3"></script>
 <script src="js/eventos.js?v=1"></script>
 <script src="js/app.js?v=5"></script>
