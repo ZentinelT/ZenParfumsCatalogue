@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/styles.css?v=6">
+<link rel="stylesheet" href="css/styles.css?v=7">
 <script data-goatcounter="https://zenparfums.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
@@ -99,24 +99,7 @@
         <svg class="srch-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
         <input class="srch" id="srch" type="search" placeholder="Buscar perfume, marca, notas&#8230;" oninput="onSearch(this.value)" autocomplete="off">
       </div>
-      <div class="sort-bar">
-        <label class="sort-lb" for="sortSel">Ordenar por</label>
-        <div class="sel-wrap">
-          <select id="sortSel" class="sel-sort" onchange="setSort(this.value)">
-            <option value="todos">Todos</option>
-            <option value="precio-asc">Menor precio</option>
-            <option value="precio-desc">Mayor precio</option>
-            <option value="hombre">Hombre</option>
-            <option value="mujer">Mujer</option>
-            <option value="unisex">Unisex</option>
-            <option value="arabes">&#193;rabes</option>
-            <option value="internacional">Internacional</option>
-            <option value="ninos">Ni&#241;os</option>
-            <option value="corporales">Corporales</option>
-          </select>
-          <svg class="sel-chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-        </div>
-      </div>
+      <div class="fil-row" id="filtrosRow" role="group" aria-label="Filtros"></div>
       <div class="sort-bar">
         <label class="sort-lb" for="precioSel">Precio</label>
         <div class="sel-wrap">
@@ -281,10 +264,11 @@
 <script src="js/wishlist.js?v=4"></script>
 <script src="js/mobmenu.js"></script>
 <script src="js/catalog.js?v=9"></script>
-<script src="js/precios.js?v=1"></script>
-<script src="js/estacion.js?v=1"></script>
-<script src="js/marcas.js?v=3"></script>
-<script src="js/eventos.js?v=1"></script>
+<script src="js/filtros.js?v=1"></script>
+<script src="js/precios.js?v=2"></script>
+<script src="js/estacion.js?v=2"></script>
+<script src="js/marcas.js?v=4"></script>
+<script src="js/eventos.js?v=2"></script>
 <script src="js/app.js?v=5"></script>
 </body>
 </html>
