@@ -21,6 +21,9 @@ function setPrecio(v) {
     var l = _getList.apply(this, arguments);
     var r = RANGOS_PRECIO[cPrecio];
     if (!r) return l;
-    return l.filter(function (p) { return p.p > 0 && p.p >= r[0] && p.p < r[1]; });
+    l = l.filter(function (p) { return p.p > 0 && p.p >= r[0] && p.p < r[1]; });
+    // Dentro del rango, de menor a mayor precio (salvo en el buscador por notas, que ordena por coincidencia)
+    if (!(typeof cNotesMode !== "undefined" && cNotesMode)) l = l.slice().sort(function (a, b) { return a.p - b.p; });
+    return l;
   };
 })();
