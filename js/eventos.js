@@ -27,12 +27,10 @@
   wrap("toggleNotesMode", function () {
     if (typeof cNotesMode !== "undefined" && cNotesMode) ev("abrir: buscador de notas", "Abrió buscador por notas");
   });
-  // Marca (carrusel) y Ordenar por
-  wrap("setSort", function (v) {
-    if (!v || v === "todos") return;
-    if (String(v).indexOf("marca:") === 0) ev("marca: " + v.slice(6), "Marca elegida");
-    else ev("ordenar: " + v, "Ordenar por");
-  });
+  // Marca (carrusel), género y tipo
+  wrap("setMarca", function () { if (typeof cMarca !== "undefined" && cMarca) ev("marca: " + cMarca, "Marca elegida"); });
+  wrap("setGen", function () { if (typeof cGen !== "undefined" && cGen) ev("genero: " + cGen, "Género"); });
+  wrap("setTipo", function () { if (typeof cTipo !== "undefined" && cTipo) ev("tipo: " + cTipo, "Tipo"); });
   // Rango de precio
   wrap("setPrecio", function (v) { if (v) ev("precio: " + v, "Rango de precio"); });
   // Solo en stock
