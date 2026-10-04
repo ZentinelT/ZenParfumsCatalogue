@@ -74,8 +74,8 @@ function setEstacion(v) {
       var l = _getList.apply(this, arguments);
       if (!cEstacion) return l;
       l = l.filter(function (p) { return _estDe(p).c === cEstacion; });
-      // Más típicos primero, salvo que el usuario haya pedido ordenar por precio o por notas
-      var ordenUsuario = (typeof cNotesMode !== "undefined" && cNotesMode) || (typeof cSort !== "undefined" && (cSort === "asc" || cSort === "desc"));
+      // Más típicos primero, salvo con rango de precio (ordena por precio) o buscador por notas
+      var ordenUsuario = (typeof cNotesMode !== "undefined" && cNotesMode) || (typeof cPrecio !== "undefined" && !!cPrecio);
       if (!ordenUsuario) {
         var k = cEstacion === "calor" ? function (p) { return -_estDe(p).s; }
               : cEstacion === "frio" ? function (p) { return _estDe(p).s; }
