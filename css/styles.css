@@ -588,3 +588,14 @@ body[data-theme="dark"] .mc-it.on .mc-n{color:var(--gl)}
 /* ---- Fila de controles con filtro de precio ---- */
 .stock-toggle-tx{white-space:nowrap}
 @media(min-width:769px){.ctrl-row{max-width:1000px;flex-wrap:wrap;row-gap:18px}.ctrl-row .srch-wrap{flex:1 1 100%;max-width:560px;margin:0 auto}}
+
+/* ===== FILTROS COMBINABLES (género / tipo / marca) ===== */
+.fil-row{flex:1 1 100%;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:10px 22px}
+.fil-grp{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.fil-row .chip{padding:8px 15px;font-size:12px;background:var(--w)}
+.fil-row .chip.on{background:var(--go);border-color:var(--go);color:#fff}
+.fil-row .fil-x{text-transform:none}
+.fil-clear{font-family:var(--fb);font-size:11.5px;font-weight:500;letter-spacing:.04em;color:var(--gr);background:none;border:none;padding:8px 4px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.fil-clear:hover{color:var(--bk)}
+@media(max-width:768px){.fil-row{flex:none;gap:10px}.fil-grp{gap:7px}.fil-row .chip{padding:8px 13px}}
+@media(min-width:769px){#precioSel{width:196px}}
