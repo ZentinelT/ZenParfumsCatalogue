@@ -1,7 +1,7 @@
 /* ---- CARRUSEL DE MARCAS ----
    Lee data/marcas.json (generado por actualizar_catalogo.py), muestra los logos
    en círculos, resalta la marca del centro y avanza solo, despacio.
-   Tocar una marca filtra el catálogo (usa el mismo filtro "marca:" de Ordenar por). */
+   Tocar una marca filtra el catálogo (se combina con los demás filtros); tocarla de nuevo la quita. */
 (function () {
   var SPEED = 18;          // px por segundo del avance automático
   var RESUME_MS = 4000;    // espera tras una interacción antes de retomar
@@ -14,7 +14,7 @@
     sec = document.getElementById("marcasSec");
     sc = document.getElementById("mcScroll");
     if (!sec || !sc || !list.length) return;
-    list.sort(function (a, b) { return (b.n || 0) - (a.n || 0) || a.b.localeCompare(b.b); });
+    list.sort(function (a, b) { return a.b.localeCompare(b.b, "es", { sensitivity: "base" }); });
     sc.innerHTML = list.map(function (m) {
       return '<button type="button" class="mc-it" data-b="' + escA(m.b) + '" aria-label="Ver ' + escA(m.b) + '">' +
         '<span class="mc-c"><img src="' + escA(m.logo) + '" alt="" loading="lazy" decoding="async" width="128" height="128"></span>' +
@@ -27,9 +27,8 @@
       el.addEventListener("click", function () {
         hold();
         var b = el.getAttribute("data-b");
-        var actual = (typeof cFil === "string" && cFil.indexOf("marca:") === 0) ? cFil.slice(6) : "";
-        var quitar = actual === b;
-        if (typeof setSort === "function") setSort(quitar ? "todos" : "marca:" + b);
+        var quitar = (typeof cMarca === "string" && cMarca === b);
+        if (typeof setMarca === "function") setMarca(b); // tocar la marca activa la quita
         centerOn(el);
         if (!quitar) setTimeout(irAResultados, 160); // bajar a la grilla filtrada
       });
@@ -94,17 +93,8 @@
   // Resalta la marca filtrada (si hay)
   function sync() {
     if (!items.length) return;
-    var b = (typeof cFil === "string" && cFil.indexOf("marca:") === 0) ? cFil.slice(6) : "";
+    var b = (typeof cMarca === "string") ? cMarca : "";
     items.forEach(function (el) { el.classList.toggle("sel", !!b && el.getAttribute("data-b") === b); });
-    // "Ordenar por" ya no lista marcas: mostrar ahí la marca elegida mientras esté activa
-    var s = document.getElementById("sortSel");
-    if (s) {
-      var o = s.querySelector("option[data-mc]");
-      if (b) {
-        if (!o) { o = document.createElement("option"); o.setAttribute("data-mc", "1"); s.appendChild(o); }
-        o.value = "marca:" + b; o.textContent = b; s.value = o.value;
-      } else if (o) { o.remove(); }
-    }
   }
 
   function start() {
@@ -132,7 +122,7 @@
   }
   document.addEventListener("visibilitychange", function () { if (!document.hidden && visible) start(); });
 
-  // Mantener sincronizado con el filtro de "Ordenar por"
+  // Mantener sincronizado con el filtro de marca
   if (typeof window.renderProds === "function") {
     var _render = window.renderProds;
     window.renderProds = function () { var r = _render.apply(this, arguments); sync(); return r; };
