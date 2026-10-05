@@ -813,7 +813,7 @@
     "p": 79200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2044_n37no0.jpg",
     "nt": "Salida Vainilla, ámbar, mandarina, neroli, cardamomo Notas de corazón: Notas orientales, especias, iris, rosa, flor de azahar Notas de fondo: Vainilla, cuero, jazmín, sándalo, ámbar",
     "p1": "$79.200"
@@ -4934,7 +4934,7 @@
     "p": 115200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2364_bwdabz.jpg",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$115.200"
@@ -6091,7 +6091,7 @@
     "p": 109600,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2459_slp19u.jpg",
     "nt": "Salida manzana, humo, canela Notas de corazón: tabaco, musgo Notas de fondo: vainilla, orcanox",
     "p1": "$109.600"
