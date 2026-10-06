@@ -2077,36 +2077,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Tharwah Silver | EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático, Verde, Fesco especiado, Amaderado, Lavanda, Cítrico, Especiado suave",
-    "inspirado_en": "Réplica monumental, fina y súper fiel de uno de los perfumes más elegantes y elogiados de la perfumería de diseñador moderna. Captura a la perfección ese ADN de \"alta sociedad\" basado en un combo masivo de lavanda premium y esclarea aromática sobre maderas nobles, pero potenciado en la salida con un chispazo helado de menta que lo vuelve más dinámico y adictivo. Una pócima diseñada para el hombre prolijo que quiere transmitir éxito, seriedad y una facha impecable.",
-    "notas_salida": "menta, bergamota",
-    "notas_corazon": "esclarea, lavanda",
-    "notas_fondo": "vetiver, almizcle, cedro",
-    "descripcion": "La definición líquida de la sofisticación moderna, la elegancia del club y el carisma de un tipo exitoso. Tharwah Silver abre con un impacto alucinante y glacial de menta helada y bergamota brillante, cortando el aire con una frescura cítrica imponente. Rápidamente, la fragancia evoluciona hacia su faceta más exclusiva y sofisticada: un corazón majestuoso donde la prolijidad de la lavanda fina se entrelaza con el carácter aromático y misterioso de la esclarea, recreando a la perfección el aura de Ralph's Club. Su evolución final en la piel es un secado eterno, masculino y robusto dominado por la firmeza del cedro, el vetiver terroso y un colchón de almizcle blanco, dejando una estela flotante que transmite autoridad, pulcritud obsesiva y muchísima facha.",
-    "momento_dia": "dia / tarde / noche",
-    "estacion": "Todo el año",
-    "ocasion": "Perfume de firma diario, oficina/trabajo corporativo, reuniones importantes, eventos formales, salidas casual-chic de fin de semana o cualquier situación donde el objetivo absoluto sea oler costoso, prolijo, varonil y sumamente elegante",
-    "clima": "Templado / Cálido / Frío",
-    "proyeccion": "Alta",
-    "duracion": "Excelente rendimiento (7h+ - 9h+)",
-    "estela": "Moderada",
-    "color_liquido": "Translúcido cristalino",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Diseñado exclusivamente para hombres modernos, prolijos, detallistas y de actitud segura que buscan un perfume de firma diario o para salidas casuales/formales que destile un estatus superior. Es la pócima perfecta para el tipo que ama los aromas limpios, amaderados y herbales, detesta los perfumes dulces empalagosos y exige una fragancia que transmita seriedad, facha y muchísima seguridad en su día a día.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75684.2x.avif",
-    "inspirado_en_nombre": "Ralph's Club Parfum de Ralph Lauren",
-    "inspiraciones": [
-      {
-        "texto": "Réplica monumental, fina y súper fiel de uno de los perfumes más elegantes y elogiados de la perfumería de diseñador moderna. Captura a la perfección ese ADN de \"alta sociedad\" basado en un combo masivo de lavanda premium y esclarea aromática sobre maderas nobles, pero potenciado en la salida con un chispazo helado de menta que lo vuelve más dinámico y adictivo. Una pócima diseñada para el hombre prolijo que quiere transmitir éxito, seriedad y una facha impecable.",
-        "nombre": "Ralph's Club Parfum de Ralph Lauren",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75684.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Bade'e Al Oud For Glory | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -17592,6 +17562,37 @@
         "texto": "éplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y sensuales del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida jugosa de pera combinada con un corazón floral y un fondo avainillado-amaderado de máxima adicción\"",
         "nombre": "La Belle Jean Paul Gaultier",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55786.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Tharwah Silver | EDP",
+    "marca": "LATTAFA",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático, Verde, Fesco especiado, Amaderado, Lavanda, Cítrico, Especiado suave",
+    "inspirado_en": "Réplica monumental, fina y súper fiel de uno de los perfumes más elegantes y elogiados de la perfumería de diseñador moderna. Captura a la perfección ese ADN de \"alta sociedad\" basado en un combo masivo de lavanda premium y esclarea aromática sobre maderas nobles, pero potenciado en la salida con un chispazo helado de menta que lo vuelve más dinámico y adictivo. Una pócima diseñada para el hombre prolijo que quiere transmitir éxito, seriedad y una facha impecable.",
+    "notas_salida": "menta, bergamota",
+    "notas_corazon": "esclarea, lavanda",
+    "notas_fondo": "vetiver, almizcle, cedro",
+    "descripcion": "La definición líquida de la sofisticación moderna, la elegancia del club y el carisma de un tipo exitoso. Tharwah Silver abre con un impacto alucinante y glacial de menta helada y bergamota brillante, cortando el aire con una frescura cítrica imponente. Rápidamente, la fragancia evoluciona hacia su faceta más exclusiva y sofisticada: un corazón majestuoso donde la prolijidad de la lavanda fina se entrelaza con el carácter aromático y misterioso de la esclarea, recreando a la perfección el aura de Ralph's Club. Su evolución final en la piel es un secado eterno, masculino y robusto dominado por la firmeza del cedro, el vetiver terroso y un colchón de almizcle blanco, dejando una estela flotante que transmite autoridad, pulcritud obsesiva y muchísima facha.",
+    "momento_dia": "dia / tarde / noche",
+    "estacion": "Todo el año",
+    "ocasion": "Perfume de firma diario, oficina/trabajo corporativo, reuniones importantes, eventos formales, salidas casual-chic de fin de semana o cualquier situación donde el objetivo absoluto sea oler costoso, prolijo, varonil y sumamente elegante",
+    "clima": "Templado / Cálido / Frío",
+    "proyeccion": "Alta",
+    "duracion": "Excelente rendimiento (7h+ - 9h+)",
+    "estela": "Moderada",
+    "color_liquido": "Translúcido cristalino",
+    "rango_edad_min": 25,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Diseñado exclusivamente para hombres modernos, prolijos, detallistas y de actitud segura que buscan un perfume de firma diario o para salidas casuales/formales que destile un estatus superior. Es la pócima perfecta para el tipo que ama los aromas limpios, amaderados y herbales, detesta los perfumes dulces empalagosos y exige una fragancia que transmita seriedad, facha y muchísima seguridad en su día a día.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75684.2x.avif",
+    "inspirado_en_nombre": "Ralph's Club Parfum de Ralph Lauren",
+    "inspiraciones": [
+      {
+        "texto": "Réplica monumental, fina y súper fiel de uno de los perfumes más elegantes y elogiados de la perfumería de diseñador moderna. Captura a la perfección ese ADN de \"alta sociedad\" basado en un combo masivo de lavanda premium y esclarea aromática sobre maderas nobles, pero potenciado en la salida con un chispazo helado de menta que lo vuelve más dinámico y adictivo. Una pócima diseñada para el hombre prolijo que quiere transmitir éxito, seriedad y una facha impecable.",
+        "nombre": "Ralph's Club Parfum de Ralph Lauren",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.75684.2x.avif"
       }
     ]
   }
