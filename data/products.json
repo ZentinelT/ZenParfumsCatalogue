@@ -189,7 +189,7 @@
     "p": 112800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1996_mp7xbx.jpg",
     "nt": "Salida Bergamota, Notas verdes, Mandarina Notas de corazón: Ámbar, Melon, Grosella negra, Piña Notas de fondo: Petitgrain, Almizcle, Galbano, Vainilla",
     "p1": "$112.800"
@@ -2672,7 +2672,7 @@
     "p": 69600,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2187_yxg2gz.jpg",
     "nt": "Salida Ruibarbo, grosella negra, bergamota Notas de corazón: Rosa, notas florales Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$69.600"
@@ -5753,7 +5753,7 @@
     "p": 92000,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2432_hqx8l6.jpg",
     "nt": "Salida mango, piña, bergamota Notas de corazón: coco Notas de fondo: almizcle, ambar, sandalo, vetiver",
     "p1": "$92.000"
@@ -5792,7 +5792,7 @@
     "p": 74400,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2435_go33lg.jpg",
     "nt": "Salida Grosella Negra, cilantro, limon, cidra, menta Notas de corazón: rosa, semilla de zanahoria, Albaricoque, albahaca Notas de fondo: higo, datiles, almizcle ambreta",
     "p1": "$74.400"
@@ -7300,7 +7300,7 @@
     "p": 180000,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2559_oq2q89.jpg",
     "nt": "Salida menta, limon, pimienta negra, elemi, may chang Notas de corazón: manzana verde, geranio, lavanda, salvia, pomarose Notas de fondo: haba tonka, ambar, vainilla, pachuli, benjui",
     "p1": "$180.000"
