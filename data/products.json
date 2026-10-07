@@ -72,7 +72,7 @@
     "p": 102000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1987_hv6tyd.jpg",
     "nt": "Salida Manzana Granny Smith, piña, mandarina Notas de corazón: Cedro, vainilla, musgo de roble Notas de fondo: Ámbar gris, almizcle, Madera Seca, caramelo",
     "p1": "$102.000"
@@ -4128,7 +4128,7 @@
     "p": 71200,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2300_etzite.jpg",
     "nt": "Salida Limón, hojas de tomate Notas de corazón: Vaina de cacao Notas de fondo: Cedro, almizcle blanco, vetiver",
     "p1": "$71.200"
@@ -5298,7 +5298,7 @@
     "p": 208800,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2396_5ah25s.jpg",
     "nt": "Salida Pimienta rosa, Enebro, Violeta Notas de corazón: Caramelo, Canela, Lavanda, Salvia Notas de fondo: Vainilla, Ámbar, Haba tonka, Cuero",
     "p1": "$208.800"
@@ -7967,5 +7967,31 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2627_7t2y5n.webp",
     "nt": "Salida mango, frutas tropicales, pomelo, limon, casia Notas de corazón: jegibre, nuez moscada, iris Notas de fondo: almizcle, ambar, cedro",
     "p1": "$93.800"
+  },
+  {
+    "id": 2633,
+    "b": "ARMAF",
+    "n": "ARMAF - Club de Nuit Elite | EDP",
+    "s": "100ml",
+    "p": 125000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_628314-MLA116066038540_092026-F.webp",
+    "nt": "Salida pimienta, te verde, bergamota, manzana, pimienta rosa Notas de corazón: rosa, grosellas negras, geranio, Notas de fondo: vetiver, almizcle, cedro, ambar, cachemira",
+    "p1": "$125.000"
+  },
+  {
+    "id": 2634,
+    "b": "ARMAF",
+    "n": "ARMAF - Club de Nuit Intense Overdose | EDP",
+    "s": "105ml",
+    "p": 136000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_624671-MLA115268590895_072026-F.webp",
+    "nt": "Salida piña, bergamota, naranja, cristal azul Notas de corazón: musgo, vainilla, ciruela Notas de fondo: pachuli, ambar, haba tonka, polvo blanco",
+    "p1": "$136.000"
   }
 ]
