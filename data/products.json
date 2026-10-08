@@ -527,7 +527,7 @@
     "p": 89000,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2022_ni5jte.jpg",
     "nt": "Salida Lichi, Bergamota, Nuez Moscada Notas de corazón: Rosa, Vainilla, almizcle, peonia Notas de fondo: Vainilla, Incienso, Cachemira, Cedro",
     "p1": "$89.000"
@@ -7053,7 +7053,7 @@
     "p": 226400,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2539_f0hzmb.jpg",
     "nt": "Salida notas minerales, hojas de violeta, sal Notas de corazón: salvia, jengibre Notas de fondo: maderas, vetiver",
     "p1": "$226.400"
@@ -7984,7 +7984,7 @@
   {
     "id": 2634,
     "b": "ARMAF",
-    "n": "ARMAF - Club de Nuit Intense Overdose | EDP",
+    "n": "ARMAF - Club de Nuit Intense Overdose | Extrait De Parfum",
     "s": "105ml",
     "p": 136000,
     "c": "arabes",
