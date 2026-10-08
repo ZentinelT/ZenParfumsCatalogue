@@ -365,11 +365,13 @@ body:not([data-theme="dark"]) .fb2{color:rgba(255,255,255,.32)}
 .pm-stk{display:flex;align-items:center;gap:6px;margin-bottom:18px}
 .pm-nt-t{font-size:10px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--dg);margin-bottom:6px}
 .pm-nt{font-size:13px;color:var(--gr);line-height:1.7;font-weight:300;margin-bottom:24px}
-.note-box{background:var(--ow);border-left:2px solid var(--go);border-radius:var(--r4);padding:14px 16px;margin-bottom:20px}
-.note-row{margin-bottom:10px;line-height:1.6}
-.note-row:last-child{margin-bottom:0}
-.note-lbl{font-weight:600;color:var(--bk);font-size:12.5px}
-.note-txt{color:var(--gr);font-size:12.5px}
+.pyramid{position:relative;padding-left:18px;margin-bottom:20px}
+.pyramid::before{content:'';position:absolute;left:3px;top:6px;bottom:6px;width:1px;background:var(--go)}
+.pyr-stage{position:relative;margin-bottom:14px}
+.pyr-stage:last-child{margin-bottom:0}
+.pyr-stage::before{content:'';position:absolute;left:-18px;top:4px;width:7px;height:7px;border-radius:50%;background:var(--go)}
+.pyr-stage-lbl{font-weight:600;color:var(--bk);font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}
+.pyr-stage-txt{color:var(--gr);font-size:12.5px;line-height:1.55}
 .pm-ft{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:16px;border-top:1px solid var(--lg)}
 .pm-pr{font-size:26px;font-weight:600;color:var(--bk)}
 .pm-add{padding:14px 26px;background:var(--bk);color:#fff;font-size:11px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;border-radius:var(--r4);display:flex;align-items:center;gap:8px;cursor:pointer;transition:all var(--t)}
@@ -421,7 +423,7 @@ body[data-theme="dark"] .pm-ficha-ico:hover{background:#c89d4d !important;color:
 .fc-bd{padding:36px 32px}
 .fc-nt-t{font-size:10px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--dg);margin:20px 0 8px}
 .fc-desc{font-size:13px;color:var(--gr);line-height:1.7;font-weight:300}
-.fc-notes .note-row{margin-bottom:4px}
+.fc-notes .pyr-stage{margin-bottom:10px}
 .fc-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px 16px}
 .fc-row{font-size:12.5px;line-height:1.5}
 .fc-lb{color:var(--mg);font-size:10px;text-transform:uppercase;letter-spacing:.08em;margin-bottom:2px}

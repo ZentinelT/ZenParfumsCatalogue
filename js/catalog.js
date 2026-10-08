@@ -20,7 +20,7 @@ function esc(s) {
   return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 }
 function noteLine(label, content) {
-  return content ? '<div class="note-row"><span class="note-lbl">'+label+':</span> <span class="note-txt">'+esc(content)+'</span></div>' : '';
+  return content ? '<div class="pyr-stage"><div class="pyr-stage-lbl">'+label+'</div><div class="pyr-stage-txt">'+esc(content)+'</div></div>' : '';
 }
 function parseNotes(nt) {
   if (!nt || nt === "\u2014") return null;
@@ -280,10 +280,10 @@ function openProduct(id) {
   var notesParsed = parseNotes(p.nt);
   var ntH = "";
   if (notesParsed) {
-    ntH = "<div class=\"pm-nt-t\">Pir\u00E1mide olfativa</div><div class=\"pm-nt note-box\">" +
-      noteLine("Notas de salida", notesParsed.salida) +
-      noteLine("Notas de coraz\u00F3n", notesParsed.corazon) +
-      noteLine("Notas de fondo", notesParsed.fondo) +
+    ntH = "<div class=\"pm-nt-t\">Pir\u00E1mide olfativa</div><div class=\"pm-nt pyramid\">" +
+      noteLine("Salida", notesParsed.salida) +
+      noteLine("Coraz\u00F3n", notesParsed.corazon) +
+      noteLine("Fondo", notesParsed.fondo) +
       "</div>";
   } else if (p.nt && p.nt !== "\u2014") {
     ntH = "<div class=\"pm-nt-t\">Pir\u00E1mide olfativa</div><div class=\"pm-nt\">" + esc(p.nt) + "</div>";
@@ -356,10 +356,10 @@ function openFicha(id) {
   }
   var notas = "";
   if (f.notas_salida || f.notas_corazon || f.notas_fondo) {
-    notas = "<div class=\"fc-nt-t\">Pir\u00E1mide olfativa</div><div class=\"fc-notes note-box\">" +
-      noteLine("Notas de salida", f.notas_salida) +
-      noteLine("Notas de coraz\u00F3n", f.notas_corazon) +
-      noteLine("Notas de fondo", f.notas_fondo) +
+    notas = "<div class=\"fc-nt-t\">Pir\u00E1mide olfativa</div><div class=\"fc-notes pyramid\">" +
+      noteLine("Salida", f.notas_salida) +
+      noteLine("Coraz\u00F3n", f.notas_corazon) +
+      noteLine("Fondo", f.notas_fondo) +
     "</div>";
   }
   var rango = (f.rango_edad_min && f.rango_edad_max) ? (f.rango_edad_min + "\u2013" + f.rango_edad_max + " a\u00F1os") : "";
