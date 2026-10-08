@@ -11,10 +11,10 @@
   --e:cubic-bezier(.4,0,.2,1);--t:.28s;--ts:.5s;--es:cubic-bezier(.16,1,.3,1);
   --mw:1280px;
   --hero-ar:0.5628;--header-h:112px;
-  --hero-photo-light:url('../img/hero-light-desktop-warm.webp?v=1');
-  --hero-photo-mobile:url('../img/hero-dark-mobile.webp?v=2');
-  --hero-photo-light-mobile:url('../img/hero-light-mobile.webp?v=5');
-  --hero-photo:url('../img/hero-dark-desktop.webp?v=2');
+  --hero-photo-light:url('../img/hero-light-desktop-warm.webp?v=2');
+  --hero-photo-mobile:url('../img/hero-dark-mobile.webp?v=3');
+  --hero-photo-light-mobile:url('../img/hero-light-mobile.webp?v=6');
+  --hero-photo:url('../img/hero-dark-desktop.webp?v=3');
   --surface-strong:#cdba99;--header-bg:rgba(218,203,177,.96);--hero-start:#f3ebdf;--hero-mid:#ece0cf;--hero-end:#f7f1e7;--hero-overlay:radial-gradient(circle at 20% 20%,rgba(120,120,120,.05),transparent 18%),radial-gradient(circle at 80% 12%,rgba(90,90,90,.04),transparent 22%),radial-gradient(circle at 24% 78%,rgba(150,150,150,.04),transparent 24%),radial-gradient(circle at 76% 72%,rgba(80,80,80,.03),transparent 16%),linear-gradient(135deg,rgba(255,255,255,.08) 0%,rgba(255,255,255,0) 30%,rgba(255,255,255,.05) 52%,rgba(255,255,255,0) 70%,rgba(255,255,255,.04) 100%),linear-gradient(100deg,rgba(255,255,255,.03) 0%,rgba(255,255,255,0) 27%,rgba(255,255,255,.02) 45%,rgba(255,255,255,0) 78%,rgba(255,255,255,.01) 100%);
 }
 body[data-theme="dark"]{
