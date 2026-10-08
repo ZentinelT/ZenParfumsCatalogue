@@ -215,9 +215,12 @@ body:not([data-theme="dark"]) .cc:hover .cc-l{color:var(--go)}
 .pm-badges .type-badge{font-size:11px;padding:6px 16px}
 .pm-badges .size-badge{font-size:11px;padding:6px 16px}
 .pc-nt{font-size:10px;color:var(--gr);line-height:1.5;margin-bottom:10px;font-weight:300;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.note-box-sm{margin-bottom:10px;min-height:calc(10px * 1.55 * 3);overflow:hidden}
-.note-row-sm{font-size:10px;color:var(--gr);line-height:1.55;font-weight:300;white-space:normal;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
-.note-row-sm b{color:var(--dg);font-weight:600}
+.pyr-mini{position:relative;padding-left:11px;margin-bottom:10px;min-height:calc(10px * 1.55 * 3);overflow:hidden}
+.pyr-mini::before{content:'';position:absolute;left:1px;top:3px;bottom:3px;width:1px;background:var(--go);opacity:.5}
+.pyr-mini-stage{position:relative}
+.pyr-mini-stage::before{content:'';position:absolute;left:-11px;top:5px;width:4px;height:4px;border-radius:50%;background:var(--go)}
+.pyr-mini-txt{font-size:10px;color:var(--gr);line-height:1.55;font-weight:300;white-space:normal;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.pyr-mini-txt b{color:var(--dg);font-weight:600}
 .pc-stk{display:flex;align-items:center;gap:6px;margin-bottom:12px}
 .sdot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
 .s-ok{background:#27ae60}.s-low{background:#e67e22}.s-out{background:#c0392b}

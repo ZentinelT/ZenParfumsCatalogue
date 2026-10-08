@@ -190,10 +190,10 @@ function renderProds() {
     var cardNotes = parseNotes(p.nt);
     var ntH = "";
     if (cardNotes) {
-      ntH = "<div class=\"pc-nt note-box-sm\">" +
-        (cardNotes.salida ? "<div class=\"note-row-sm\"><b>Salida:</b> " + esc(cardNotes.salida) + "</div>" : "") +
-        (cardNotes.corazon ? "<div class=\"note-row-sm\"><b>Coraz\u00F3n:</b> " + esc(cardNotes.corazon) + "</div>" : "") +
-        (cardNotes.fondo ? "<div class=\"note-row-sm\"><b>Fondo:</b> " + esc(cardNotes.fondo) + "</div>" : "") +
+      ntH = "<div class=\"pc-nt pyr-mini\">" +
+        (cardNotes.salida ? "<div class=\"pyr-mini-stage\"><div class=\"pyr-mini-txt\"><b>Salida:</b> " + esc(cardNotes.salida) + "</div></div>" : "") +
+        (cardNotes.corazon ? "<div class=\"pyr-mini-stage\"><div class=\"pyr-mini-txt\"><b>Coraz\u00F3n:</b> " + esc(cardNotes.corazon) + "</div></div>" : "") +
+        (cardNotes.fondo ? "<div class=\"pyr-mini-stage\"><div class=\"pyr-mini-txt\"><b>Fondo:</b> " + esc(cardNotes.fondo) + "</div></div>" : "") +
         "</div>";
     } else if (p.nt && p.nt !== "\u2014") {
       ntH = "<div class=\"pc-nt\">" + esc(p.nt) + "</div>";
