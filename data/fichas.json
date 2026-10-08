@@ -2798,36 +2798,6 @@
     ]
   },
   {
-    "nombre_completo": "AL WATANIAH - Ameeri | Extrait De Parfum",
-    "genero": "Masculino",
-    "familia_olfativa": "Afrutados, Florales, Floral blanco, Fresco, Dulce, Verde, Cítrico, Amaderado, Atalcado, Especiado suave",
-    "inspirado_en": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes frescos y aromáticos más codiciados, versátiles y aclamados de la perfumería de lujo. Captura a la perfección ese codiciado ADN de \"frescura azul refinada, cítricos efervescentes, manzana crujiente y maderas nobles de estatus\", entregando una alternativa accesible con un rendimiento en concentración Extrait De Parfum de nivel superlativo.",
-    "notas_salida": "toronja, manzana verde, lila, fresia, moras azules",
-    "notas_corazon": "te chino, nectarina, azucena, madreselva",
-    "notas_fondo": "secuoya roja, orquidea, vainilla, ciruela, almizcle, enebro",
-    "descripcion": "La definición en perfume de la frescura aristocrática, el atractivo limpio y la masculinidad moderna. Al Wataniah Ameeri abre con una ráfaga vibrante y jugosa de pomelo, manzana verde crujiente y moras envueltas en la ligereza de las fresias. En cuestión de minutos despliega su corazón más elogiado: un acorde refinado de té chino combinado con la dulzura de la nectarina y flores blancas. Su evolución final en la piel es un secado denso, amaderado y profundamente sexy, donde la solidez de la secuoya roja se entrelaza con la ciruela, la vainilla y el almizcle blanco, dejando un rastro flotante que transmite éxito, pulcritud y distinción.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Primavera / Verano / Otoño",
-    "ocasion": "Uso profesional de alto nivel, reuniones ejecutivas, eventos formales e informales, salidas casuales o situaciones donde se busquen cumplidos garantizados.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Alta",
-    "duracion": "Sobresaliente (8h a 10h+)",
-    "estela": "Moderada",
-    "color_liquido": "Ámbar dorado cristalino",
-    "rango_edad_min": 20,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Masculino de perfil alto. Diseñado para hombres modernos, dinámicos, sofisticados y seguros de sí mismos que buscan una firma olfativa fresca, versátil y con carácter de lujo. Es la elección definitiva para quien exige una fragancia limpia, elegante y duradera para destacar en todo momento.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif",
-    "inspirado_en_nombre": "Percival de Parfums de Marly",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes frescos y aromáticos más codiciados, versátiles y aclamados de la perfumería de lujo. Captura a la perfección ese codiciado ADN de \"frescura azul refinada, cítricos efervescentes, manzana crujiente y maderas nobles de estatus\", entregando una alternativa accesible con un rendimiento en concentración Extrait De Parfum de nivel superlativo.",
-        "nombre": "Percival de Parfums de Marly",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Pride Kashan | EDP",
     "marca": "LATTAFA",
     "genero": "Unisex",
@@ -7951,6 +7921,37 @@
     ]
   },
   {
+    "nombre_completo": "AL WATANIAH - Ameeri | Extrait De Parfum",
+    "marca": "AL WATANIAH",
+    "genero": "Masculino",
+    "familia_olfativa": "Afrutados, Florales, Floral blanco, Fresco, Dulce, Verde, Cítrico, Amaderado, Atalcado, Especiado suave",
+    "inspirado_en": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes frescos y aromáticos más codiciados, versátiles y aclamados de la perfumería de lujo. Captura a la perfección ese codiciado ADN de \"frescura azul refinada, cítricos efervescentes, manzana crujiente y maderas nobles de estatus\", entregando una alternativa accesible con un rendimiento en concentración Extrait De Parfum de nivel superlativo.",
+    "notas_salida": "toronja, manzana verde, lila, fresia, moras azules",
+    "notas_corazon": "te chino, nectarina, azucena, madreselva",
+    "notas_fondo": "secuoya roja, orquidea, vainilla, ciruela, almizcle, enebro",
+    "descripcion": "La definición en perfume de la frescura aristocrática, el atractivo limpio y la masculinidad moderna. Al Wataniah Ameeri abre con una ráfaga vibrante y jugosa de pomelo, manzana verde crujiente y moras envueltas en la ligereza de las fresias. En cuestión de minutos despliega su corazón más elogiado: un acorde refinado de té chino combinado con la dulzura de la nectarina y flores blancas. Su evolución final en la piel es un secado denso, amaderado y profundamente sexy, donde la solidez de la secuoya roja se entrelaza con la ciruela, la vainilla y el almizcle blanco, dejando un rastro flotante que transmite éxito, pulcritud y distinción.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional de alto nivel, reuniones ejecutivas, eventos formales e informales, salidas casuales o situaciones donde se busquen cumplidos garantizados.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Sobresaliente (8h a 10h+)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado cristalino",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Masculino de perfil alto. Diseñado para hombres modernos, dinámicos, sofisticados y seguros de sí mismos que buscan una firma olfativa fresca, versátil y con carácter de lujo. Es la elección definitiva para quien exige una fragancia limpia, elegante y duradera para destacar en todo momento.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif",
+    "inspirado_en_nombre": "Percival de Parfums de Marly",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde homenaje a uno de los perfumes frescos y aromáticos más codiciados, versátiles y aclamados de la perfumería de lujo. Captura a la perfección ese codiciado ADN de \"frescura azul refinada, cítricos efervescentes, manzana crujiente y maderas nobles de estatus\", entregando una alternativa accesible con un rendimiento en concentración Extrait De Parfum de nivel superlativo.",
+        "nombre": "Percival de Parfums de Marly",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif"
+      }
+    ]
+  },
+  {
     "nombre_completo": "HUGO BOSS - Bottled | EDT",
     "marca": "Hugo Boss — Alemania",
     "anno": "1998",
@@ -11070,8 +11071,9 @@
     ]
   },
   {
-    "nombre_completo": "Armaf - Odyssey Revolution | EDP | 100ml",
+    "nombre_completo": "ARMAF - Odyssey Revolution | EDP",
     "marca": "Armaf — India",
+    "genero": "Masculino",
     "familia_olfativa": "Frutal Aromático / Mix Aventus + BR540",
     "inspirado_en": "Aventus DNA + BR540 (~50/50 mix propio)",
     "notas_salida": "Piña, Grosella negra, Naranja, salvia",
@@ -13159,36 +13161,6 @@
     ]
   },
   {
-    "nombre_completo": "RASASI - Hawas Diva | EDP | 100ml",
-    "genero": "Femenino",
-    "familia_olfativa": "Afrutados, Ámbar, Avainillado, Dulce, atalcado., Rosas, Almizclado, Fresco, Verde, Aromático",
-    "inspirado_en": "Réplica de una de las fragancias femeninas más deseadas, modernas y magnéticas de los últimos tiempos. Captura esa atmósfera nocturna, ultra sexy y glamorosa de la línea Born In Roma, elevándola con un giro exótico y misterioso gracias al combo de frutas rojas y un velo sutil de incienso. Un acierto absoluto para dominar las salidas nocturnas.",
-    "notas_salida": "furtas rojas, ruibarbo, lichi",
-    "notas_corazon": "rosa, incienso, cedro",
-    "notas_fondo": "vainilla, almizcle, ambar gris",
-    "descripcion": "Una pócima de puro glamour, magnetismo y sofisticación nocturna. Hawas Diva abre con una ráfaga adictiva y jugosa de lichi y frutas rojas, equilibrada de forma impecable por el carácter fresco y agridulce del ruibarbo. En su corazón, una rosa opulenta se envuelve en el misterio de un incienso suave, creando un aura profundamente sensual y elegante. Su evolución final es un despliegue de opulencia pura: una base pesada y ultra cremosa de vainilla y ámbar gris que evoca la faceta más intensa, dulce y conquistadora de las noches de Roma, dejando una estela imborrable.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas nocturnas, boliches premium, citas de alto impacto, fiestas exclusivas o cualquier ocasión donde el objetivo absoluto sea seducir y destacar",
-    "clima": "Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Modo Bestia (9h+)",
-    "estela": "Intensa",
-    "color_liquido": "Translúcido con reflejos cristalinos",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Diseñado para mujeres decididas, glamorosas y con una presencia arrolladora que buscan un perfume de noche imponente, dulce y sumamente seductor. Es ideal para personalidades que aman destacar, que disfrutan de las fragancias intensas de alta gama y que quieren proyectar una imagen de lujo, actitud y sensualidad refinada que se roba todas las miradas.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78739.2x.avif",
-    "inspirado_en_nombre": "Valentino Donna Born in Roma Intense",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de una de las fragancias femeninas más deseadas, modernas y magnéticas de los últimos tiempos. Captura esa atmósfera nocturna, ultra sexy y glamorosa de la línea Born In Roma, elevándola con un giro exótico y misterioso gracias al combo de frutas rojas y un velo sutil de incienso. Un acierto absoluto para dominar las salidas nocturnas.",
-        "nombre": "Valentino Donna Born in Roma Intense",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78739.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "F. AVENUE - Vulcan Black | Extrait De Parfum",
     "marca": "French Avenue",
     "anno": "2025",
@@ -13860,36 +13832,6 @@
         "texto": "Composición propia",
         "nombre": "Composición propia",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "FRENCH AVENUE - Veneno (Black) | EDP | 100ml",
-    "genero": "Masculino",
-    "familia_olfativa": "Ahumado, Afrutados, Canela, Tabaco, Cálido especiado, Avainillado, Dulce, Fresco, Verde, Musgoso",
-    "inspirado_en": "Réplica espectacular de una de las joyas nocturnas más codiciadas, sexis y caras de la alta perfumería francesa. Rompe el molde de los perfumes de tabaco tradicionales al mezclar un humo dulce de manzana caramelizada con canela, logrando una vibra hiper-moderna que emula a una shisha oriental premium.",
-    "notas_salida": "manzana, humo, canela",
-    "notas_corazon": "tabaco, musgo",
-    "notas_fondo": "vainilla, orcanox",
-    "descripcion": "La definición absoluta de la seducción nocturna, el misterio y el lujo contemporáneo. French Avenue Veneno abre de forma impactante con una manzana crujiente caramelizada en canela que se sumerge de inmediato en un humo denso y magnético. En su corazón, la fragancia despliega su faceta más rica a través de un tabaco húmedo de alta sastrería, asentado sobre la masculinidad prolija del musgo. Su evolución final en la piel es un abrazo de pura opulencia: una base majestuosa de vainilla Bourbon licorosa y el poder molecular del Orcanox™, dejando en el aire una estela flotante, dulce-ahumada y carísima que hipnotiza a cualquiera.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas nocturnas de alto impacto, boliches de alta gama, citas románticas donde quieras dejar tu marca o cualquier situación donde el objetivo sea oler riquísimo, costoso y completamente exclusivo",
-    "clima": "Frío / Muy fresco / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Atómica (9h+ - 11h+)",
-    "estela": "Intensa",
-    "color_liquido": "Dorado Intenso / Ámbar",
-    "rango_edad_min": 22,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Diseñado exclusivamente para hombres (y mujeres con muchísima facha) nocturnos, seguros de sí mismos y amantes de la ropa oscura, el cuero y la alta costura. Es ideal para personalidades magnéticas que buscan un perfume de firma para salir a romperla, transmitiendo estatus, misterio y una vibra ultra atractiva que se roba las miradas de forma inmediata.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84413.2x.avif",
-    "inspirado_en_nombre": "Kilian Smoking Hot",
-    "inspiraciones": [
-      {
-        "texto": "Réplica espectacular de una de las joyas nocturnas más codiciadas, sexis y caras de la alta perfumería francesa. Rompe el molde de los perfumes de tabaco tradicionales al mezclar un humo dulce de manzana caramelizada con canela, logrando una vibra hiper-moderna que emula a una shisha oriental premium.",
-        "nombre": "Kilian Smoking Hot",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84413.2x.avif"
       }
     ]
   },
@@ -17654,6 +17596,127 @@
         "texto": "Réplica de fidelidad inquebrantable y concentración potenciada (Overdose) que rinde tributo a la variante más lujosa, moderna y elogiada del rey mundial de los perfumes masculinos. Captura a la perfección ese ADN inconfundible de \"salida cítrica-especiada de pomelo y jengibre combinada con un corazón de piña especiada con canela y un fondo resinoso-ahumado de máxima sensualidad\"",
         "nombre": "Absolu Aventus de Creed (Edición Limitada 2023)",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84112.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RIFFS - Momento | EDP",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Avainillado, Ámbar, Cálido especiado, Rosas, Amaderado, Oud, Caramelo, Aromático, Metalico",
+    "inspirado_en": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias más potentes, elogiadas y buscadas del mundo global, famosa por ser un \"arma masiva de cumplidos\". Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán combinada con un corazón de rosa-oud y un fondo ultra goloso de haba tonka y azúcar moreno\"",
+    "notas_salida": "azucar, azafran, mandarina",
+    "notas_corazon": "haba tonka, rosa, oud",
+    "notas_fondo": "caramelo, amberwood, cedro",
+    "descripcion": "La definición en perfume del lujo extremo, la sofisticación nocturna y la sensualidad más adictiva del mercado actual. Riffs Momento arranca con un impacto vibrante, especiado y seco de azafrán puro. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por la rosa y un toque sutil de oud. Su evolución final es un secado supremo de haba tonka y azúcar moreno, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendario (14h a 16h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, magnéticas, amantes de la perfumería de nicho, de los acordes dulces-especiados de alto impacto y quienes exigen un sello personal que proyecte poder, éxito y un atractivo irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57384.2x.avif",
+    "inspirado_en_nombre": "Arabians Tonka Montale",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias más potentes, elogiadas y buscadas del mundo global, famosa por ser un \"arma masiva de cumplidos\". Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán combinada con un corazón de rosa-oud y un fondo ultra goloso de haba tonka y azúcar moreno\"",
+        "nombre": "Arabians Tonka Montale",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57384.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Candid | EDP",
+    "familia_olfativa": "Floral blanco, Pachulí, Avainillado, Amaderado, Cálido especiado, Dulce, Balsámico, Cítrico, Terroso",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y rompedoras del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida cítrica combinada con un corazón floral blanco y un fondo adictivo de miel dorada y pachuli\"",
+    "notas_salida": "bergamota, citricos, piña",
+    "notas_corazon": "flor de azahar del naranjo, jazmin, rosa",
+    "notas_fondo": "pachuli, vainilla, haba tonka",
+    "descripcion": "La definición en perfume de la seducción moderna, la elegancia golosa y la sensualidad más atrevida del mercado actual. Maison Alhambra Candid arranca con un impacto vibrante, fresco y cítrico de naranja sanguínea. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por la miel dorada y la gardenia. Su evolución final es un secado supremo de pachuli, cera de abeja y caramelo, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar cálido / Dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres seguras de sí mismas, magnéticas, amantes de las fragancias intensas, modernas y elegantes, y quienes exigen un sello personal que proyecte atractivo, éxito y un poder seductor absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.45651.2x.avif",
+    "inspirado_en_nombre": "Scandal Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y rompedoras del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida cítrica combinada con un corazón floral blanco y un fondo adictivo de miel dorada y pachuli\"",
+        "nombre": "Scandal Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.45651.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "FRENCH AVENUE - Veneno (Black) | EDP",
+    "marca": "FRENCH AVENUE",
+    "genero": "Masculino",
+    "familia_olfativa": "Ahumado, Afrutados, Canela, Tabaco, Cálido especiado, Avainillado, Dulce, Fresco, Verde, Musgoso",
+    "inspirado_en": "Réplica espectacular de una de las joyas nocturnas más codiciadas, sexis y caras de la alta perfumería francesa. Rompe el molde de los perfumes de tabaco tradicionales al mezclar un humo dulce de manzana caramelizada con canela, logrando una vibra hiper-moderna que emula a una shisha oriental premium.",
+    "notas_salida": "manzana, humo, canela",
+    "notas_corazon": "tabaco, musgo",
+    "notas_fondo": "vainilla, orcanox",
+    "descripcion": "La definición absoluta de la seducción nocturna, el misterio y el lujo contemporáneo. French Avenue Veneno abre de forma impactante con una manzana crujiente caramelizada en canela que se sumerge de inmediato en un humo denso y magnético. En su corazón, la fragancia despliega su faceta más rica a través de un tabaco húmedo de alta sastrería, asentado sobre la masculinidad prolija del musgo. Su evolución final en la piel es un abrazo de pura opulencia: una base majestuosa de vainilla Bourbon licorosa y el poder molecular del Orcanox™, dejando en el aire una estela flotante, dulce-ahumada y carísima que hipnotiza a cualquiera.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas nocturnas de alto impacto, boliches de alta gama, citas románticas donde quieras dejar tu marca o cualquier situación donde el objetivo sea oler riquísimo, costoso y completamente exclusivo",
+    "clima": "Frío / Muy fresco / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Atómica (9h+ - 11h+)",
+    "estela": "Intensa",
+    "color_liquido": "Dorado Intenso / Ámbar",
+    "rango_edad_min": 22,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Diseñado exclusivamente para hombres (y mujeres con muchísima facha) nocturnos, seguros de sí mismos y amantes de la ropa oscura, el cuero y la alta costura. Es ideal para personalidades magnéticas que buscan un perfume de firma para salir a romperla, transmitiendo estatus, misterio y una vibra ultra atractiva que se roba las miradas de forma inmediata.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84413.2x.avif",
+    "inspirado_en_nombre": "Kilian Smoking Hot",
+    "inspiraciones": [
+      {
+        "texto": "Réplica espectacular de una de las joyas nocturnas más codiciadas, sexis y caras de la alta perfumería francesa. Rompe el molde de los perfumes de tabaco tradicionales al mezclar un humo dulce de manzana caramelizada con canela, logrando una vibra hiper-moderna que emula a una shisha oriental premium.",
+        "nombre": "Kilian Smoking Hot",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.84413.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RASASI - Hawas Diva | EDP",
+    "marca": "RASASI",
+    "genero": "Femenino",
+    "familia_olfativa": "Afrutados, Ámbar, Avainillado, Dulce, atalcado., Rosas, Almizclado, Fresco, Verde, Aromático",
+    "inspirado_en": "Réplica de una de las fragancias femeninas más deseadas, modernas y magnéticas de los últimos tiempos. Captura esa atmósfera nocturna, ultra sexy y glamorosa de la línea Born In Roma, elevándola con un giro exótico y misterioso gracias al combo de frutas rojas y un velo sutil de incienso. Un acierto absoluto para dominar las salidas nocturnas.",
+    "notas_salida": "furtas rojas, ruibarbo, lichi",
+    "notas_corazon": "rosa, incienso, cedro",
+    "notas_fondo": "vainilla, almizcle, ambar gris",
+    "descripcion": "Una pócima de puro glamour, magnetismo y sofisticación nocturna. Hawas Diva abre con una ráfaga adictiva y jugosa de lichi y frutas rojas, equilibrada de forma impecable por el carácter fresco y agridulce del ruibarbo. En su corazón, una rosa opulenta se envuelve en el misterio de un incienso suave, creando un aura profundamente sensual y elegante. Su evolución final es un despliegue de opulencia pura: una base pesada y ultra cremosa de vainilla y ámbar gris que evoca la faceta más intensa, dulce y conquistadora de las noches de Roma, dejando una estela imborrable.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas nocturnas, boliches premium, citas de alto impacto, fiestas exclusivas o cualquier ocasión donde el objetivo absoluto sea seducir y destacar",
+    "clima": "Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Modo Bestia (9h+)",
+    "estela": "Intensa",
+    "color_liquido": "Translúcido con reflejos cristalinos",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Diseñado para mujeres decididas, glamorosas y con una presencia arrolladora que buscan un perfume de noche imponente, dulce y sumamente seductor. Es ideal para personalidades que aman destacar, que disfrutan de las fragancias intensas de alta gama y que quieren proyectar una imagen de lujo, actitud y sensualidad refinada que se roba todas las miradas.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78739.2x.avif",
+    "inspirado_en_nombre": "Valentino Donna Born in Roma Intense",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de una de las fragancias femeninas más deseadas, modernas y magnéticas de los últimos tiempos. Captura esa atmósfera nocturna, ultra sexy y glamorosa de la línea Born In Roma, elevándola con un giro exótico y misterioso gracias al combo de frutas rojas y un velo sutil de incienso. Un acierto absoluto para dominar las salidas nocturnas.",
+        "nombre": "Valentino Donna Born in Roma Intense",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78739.2x.avif"
       }
     ]
   }
