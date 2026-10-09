@@ -56,13 +56,13 @@
     "b": "AFNAN",
     "n": "AFNAN - 9pm | Elixir",
     "s": "100ml",
-    "p": 85600,
+    "p": 86000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1986_cmz5r8.jpg",
     "nt": "Salida nuez moscada, elemi, cardamomo Notas de corazón: pimiento, lavanda, cuero Notas de fondo: heliántemo, ládano, pachulí, vainilla",
-    "p1": "$85.600"
+    "p1": "$86.000"
   },
   {
     "id": 1987,
@@ -618,7 +618,7 @@
     "p": 123000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2029_feafv8.jpg",
     "nt": "Salida Piña, limón, bergamota, caramelo, pera, pimienta Notas de corazón: Musgo de roble, Maderas, jazmín, lirio, anís Notas de fondo: Ambroxan, ámbar, almizcle blanco, pachulí, vainilla, cuero, cedro",
     "p1": "$123.000"
@@ -7977,7 +7977,7 @@
     "c": "arabes",
     "g": "mujer",
     "st": "out",
-    "i": "https://m.media-amazon.com/images/I/71nmFndhWrL.jpg",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2630_l289ad.jpg",
     "nt": "—",
     "p1": "$93.000"
   },
@@ -7990,7 +7990,7 @@
     "c": "arabes",
     "g": "unisex",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_895099-MLA87864362546_072025-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2631_of93ii.webp",
     "nt": "Salida azucar, azafran, mandarina Notas de corazón: haba tonka, rosa, oud Notas de fondo: caramelo, amberwood, cedro",
     "p1": "$92.000"
   },
