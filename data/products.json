@@ -839,7 +839,7 @@
     "p": 73000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2046_p8dj95.jpg",
     "nt": "Salida Mandarina, naranja, azafran, salvia Notas de Corazón: caramelo, haba tonka, cempasuchil Notas de Fondo: ambroxan, cedro, vetiver",
     "p1": "$73.000"
@@ -891,7 +891,7 @@
     "p": 61000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2050_4wqc1g.jpg",
     "nt": "Salida Piña, Grosella negra, Naranja, salvia Notas de corazón: Praliné, vainilla, ciruela, cardamomo Notas de fondo: Haba tonka, pachulí",
     "p1": "$61.000"
@@ -1840,7 +1840,7 @@
     "p": 59200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2123_33ef3s.jpg",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$59.200"
@@ -4141,7 +4141,7 @@
     "p": 85600,
     "c": "internacional",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2301_6gbzz2.jpg",
     "nt": "Salida Limón, bergamota, mandarina, piña, cardamomo, papaya Notas de corazón: Lirio de los valles, jazmín, violeta, rosa, fresia, iris Notas de fondo: Almizcle, cedro, té verde, sándalo, musgo de roble, ámbar",
     "p1": "$85.600"
@@ -5428,7 +5428,7 @@
     "p": 72800,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2406_4l72su.jpg",
     "nt": "Salida amaretto, cafe Notas de corazón: helado, vainilla, bizcocho Notas de fondo: vainilla, azucar moreno, ambar",
     "p1": "$72.800"
@@ -7248,7 +7248,7 @@
     "p": 109000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2555_tf1lpg.jpg",
     "nt": "Salida lavanda, limon, bergamota Notas de corazón: miel, canela, cachemira, jazmin Notas de fondo: vainilla, tabaco, haba tonka",
     "p1": "$109.000"
