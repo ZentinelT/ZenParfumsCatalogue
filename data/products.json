@@ -1606,7 +1606,7 @@
     "p": 67200,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2105_4vhd6e.jpg",
     "nt": "Salida Leche de rosa (Rose Milk) Notas de corazón: Almendra, merengue Notas de fondo: Vainilla, sándalo, almizcle",
     "p1": "$67.200"
@@ -2542,7 +2542,7 @@
     "p": 60000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2177_5kkm5y.jpg",
     "nt": "Salida Mango, coco, maracuyá Notas de corazón: Jazmín, heliotropo, flor de azahar del naranjo · Fondo Vainilla, cachemira, almizcle",
     "p1": "$60.000"
@@ -4037,7 +4037,7 @@
     "p": 63200,
     "c": "internacional",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2293_sovkg5.jpg",
     "nt": "Salida Ciruela, cereza, frambuesa Notas de corazón: Orquídea, iris, fresia Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$63.200"
@@ -5753,7 +5753,7 @@
     "p": 92000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2432_hqx8l6.jpg",
     "nt": "Salida mango, piña, bergamota Notas de corazón: coco Notas de fondo: almizcle, ambar, sandalo, vetiver",
     "p1": "$92.000"
