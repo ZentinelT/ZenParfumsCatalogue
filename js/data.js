@@ -158,18 +158,18 @@ function getSimilarPerfumes(p, limit) {
 
 // --- Buscador por notas (mismo motor de arriba, sin perfume ancla) ---
 var NOTE_GROUPS = [
-  { label: "Dulces & Gourmand", notes: ["vainilla","haba tonka","caramelo","praline","canela","cacao","cafe","coco"] },
-  { label: "Amaderadas", notes: ["sandalo","cedro","oud","vetiver","musgo"] },
-  { label: "Orientales & Especiadas", notes: ["ambar","almizcle","pachuli","azafran","incienso","cardamomo","pimienta rosa","jengibre","nuez moscada","tabaco"] },
-  { label: "Cítricas & Frescas", notes: ["bergamota","limon","mandarina","naranja","pomelo","menta"] },
-  { label: "Frutales", notes: ["manzana","pera","pina","frutos rojos","durazno"] },
-  { label: "Florales", notes: ["jazmin","rosa","lavanda","azahar","violeta","iris","geranio"] },
+  { label: "Dulces & Gourmand", notes: ["vainilla","haba tonka","caramelo","praline","canela","cacao","cafe","coco","miel","almendra","chocolate","leche"] },
+  { label: "Amaderadas", notes: ["sandalo","cedro","oud","vetiver","musgo","cipriol","cachemira","amberwood","elemi","abedul"] },
+  { label: "Orientales & Especiadas", notes: ["ambar","almizcle","pachuli","azafran","incienso","cardamomo","pimienta rosa","jengibre","nuez moscada","tabaco","ladano","clavo de olor","ambroxan"] },
+  { label: "Cítricas & Frescas", notes: ["bergamota","limon","mandarina","naranja","pomelo","menta","salvia","romero","neroli","cilantro","albahaca","enebro","notas marinas"] },
+  { label: "Frutales", notes: ["manzana","pera","pina","frutos rojos","durazno","higo","lichi","mango"] },
+  { label: "Florales", notes: ["jazmin","rosa","lavanda","azahar","violeta","iris","geranio","heliotropo","ylang-ylang","gardenia","orquidea","azucena"] },
   { label: "Cuero & Animal", notes: ["cuero"] }
 ];
 // Cómo se muestra cada nota (con tildes)
-var NOTE_LABEL = { sandalo:"sándalo", limon:"limón", jazmin:"jazmín", pachuli:"pachulí", ambar:"ámbar", azafran:"azafrán", praline:"praliné", cafe:"café", pina:"piña" };
+var NOTE_LABEL = { sandalo:"sándalo", limon:"limón", jazmin:"jazmín", pachuli:"pachulí", ambar:"ámbar", azafran:"azafrán", praline:"praliné", cafe:"café", pina:"piña", ladano:"ládano", orquidea:"orquídea" };
 // Notas que agrupan varias: "frutos rojos" encuentra frambuesa, fresa, etc.
-var NOTE_ALIAS = { "frutos rojos": ["frutos rojos","frambuesa","fresa","grosella","mora","arandano","cereza"] };
+var NOTE_ALIAS = { "frutos rojos": ["frutos rojos","frambuesa","fresa","grosella","mora","arandano","cereza"], "notas marinas": ["notas marinas","notas acuaticas"] };
 
 // Una nota elegida coincide con sus variantes: "rosa" encuentra "rosa turca",
 // "petalos de rosa", etc. (pero no "pimienta rosa" ni "palo de rosa", que son otra cosa)
