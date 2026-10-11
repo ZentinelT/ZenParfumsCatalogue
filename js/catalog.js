@@ -425,6 +425,9 @@ function populateBrandOptions() {
 function onSearch(v) { cSrch = v.toLowerCase().trim(); cPg = 1; renderProds(); }
 
 /* ---- BUSCADOR POR NOTAS (integrado a los filtros) ---- */
+function noteLabelOf(n) {
+  return (typeof NOTE_LABEL !== "undefined" && NOTE_LABEL[n]) || n;
+}
 function renderNoteChips() {
   var box = $("chipGroups");
   if (!box || typeof NOTE_GROUPS === "undefined") return;
@@ -432,18 +435,100 @@ function renderNoteChips() {
     return "<div>" +
       "<div class=\"chip-group-label\">" + esc(g.label) + "</div>" +
       "<div class=\"chip-group-row\">" +
-        g.notes.map(function(n){
-          return "<button class=\"chip" + (cSelectedNotes[n] ? " on" : "") + "\" onclick=\"toggleNote('" + n + "')\">" + esc((typeof NOTE_LABEL !== "undefined" && NOTE_LABEL[n]) || n) + "</button>";
+        g.notes.map(function(n, i){
+          return "<span class=\"nword" + (cSelectedNotes[n] ? " on" : "") + "\" onclick=\"toggleNote('" + n + "')\">" + esc(noteLabelOf(n)) +
+            (i < g.notes.length - 1 ? "<span class=\"nword-dot\">&middot;</span>" : "") +
+          "</span>";
         }).join("") +
       "</div>" +
     "</div>";
   }).join("");
 }
+function renderNoteTags() {
+  var box = $("noteTags");
+  if (!box) return;
+  var keys = Object.keys(cSelectedNotes);
+  box.innerHTML = keys.map(function(n){
+    return "<button class=\"note-tag\" onclick=\"toggleNote('" + n + "')\">" + esc(noteLabelOf(n)) + " <b>&times;</b></button>";
+  }).join("");
+}
 function toggleNote(n) {
   if (cSelectedNotes[n]) delete cSelectedNotes[n]; else cSelectedNotes[n] = true;
   renderNoteChips();
+  renderNoteTags();
+  hideNoteSuggest();
+  var input = $("noteSearchInput");
+  if (input) input.value = "";
   cPg = 1;
   renderProds();
+}
+
+/* ---- Buscador con autocompletado: lista plana de todas las notas ---- */
+var _noteFlat = null;
+function noteFlatList() {
+  if (_noteFlat) return _noteFlat;
+  _noteFlat = [];
+  if (typeof NOTE_GROUPS === "undefined") return _noteFlat;
+  NOTE_GROUPS.forEach(function(g){
+    g.notes.forEach(function(n){
+      _noteFlat.push({ key: n, label: noteLabelOf(n), group: g.label, norm: simNorm(noteLabelOf(n)) });
+    });
+  });
+  return _noteFlat;
+}
+function hideNoteSuggest() {
+  var dd = $("noteSuggest");
+  if (dd) { dd.hidden = true; dd.innerHTML = ""; }
+}
+function renderNoteSuggest(q) {
+  var dd = $("noteSuggest");
+  if (!dd) return;
+  if (!q) { hideNoteSuggest(); return; }
+  var qn = simNorm(q);
+  var matches = noteFlatList()
+    .filter(function(it){ return !cSelectedNotes[it.key] && it.norm.indexOf(qn) > -1; })
+    .sort(function(a,b){
+      var aStart = a.norm.indexOf(qn) === 0 ? 0 : 1;
+      var bStart = b.norm.indexOf(qn) === 0 ? 0 : 1;
+      if (aStart !== bStart) return aStart - bStart;
+      return a.label.localeCompare(b.label);
+    })
+    .slice(0, 8);
+  if (!matches.length) {
+    dd.innerHTML = "<div class=\"note-suggest-empty\">Sin coincidencias</div>";
+    dd.hidden = false;
+    return;
+  }
+  dd.innerHTML = matches.map(function(it, i){
+    return "<div class=\"note-suggest-item" + (i === 0 ? " hl" : "") + "\" onmousedown=\"event.preventDefault();selectNoteFromSearch('" + it.key + "')\">" +
+      "<span>" + esc(it.label) + "</span><span class=\"note-suggest-cat\">" + esc(it.group) + "</span>" +
+    "</div>";
+  }).join("");
+  dd.hidden = false;
+}
+function selectNoteFromSearch(n) {
+  if (!cSelectedNotes[n]) cSelectedNotes[n] = true;
+  renderNoteChips();
+  renderNoteTags();
+  hideNoteSuggest();
+  var input = $("noteSearchInput");
+  if (input) { input.value = ""; input.focus(); }
+  cPg = 1;
+  renderProds();
+}
+function onNoteSearchInput(v) {
+  renderNoteSuggest(v.trim());
+}
+function onNoteSearchKey(ev) {
+  if (ev.key === "Enter") {
+    ev.preventDefault();
+    var dd = $("noteSuggest");
+    var first = dd && dd.querySelector(".note-suggest-item");
+    if (first) first.dispatchEvent(new MouseEvent("mousedown"));
+  } else if (ev.key === "Escape") {
+    hideNoteSuggest();
+    ev.target.blur();
+  }
 }
 var NOTES_GENDER_OPTS = [
   { v: "hombre", l: "Hombre" },
@@ -468,6 +553,10 @@ function setNotesGender(g) {
     // (darían 0 resultados sin explicación).
     cSelectedNotes = {};
     renderNoteChips();
+    renderNoteTags();
+    hideNoteSuggest();
+    var input = $("noteSearchInput");
+    if (input) input.value = "";
   }
   renderNotesGenderRow();
   renderProds();

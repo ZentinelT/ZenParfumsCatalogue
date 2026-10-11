@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/styles.css?v=10">
+<link rel="stylesheet" href="css/styles.css?v=11">
 <link rel="stylesheet" href="css/producto.css?v=1">
 <script defer src="js/producto.js?v=2"></script>
 <script data-goatcounter="https://zenparfums.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
@@ -161,10 +161,17 @@
       </button>
       <div class="notes-panel-hd">
         <div class="notes-panel-tt">&#191;Qu&#233; notas te gustan?</div>
-        <div class="notes-panel-sub">Eleg&iacute; una o m&aacute;s &mdash; ordenamos el cat&aacute;logo por cu&aacute;ntas comparte cada perfume.</div>
+        <div class="notes-panel-sub">Busc&aacute; una nota o eleg&iacute; de las sugerencias &mdash; ordenamos el cat&aacute;logo por cu&aacute;ntas comparte cada perfume.</div>
         <div class="notes-panel-gr"></div>
         <div class="notes-gender-row" id="notesGenderRow"></div>
       </div>
+      <div class="note-search" id="noteSearchWrap">
+        <svg class="note-search-ic" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input class="note-search-input" id="noteSearchInput" type="text" placeholder="Busc&aacute; una nota&hellip; (ej: oud, pachul&iacute;, vainilla)" autocomplete="off" oninput="onNoteSearchInput(this.value)" onkeydown="onNoteSearchKey(event)" onblur="setTimeout(hideNoteSuggest,120)">
+        <div class="note-suggest" id="noteSuggest" hidden></div>
+      </div>
+      <div class="note-tags" id="noteTags"></div>
+      <div class="note-fam-hd">Explor&aacute; por familia</div>
       <div class="chip-groups" id="chipGroups"></div>
     </div>
 
@@ -281,12 +288,12 @@
 <script src="js/cart.js?v=4"></script>
 <script src="js/wishlist.js?v=5"></script>
 <script src="js/mobmenu.js"></script>
-<script src="js/catalog.js?v=12"></script>
+<script src="js/catalog.js?v=13"></script>
 <script src="js/filtros.js?v=1"></script>
 <script src="js/precios.js?v=2"></script>
 <script src="js/estacion.js?v=2"></script>
 <script src="js/marcas.js?v=4"></script>
 <script src="js/eventos.js?v=2"></script>
-<script src="js/app.js?v=5"></script>
+<script src="js/app.js?v=6"></script>
 </body>
 </html>

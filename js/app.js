@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
   loadCatalogData().then(function() {
     populateBrandOptions();
     renderNoteChips();
+    renderNoteTags();
     /* Sincronizar checkbox del filtro "Solo en stock" con estado persistido */
     var stockChk = document.getElementById("stockToggle");
     if (stockChk) stockChk.checked = cOnlyStock;
