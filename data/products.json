@@ -2256,7 +2256,7 @@
     "p": 55200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2155_mkc8tl.jpg",
     "nt": "Salida Piña, fruta de la pasión Notas de corazón: Cedro, lavanda, pachulí Notas de fondo: Madera de oud, almizcle, ámbar, vainilla",
     "p1": "$55.200"
@@ -2672,7 +2672,7 @@
     "p": 69600,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2187_yxg2gz.jpg",
     "nt": "Salida Ruibarbo, grosella negra, bergamota Notas de corazón: Rosa, notas florales Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$69.600"
@@ -2867,7 +2867,7 @@
     "p": 61600,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2202_k6jcxf.jpg",
     "nt": "Salida Pera, Bergamota Notas de corazón: nardos, flor de azahar del naranjo, jazmin sambac Notas de fondo: Pachulí, Ambroxan, Vainilla, Vetiver",
     "p1": "$61.600"
@@ -7625,7 +7625,7 @@
     "p": 62000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2585_x4ylo9.webp",
     "nt": "Salida iris de la toscana, naranja Notas de corazón: rosa, cuero Notas de fondo: sandalo, almizcle ambreta, oud, cedro",
     "p1": "$62.000"
