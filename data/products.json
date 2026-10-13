@@ -709,7 +709,7 @@
     "p": 87200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2036_a90nh0.jpg",
     "nt": "Salida Bergamota, salvia, frutos secos Notas de corazón: Coco, canela, frutas tropicales Notas de fondo: Haba tonka, vainilla, ámbar",
     "p1": "$87.200"
@@ -1840,7 +1840,7 @@
     "p": 59200,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2123_33ef3s.jpg",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$59.200"
