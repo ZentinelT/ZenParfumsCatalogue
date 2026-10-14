@@ -995,7 +995,7 @@
     "p": 56800,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2058_82ewb0.jpg",
     "nt": "Salida Cítricos, bergamota Notas de corazón: Almizcle blanco, sabila Notas de fondo: Jazmín, almizcle, Maderas, madera de oud",
     "p1": "$56.800"
@@ -1554,7 +1554,7 @@
     "p": 60000,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2101_0fx89w.jpg",
     "nt": "Salida pimienta rosa, bergamota Notas de corazón: rosa turca, rosa de Bulgaria (rosa Damascena de Bulgaria), jazmín Notas de fondo: madera de oud, ámbar, vainilla",
     "p1": "$60.000"
@@ -1606,7 +1606,7 @@
     "p": 67200,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2105_4vhd6e.jpg",
     "nt": "Salida Leche de rosa (Rose Milk) Notas de corazón: Almendra, merengue Notas de fondo: Vainilla, sándalo, almizcle",
     "p1": "$67.200"
@@ -1996,7 +1996,7 @@
     "p": 64000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2135_as5qra.jpg",
     "nt": "Salida mandarina verde, melon, higo, agua de coco Notas de corazón: nenufar, jazmin, flor de loto Notas de fondo: almizcle, ambroxan, sandalo, vainilla",
     "p1": "$64.000"
@@ -2451,7 +2451,7 @@
     "p": 68000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2170_ftmuwk.jpg",
     "nt": "Salida Pera, bergamota, fresa Notas de corazón: Praliné, jazmín, rosa Notas de fondo: Vainilla, caramelo, almizcle",
     "p1": "$68.000"
@@ -5441,7 +5441,7 @@
     "p": 76000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2407_8i2i2i.jpg",
     "nt": "Salida caramelo Notas de corazón: miel, cumarina, Maderas Notas de fondo: vainilla, whisky, Almizcle",
     "p1": "$76.000"
@@ -5532,7 +5532,7 @@
     "p": 81000,
     "c": "internacional",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2414_s3iz2d.jpg",
     "nt": "Salida malvavisco, chocolate, jengibre confitado, bergamota Notas de corazón: vainilla, leche de coco, jazmín Notas de fondo: crema batida, azúcar, almizcle, cachemira",
     "p1": "$81.000"
