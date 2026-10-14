@@ -121,13 +121,13 @@
     "b": "AFNAN",
     "n": "AFNAN - Supremacy Collector's Edition | EDP",
     "s": "100ml",
-    "p": 137000,
+    "p": 142000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1991_pd7n4q.jpg",
     "nt": "Salida Piña, bergamota, flores blancas, manzana Notas de corazón: Flor de azahar, abedul, ámbar Notas de fondo: Musgo de roble, almizcle, ámbar gris",
-    "p1": "$137.000"
+    "p1": "$142.000"
   },
   {
     "id": 1992,
@@ -371,7 +371,7 @@
     "p": 48800,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2010_fx16m2.jpg",
     "nt": "Salida Azafran, rosa, pimienta negra Notas de corazón: Oud, caramelo, pachulí, notas florales Notas de fondo: Incienso, ámbar, Maderas, almizcle",
     "p1": "$48.800"
@@ -384,7 +384,7 @@
     "p": 52000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2011_gkgla2.jpg",
     "nt": "Salida Limón, Bergamota, Pera, Grosellas negras Notas de corazón: Geranio, Cardamomo Notas de fondo: Sándalo, Cedro, Vainilla",
     "p1": "$52.000"
@@ -397,7 +397,7 @@
     "p": 59000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2012_d6hsu4.jpg",
     "nt": "Salida Mandarina, bergamota Notas de corazón: Rosa de Bulgaria, rosa, aceite de rosas, jazmín Notas de fondo: Georgywood, vainilla, incienso, Akigalawood, Ambrofix",
     "p1": "$59.000"
@@ -475,7 +475,7 @@
     "p": 56800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2018_5r5ucf.jpg",
     "nt": "Salida Miel, vainilla, clavo de olor, limón Notas de corazón: Rosa, ylang-ylang, jazmín, azafran Notas de fondo: Vainilla, almizcle blanco, sándalo, pachulí",
     "p1": "$56.800"
@@ -693,13 +693,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Odyssey Aqua | EDP",
     "s": "100ml",
-    "p": 82400,
+    "p": 76000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2035_xmobi7.jpg",
     "nt": "Salida Naranja, pomelo, artemisia Notas de corazón: Menta, lavanda Notas de fondo: Ambroxan, pachulí, ciprés",
-    "p1": "$82.400"
+    "p1": "$76.000"
   },
   {
     "id": 2036,
@@ -784,13 +784,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Odyssey Go Mango | EDP",
     "s": "100ml",
-    "p": 64800,
+    "p": 69000,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2042_8rt7ec.jpg",
     "nt": "Salida Limón, pimienta rosa, jengibre, flores blancas Notas de corazón: Mango, haba tonka, madera seca Notas de fondo: Ámbar, vainilla, madera de gaiac, almizcle, frutos secos",
-    "p1": "$64.800"
+    "p1": "$69.000"
   },
   {
     "id": 2043,
@@ -1031,13 +1031,13 @@
     "b": "BHARARA",
     "n": "BHARARA - King | EDP",
     "s": "100ml",
-    "p": 116000,
+    "p": 115000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2061_w5m1p0.jpg",
     "nt": "Salida Naranja, limón, bergamota Notas de corazón: frutas Notas de fondo: Vainilla, almizcle blanco, ámbar",
-    "p1": "$116.000"
+    "p1": "$115.000"
   },
   {
     "id": 2062,
@@ -2490,7 +2490,7 @@
     "p": 64800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2173_zcjkpa.jpg",
     "nt": "Salida Grosella negra, fresa, vainilla Notas de corazón: Cereza, frambuesa, mandarina Notas de fondo: Almizcle, vainilla, ámbar",
     "p1": "$64.800"
@@ -3179,7 +3179,7 @@
     "p": 95400,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2226_ofb845.jpg",
     "nt": "Salida esclarea Notas de corazón: notas marinas, jazmin egipcio Notas de fondo: ambar, notas minerales, ambar gris",
     "p1": "$95.400"
@@ -3244,7 +3244,7 @@
     "p": 86000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2231_wgeci5.jpg",
     "nt": "Salida Coco, cítricos Notas de corazón: Higo, frutas tropicales Notas de fondo: Tonka, almizcle, ámbar",
     "p1": "$86.000"
@@ -4557,7 +4557,7 @@
     "p": 221600,
     "c": "internacional",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2333_ack0xl.jpg",
     "nt": "Salida Grosella negra, pera Notas de corazón: Iris, flor de azahar, jazmín Notas de fondo: Pachulí, praliné, vainilla, haba tonka",
     "p1": "$221.600"
@@ -4931,13 +4931,13 @@
     "b": "AFNAN",
     "n": "AFNAN - 9pm Night Out | Extrait De Parfum",
     "s": "100ml",
-    "p": 105600,
+    "p": 112000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2364_bwdabz.jpg",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
-    "p1": "$105.600"
+    "p1": "$112.000"
   },
   {
     "id": 2365,
@@ -7209,7 +7209,7 @@
     "p": 227200,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2551_rcbzzu.jpg",
     "nt": "Salida ciruela, canela, cardamomo, bergamota Notas de corazón: lavanda, davana, abrotano Notas de fondo: haba tonka, benjui, almizcle ambreta, pachuli, ladano",
     "p1": "$227.200"

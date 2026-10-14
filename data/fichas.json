@@ -11619,7 +11619,32 @@
     ]
   },
   {
-    "nombre_completo": "Armaf - Odyssey Aqua | EDP | 100ml",
+    "nombre_completo": "TUBBEES - Cookies & Cream | EDP",
+    "marca": "Tubbees — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Galleta con Crema",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Manteca, Azúcar",
+    "notas_corazon": "Leche, Chocolate",
+    "notas_fondo": "Vainilla, Almizcle blanco",
+    "descripcion": "Galleta Oreo con crema. Vainilla y cacao. El más popular de Tubbees.",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "perfil_usuario": "Mujeres 15-30 años. Gourmand.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 30,
+    "estilo_descripcion": "Mujeres Gourmand.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ARMAF - Odyssey Aqua | EDP",
     "marca": "Armaf — India",
     "anno": "2023",
     "genero": "Masculino",
@@ -11646,31 +11671,6 @@
       {
         "texto": "Paco Rabanne Invictus Platinum",
         "nombre": "Paco Rabanne Invictus Platinum",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "TUBBEES - Cookies & Cream | EDP",
-    "marca": "Tubbees — UAE",
-    "genero": "Femenino",
-    "familia_olfativa": "Gourmand / Galleta con Crema",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Manteca, Azúcar",
-    "notas_corazon": "Leche, Chocolate",
-    "notas_fondo": "Vainilla, Almizcle blanco",
-    "descripcion": "Galleta Oreo con crema. Vainilla y cacao. El más popular de Tubbees.",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "perfil_usuario": "Mujeres 15-30 años. Gourmand.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 30,
-    "estilo_descripcion": "Mujeres Gourmand.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
