@@ -371,7 +371,7 @@
     "p": 48800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2010_fx16m2.jpg",
     "nt": "Salida Azafran, rosa, pimienta negra Notas de corazón: Oud, caramelo, pachulí, notas florales Notas de fondo: Incienso, ámbar, Maderas, almizcle",
     "p1": "$48.800"
@@ -540,7 +540,7 @@
     "p": 80800,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2023_xm1ghs.jpg",
     "nt": "Salida Limón, grosella negra, manzana, piña, bergamota Notas de corazón: Abedul, jazmín, rosa Notas de fondo: Almizcle, ámbar gris, vainilla, pachulí",
     "p1": "$80.800"
@@ -2386,7 +2386,7 @@
     "p": 63200,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2165_u67dnh.jpg",
     "nt": "Salida Maracuyá, frambuesa, bergamota Notas de corazón: Vainilla, flores, rosa Notas de fondo: Almizcle, ámbar, madera de cachemira",
     "p1": "$63.200"
@@ -2516,7 +2516,7 @@
     "p": 60800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2175_usj85e.jpg",
     "nt": "Salida Fresa, grosella negra Notas de corazón: Gourmand, frutas tropicales Notas de fondo: Caramelo, almizcle, ámbar",
     "p1": "$60.800"
@@ -6598,7 +6598,7 @@
     "p": 108000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2502_5p2d4l.jpg",
     "nt": "Salida avellana, cacao Notas de corazón: cedro, jazmin sambac Notas de fondo: caramelo, ambroxan, musgo de roble",
     "p1": "$108.000"
@@ -6884,7 +6884,7 @@
     "p": 224800,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2526_f77az0.jpg",
     "nt": "Salida flor de azahar del naranjo, bergamota Notas de corazón: nardos, jazmin de la india Notas de fondo: vainilla, almizcle, cedro",
     "p1": "$224.800"
