@@ -1983,7 +1983,7 @@
     "p": 63200,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2134_v8ci6q.jpg",
     "nt": "Salida fresa, bergamota Notas de corazón: cacao, mermelada de cereza Notas de fondo: ambar, pachuli, vainilla",
     "p1": "$63.200"
@@ -3218,7 +3218,7 @@
     "p": 91000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2229_iatkkb.jpg",
     "nt": "Salida Manzana, limón, bergamota, Anís Notas de corazón: Ciruela, flor de azahar, cardamomo Notas de fondo: Almizcle, ámbar, driftwood, musgo",
     "p1": "$91.000"
@@ -6624,7 +6624,7 @@
     "p": 48000,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2504_f6onny.jpg",
     "nt": "Salida rosa, canela, azafran Notas de corazón: caramelo, pachuli Notas de fondo: maderas, vainilla, ambar, ambroxan",
     "p1": "$48.000"
@@ -8029,7 +8029,7 @@
     "c": "arabes",
     "g": "hombre",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_750749-MLU54982291242_042023-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2636_ujekt7.webp",
     "nt": "canela, lavanda, bergamota, cuero, mimosa, tabaco, gaiac, opoponaco, musgo de roble",
     "p1": "$104.000"
   }
