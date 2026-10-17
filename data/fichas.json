@@ -1373,36 +1373,6 @@
     ]
   },
   {
-    "nombre_completo": "Maison Alhambra - Delilah | EDP | 100ml",
-    "marca": "Maison Alhambra — UAE",
-    "familia_olfativa": "Frutal Floral / Ruibarbo Rosa",
-    "inspirado_en": "DNA ruibarbo-rosa (similar a Juliette Has a Gun, Killian)",
-    "notas_salida": "Ruibarbo, grosella negra, bergamota",
-    "notas_corazon": "Rosa, notas florales",
-    "notas_fondo": "Vainilla, almizcle, ámbar",
-    "descripcion": "Ruibarbo ácido con rosa y vainilla. Frutal-floral complejo y femenino.",
-    "momento_dia": "Tarde",
-    "estacion": "Primavera / Todo el año",
-    "ocasion": "Casual, salidas",
-    "clima": "Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Rosado / coral",
-    "perfil_usuario": "Mujeres 20-40 años. Afrutadas, rosas, originales.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Mujeres Afrutadas, rosas, originales.",
-    "inspirado_en_nombre": "DNA ruibarbo-rosa",
-    "inspiraciones": [
-      {
-        "texto": "DNA ruibarbo-rosa (similar a Juliette Has a Gun, Killian)",
-        "nombre": "DNA ruibarbo-rosa",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Fakhar Gold Extract | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -8148,6 +8118,34 @@
     ]
   },
   {
+    "nombre_completo": "BURBERRY - London for Woman | EDP",
+    "marca": "Burberry — Reino Unido",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Chypre / Clásico Inglés",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Madreselva, mandarina, rosa",
+    "notas_corazon": "Jazmín, flor de tiaré, peonía, clementina",
+    "notas_fondo": "Almizcle, sándalo, pachulí",
+    "descripcion": "Floral elegante e inglesa. Madreselva con jazmín y peonía. Clásico y femenino refinado. Evoca jardines ingleses en primavera.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Todo el año",
+    "ocasion": "Trabajo, eventos, cotidiano elegante",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Media-larga",
+    "estela": "Moderada",
+    "color_liquido": "Dorado / champagne",
+    "perfil_usuario": "Mujeres 30-55 años. Clásicas, británicas, elegantes.",
+    "rango_edad_min": 30,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Mujeres Clásicas, británicas, elegantes.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original"
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Bade'e Al Oud Honor & Glory | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Unisex",
@@ -8472,6 +8470,37 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Delilah | EDP",
+    "marca": "Maison Alhambra — UAE",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Floral / Ruibarbo Rosa",
+    "inspirado_en": "DNA ruibarbo-rosa (similar a Juliette Has a Gun, Killian)",
+    "notas_salida": "Ruibarbo, grosella negra, bergamota",
+    "notas_corazon": "Rosa, notas florales",
+    "notas_fondo": "Vainilla, almizcle, ámbar",
+    "descripcion": "Ruibarbo ácido con rosa y vainilla. Frutal-floral complejo y femenino.",
+    "momento_dia": "Tarde",
+    "estacion": "Primavera / Todo el año",
+    "ocasion": "Casual, salidas",
+    "clima": "Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "estela": "Moderada",
+    "color_liquido": "Rosado / coral",
+    "perfil_usuario": "Mujeres 20-40 años. Afrutadas, rosas, originales.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Mujeres Afrutadas, rosas, originales.",
+    "inspirado_en_nombre": "DNA ruibarbo-rosa",
+    "inspiraciones": [
+      {
+        "texto": "DNA ruibarbo-rosa (similar a Juliette Has a Gun, Killian)",
+        "nombre": "DNA ruibarbo-rosa",
         "imagen_url": ""
       }
     ]
@@ -11400,35 +11429,6 @@
       {
         "texto": " Delina Exclusif de Parfums de Marly",
         "nombre": "Parfums de Marly Delina Exclusif",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Burberry - London for Woman | EDP | 100ml",
-    "marca": "Burberry — Reino Unido",
-    "familia_olfativa": "Floral Chypre / Clásico Inglés",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Madreselva, mandarina, rosa",
-    "notas_corazon": "Jazmín, flor de tiaré, peonía, clementina",
-    "notas_fondo": "Almizcle, sándalo, pachulí",
-    "descripcion": "Floral elegante e inglesa. Madreselva con jazmín y peonía. Clásico y femenino refinado. Evoca jardines ingleses en primavera.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Todo el año",
-    "ocasion": "Trabajo, eventos, cotidiano elegante",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Media-larga",
-    "estela": "Moderada",
-    "color_liquido": "Dorado / champagne",
-    "perfil_usuario": "Mujeres 30-55 años. Clásicas, británicas, elegantes.",
-    "rango_edad_min": 30,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Mujeres Clásicas, británicas, elegantes.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -17717,6 +17717,35 @@
         "texto": "Réplica de una de las fragancias femeninas más deseadas, modernas y magnéticas de los últimos tiempos. Captura esa atmósfera nocturna, ultra sexy y glamorosa de la línea Born In Roma, elevándola con un giro exótico y misterioso gracias al combo de frutas rojas y un velo sutil de incienso. Un acierto absoluto para dominar las salidas nocturnas.",
         "nombre": "Valentino Donna Born in Roma Intense",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.78739.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BURBERRY - London for Men | EDT",
+    "marca": "BURBERRY",
+    "genero": "Masculino",
+    "familia_olfativa": "Tabaco, Canela, Dulce, Cálido especiado, Amaderado, Cuero, Lavanda, Ámbar, Musgoso, Animálico",
+    "inspirado_en": "Una de las creaciones maestras más aclamadas de la perfumería británica clásica, diseñada para encarnar la elegancia formal de Londres, el espíritu festivo y el confort de las tardes de invierno. Combina un estallido especiado y fresco de canela y lavanda con un corazón refinado de cuero y vino de oporto, y un fondo profundamente seductor de hoja de tabaco y maderas nobles.",
+    "notas_salida": "canela, lavanda, bergamota",
+    "notas_corazon": "cuero, mimosa",
+    "notas_fondo": "tabaco, gaiac, opoponaco, musgo de roble",
+    "descripcion": "La definición en perfume del confort sofisticado, la elegancia británica y la calidez más pura del mercado global. Burberry London original arranca con un impacto vibrante y especiado de canela y lavanda fresca. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón amaderado y de cuero sutil mezclado con notas avinagradas finas. Su evolución final es un secado supremo de hoja de tabaco dulce y maderas de guayaco, dejando un rastro flotante sumamente distinguido y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Uso diario distinguido en invierno, entorno laboral formal, citas románticas, reuniones o cuando el objetivo sea transmitir una clase impecable.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excelente para un EDT (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar dorado / Dorado cálido",
+    "rango_edad_min": 21,
+    "rango_edad_max": 65,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, elegantes, clásicos, amantes de la perfumería de alta gama con carácter y quienes exigen un sello personal que proyecte intelecto, clase y un encanto magnético.",
+    "inspirado_en_nombre": "Fragancia Original de Diseñador",
+    "inspiraciones": [
+      {
+        "texto": "Una de las creaciones maestras más aclamadas de la perfumería británica clásica, diseñada para encarnar la elegancia formal de Londres, el espíritu festivo y el confort de las tardes de invierno. Combina un estallido especiado y fresco de canela y lavanda con un corazón refinado de cuero y vino de oporto, y un fondo profundamente seductor de hoja de tabaco y maderas nobles.",
+        "nombre": "Fragancia Original de Diseñador"
       }
     ]
   }
