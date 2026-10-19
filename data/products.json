@@ -1489,7 +1489,7 @@
     "p": 97300,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2096_3oh3jd.jpg",
     "nt": "Salida Lavanda, ciruela, pimienta rosa Notas de corazón: Cacao, nuez moscada, davana Notas de fondo: Bourbon vanilla, ámbar, vetiver",
     "p1": "$97.300"
@@ -1619,7 +1619,7 @@
     "p": 69000,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2106_ausiup.jpg",
     "nt": "Salida Azafrán, bergamota Notas de corazón: Oud, rosa Notas de fondo: Ámbar, almizcle, maderas",
     "p1": "$69.000"
@@ -1840,7 +1840,7 @@
     "p": 59200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2123_33ef3s.jpg",
     "nt": "Salida Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$59.200"
@@ -2799,13 +2799,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Jean Lowe Inmortal | EDP",
     "s": "100ml",
-    "p": 63200,
+    "p": 67000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2197_szx8jo.jpg",
     "nt": "Salida Bergamota, pimienta negra · Corazón Cedro, pachulí · Fondo Ámbar, almizcle",
-    "p1": "$63.200"
+    "p1": "$67.000"
   },
   {
     "id": 2198,
@@ -2893,7 +2893,7 @@
     "p": 68800,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2204_m5x9gd.jpg",
     "nt": "Salida Grosella negra, pera Notas de corazón: Iris, flor de azahar, jazmín Notas de fondo: Pachulí, praliné, haba tonka, vainilla",
     "p1": "$68.800"
@@ -2906,7 +2906,7 @@
     "p": 66000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2205_hnvc27.jpg",
     "nt": "Salida Flor de azahar del naranjo, Bergamota Notas de corazón: Tuberosa, Jazmín Notas de fondo: Vainilla, Almizcle, Cedro",
     "p1": "$66.000"
@@ -3046,13 +3046,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Sceptre Malachite | EDP",
     "s": "100ml",
-    "p": 68800,
+    "p": 66000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2216_46snk5.jpg",
     "nt": "Salida Mandarina, bergamota Notas de corazón: Lavanda, flor de azahar Notas de fondo: Ámbar, almizcle, madera de cachemira",
-    "p1": "$68.800"
+    "p1": "$66.000"
   },
   {
     "id": 2217,
@@ -4034,13 +4034,13 @@
     "b": "B. SPEARS",
     "n": "BRITNEY SPEARS - Fantasy Midnight | EDP",
     "s": "100ml",
-    "p": 63200,
+    "p": 75000,
     "c": "internacional",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2293_sovkg5.jpg",
     "nt": "Salida Ciruela, cereza, frambuesa Notas de corazón: Orquídea, iris, fresia Notas de fondo: Vainilla, almizcle, ámbar",
-    "p1": "$63.200"
+    "p1": "$75.000"
   },
   {
     "id": 2294,
@@ -4463,13 +4463,13 @@
     "b": "H. BOSS",
     "n": "HUGO BOSS - The Scent | EDT",
     "s": "100ml",
-    "p": 112800,
+    "p": 120000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2326_0cs4f3.jpg",
     "nt": "Salida Jengibre, toronja Notas de corazón: maninka, maderas Notas de fondo: Cuero, vetiver",
-    "p1": "$112.800"
+    "p1": "$120.000"
   },
   {
     "id": 2327,
@@ -4489,13 +4489,13 @@
     "b": "ISSEY MIYAKE",
     "n": "ISSEY MIYAKE - L'eau D'issey Intense | EDT",
     "s": "125ml",
-    "p": 98400,
+    "p": 107000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2328_wpv51q.jpg",
     "nt": "Salida Yuzu, bergamota, naranja, mandarina · Corazón Nuez moscada, flor de loto, cardamomo, canela, azafran Notas de fondo: Incienso, papiro de Egipto, ámbar gris, benjuí, ámbar",
-    "p1": "$98.400"
+    "p1": "$107.000"
   },
   {
     "id": 2329,
@@ -4632,13 +4632,13 @@
     "b": "VERSACE",
     "n": "VERSACE - Eros | EDP",
     "s": "100ml",
-    "p": 170400,
+    "p": 190000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2339_ynk6x1.jpg",
     "nt": "Salida Menta, manzana verde, limón Notas de corazón: Haba tonka, geranio, flor de ambrette Notas de fondo: Cedro, ámbar, almizcle blanco, musgo de roble, vainilla",
-    "p1": "$170.400"
+    "p1": "$190.000"
   },
   {
     "id": 2342,
@@ -4739,7 +4739,7 @@
     "p": 53600,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2349_u21wzd.jpg",
     "nt": "Salida Bergamota, lavanda, pimienta rosa · Corazón Geranio, cuero Notas de fondo: Ámbar, pachulí, musgo de roble",
     "p1": "$53.600"
@@ -5061,13 +5061,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Jean Lowe Azure | EDP",
     "s": "100ml",
-    "p": 82400,
+    "p": 77000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2375_vk7fhi.jpg",
     "nt": "Salida Mandarina, bergamota Notas de corazón: Naranja Notas de fondo: Jengibre, ámbar gris",
-    "p1": "$82.400"
+    "p1": "$77.000"
   },
   {
     "id": 2376,
@@ -5295,13 +5295,13 @@
     "b": "EMPORIO ARMANI",
     "n": "EMPORIO ARMANI - Stronger with You Intensely | EDP",
     "s": "100ml",
-    "p": 208800,
+    "p": 209000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2396_5ah25s.jpg",
     "nt": "Salida Pimienta rosa, Enebro, Violeta Notas de corazón: Caramelo, Canela, Lavanda, Salvia Notas de fondo: Vainilla, Ámbar, Haba tonka, Cuero",
-    "p1": "$208.800"
+    "p1": "$209.000"
   },
   {
     "id": 2397,
@@ -7388,13 +7388,13 @@
     "b": "VERSACE",
     "n": "VERSACE - Eros Flame | EDP",
     "s": "100ml",
-    "p": 183200,
+    "p": 185000,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2566_mnrp5i.webp",
     "nt": "Salida mandarina, pimienta, limon, chinotto, romero Notas de corazón: geranio, rosa, pepperwood Notas de fondo: vainilla, haba tonka, sandalo, cedro, pachuli, musgo de roble",
-    "p1": "$183.200"
+    "p1": "$185.000"
   },
   {
     "id": 2567,
@@ -7911,7 +7911,7 @@
     "p": 134000,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2623_197cx1.webp",
     "nt": "Salida limon, manzana, cedro, campanilla Notas de corazón: bambu, jazmin, rosa blanca Notas de fondo: cedro, almizcle, ambar",
     "p1": "$134.000"
@@ -8032,5 +8032,44 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2636_ujekt7.webp",
     "nt": "canela, lavanda, bergamota, cuero, mimosa, tabaco, gaiac, opoponaco, musgo de roble",
     "p1": "$104.000"
+  },
+  {
+    "id": 2638,
+    "b": "ARMAF",
+    "n": "ARMAF - Odyssey Marshmallow | EDP",
+    "s": "100ml",
+    "p": 70000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_995058-MLA104567060481_012026-F.webp",
+    "nt": "coco, manzana, peonia, limon, lirio de los valles, malvavisco, fresa, frambuesa, durazno, chabacano, flor de azahar del naranjo, queso mascarpone, vainilla, praline, almizcle, haba tonka, ambar",
+    "p1": "$70.000"
+  },
+  {
+    "id": 2639,
+    "b": "ARMAF",
+    "n": "ARMAF - Checkmate King | EDP",
+    "s": "100ml",
+    "p": 93000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_NQ_NP_2X_944569-MLA113994610648_072026-F.webp",
+    "nt": "ciruela mirabel, notas afrutadas, acorde goloso, castaña, especias, sandalo, ambar, notas atalcadas, notas balsamicas",
+    "p1": "$93.000"
+  },
+  {
+    "id": 2641,
+    "b": "BHARARA",
+    "n": "BHARARA - Rome la Bomba | EDP",
+    "s": "100ml",
+    "p": 91000,
+    "c": "arabes",
+    "g": "mujer",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_844937-CBT117535862238_102026-F.webp",
+    "nt": "Pitahaya, notas citricas, peonia, frangipani, vainilla, pachuli",
+    "p1": "$91.000"
   }
 ]

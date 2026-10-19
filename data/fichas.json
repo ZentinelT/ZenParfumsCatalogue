@@ -2556,7 +2556,35 @@
     ]
   },
   {
-    "nombre_completo": "MAISON - Jean Lowe Azure | EDP | 100ml",
+    "nombre_completo": "JEAN PAUL GAULTIER - Le Male | EDT",
+    "genero": "Masculino",
+    "familia_olfativa": "Aromático, Avainillado, Fesco especiado, lavanda, Cálido especiado, Verde, Atalcado, Dulce, Ámbar, Amaderado",
+    "inspirado_en": ". El clásico atemporal por excelencia que revolucionó la perfumería masculina combinando la frescura limpia de la barbería clásica con la sensualidad golosa de la vainilla y el ámbar. Captura a la perfección ese ADN inconfundible de \"hombre irresistible, magnético, limpio y con una presencia que jamás pasa desapercibida\", ofreciendo un rendimiento sobresaliente que sigue marcando tendencia década tras década.",
+    "notas_salida": "lavanda, menta, cardamomo, bergamota, abrotano",
+    "notas_corazon": "canela, flor de azahar del naranjo, alcaravea",
+    "notas_fondo": "vainilla, haba tonka, ambar, sandalo, cedro",
+    "descripcion": "La definición en perfume de la sensualidad atemporal, la frescura de barbería mezclada con dulzura oriental y el magnetismo absoluto. Jean Paul Gaultier Le Male arranca con un impacto vibrante y helado de menta y lavanda. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón especiado donde la canela aporta un calor irresistible. Su evolución final es un secado profundo de vainilla y ámbar, dejando un rastro flotante sumamente reconocible, seductor y de una presencia inolvidable.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Citas románticas, salidas nocturnas, fiestas, eventos sociales o cuando el objetivo sea proyectar una imagen seductora, icónica y memorable.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado luminoso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, seductores, carismáticos y amantes de las fragancias con carácter, historia y una estela dulce pero masculina que deja huella dondequiera que vayan.",
+    "inspirado_en_nombre": "Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": ". El clásico atemporal por excelencia que revolucionó la perfumería masculina combinando la frescura limpia de la barbería clásica con la sensualidad golosa de la vainilla y el ámbar. Captura a la perfección ese ADN inconfundible de \"hombre irresistible, magnético, limpio y con una presencia que jamás pasa desapercibida\", ofreciendo un rendimiento sobresaliente que sigue marcando tendencia década tras década.",
+        "nombre": "Composición Propia"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "MAISON ALHAMBRA - Jean Lowe Azure | EDP",
     "marca": "Maison Alhambra",
     "anno": "2023",
     "concentracion": "EDP",
@@ -2583,34 +2611,6 @@
         "texto": "Louis Vuitton Afternoon Swim",
         "nombre": "Louis Vuitton Afternoon Swim",
         "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "JEAN PAUL GAULTIER - Le Male | EDT",
-    "genero": "Masculino",
-    "familia_olfativa": "Aromático, Avainillado, Fesco especiado, lavanda, Cálido especiado, Verde, Atalcado, Dulce, Ámbar, Amaderado",
-    "inspirado_en": ". El clásico atemporal por excelencia que revolucionó la perfumería masculina combinando la frescura limpia de la barbería clásica con la sensualidad golosa de la vainilla y el ámbar. Captura a la perfección ese ADN inconfundible de \"hombre irresistible, magnético, limpio y con una presencia que jamás pasa desapercibida\", ofreciendo un rendimiento sobresaliente que sigue marcando tendencia década tras década.",
-    "notas_salida": "lavanda, menta, cardamomo, bergamota, abrotano",
-    "notas_corazon": "canela, flor de azahar del naranjo, alcaravea",
-    "notas_fondo": "vainilla, haba tonka, ambar, sandalo, cedro",
-    "descripcion": "La definición en perfume de la sensualidad atemporal, la frescura de barbería mezclada con dulzura oriental y el magnetismo absoluto. Jean Paul Gaultier Le Male arranca con un impacto vibrante y helado de menta y lavanda. En cuestión de minutos despliega su faceta más elogiada y adictiva: un corazón especiado donde la canela aporta un calor irresistible. Su evolución final es un secado profundo de vainilla y ámbar, dejando un rastro flotante sumamente reconocible, seductor y de una presencia inolvidable.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Citas románticas, salidas nocturnas, fiestas, eventos sociales o cuando el objetivo sea proyectar una imagen seductora, icónica y memorable.",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Excepcional (8h a 10h)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar dorado luminoso",
-    "rango_edad_min": 18,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, seductores, carismáticos y amantes de las fragancias con carácter, historia y una estela dulce pero masculina que deja huella dondequiera que vayan.",
-    "inspirado_en_nombre": "Composición Propia",
-    "inspiraciones": [
-      {
-        "texto": ". El clásico atemporal por excelencia que revolucionó la perfumería masculina combinando la frescura limpia de la barbería clásica con la sensualidad golosa de la vainilla y el ámbar. Captura a la perfección ese ADN inconfundible de \"hombre irresistible, magnético, limpio y con una presencia que jamás pasa desapercibida\", ofreciendo un rendimiento sobresaliente que sigue marcando tendencia década tras década.",
-        "nombre": "Composición Propia"
       }
     ]
   },
@@ -5384,6 +5384,35 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias frescas, luminosas y lujosas más codiciadas del mundo. Captura a la perfección ese ADN inconfundible de \"salida cítrica chispeante combinada con lavanda aromática y un fondo pulcro de almizcle blanco y maderas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
         "nombre": "Aqua Vitae Forte de Maison Francis Kurkdjian",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.31404.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VERSACE - Eros Flame | EDP",
+    "marca": "VERSACE",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Fesco especiado, Avainillado, Aromático, Amaderado, Cálido especiado, Dulce, Atalcado",
+    "inspirado_en": "Captura a la perfección ese ADN inconfundible de \"cítricos luminosos envueltos en una sobredosis de pimienta y especias cálidas, con un fondo cremoso de vainilla, haba tonka y maderas finas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
+    "notas_salida": "mandarina, pimienta, limon, chinotto, romero",
+    "notas_corazon": "geranio, rosa, pepperwood",
+    "notas_fondo": "vainilla, haba tonka, sandalo, cedro, pachuli, musgo de roble",
+    "descripcion": "La definición en perfume de la pasión desbordante, el contraste entre el fuego y el hielo, y la elegancia más seductora del mercado actual. Versace Eros Flame arranca con un impacto vibrante y especiado de mandarina y pimienta negra. En cuestión de minutos despliega su faceta más adictiva: un corazón cálido dominado por el geranio y las especias. Su evolución final es un secado profundo de vainilla cremosa y maderas nobles, dejando un rastro flotante sumamente magnético, sofisticado y de una presencia imposible de ignorar.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, salidas nocturnas, eventos especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8h a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, apasionados, carismáticos y que exigen un sello personal cálido, moderno y con una estela gigante que acapare todas las miradas.",
+    "inspirado_en_nombre": "Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": "Captura a la perfección ese ADN inconfundible de \"cítricos luminosos envueltos en una sobredosis de pimienta y especias cálidas, con un fondo cremoso de vainilla, haba tonka y maderas finas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
+        "nombre": "Composición Propia"
       }
     ]
   },
@@ -8177,34 +8206,6 @@
     ]
   },
   {
-    "nombre_completo": "VERSACE - Eros Flame | EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Cítrico, Fesco especiado, Avainillado, Aromático, Amaderado, Cálido especiado, Dulce, Atalcado",
-    "inspirado_en": "Captura a la perfección ese ADN inconfundible de \"cítricos luminosos envueltos en una sobredosis de pimienta y especias cálidas, con un fondo cremoso de vainilla, haba tonka y maderas finas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
-    "notas_salida": "mandarina, pimienta, limon, chinotto, romero",
-    "notas_corazon": "geranio, rosa, pepperwood",
-    "notas_fondo": "vainilla, haba tonka, sandalo, cedro, pachuli, musgo de roble",
-    "descripcion": "La definición en perfume de la pasión desbordante, el contraste entre el fuego y el hielo, y la elegancia más seductora del mercado actual. Versace Eros Flame arranca con un impacto vibrante y especiado de mandarina y pimienta negra. En cuestión de minutos despliega su faceta más adictiva: un corazón cálido dominado por el geranio y las especias. Su evolución final es un secado profundo de vainilla cremosa y maderas nobles, dejando un rastro flotante sumamente magnético, sofisticado y de una presencia imposible de ignorar.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas románticas, salidas nocturnas, eventos especiales o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Muy alta",
-    "duracion": "Excepcional (8h a 10h)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar dorado intenso",
-    "rango_edad_min": 18,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, apasionados, carismáticos y que exigen un sello personal cálido, moderno y con una estela gigante que acapare todas las miradas.",
-    "inspirado_en_nombre": "Composición Propia",
-    "inspiraciones": [
-      {
-        "texto": "Captura a la perfección ese ADN inconfundible de \"cítricos luminosos envueltos en una sobredosis de pimienta y especias cálidas, con un fondo cremoso de vainilla, haba tonka y maderas finas\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
-        "nombre": "Composición Propia"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Yara Elixir | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "anno": "2025",
@@ -8870,6 +8871,36 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "HUGO BOSS - The Scent | EDT",
+    "marca": "Hugo Boss — Alemania",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental Especiado / Jengibre Maninka",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Jengibre, toronja",
+    "notas_corazon": "maninka, maderas",
+    "notas_fondo": "Cuero, vetiver",
+    "descripcion": "Jengibre vibrante con flor de maninka africana y cuero. Seductor y masculino. \"Para llevarla a dormir\" — muy popular como fragancia de seducción. Fresco-especiado.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Todo el año",
+    "ocasion": "Citas, salidas",
+    "clima": "Templado / Frío",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga",
+    "estela": "Intensa",
+    "color_liquido": "Marrón / ámbar",
+    "perfil_usuario": "Hombres 20-40 años. Seductores, modernos, románticos.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres Seductores, modernos, románticos.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -14101,35 +14132,6 @@
     ]
   },
   {
-    "nombre_completo": "Hugo Boss - The Scent | EDT | 100ml",
-    "marca": "Hugo Boss — Alemania",
-    "familia_olfativa": "Oriental Especiado / Jengibre Maninka",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Jengibre, toronja",
-    "notas_corazon": "maninka, maderas",
-    "notas_fondo": "Cuero, vetiver",
-    "descripcion": "Jengibre vibrante con flor de maninka africana y cuero. Seductor y masculino. \"Para llevarla a dormir\" — muy popular como fragancia de seducción. Fresco-especiado.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Todo el año",
-    "ocasion": "Citas, salidas",
-    "clima": "Templado / Frío",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga",
-    "estela": "Intensa",
-    "color_liquido": "Marrón / ámbar",
-    "perfil_usuario": "Hombres 20-40 años. Seductores, modernos, románticos.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres Seductores, modernos, románticos.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Swiss Arabian - Shirley May Black Diamond 848 | EDT | 100ml",
     "marca": "Swiss Arabian — Dubai/Suiza",
     "genero": "Masculino (tendencia)",
@@ -15039,35 +15041,6 @@
     ]
   },
   {
-    "nombre_completo": "Britney Spears - Fantasy Midnight | EDP | 100ml",
-    "marca": "Britney Spears (Coty) — USA",
-    "familia_olfativa": "Frutal Floral / Oriental Nocturno",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Ciruela, cereza, frambuesa",
-    "notas_corazon": "Orquídea, iris, fresia",
-    "notas_fondo": "Vainilla, almizcle, ámbar",
-    "descripcion": "Versión más oscura y sensual del Fantasy original. Ciruela y cereza sobre flores nocturnas. Seductor y femenino. Para noches de verano o primavera.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas, salidas nocturnas",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Media-larga",
-    "estela": "Moderada",
-    "color_liquido": "Morado oscuro / medianoche",
-    "perfil_usuario": "Mujeres 18-35 años. Sensuales, nocturnas, románticas.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Sensuales, nocturnas, románticas.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Britney Spears - Fantasy | EDP | 100ml",
     "marca": "Britney Spears (Coty) — USA",
     "familia_olfativa": "Frutal Gourmand / Oriental Juvenil",
@@ -15213,6 +15186,36 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BRITNEY SPEARS - Fantasy Midnight | EDP",
+    "marca": "Britney Spears (Coty) — USA",
+    "genero": "Femenino",
+    "familia_olfativa": "Frutal Floral / Oriental Nocturno",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Ciruela, cereza, frambuesa",
+    "notas_corazon": "Orquídea, iris, fresia",
+    "notas_fondo": "Vainilla, almizcle, ámbar",
+    "descripcion": "Versión más oscura y sensual del Fantasy original. Ciruela y cereza sobre flores nocturnas. Seductor y femenino. Para noches de verano o primavera.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas, salidas nocturnas",
+    "clima": "Frío / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Media-larga",
+    "estela": "Moderada",
+    "color_liquido": "Morado oscuro / medianoche",
+    "perfil_usuario": "Mujeres 18-35 años. Sensuales, nocturnas, románticas.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres Sensuales, nocturnas, románticas.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
         "imagen_url": ""
       }
     ]
@@ -16260,38 +16263,6 @@
     ]
   },
   {
-    "nombre_completo": "Emporio Armani - Stronger with You Intensely | EDP | 100ml",
-    "marca": "Emporio Armani",
-    "anno": "2019",
-    "concentracion": "EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Ámbar Fougère",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Pimienta rosa, Enebro, Violeta",
-    "notas_corazon": "Caramelo, Canela, Lavanda, Salvia",
-    "notas_fondo": "Vainilla, Ámbar, Haba tonka, Cuero",
-    "descripcion": "Es una fragancia adictiva, cálida e intensa. Destaca por una apertura especiada que rápidamente se envuelve en un corazón dulce de tófe y canela. Su fondo de vainilla y gamuza le otorga una personalidad robusta y sumamente seductora, ideal para dejar una impresión duradera.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Citas románticas, eventos nocturnos y salidas especiales donde se busque destacar.",
-    "clima": "Frío / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Muy Larga (+10h)",
-    "estela": "Moderada",
-    "color_liquido": "Ámbar intenso / Coñac",
-    "perfil_usuario": "Está dirigido a un público Masculino con un rango de edad de entre 20 a 45 años. Es ideal para hombres seguros de sí mismos que prefieren aromas dulces, cálidos y con una presencia magnética y moderna.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Está dirigido a un público Masculino con un rango de edad de entre Es ideal para hombres seguros de sí mismos que prefieren aromas dulces, cálidos y con una presencia magnética y moderna.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "Moschino - Toy Boy | EDP | 100ml",
     "marca": "Moschino",
     "anno": "2019",
@@ -16315,6 +16286,38 @@
     "rango_edad_min": 20,
     "rango_edad_max": 45,
     "estilo_descripcion": "Está dirigido a un público Masculino con una edad de entre Es ideal para hombres seguros de sí mismos, creativos y vanguardistas que buscan alejarse de los aromas comerciales típicos y prefieren una fragancia con carácter, elegancia y un toque irónico.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "EMPORIO ARMANI - Stronger with You Intensely | EDP",
+    "marca": "Emporio Armani",
+    "anno": "2019",
+    "concentracion": "EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Ámbar Fougère",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Pimienta rosa, Enebro, Violeta",
+    "notas_corazon": "Caramelo, Canela, Lavanda, Salvia",
+    "notas_fondo": "Vainilla, Ámbar, Haba tonka, Cuero",
+    "descripcion": "Es una fragancia adictiva, cálida e intensa. Destaca por una apertura especiada que rápidamente se envuelve en un corazón dulce de tófe y canela. Su fondo de vainilla y gamuza le otorga una personalidad robusta y sumamente seductora, ideal para dejar una impresión duradera.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Citas románticas, eventos nocturnos y salidas especiales donde se busque destacar.",
+    "clima": "Frío / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Muy Larga (+10h)",
+    "estela": "Moderada",
+    "color_liquido": "Ámbar intenso / Coñac",
+    "perfil_usuario": "Está dirigido a un público Masculino con un rango de edad de entre 20 a 45 años. Es ideal para hombres seguros de sí mismos que prefieren aromas dulces, cálidos y con una presencia magnética y moderna.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Está dirigido a un público Masculino con un rango de edad de entre Es ideal para hombres seguros de sí mismos que prefieren aromas dulces, cálidos y con una presencia magnética y moderna.",
     "inspiraciones": [
       {
         "texto": "Creación original",
@@ -17746,6 +17749,97 @@
       {
         "texto": "Una de las creaciones maestras más aclamadas de la perfumería británica clásica, diseñada para encarnar la elegancia formal de Londres, el espíritu festivo y el confort de las tardes de invierno. Combina un estallido especiado y fresco de canela y lavanda con un corazón refinado de cuero y vino de oporto, y un fondo profundamente seductor de hoja de tabaco y maderas nobles.",
         "nombre": "Fragancia Original de Diseñador"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ARMAF - Checkmate King | EDP",
+    "marca": "ARMAF",
+    "genero": "Masculino",
+    "familia_olfativa": "Afrutados, Dulce, Atalcado, Cálido especiado, Ámbar, Amaderado, Balsámico, Nueces",
+    "inspirado_en": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias masculinas más codiciadas, elogiadas y disruptivas del mundo moderno, famosa por su corona dorada y su estela imponente. Captura a la perfección ese ADN inconfundible de \"salida frutal jugosa combinada con un corazón de castaña y sándalo y un fondo ultra goloso y ambarado\"",
+    "notas_salida": "ciruela mirabel, notas afrutadas",
+    "notas_corazon": "acorde goloso, castaña, especias",
+    "notas_fondo": "sandalo, ambar, notas atalcadas, notas balsamicas",
+    "descripcion": "La definición en perfume del atrevimiento masculino, la elegancia golosa y la sensualidad más imponente del mercado actual. Armaf Checkmate King arranca con un impacto vibrante, fresco y frutal de ciruela mirabel. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por la castaña tostada y el sándalo cremoso. Su evolución final es un secado supremo de ámbar dorado y haba tonka, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (8 a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Masculino. Diseñado para hombres seguros de sí mismos, magnéticos, amantes de la perfumería de alto impacto, de los acordes dulces-amaderados y quienes exigen un sello personal que proyecte poder, éxito y un atractivo irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91053.2x.avif",
+    "inspirado_en_nombre": "Scandal Pour Homme Absolu de Jean Paul Gaultier",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias masculinas más codiciadas, elogiadas y disruptivas del mundo moderno, famosa por su corona dorada y su estela imponente. Captura a la perfección ese ADN inconfundible de \"salida frutal jugosa combinada con un corazón de castaña y sándalo y un fondo ultra goloso y ambarado\"",
+        "nombre": "Scandal Pour Homme Absolu de Jean Paul Gaultier",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91053.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BHARARA - Rome la Bomba | EDP",
+    "genero": "Femenino",
+    "inspirado_en": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo al ADN más explosivo, elegante y elogiado de la alta costura neoyorquina. Captura a la perfección ese ADN inconfundible de \"salida vibrante combinada con un corazón floral opulento y un fondo cálido de vainilla y ámbar suntuoso\"",
+    "notas_salida": "Pitahaya, notas citricas",
+    "notas_corazon": "peonia, frangipani",
+    "notas_fondo": "vainilla, pachuli",
+    "descripcion": "La definición en perfume del glamour moderno, la sofisticación audaz y la sensualidad más imponente del mercado actual. Bharara Rome la Bomba arranca con un impacto vibrante, fresco y frutal. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por nardos y flores blancas de alta gama. Su evolución final es un secado supremo de vainilla cremosa y ámbar dorado, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Excepcional (8 a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar cálido / Dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex / Femenino de Alto Impacto. Diseñado para personas seguras de sí mismas, magnéticas, amantes de la perfumería de autor, de los acordes florales opulentos y ambarados, y quienes exigen un sello personal que proyecte poder, éxito y un atractivo irresistible.",
+    "inspirado_en_imagen_url": "https://http2.mlstatic.com/D_Q_NP_656693-MLA89449461725_082025-F.webp",
+    "inspirado_en_nombre": " La Bomba de Carolina Herrera",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo al ADN más explosivo, elegante y elogiado de la alta costura neoyorquina. Captura a la perfección ese ADN inconfundible de \"salida vibrante combinada con un corazón floral opulento y un fondo cálido de vainilla y ámbar suntuoso\"",
+        "nombre": "La Bomba de Carolina Herrera",
+        "imagen_url": "https://http2.mlstatic.com/D_Q_NP_656693-MLA89449461725_082025-F.webp"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "ARMAF - Odyssey Marshmallow | EDP",
+    "marca": "ARMAF",
+    "genero": "Femenino",
+    "familia_olfativa": "Dulce, Afrutados, Atalcado, Avainillado, Lactónico",
+    "inspirado_en": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias gourmand más virales, elogiadas y buscadas del mundo global. Captura a la perfección ese ADN inconfundible de \"salida frutal de fresa combinada con un corazón esponjoso de malvavisco y coco y un fondo ultra goloso de vainilla batida\"",
+    "notas_salida": "coco, manzana, peonia, limon, lirio de los valles",
+    "notas_corazon": "malvavisco, fresa, frambuesa, durazno, chabacano, flor de azahar del naranjo",
+    "notas_fondo": "queso mascarpone, vainilla, praline, almizcle, haba tonka, ambar",
+    "descripcion": "La definición en perfume de la dulzura moderna, la elegancia gourmand y la sensualidad más adictiva del mercado actual. Armaf Odyssey Marshmallow arranca con un impacto vibrante, fresco y frutal de fresa madura. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por el malvavisco esponjoso y la crema de coco. Su evolución final es un secado supremo de vainilla batida y almizcle blanco, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Uso diario distinguido, salidas, citas, reuniones o cuando el objetivo sea generar una cercanía irresistible y recibir cumplidos constantes por su aroma único.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (8 a 10h)",
+    "estela": "Intensa",
+    "color_liquido": "Tono ámbar claro / Translúcido prémium",
+    "rango_edad_min": 15,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Unisex / Femenino de Alto Impacto. Diseñado para personas seguras de sí mismas, magnéticas, amantes de la perfumería gourmand moderna, de los acordes dulces y cremosos, y quienes exigen un sello personal que proyecte cercanía, calidez y un atractivo irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.99254.2x.avif",
+    "inspirado_en_nombre": "Yum Boujee Marshmallow | 81 de Kayali Fragrances",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias gourmand más virales, elogiadas y buscadas del mundo global. Captura a la perfección ese ADN inconfundible de \"salida frutal de fresa combinada con un corazón esponjoso de malvavisco y coco y un fondo ultra goloso de vainilla batida\"",
+        "nombre": "Yum Boujee Marshmallow | 81 de Kayali Fragrances",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.99254.2x.avif"
       }
     ]
   }
