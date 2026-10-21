@@ -644,7 +644,7 @@
     "p": 90600,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2031_umywf4.jpg",
     "nt": "Salida Azafrán, jazmín Notas de corazón: Amberwood, ámbar gris Notas de fondo: Resina de abeto, cedro",
     "p1": "$90.600"
@@ -1762,7 +1762,7 @@
     "p": 66400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2117_gr40q9.jpg",
     "nt": "Salida Guayaba, cítricos Notas de corazón: Incienso, palo santo Notas de fondo: Ámbar, maderas, almizcle",
     "p1": "$66.400"
@@ -3293,13 +3293,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Corium | EDP",
     "s": "100ml",
-    "p": 85600,
+    "p": 87000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2235_3vaihz.jpg",
     "nt": "Salida Castaña, especias, elemi Notas de corazón: Salvia Notas de fondo: Vainilla, cuero, oud",
-    "p1": "$85.600"
+    "p1": "$87.000"
   },
   {
     "id": 2236,
@@ -6182,7 +6182,7 @@
     "p": 58400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2470_4vur3u.jpg",
     "nt": "Salida notas marinas, bergamota Notas de corazón: hoja de laurel, jazmin Notas de fondo: ambar gris, musgo de roble, madera de gaiac, pachuli",
     "p1": "$58.400"
@@ -6647,13 +6647,13 @@
     "b": "AL HARAMAIN",
     "n": "AL HARAMAIN - Amber Oud Gold Edition | EDP",
     "s": "60ml",
-    "p": 81600,
+    "p": 86000,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2506_c3i00k.jpg",
     "nt": "Salida Bergamota, notas verdes Notas de corazón: Melón, piña, ambar, Acorde goloso · Fondo notas amaderadas, almizcle, vainilla",
-    "p1": "$81.600"
+    "p1": "$86.000"
   },
   {
     "id": 2508,
