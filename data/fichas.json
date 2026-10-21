@@ -949,7 +949,7 @@
     ]
   },
   {
-    "nombre_completo": "Victoria Secret - Body Splash - Love Spell | 250ml",
+    "nombre_completo": "VICTORIA SECRET - Body Splash - Love Spell | Mist",
     "marca": "Victoria's Secret",
     "genero": "Femenino",
     "familia_olfativa": "Floral Frutal",
@@ -1311,38 +1311,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Atlas | EDP",
-    "marca": "Lattafa Perfumes",
-    "anno": "2024",
-    "genero": "Unisex",
-    "familia_olfativa": "Aromática Acuática",
-    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes de ultra nicho más virales, aclamados y potentes del mundo. Captura a la perfección ese codiciado ADN de \"océano infinito, brisa salada, maderas de deriva y fijación atómica\", permitiendo experimentar la fuerza del perfume marino más famoso de la historia por una fracción de su costo original.",
-    "notas_salida": "notas marinas, sal, limón",
-    "notas_corazon": "davana, iris",
-    "notas_fondo": "ámbar gris, musgo de roble, sándalo",
-    "descripcion": "La definición en perfume del océano embravecido, la brisa salada y la elegancia mineral. Lattafa Atlas abre con un impacto abrumador, fresco y cristalino de sal marina y notas acuáticas sacudidas por la efervescencia del limón. En cuestión de minutos despliega su fascinante transición de autor: un corazón donde la Davana silvestre y la distinción del iris polvoso elevan la brisa marina a un nivel de alta costura. Su evolución final en la piel es un secado infinito, mineral y profundamente magnético, donde el poder del ámbar gris se entrelaza con el musgo de roble y la cremosidad del sándalo, dejando una estela imponente que transmite libertad, solidez y un atractivo abisal.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Primavera, Verano",
-    "ocasion": "Salidas casuales de alto nivel, vacaciones, eventos al aire libre, uso diario para quienes buscan destacar o situaciones donde se exija máxima duración en climas calurosos.",
-    "clima": "Cálido / Muy Caluroso / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Rendimiento Monumental (10h a 12h+)",
-    "estela": "Intensa",
-    "color_liquido": "Cristalino azulejo con reflejos marinos",
-    "rango_edad_min": 20,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Unisex de perfil alto (con inclinación masculina marcante). Diseñado para personas de carácter fuerte, seguras de sí mismas y amantes de las fragancias frescas de autor que no quieren pasar desapercibidas. Es el perfume definitivo para quien busca una firma marina duradera, de gran proyección y estatus internacional.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53471.2x.avif",
-    "inspirado_en_nombre": "Megamare de Orto Parisi",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de precisión quirúrgica de uno de los perfumes de ultra nicho más virales, aclamados y potentes del mundo. Captura a la perfección ese codiciado ADN de \"océano infinito, brisa salada, maderas de deriva y fijación atómica\", permitiendo experimentar la fuerza del perfume marino más famoso de la historia por una fracción de su costo original.",
-        "nombre": "Megamare de Orto Parisi",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53471.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "Lattafa - Fakhar Gold Extract | EDP | 100ml",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -1401,6 +1369,38 @@
         "texto": "Paco Rabanne Invictus Aqua 2018 (más dulce y frutoso que el Hawas original)",
         "nombre": "Paco Rabanne Invictus Aqua 2018",
         "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Atlas | Extrait De Parfum",
+    "marca": "Lattafa Perfumes",
+    "anno": "2024",
+    "genero": "Unisex",
+    "familia_olfativa": "Aromática Acuática",
+    "inspirado_en": "Réplica de precisión quirúrgica de uno de los perfumes de ultra nicho más virales, aclamados y potentes del mundo. Captura a la perfección ese codiciado ADN de \"océano infinito, brisa salada, maderas de deriva y fijación atómica\", permitiendo experimentar la fuerza del perfume marino más famoso de la historia por una fracción de su costo original.",
+    "notas_salida": "notas marinas, sal, limón",
+    "notas_corazon": "davana, iris",
+    "notas_fondo": "ámbar gris, musgo de roble, sándalo",
+    "descripcion": "La definición en perfume del océano embravecido, la brisa salada y la elegancia mineral. Lattafa Atlas abre con un impacto abrumador, fresco y cristalino de sal marina y notas acuáticas sacudidas por la efervescencia del limón. En cuestión de minutos despliega su fascinante transición de autor: un corazón donde la Davana silvestre y la distinción del iris polvoso elevan la brisa marina a un nivel de alta costura. Su evolución final en la piel es un secado infinito, mineral y profundamente magnético, donde el poder del ámbar gris se entrelaza con el musgo de roble y la cremosidad del sándalo, dejando una estela imponente que transmite libertad, solidez y un atractivo abisal.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera, Verano",
+    "ocasion": "Salidas casuales de alto nivel, vacaciones, eventos al aire libre, uso diario para quienes buscan destacar o situaciones donde se exija máxima duración en climas calurosos.",
+    "clima": "Cálido / Muy Caluroso / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Rendimiento Monumental (10h a 12h+)",
+    "estela": "Intensa",
+    "color_liquido": "Cristalino azulejo con reflejos marinos",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex de perfil alto (con inclinación masculina marcante). Diseñado para personas de carácter fuerte, seguras de sí mismas y amantes de las fragancias frescas de autor que no quieren pasar desapercibidas. Es el perfume definitivo para quien busca una firma marina duradera, de gran proyección y estatus internacional.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53471.2x.avif",
+    "inspirado_en_nombre": "Megamare de Orto Parisi",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de precisión quirúrgica de uno de los perfumes de ultra nicho más virales, aclamados y potentes del mundo. Captura a la perfección ese codiciado ADN de \"océano infinito, brisa salada, maderas de deriva y fijación atómica\", permitiendo experimentar la fuerza del perfume marino más famoso de la historia por una fracción de su costo original.",
+        "nombre": "Megamare de Orto Parisi",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.53471.2x.avif"
       }
     ]
   },
@@ -4989,38 +4989,6 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Asad Elixir | EDP",
-    "marca": "Lattafa Perfumes — Dubai",
-    "anno": "2025",
-    "genero": "Masculino",
-    "familia_olfativa": "Oriental / Tabaco Especiado",
-    "inspirado_en": "Dior Sauvage Elixir DNA con tabaco",
-    "notas_salida": "Pimienta rosa, Azafrán, Toronja",
-    "notas_corazon": "Tabaco, Cedro, Vainilla",
-    "notas_fondo": "Incienso, Ámbar, Pachulí, Cachemira",
-    "descripcion": "Tabaco especiado sobre DNA Sauvage Elixir. Más oscuro y resinoso que Asad OG. Mejora notablemente con maceración.",
-    "momento_dia": "Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas nocturnas, eventos",
-    "clima": "Frío",
-    "proyeccion": "Alta",
-    "duracion": "Muy larga",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar oscuro",
-    "perfil_usuario": "Hombres 25-50 años. Tabaco lovers, oscuros.",
-    "rango_edad_min": 25,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Hombres Tabaco lovers, oscuros.",
-    "inspirado_en_nombre": "Dior Sauvage Elixir",
-    "inspiraciones": [
-      {
-        "texto": "Dior Sauvage Elixir DNA con tabaco",
-        "nombre": "Dior Sauvage Elixir",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "GRES - Cabotine | EDT",
     "marca": "Grès — Francia",
     "genero": "Femenino",
@@ -6899,32 +6867,6 @@
     ]
   },
   {
-    "nombre_completo": "VICTORIA SECRET - Body Splash - Coconut Passion | EDP",
-    "genero": "Femenino",
-    "familia_olfativa": "Avainillado, Coco, Dulce, Lactonico, Tropical, Atalcado",
-    "inspirado_en": "Representa el estándar de oro de las brumas corporales dulces con nota de coco. Su estela es la referencia absoluta del concepto \"verano, bronceado, piel hidratada y sol\", siendo un éxito de ventas intergeneracional.",
-    "notas_salida": "coco, vainilla, lirio de los valles, manzanilla, sabila",
-    "descripcion": "La definición en perfume del verano eterno, la calidez del sol en la piel y el confort del coco cremoso. Victoria's Secret Coconut Passion abre con un abrazo dulce y tropical de coco de isla recién abierto. En cuestión de minutos despliega su faceta más elogiada: un corazón limpio donde el aloe vera y la manzanilla aportan una frescura reconfortante. Su evolución final en la piel es un secado tibio, dulce y profundamente afelpado, donde la vainilla dorada envuelve el coco, dejando un rastro flotante que transmite relax, juventud y un encanto veraniego irresistible.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Días de playa, pileta, vacaciones, salidas casuales, estar en casa, ir a entrenar o retoque constante de bolso.",
-    "clima": "Cálido / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Notable para Body Mist (3h a 5h)",
-    "estela": "Moderada",
-    "color_liquido": "Amarillo dorado traslúcido",
-    "rango_edad_min": 12,
-    "rango_edad_max": 50,
-    "estilo_descripcion": "Femenino. Diseñado para mujeres dinámicas, alegres, coquetas y amantes de los aromas dulces, tropicales y gourmand. Es la elección perfecta para quienes buscan un aroma de firma liviano para el uso diario, la playa, el gimnasio o para aplicar generosamente tras el baño.",
-    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Tropical de EE.UU",
-    "inspiraciones": [
-      {
-        "texto": "Representa el estándar de oro de las brumas corporales dulces con nota de coco. Su estela es la referencia absoluta del concepto \"verano, bronceado, piel hidratada y sol\", siendo un éxito de ventas intergeneracional.",
-        "nombre": "Perfume Original de Diseñador / Firma Olfativa Tropical de EE.UU"
-      }
-    ]
-  },
-  {
     "nombre_completo": "EMPORIO ARMANI - Acqua di Gio Profondo | EDP",
     "marca": "EMPORIO ARMANI",
     "genero": "Masculino",
@@ -7129,6 +7071,38 @@
       {
         "texto": "(Una reinterpretación magistral dentro de la exitosa familia Hawas, orientada hacia el sector de los perfumes cálidos, nocturnos y ultra seductores que dominan los cumplidos invernales y de fiesta). Captura a la perfección ese ADN inconfundible de \"especias calientes combinadas con dulzor ambarado y un fondo avainillado magnético\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente.",
         "nombre": "Alta Perfumería de Alto Impacto / Estilo \"Warm Spicy & Amber Powerhouse\""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Asad Elixir | Elixir",
+    "marca": "Lattafa Perfumes — Dubai",
+    "anno": "2025",
+    "genero": "Masculino",
+    "familia_olfativa": "Oriental / Tabaco Especiado",
+    "inspirado_en": "Dior Sauvage Elixir DNA con tabaco",
+    "notas_salida": "Pimienta rosa, Azafrán, Toronja",
+    "notas_corazon": "Tabaco, Cedro, Vainilla",
+    "notas_fondo": "Incienso, Ámbar, Pachulí, Cachemira",
+    "descripcion": "Tabaco especiado sobre DNA Sauvage Elixir. Más oscuro y resinoso que Asad OG. Mejora notablemente con maceración.",
+    "momento_dia": "Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas nocturnas, eventos",
+    "clima": "Frío",
+    "proyeccion": "Alta",
+    "duracion": "Muy larga",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro",
+    "perfil_usuario": "Hombres 25-50 años. Tabaco lovers, oscuros.",
+    "rango_edad_min": 25,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Hombres Tabaco lovers, oscuros.",
+    "inspirado_en_nombre": "Dior Sauvage Elixir",
+    "inspiraciones": [
+      {
+        "texto": "Dior Sauvage Elixir DNA con tabaco",
+        "nombre": "Dior Sauvage Elixir",
+        "imagen_url": ""
       }
     ]
   },
@@ -8789,34 +8763,6 @@
     ]
   },
   {
-    "nombre_completo": "VICTORIA SECRET - Body Splash - Bare Vanilla",
-    "marca": "Victoria's Secret — USA",
-    "genero": "Femenino",
-    "familia_olfativa": "Gourmand / Vainilla Suave",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "vainilla, cachemira",
-    "notas_fondo": "Vainilla, cachemira, sándalo, almizcle",
-    "descripcion": "Vainilla desnuda y suave con cachemira. El más cotidiano y discreto de VS.",
-    "momento_dia": "Día",
-    "estacion": "Todo el año",
-    "ocasion": "Cotidiano",
-    "clima": "Todo",
-    "duracion": "Corta (body splash)",
-    "estela": "Discreta",
-    "perfil_usuario": "Mujeres 15-40 años.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Mujeres",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "HUGO BOSS - The Scent | EDT",
     "marca": "Hugo Boss — Alemania",
     "genero": "Masculino",
@@ -8872,6 +8818,34 @@
       {
         "texto": "Representa el estándar actual de los florales blancos de nueva generación: menos maduros o animálicos, y mucho más brillantes, limpios y con un dulzor frutal adictivo.",
         "nombre": "Perfume Original de Diseñador / Firma Olfativa de Lujo (Italia)"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VICTORIA SECRET - Body Splash - Bare Vanilla | Mist",
+    "marca": "Victoria's Secret — USA",
+    "genero": "Femenino",
+    "familia_olfativa": "Gourmand / Vainilla Suave",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "vainilla, cachemira",
+    "notas_fondo": "Vainilla, cachemira, sándalo, almizcle",
+    "descripcion": "Vainilla desnuda y suave con cachemira. El más cotidiano y discreto de VS.",
+    "momento_dia": "Día",
+    "estacion": "Todo el año",
+    "ocasion": "Cotidiano",
+    "clima": "Todo",
+    "duracion": "Corta (body splash)",
+    "estela": "Discreta",
+    "perfil_usuario": "Mujeres 15-40 años.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Mujeres",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
       }
     ]
   },
@@ -9273,7 +9247,7 @@
     ]
   },
   {
-    "nombre_completo": "VICTORIA SECRET - Body Splash - Pure Seduction",
+    "nombre_completo": "VICTORIA SECRET - Body Splash - Pure Seduction | Mist",
     "marca": "Victoria's Secret — USA",
     "genero": "Femenino",
     "familia_olfativa": "Frutal / Ciruela Magnolia",
@@ -10320,36 +10294,6 @@
     ]
   },
   {
-    "nombre_completo": "RIFFS - Freeze | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Fresco, Cítrico, Verde, Fesco especiado, Aromático",
-    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más exclusivas, elogiadas y codiciadas del mundo, famosa por encarnar la brisa marina más lujosa y elegante del planeta. Captura a la perfección ese ADN inconfundible de \"salida cítrica deslumbrante combinada con un corazón aromático-floral y un fondo ultra sofisticado de sándalo y ámbar gris\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
-    "notas_salida": "menta verde, ralladura de limon, bergamota, toronja, nieve",
-    "notas_corazon": "hielo, te, jengibre, salvia",
-    "notas_fondo": "ambermax, peonia, cedro",
-    "descripcion": "La definición en perfume del lujo costero, la elegancia veraniega más sofisticada y la frescura pulcra más adictiva del mercado actual. Riffs Freeze arranca con un impacto vibrante, fresco y ultra luminoso de bergamota y mandarina. En cuestión de minutos despliega su faceta más elogiada y buscada: un corazón aromático dominado por la lavanda y las hierbas finas. Su evolución final es un secado supremo de sándalo cremoso y ámbar gris puro, dejando un rastro flotante sumamente distinguido, magnético y de una presencia inolvidable.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Todo el año",
-    "ocasion": "Uso diario distinguido, entorno laboral, oficina, reuniones, citas diurnas o cuando el objetivo sea oler impecable y con una presencia deslumbrante.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Muy alta",
-    "duracion": "Excepcional (9h a 12h)",
-    "estela": "Moderada",
-    "color_liquido": "Transparente / Cristalino",
-    "rango_edad_min": 18,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Unisex de Perfil Alto / Coleccionista. Diseñado para personas seguras de sí mismas, amantes de la perfumería de autor, el lujo elegante y quienes exigen un sello personal que proyecte intelecto, clase y un magnetismo absoluto.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57385.2x.avif",
-    "inspirado_en_nombre": "Oceania de Roja Dove",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más exclusivas, elogiadas y codiciadas del mundo, famosa por encarnar la brisa marina más lujosa y elegante del planeta. Captura a la perfección ese ADN inconfundible de \"salida cítrica deslumbrante combinada con un corazón aromático-floral y un fondo ultra sofisticado de sándalo y ámbar gris\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
-        "nombre": "Oceania de Roja Dove",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57385.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "LATTAFA - Ajayeb Dubai | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -10654,7 +10598,7 @@
     ]
   },
   {
-    "nombre_completo": "Attracione Men - Parfum Aux Phéromones | 25ml",
+    "nombre_completo": "ATTRACIONE - ATTRACIONE MEN - Parfum Aux Phéromones | Extrait De Parfum",
     "marca": "Attracione",
     "genero": "Masculino",
     "familia_olfativa": "Oriental Especiado / Gourmand Seductor",
@@ -14832,32 +14776,6 @@
     ]
   },
   {
-    "nombre_completo": "Victoria Secret - Body Lotion - Coconut Passion | 236ml",
-    "marca": "Victoria's Secret",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral Frutal Gourmand",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Coco, aloe vera",
-    "notas_corazon": "Lirio de los valles, manzanilla",
-    "notas_fondo": "Vainilla",
-    "descripcion": "Coconut Passion es una loción corporal de Victoria's Secret con fragancia gourmand tropical. Combina coco de isla, arenas cálidas y notas de playa para una experiencia sensorial veraniega. Hidratante y perfumada, ideal para uso diario.",
-    "momento_dia": "Día",
-    "estacion": "Primavera, Verano",
-    "duracion": "Corta (body lotion)",
-    "perfil_usuario": "Mujeres 15-35 años. Complemento del cuidado corporal perfumado VS.",
-    "rango_edad_min": 15,
-    "rango_edad_max": 35,
-    "estilo_descripcion": "Mujeres Complemento del cuidado corporal perfumado VS.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "DOLCE & GABBANA - King | EDT",
     "marca": "Dolce & Gabbana — Italia",
     "anno": "2019",
@@ -14885,6 +14803,32 @@
       {
         "texto": "Creación original",
         "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VICTORIA SECRET - Body Lotion - Coconut Passion | Mist",
+    "marca": "Victoria's Secret",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Frutal Gourmand",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Coco, aloe vera",
+    "notas_corazon": "Lirio de los valles, manzanilla",
+    "notas_fondo": "Vainilla",
+    "descripcion": "Coconut Passion es una loción corporal de Victoria's Secret con fragancia gourmand tropical. Combina coco de isla, arenas cálidas y notas de playa para una experiencia sensorial veraniega. Hidratante y perfumada, ideal para uso diario.",
+    "momento_dia": "Día",
+    "estacion": "Primavera, Verano",
+    "duracion": "Corta (body lotion)",
+    "perfil_usuario": "Mujeres 15-35 años. Complemento del cuidado corporal perfumado VS.",
+    "rango_edad_min": 15,
+    "rango_edad_max": 35,
+    "estilo_descripcion": "Mujeres Complemento del cuidado corporal perfumado VS.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
         "imagen_url": ""
       }
     ]
@@ -17054,36 +16998,6 @@
     ]
   },
   {
-    "nombre_completo": "RIFFS - Freeze In Flames | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Afrutados, Verde, Dulce, Fresco, Fesco especiado, Cítrico, Aromático, Almizclado, Tropical, Amaderado",
-    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a uno de los perfiles masculinos modernos más elogiados, limpios y generadores de cumplidos del mundo global. Captura a la perfección ese ADN inconfundible de \"salida gélida y cítrica combinada con un corazón de jengibre especiado y un fondo amaderado-ambarado de máxima elegancia\"",
-    "notas_salida": "frambuesa, menta, manzana, bergamota, maracuya",
-    "notas_corazon": "menta, te, lavanda, salvia",
-    "notas_fondo": "almizcle, cedro",
-    "descripcion": "La definición en perfume del contraste térmico, la sofisticación moderna y la dualidad perfecta entre la frescura helada y la sensualidad ardiente. Riffs Freeze In Flames arranca con un impacto vibrante, fresco y gélido de bergamota y menta. En cuestión de minutos despliega su faceta más elogiada y magnética: un corazón opulento dominado por el jengibre y la pimienta negra. Su evolución final es un secado supremo de ámbar dorado y maderas finas, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Uso diario distinguido, entorno laboral, reuniones, salidas nocturnas, eventos o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Muy alta",
-    "duracion": "Excepcional (10h a 12h",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar claro / Cristalino con reflejos dorados",
-    "rango_edad_min": 18,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Unisex / Masculino. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería de autor versátil y quienes exigen un sello personal que proyecte intelecto, clase y un poder seductor absoluto tanto de día como de noche.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.120529.2x.avif",
-    "inspirado_en_nombre": "Y Iced Cologne Yves Saint Laurent",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a uno de los perfiles masculinos modernos más elogiados, limpios y generadores de cumplidos del mundo global. Captura a la perfección ese ADN inconfundible de \"salida gélida y cítrica combinada con un corazón de jengibre especiado y un fondo amaderado-ambarado de máxima elegancia\"",
-        "nombre": "Y Iced Cologne Yves Saint Laurent",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.120529.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "RAYHAAN - Italia | EDP",
     "marca": "RAYHAAN",
     "genero": "Masculino",
@@ -17111,6 +17025,37 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a uno de los perfumes de autor más elogiados, exclusivos y codiciados del mundo. Captura a la perfección ese ADN inconfundible de \"frescura de lavanda y cítricos que se funde en un corazón ultra lujoso de miel dorada y tabaco avainillado\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente a una fracción de su costo original.",
         "nombre": "Naxos de Xerjoff",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.30529.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RIIFFS - Freeze In Flames | EDP",
+    "marca": "RIIFFS",
+    "genero": "Unisex",
+    "familia_olfativa": "Afrutados, Verde, Dulce, Fresco, Fesco especiado, Cítrico, Aromático, Almizclado, Tropical, Amaderado",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a uno de los perfiles masculinos modernos más elogiados, limpios y generadores de cumplidos del mundo global. Captura a la perfección ese ADN inconfundible de \"salida gélida y cítrica combinada con un corazón de jengibre especiado y un fondo amaderado-ambarado de máxima elegancia\"",
+    "notas_salida": "frambuesa, menta, manzana, bergamota, maracuya",
+    "notas_corazon": "menta, te, lavanda, salvia",
+    "notas_fondo": "almizcle, cedro",
+    "descripcion": "La definición en perfume del contraste térmico, la sofisticación moderna y la dualidad perfecta entre la frescura helada y la sensualidad ardiente. Riffs Freeze In Flames arranca con un impacto vibrante, fresco y gélido de bergamota y menta. En cuestión de minutos despliega su faceta más elogiada y magnética: un corazón opulento dominado por el jengibre y la pimienta negra. Su evolución final es un secado supremo de ámbar dorado y maderas finas, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, reuniones, salidas nocturnas, eventos o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (10h a 12h",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar claro / Cristalino con reflejos dorados",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex / Masculino. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería de autor versátil y quienes exigen un sello personal que proyecte intelecto, clase y un poder seductor absoluto tanto de día como de noche.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.120529.2x.avif",
+    "inspirado_en_nombre": "Y Iced Cologne Yves Saint Laurent",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a uno de los perfiles masculinos modernos más elogiados, limpios y generadores de cumplidos del mundo global. Captura a la perfección ese ADN inconfundible de \"salida gélida y cítrica combinada con un corazón de jengibre especiado y un fondo amaderado-ambarado de máxima elegancia\"",
+        "nombre": "Y Iced Cologne Yves Saint Laurent",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.120529.2x.avif"
       }
     ]
   },
@@ -17514,36 +17459,6 @@
     ]
   },
   {
-    "nombre_completo": "RIFFS - Momento | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Dulce, Avainillado, Ámbar, Cálido especiado, Rosas, Amaderado, Oud, Caramelo, Aromático, Metalico",
-    "inspirado_en": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias más potentes, elogiadas y buscadas del mundo global, famosa por ser un \"arma masiva de cumplidos\". Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán combinada con un corazón de rosa-oud y un fondo ultra goloso de haba tonka y azúcar moreno\"",
-    "notas_salida": "azucar, azafran, mandarina",
-    "notas_corazon": "haba tonka, rosa, oud",
-    "notas_fondo": "caramelo, amberwood, cedro",
-    "descripcion": "La definición en perfume del lujo extremo, la sofisticación nocturna y la sensualidad más adictiva del mercado actual. Riffs Momento arranca con un impacto vibrante, especiado y seco de azafrán puro. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por la rosa y un toque sutil de oud. Su evolución final es un secado supremo de haba tonka y azúcar moreno, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno / Primavera",
-    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
-    "clima": "Fresco / Frío / Templado",
-    "proyeccion": "Beast mode",
-    "duracion": "Legendario (14h a 16h)",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar oscuro / Dorado intenso",
-    "rango_edad_min": 18,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, magnéticas, amantes de la perfumería de nicho, de los acordes dulces-especiados de alto impacto y quienes exigen un sello personal que proyecte poder, éxito y un atractivo irresistible.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57384.2x.avif",
-    "inspirado_en_nombre": "Arabians Tonka Montale",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias más potentes, elogiadas y buscadas del mundo global, famosa por ser un \"arma masiva de cumplidos\". Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán combinada con un corazón de rosa-oud y un fondo ultra goloso de haba tonka y azúcar moreno\"",
-        "nombre": "Arabians Tonka Montale",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57384.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "MAISON ALHAMBRA - Candid | EDP",
     "familia_olfativa": "Floral blanco, Pachulí, Avainillado, Amaderado, Cálido especiado, Dulce, Balsámico, Cítrico, Terroso",
     "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias femeninas más famosas, elogiadas y rompedoras del mundo moderno. Captura a la perfección ese ADN inconfundible de \"salida cítrica combinada con un corazón floral blanco y un fondo adictivo de miel dorada y pachuli\"",
@@ -17906,6 +17821,95 @@
         "texto": "Réplica espectacular y de una fidelidad impresionante de uno de los perfumes más virales, deseados y halagados del planeta. Captura a la perfección ese ADN arrollador que combina una ensalada de frutas tropicales heladas (dominada por el melón y la piña) suspendidas sobre una base masiva de almizcle blanco y vainilla cremosa. Una pócima hiper-atractiva que no tiene género, derrocha opulencia y se cansa de romper récords de cumplidos.",
         "nombre": "Erba Pura de Xerjoff",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55157.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RIIFFS - Freeze | EDP",
+    "marca": "RIIFFS",
+    "genero": "Unisex",
+    "familia_olfativa": "Fresco, Cítrico, Verde, Fesco especiado, Aromático",
+    "inspirado_en": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más exclusivas, elogiadas y codiciadas del mundo, famosa por encarnar la brisa marina más lujosa y elegante del planeta. Captura a la perfección ese ADN inconfundible de \"salida cítrica deslumbrante combinada con un corazón aromático-floral y un fondo ultra sofisticado de sándalo y ámbar gris\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+    "notas_salida": "menta verde, ralladura de limon, bergamota, toronja, nieve",
+    "notas_corazon": "hielo, te, jengibre, salvia",
+    "notas_fondo": "ambermax, peonia, cedro",
+    "descripcion": "La definición en perfume del lujo costero, la elegancia veraniega más sofisticada y la frescura pulcra más adictiva del mercado actual. Riffs Freeze arranca con un impacto vibrante, fresco y ultra luminoso de bergamota y mandarina. En cuestión de minutos despliega su faceta más elogiada y buscada: un corazón aromático dominado por la lavanda y las hierbas finas. Su evolución final es un secado supremo de sándalo cremoso y ámbar gris puro, dejando un rastro flotante sumamente distinguido, magnético y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Todo el año",
+    "ocasion": "Uso diario distinguido, entorno laboral, oficina, reuniones, citas diurnas o cuando el objetivo sea oler impecable y con una presencia deslumbrante.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional (9h a 12h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex de Perfil Alto / Coleccionista. Diseñado para personas seguras de sí mismas, amantes de la perfumería de autor, el lujo elegante y quienes exigen un sello personal que proyecte intelecto, clase y un magnetismo absoluto.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57385.2x.avif",
+    "inspirado_en_nombre": "Oceania de Roja Dove",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad que rinde tributo a una de las fragancias de autor más exclusivas, elogiadas y codiciadas del mundo, famosa por encarnar la brisa marina más lujosa y elegante del planeta. Captura a la perfección ese ADN inconfundible de \"salida cítrica deslumbrante combinada con un corazón aromático-floral y un fondo ultra sofisticado de sándalo y ámbar gris\", ofreciendo una alternativa de lujo supremo con una presentación imponente y un rendimiento sobresaliente",
+        "nombre": "Oceania de Roja Dove",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57385.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RIIFFS - Momento | Extrait De Parfum",
+    "marca": "RIIFFS",
+    "genero": "Unisex",
+    "familia_olfativa": "Dulce, Avainillado, Ámbar, Cálido especiado, Rosas, Amaderado, Oud, Caramelo, Aromático, Metalico",
+    "inspirado_en": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias más potentes, elogiadas y buscadas del mundo global, famosa por ser un \"arma masiva de cumplidos\". Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán combinada con un corazón de rosa-oud y un fondo ultra goloso de haba tonka y azúcar moreno\"",
+    "notas_salida": "azucar, azafran, mandarina",
+    "notas_corazon": "haba tonka, rosa, oud",
+    "notas_fondo": "caramelo, amberwood, cedro",
+    "descripcion": "La definición en perfume del lujo extremo, la sofisticación nocturna y la sensualidad más adictiva del mercado actual. Riffs Momento arranca con un impacto vibrante, especiado y seco de azafrán puro. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por la rosa y un toque sutil de oud. Su evolución final es un secado supremo de haba tonka y azúcar moreno, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno / Primavera",
+    "ocasion": "Salidas nocturnas, citas, eventos formales, fiestas o cuando el objetivo sea acaparar miradas y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Fresco / Frío / Templado",
+    "proyeccion": "Beast mode",
+    "duracion": "Legendario (14h a 16h)",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, magnéticas, amantes de la perfumería de nicho, de los acordes dulces-especiados de alto impacto y quienes exigen un sello personal que proyecte poder, éxito y un atractivo irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57384.2x.avif",
+    "inspirado_en_nombre": "Arabians Tonka Montale",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de fidelidad inquebrantable y concentración potenciada que rinde tributo a una de las fragancias más potentes, elogiadas y buscadas del mundo global, famosa por ser un \"arma masiva de cumplidos\". Captura a la perfección ese ADN inconfundible de \"salida especiada de azafrán combinada con un corazón de rosa-oud y un fondo ultra goloso de haba tonka y azúcar moreno\"",
+        "nombre": "Arabians Tonka Montale",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.57384.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "VICTORIA SECRET - Body Splash - Coconut Passion | Mist",
+    "marca": "VICTORIA SECRET",
+    "genero": "Femenino",
+    "familia_olfativa": "Avainillado, Coco, Dulce, Lactonico, Tropical, Atalcado",
+    "inspirado_en": "Representa el estándar de oro de las brumas corporales dulces con nota de coco. Su estela es la referencia absoluta del concepto \"verano, bronceado, piel hidratada y sol\", siendo un éxito de ventas intergeneracional.",
+    "notas_salida": "coco, vainilla, lirio de los valles, manzanilla, sabila",
+    "descripcion": "La definición en perfume del verano eterno, la calidez del sol en la piel y el confort del coco cremoso. Victoria's Secret Coconut Passion abre con un abrazo dulce y tropical de coco de isla recién abierto. En cuestión de minutos despliega su faceta más elogiada: un corazón limpio donde el aloe vera y la manzanilla aportan una frescura reconfortante. Su evolución final en la piel es un secado tibio, dulce y profundamente afelpado, donde la vainilla dorada envuelve el coco, dejando un rastro flotante que transmite relax, juventud y un encanto veraniego irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Días de playa, pileta, vacaciones, salidas casuales, estar en casa, ir a entrenar o retoque constante de bolso.",
+    "clima": "Cálido / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Notable para Body Mist (3h a 5h)",
+    "estela": "Moderada",
+    "color_liquido": "Amarillo dorado traslúcido",
+    "rango_edad_min": 12,
+    "rango_edad_max": 50,
+    "estilo_descripcion": "Femenino. Diseñado para mujeres dinámicas, alegres, coquetas y amantes de los aromas dulces, tropicales y gourmand. Es la elección perfecta para quienes buscan un aroma de firma liviano para el uso diario, la playa, el gimnasio o para aplicar generosamente tras el baño.",
+    "inspirado_en_nombre": "Perfume Original de Diseñador / Firma Olfativa Tropical de EE.UU",
+    "inspiraciones": [
+      {
+        "texto": "Representa el estándar de oro de las brumas corporales dulces con nota de coco. Su estela es la referencia absoluta del concepto \"verano, bronceado, piel hidratada y sol\", siendo un éxito de ventas intergeneracional.",
+        "nombre": "Perfume Original de Diseñador / Firma Olfativa Tropical de EE.UU"
       }
     ]
   }

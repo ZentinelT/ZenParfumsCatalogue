@@ -176,7 +176,7 @@
     "p": 82400,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1995_k12nwa.jpg",
     "nt": "Salida bergamota, pomelo rosado, pera, mandarina Notas de corazón: flor de azahar del naranjo, manzana, cedro Notas de fondo: vainilla, ámbar, almizcle",
     "p1": "$82.400"
@@ -423,7 +423,7 @@
     "p": 56800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2014_oelr2i.jpg",
     "nt": "Salida Frambuesa, Moras azules, Grosellas negras, Cereza, Fresa Notas de corazón: Jazmín, Violeta Notas de fondo: Almizcle, Musgo de roble, Ámbar, Pétalos de rosas, Vainilla, Cachemira, Pachulí",
     "p1": "$56.800"
@@ -462,7 +462,7 @@
     "p": 52000,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2017_eutfch.jpg",
     "nt": "Salida Heliotropo, mandarina, bergamota, orquídea Notas de corazón: Jazmín, rosa Notas de fondo: Vainilla, almizcle, sándalo, pachulí",
     "p1": "$52.000"
@@ -1497,7 +1497,7 @@
   {
     "id": 2097,
     "b": "LATTAFA",
-    "n": "LATTAFA - Asad Elixir | EDP",
+    "n": "LATTAFA - Asad Elixir | Elixir",
     "s": "100ml",
     "p": 85000,
     "c": "arabes",
@@ -1536,7 +1536,7 @@
   {
     "id": 2100,
     "b": "LATTAFA",
-    "n": "LATTAFA - Atlas | EDP",
+    "n": "LATTAFA - Atlas | Extrait De Parfum",
     "s": "55ml",
     "p": 74000,
     "c": "arabes",
@@ -2139,7 +2139,7 @@
     "p": 64800,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2146_52oy6f.jpg",
     "nt": "Salida mandarina, pera Notas de corazón: notas dulces, jazmin, rosa Notas de fondo: almizcle, vainilla, frambuesa",
     "p1": "$64.800"
@@ -3863,7 +3863,7 @@
   {
     "id": 2279,
     "b": "VICTORIA SECRET",
-    "n": "VICTORIA SECRET - Body Splash - Bare Vanilla",
+    "n": "VICTORIA SECRET - Body Splash - Bare Vanilla | Mist",
     "s": "250ml",
     "p": 43200,
     "c": "internacional",
@@ -3876,8 +3876,8 @@
   {
     "id": 2280,
     "b": "VICTORIA SECRET",
-    "n": "VICTORIA SECRET - Body Lotion - Coconut Passion | 236ml",
-    "s": "",
+    "n": "VICTORIA SECRET - Body Lotion - Coconut Passion | Mist",
+    "s": "236ml",
     "p": 43200,
     "c": "internacional",
     "g": "mujer",
@@ -3889,7 +3889,7 @@
   {
     "id": 2281,
     "b": "VICTORIA SECRET",
-    "n": "VICTORIA SECRET - Body Splash - Love Spell",
+    "n": "VICTORIA SECRET - Body Splash - Love Spell | Mist",
     "s": "250ml",
     "p": 43200,
     "c": "internacional",
@@ -3902,7 +3902,7 @@
   {
     "id": 2282,
     "b": "VICTORIA SECRET",
-    "n": "VICTORIA SECRET - Body Splash - Pure Seduction",
+    "n": "VICTORIA SECRET - Body Splash - Pure Seduction | Mist",
     "s": "250ml",
     "p": 42000,
     "c": "internacional",
@@ -3980,7 +3980,7 @@
   {
     "id": 2288,
     "b": "ATTRACIONE",
-    "n": "ATTRACIONE MEN - Parfum Aux Phéromones",
+    "n": "ATTRACIONE - ATTRACIONE MEN - Parfum Aux Phéromones | Extrait De Parfum",
     "s": "25ml",
     "p": 56800,
     "c": "arabes",
@@ -5948,7 +5948,7 @@
     "p": 96000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2447_fv6d1d.jpg",
     "nt": "Salida furtas rojas, ruibarbo, lichi Notas de corazón: rosa, incienso, cedro Notas de fondo: vainilla, almizcle, ambar gris",
     "p1": "$96.000"
@@ -6866,7 +6866,7 @@
   {
     "id": 2525,
     "b": "VICTORIA SECRET",
-    "n": "VICTORIA SECRET - Body Splash - Coconut Passion | EDP",
+    "n": "VICTORIA SECRET - Body Splash - Coconut Passion | Mist",
     "s": "250ml",
     "p": 40000,
     "c": "internacional",
@@ -7313,7 +7313,7 @@
     "p": 80800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2560_thpn64.jpg",
     "nt": "Salida limon, mandarina, cardamomo, pimienta rosa Notas de corazón: lavanda, flor de azahar del naranjo, manzana verde, rosa Notas de fondo: almizcle, musgo, cedro, pachuli",
     "p1": "$80.800"
@@ -7580,8 +7580,8 @@
   },
   {
     "id": 2582,
-    "b": "RIFFS",
-    "n": "RIFFS - Freeze | EDP",
+    "b": "RIIFFS",
+    "n": "RIIFFS - Freeze | EDP",
     "s": "100ml",
     "p": 126000,
     "c": "arabes",
@@ -7827,8 +7827,8 @@
   },
   {
     "id": 2601,
-    "b": "RIFFS",
-    "n": "RIFFS - Freeze In Flames | EDP",
+    "b": "RIIFFS",
+    "n": "RIIFFS - Freeze In Flames | EDP",
     "s": "100ml",
     "p": 129000,
     "c": "arabes",
@@ -7983,8 +7983,8 @@
   },
   {
     "id": 2631,
-    "b": "RIFFS",
-    "n": "RIFFS - Momento | EDP",
+    "b": "RIIFFS",
+    "n": "RIIFFS - Momento | Extrait De Parfum",
     "s": "100ml",
     "p": 92000,
     "c": "arabes",
@@ -8042,7 +8042,7 @@
     "c": "arabes",
     "g": "hombre",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_727781-MLA118952343527_102026-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2637_fffe1t.webp",
     "nt": "cardamomo, lavanda, citricos, flor de azahar del naranjo, gaiac, rosa, vainilla, haba tonka, ambar, musgo de roble",
     "p1": "$138.000"
   },
@@ -8081,7 +8081,7 @@
     "c": "arabes",
     "g": "unisex",
     "st": "out",
-    "i": "https://http2.mlstatic.com/D_Q_NP_961602-MLA119179321555_102026-F.webp",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2640_7du9ye.webp",
     "nt": "canela, azafran, nuez moscada, cardamomo, pimienta rosa, jengibre, oud, datiles, mirra, incienso, caña de azucar, caramelo, amberwood, davana, haba tonka, ladano, pachuli, almizcle, yerba mate, cuero, vainilla, benjui, manteca de cacao",
     "p1": "$71.000"
   },
