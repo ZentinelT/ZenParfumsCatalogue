@@ -7,7 +7,7 @@
     "p": 78400,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1982_rfpgt2.jpg",
     "nt": "Salida Mandarina, bergamota, pomelo Notas de corazón: Grosella negra, frambuesa Notas de fondo: Almizcle, ámbar, naranja",
     "p1": "$78.400"
@@ -1541,7 +1541,7 @@
     "p": 74000,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2100_qjattf.jpg",
     "nt": "Salida notas marinas, sal, limón Notas de corazón: davana, iris Notas de fondo: ámbar gris, musgo de roble, sándalo",
     "p1": "$74.000"
@@ -1671,7 +1671,7 @@
     "p": 90000,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2110_pqmidb.jpg",
     "nt": "Salida Vainilla, leche, caramelo Notas de corazón: Flores blancas, heliotropo Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$90.000"
@@ -5259,7 +5259,7 @@
     "p": 125600,
     "c": "internacional",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2392_t4ch6e.jpg",
     "nt": "Salida Pimienta rosa, Pera, Nuez moscada, Elemi, Bergamota Notas de corazón: Rosa, Clavo de olor, Magnolia, Lino Notas de fondo: Vetiver de Haití, Cachemira, Sándalo, Ámbar, Sylkolide",
     "p1": "$125.600"
