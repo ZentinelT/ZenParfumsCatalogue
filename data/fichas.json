@@ -7076,7 +7076,7 @@
     ]
   },
   {
-    "nombre_completo": "LATTAFA - Asad Elixir | Elixir",
+    "nombre_completo": "LATTAFA - Asad Elixir | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "anno": "2025",
     "genero": "Masculino",
@@ -17067,36 +17067,6 @@
     ]
   },
   {
-    "nombre_completo": "BIDAYA - Maktub Le Vie | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Tropical, Afrutados, Cítrico, Fesco especiado, Fresco, Dulce, Aromático, Amaderado, Almizclado, Atalcado",
-    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más codiciadas, elogiadas y caras de todo el mundo, famosa por encarnar el lujo tropical más sofisticado. Captura a la perfección ese ADN inconfundible de \"salida frutal de mango y jengibre combinada con un corazón amaderado y un fondo ambarado de máxima sensualidad\"",
-    "notas_salida": "mango, frutas tropicales, pomelo, limon, casia",
-    "notas_corazon": "jegibre, nuez moscada, iris",
-    "notas_fondo": "almizcle, ambar, cedro",
-    "descripcion": "La definición en perfume del lujo tropical, la sofisticación moderna y la dualidad más adictiva del mercado actual. Bidaya Maktub Le Vie arranca con un impacto envolvente, fresco y frutal de mango y jengibre chispeante. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por maderas preciosas y cedro. Su evolución final es un secado supremo de ámbar y almizcle blanco, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Salidas, citas, reuniones, eventos o cuando el objetivo sea generar una cercanía irresistible y recibir cumplidos constantes a metros de distancia.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Muy alta",
-    "duracion": "Excepcional",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar oscuro / Dorado intenso",
-    "rango_edad_min": 18,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Unisex / Amantes de los Nichos Tropicales de Alto Impacto. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería de autor y quienes exigen un sello personal que proyecte cercanía, magnetismo y una sofisticación irresistible.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72381.2x.avif",
-    "inspirado_en_nombre": "God of Fire Stéphane Humbert Lucas 777",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más codiciadas, elogiadas y caras de todo el mundo, famosa por encarnar el lujo tropical más sofisticado. Captura a la perfección ese ADN inconfundible de \"salida frutal de mango y jengibre combinada con un corazón amaderado y un fondo ambarado de máxima sensualidad\"",
-        "nombre": "God of Fire Stéphane Humbert Lucas 777",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72381.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "RASASI - Hawas Reina | EDP",
     "genero": "Femenino",
     "familia_olfativa": "Floral blanco, Dulce, Avainillado, Atalcado, Floral, Afrutados, Tropical, Lactónico, Cítrico, Almizclado",
@@ -18032,6 +18002,37 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo a una de las obras maestras más codiciadas, románticas y exclusivas del mundo. Captura a la perfección ese ADN inconfundible de \"vainilla polvosa, malta tostada y almizcles limpios con un corazón floral etéreo\", ofreciendo una alternativa de lujo absoluto con una fijación impecable a una fracción de su costo original.",
         "nombre": "Dama Bianca de Casamorati 1888",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.15555.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BIDAYA - Maktub Le Vie | EDP",
+    "marca": "BIDAYA",
+    "genero": "Unisex",
+    "familia_olfativa": "Tropical, Afrutados, Cítrico, Fesco especiado, Fresco, Dulce, Aromático, Amaderado, Almizclado, Atalcado",
+    "inspirado_en": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más codiciadas, elogiadas y caras de todo el mundo, famosa por encarnar el lujo tropical más sofisticado. Captura a la perfección ese ADN inconfundible de \"salida frutal de mango y jengibre combinada con un corazón amaderado y un fondo ambarado de máxima sensualidad\"",
+    "notas_salida": "mango, frutas tropicales, pomelo, limon, casia",
+    "notas_corazon": "jegibre, nuez moscada, iris",
+    "notas_fondo": "almizcle, ambar, cedro",
+    "descripcion": "La definición en perfume del lujo tropical, la sofisticación moderna y la dualidad más adictiva del mercado actual. Bidaya Maktub Le Vie arranca con un impacto envolvente, fresco y frutal de mango y jengibre chispeante. En cuestión de minutos despliega su faceta más famosa y elogiada: un corazón opulento dominado por maderas preciosas y cedro. Su evolución final es un secado supremo de ámbar y almizcle blanco, dejando un rastro flotante sumamente distinguido, magnético y de una presencia imposible de pasar por alto.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Salidas, citas, reuniones, eventos o cuando el objetivo sea generar una cercanía irresistible y recibir cumplidos constantes a metros de distancia.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Muy alta",
+    "duracion": "Excepcional",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar oscuro / Dorado intenso",
+    "rango_edad_min": 18,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex / Amantes de los Nichos Tropicales de Alto Impacto. Diseñado para personas seguras de sí mismas, carismáticas, amantes de la perfumería de autor y quienes exigen un sello personal que proyecte cercanía, magnetismo y una sofisticación irresistible.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72381.2x.avif",
+    "inspirado_en_nombre": "God of Fire Stéphane Humbert Lucas 777",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de altísima fidelidad y concentración potenciada que rinde tributo a una de las fragancias de autor más codiciadas, elogiadas y caras de todo el mundo, famosa por encarnar el lujo tropical más sofisticado. Captura a la perfección ese ADN inconfundible de \"salida frutal de mango y jengibre combinada con un corazón amaderado y un fondo ambarado de máxima sensualidad\"",
+        "nombre": "God of Fire Stéphane Humbert Lucas 777",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.72381.2x.avif"
       }
     ]
   }
