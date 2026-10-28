@@ -654,13 +654,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Urban | Elixir",
     "s": "105ml",
-    "p": 88400,
+    "p": 90000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2032_d8i39v.jpg",
     "nt": "Salida Bergamota, pimienta rosa, flor de azahar, jazmín Notas de corazón: Lavanda, elemí, geranio, vetiver, azafrán Notas de fondo: Ambroxan, ámbar, pachulí, cedro, ládano",
-    "p1": "$88.400"
+    "p1": "$90.000"
   },
   {
     "id": 2033,
@@ -3140,7 +3140,7 @@
     "p": 94000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2223_oflcv4.jpg",
     "nt": "Salida Frutas, cítricos Notas de corazón: Notas acuáticas, ámbar Notas de fondo: Almizcle, maderas",
     "p1": "$94.000"
@@ -6725,13 +6725,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Obsidian | EDP",
     "s": "100ml",
-    "p": 87000,
+    "p": 90000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2513_v0l1ar.jpg",
     "nt": "Salida iris, citricos Notas de corazón: cuero Notas de fondo: sandalo, almizcle, cedro, oud",
-    "p1": "$87.000"
+    "p1": "$90.000"
   },
   {
     "id": 2514,
@@ -7427,13 +7427,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Chrome | EDP",
     "s": "100ml",
-    "p": 103200,
+    "p": 106000,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2569_ru8xfl.jpg",
     "nt": "Salida durazno, frutas amarillas, naranja Notas de corazón: frutas, maracuya, mango, agua Notas de fondo: almizcle, ambar, vainilla",
-    "p1": "$103.200"
+    "p1": "$106.000"
   },
   {
     "id": 2570,
@@ -7726,13 +7726,13 @@
     "b": "BHARARA",
     "n": "BHARARA - Rome Extradose Puor Femme | EDP",
     "s": "100ml",
-    "p": 90400,
+    "p": 91000,
     "c": "arabes",
     "g": "mujer",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2593_f6gw91.jpg",
     "nt": "Salida bergamota, limon, grosellas negras Notas de corazón: coco, ciruela, jazmin, rosa Notas de fondo: vainilla, benjui, haba tonka, sandalo",
-    "p1": "$90.400"
+    "p1": "$91.000"
   },
   {
     "id": 2594,
@@ -7999,13 +7999,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Elite | EDP",
     "s": "100ml",
-    "p": 118600,
+    "p": 119000,
     "c": "arabes",
     "g": "hombre",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2633_t8jght.jpg",
     "nt": "Salida pimienta, te verde, bergamota, manzana, pimienta rosa Notas de corazón: rosa, grosellas negras, geranio, Notas de fondo: vetiver, almizcle, cedro, ambar, cachemira",
-    "p1": "$118.600"
+    "p1": "$119.000"
   },
   {
     "id": 2634,
@@ -8164,6 +8164,58 @@
     "p1": "$62.000"
   },
   {
+    "id": 2647,
+    "b": "FRENCH AVENUE",
+    "n": "FRENCH AVENUE - Royal Blend Sequoia | EDP",
+    "s": "100ml",
+    "p": 93000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_983728-MLA116220829522_092026-F.webp",
+    "nt": "frambuesa, coñac, licor, rosa, musgo, praline, roble, sandalo",
+    "p1": "$93.000"
+  },
+  {
+    "id": 2648,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Jasoor | EDP",
+    "s": "100ml",
+    "p": 72000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_788340-MLA117877199843_092026-F.webp",
+    "nt": "manzana, cardamomo, bergamota, tabaco, lavanda, geranio, haba tonka, cuero, vetiver, pachuli",
+    "p1": "$72.000"
+  },
+  {
+    "id": 2649,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Khaltaat al Arabia Royal Delight | EDP",
+    "s": "100ml",
+    "p": 54000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_880595-MLU73378919985_122023-F.webp",
+    "nt": "manzana, notas afrutadas, notas especiadas, nuez moscada, ambar, notas amaderadas, almizcle",
+    "p1": "$54.000"
+  },
+  {
+    "id": 2653,
+    "b": "AL WATANIAH",
+    "n": "AL WATANIAH - Sultan al Lail | EDP",
+    "s": "100ml",
+    "p": 56000,
+    "c": "arabes",
+    "g": "hombre",
+    "st": "out",
+    "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2653_iqqpyv.webp",
+    "nt": "naranja sanguina, bayas de enebro, citricos, limon, lavanda, pimiento, esclarea, geranio, vetiver, cedro, pachuli",
+    "p1": "$56.000"
+  },
+  {
     "id": 2654,
     "b": "AL WATANIAH",
     "n": "AL WATANIAH - Oud Mystery Intense | EDP",
@@ -8188,5 +8240,18 @@
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2655_pycvyt.webp",
     "nt": "mandarina, pimienta, pera, rosa, peonia, osmanto, almizcle, pachuli, cuero, cedro",
     "p1": "$58.000"
+  },
+  {
+    "id": 2656,
+    "b": "ARMAF",
+    "n": "ARMAF - Odyssey Bahamas | EDP",
+    "s": "100ml",
+    "p": 64000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_887277-MLA120196243349_102026-F.webp",
+    "nt": "melon, melon cantalupo, sal, algas, pera, manzana verde, ciruela, notas acuaticas, nenufar, musgo de roble, incienso, almizcle, ambar, azucar, cedro",
+    "p1": "$64.000"
   }
 ]
