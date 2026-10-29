@@ -18,7 +18,7 @@ MARGEN_KIT = 15000
 MARGEN_KIDS = 15000         # perfumes de ninos (ej. LATTAFA - Kids ...)
 MARGEN_TUBBEES = 12000
 MARGEN_NO_PERFUME = 12000   # body splash, body mist, body lotion, cremas, etc.
-AJUSTE_PRECIO = 1.40        # suba de precios por inflacion (oct 2026)
+AJUSTE_PRECIO = 1.20        # suba de precios por inflacion (oct 2026)
 
 NO_PERFUME_RE = re.compile(r"body\s*(splash|mist|lotion|cream|wash)|crema|desodorante|shower\s*gel|gel\s*de\s*ducha|locion\s*corporal|loci\u00f3n\s*corporal", re.IGNORECASE)
 KIT_RE = re.compile(r"\bkit\b", re.IGNORECASE)
