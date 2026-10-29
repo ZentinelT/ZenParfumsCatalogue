@@ -12,12 +12,13 @@ import pandas as pd
 API_KEY = os.environ["SUPABASE_KEY"]
 API_URL = "https://syylbuvjuekkanxynpps.supabase.co/rest/v1/productos"
 
-# Precio = costo (precio x3 de Belle, con el dolar del dia) + margen fijo
+# Precio = (costo (precio x3 de Belle, con el dolar del dia) + margen fijo) * AJUSTE_PRECIO
 MARGEN_PERFUME = 20000
 MARGEN_KIT = 15000
 MARGEN_KIDS = 15000         # perfumes de ninos (ej. LATTAFA - Kids ...)
 MARGEN_TUBBEES = 12000
 MARGEN_NO_PERFUME = 12000   # body splash, body mist, body lotion, cremas, etc.
+AJUSTE_PRECIO = 1.40        # suba de precios por inflacion (oct 2026)
 
 NO_PERFUME_RE = re.compile(r"body\s*(splash|mist|lotion|cream|wash)|crema|desodorante|shower\s*gel|gel\s*de\s*ducha|locion\s*corporal|loci\u00f3n\s*corporal", re.IGNORECASE)
 KIT_RE = re.compile(r"\bkit\b", re.IGNORECASE)
@@ -130,7 +131,8 @@ def calcular_precio(row):
     costo = calcular_costo(row)
     if not costo:
         return 0
-    return int(costo + margen_para(row))
+    base = costo + margen_para(row)
+    return int(round(base * AJUSTE_PRECIO / 100) * 100)
 
 def calcular_stock(row):
     st = row.get("stock_actual")
