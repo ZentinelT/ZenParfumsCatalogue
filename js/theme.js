@@ -1,9 +1,29 @@
 (function(){
+  var HERO_SRC = {
+    desktop: {dark:"img/hero-dark-desktop.webp?v=3", light:"img/hero-light-desktop-warm.webp?v=2"},
+    mobile: {dark:"img/hero-dark-mobile.webp?v=3", light:"img/hero-light-mobile.webp?v=6"}
+  };
+  function updateHeroImage(theme){
+    var img = document.getElementById("heroImg");
+    if (!img) return;
+    var set = window.innerWidth <= 768 ? HERO_SRC.mobile : HERO_SRC.desktop;
+    var src = theme === "dark" ? set.dark : set.light;
+    if (img.getAttribute("src") !== src) img.src = src;
+  }
+  var _heroResizeTimer;
+  window.addEventListener("resize", function(){
+    clearTimeout(_heroResizeTimer);
+    _heroResizeTimer = setTimeout(function(){
+      updateHeroImage(document.body.getAttribute("data-theme"));
+    }, 150);
+  });
+
   function applyTheme(theme){
     try {
       document.body.setAttribute("data-theme", theme);
       localStorage.setItem("zp-theme", theme);
     } catch(e) {}
+    updateHeroImage(theme);
 
     const icons = document.querySelectorAll(".theme-icon");
     const isDark = theme === "dark";
