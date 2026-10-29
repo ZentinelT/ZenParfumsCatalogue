@@ -59,7 +59,7 @@ ul{list-style:none}
 .site-header-top{width:100%;background:rgba(20,17,13,.6);backdrop-filter:blur(8px)}
 .site-header-top-in{max-width:var(--mw);margin:0 auto;padding:16px 5vw;display:flex;align-items:center;justify-content:center}
 .site-header-welcome{font-family:var(--fb);font-size:13px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.88);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.site-header-nav{position:sticky;top:0;z-index:900;width:100%;background:transparent}
+.site-header-nav{position:sticky;top:0;z-index:900;width:100%;background:transparent;margin-bottom:calc(-1 * var(--header-h))}
 .site-header-nav-in{position:relative;max-width:var(--mw);margin:0 auto;padding:12px 5vw;display:flex;align-items:center;gap:16px}
 .site-header-links{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:flex;gap:48px}
 .site-header-links a{font-size:13px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:rgba(246,242,235,.82);text-shadow:0 1px 10px rgba(0,0,0,.4);transition:color var(--t);position:relative;padding-bottom:2px;white-space:nowrap}
@@ -86,7 +86,7 @@ body:not([data-theme="dark"]) .btn-dk{background:#211a12;color:#fdf7ed;box-shado
 body:not([data-theme="dark"]) .btn-dk:hover{background:#b68e47}
 /* HERO */
 .hero{
-  min-height:calc(100vw * var(--hero-ar) - var(--header-h));overflow:hidden;
+  min-height:calc(100vw * var(--hero-ar));overflow:hidden;
   position:relative;
 }
 .hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:80px;background:linear-gradient(to bottom,transparent,var(--ow));pointer-events:none}
