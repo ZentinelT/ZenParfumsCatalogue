@@ -94,8 +94,8 @@ body:not([data-theme="dark"]) .btn-dk:hover{background:#b68e47}
 .hero::after{
   content:"";position:absolute;left:0;right:0;bottom:0;height:80px;pointer-events:none;
   background:
-    radial-gradient(ellipse 260px 200px at 0% 100%,var(--ow) 0%,transparent 75%),
-    radial-gradient(ellipse 260px 200px at 100% 100%,var(--ow) 0%,transparent 75%),
+    radial-gradient(ellipse 140px 90px at 0% 100%,var(--ow) 0%,transparent 80%),
+    radial-gradient(ellipse 140px 90px at 100% 100%,var(--ow) 0%,transparent 80%),
     linear-gradient(to bottom,transparent,var(--ow));
 }
 body[data-theme="light"] .hero::after{height:90px}
