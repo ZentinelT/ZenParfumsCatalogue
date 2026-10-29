@@ -86,8 +86,8 @@ function checkoutWA() {
   var msg = "Hola! Quisiera hacer el siguiente pedido:\n\n" + lines + "\n\nTotal: " + fmt(tot) + "\n\n\xBFC\xF3mo procedo con el pago?";
   window.open("https://wa.me/" + WA + "?text=" + encodeURIComponent(msg), "_blank", "noopener");
 }
-function openCart()  { $("cartOv").classList.add("on"); $("cartD").classList.add("on"); document.body.style.overflow="hidden"; }
-function closeCart() { $("cartOv").classList.remove("on"); $("cartD").classList.remove("on"); document.body.style.overflow=""; }
+function openCart()  { $("cartOv").classList.add("on"); $("cartD").classList.add("on"); lockScroll(); }
+function closeCart() { $("cartOv").classList.remove("on"); $("cartD").classList.remove("on"); unlockScroll(); }
 function openProductFromCart(id) {
   closeCart();
   if (typeof openProduct === "function") openProduct(id);

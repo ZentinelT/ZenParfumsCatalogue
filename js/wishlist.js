@@ -62,8 +62,8 @@ function renderWish() {
     }).join("");
   }
 }
-function openWish()  { renderWish(); $("wishOv").classList.add("on"); $("wishD").classList.add("on"); document.body.style.overflow="hidden"; }
-function closeWish() { $("wishOv").classList.remove("on"); $("wishD").classList.remove("on"); document.body.style.overflow=""; }
+function openWish()  { renderWish(); $("wishOv").classList.add("on"); $("wishD").classList.add("on"); lockScroll(); }
+function closeWish() { $("wishOv").classList.remove("on"); $("wishD").classList.remove("on"); unlockScroll(); }
 function openProductFromWish(id) {
   closeWish();
   if (typeof openProduct === "function") openProduct(id);
