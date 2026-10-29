@@ -46,18 +46,24 @@
 })();
 
 var _scrollLocks = 0;
+var _lockedScrollY = 0;
 function lockScroll() {
   if (_scrollLocks === 0) {
-    var sbw = window.innerWidth - document.documentElement.clientWidth;
-    document.body.style.overflow = "hidden";
-    document.body.style.paddingRight = sbw + "px";
+    _lockedScrollY = window.scrollY || window.pageYOffset || 0;
+    document.body.style.position = "fixed";
+    document.body.style.top = (-_lockedScrollY) + "px";
+    document.body.style.left = "0";
+    document.body.style.right = "0";
   }
   _scrollLocks++;
 }
 function unlockScroll() {
   _scrollLocks = Math.max(0, _scrollLocks - 1);
   if (_scrollLocks === 0) {
-    document.body.style.overflow = "";
-    document.body.style.paddingRight = "";
+    document.body.style.position = "";
+    document.body.style.top = "";
+    document.body.style.left = "";
+    document.body.style.right = "";
+    window.scrollTo(0, _lockedScrollY);
   }
 }

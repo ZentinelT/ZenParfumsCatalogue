@@ -27,7 +27,7 @@ body[data-theme="dark"]{
   --surface-strong:#372d20;--header-bg:rgba(42,34,27,.95);--hero-start:#1d2230;--hero-mid:#171b24;--hero-end:#222835;--hero-overlay:radial-gradient(circle at 20% 20%,rgba(255,255,255,.035),transparent 18%),radial-gradient(circle at 80% 12%,rgba(255,255,255,.025),transparent 22%),radial-gradient(circle at 24% 78%,rgba(255,255,255,.028),transparent 24%),radial-gradient(circle at 76% 72%,rgba(255,255,255,.018),transparent 16%),linear-gradient(135deg,rgba(255,255,255,.025) 0%,rgba(255,255,255,0) 30%,rgba(255,255,255,.018) 52%,rgba(255,255,255,0) 70%,rgba(255,255,255,.012) 100%),linear-gradient(100deg,rgba(255,255,255,.012) 0%,rgba(255,255,255,0) 27%,rgba(255,255,255,.008) 45%,rgba(255,255,255,0) 78%,rgba(255,255,255,.005) 100%);
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;scrollbar-gutter:stable;overflow-y:scroll}
 body{
   font-family:var(--fb);color:var(--bk);background-color:#e4d2b6;-webkit-font-smoothing:antialiased;overflow-x:hidden;
   transition:background-color var(--t) var(--e),color var(--t) var(--e);
