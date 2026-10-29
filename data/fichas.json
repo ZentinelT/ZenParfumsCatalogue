@@ -9585,36 +9585,6 @@
     ]
   },
   {
-    "nombre_completo": "RAYHAAN - Pacific Aloha | EDP",
-    "genero": "Unisex",
-    "familia_olfativa": "Acuático, ozonico, Coco, Cítrico, Marino, Dulce, Afrutados, Aromático, Lactonico",
-    "inspirado_en": "Réplica de alta fidelidad que rinde tributo a la fragancia más \"playera y juvenil\" del momento. Captura a la perfección ese ADN de \"sandía acuática, coco y sal marina\", ofreciendo una alternativa que se siente moderna, joven y, sobre todo, muy diferente a lo tradicional.",
-    "notas_salida": "melon, naranja sanguina, limon",
-    "notas_corazon": "sandia, coco",
-    "notas_fondo": "notas marinas, amberwood, cacao",
-    "descripcion": "La definición en perfume de la libertad, la arena caliente y la brisa marina. Rayhaan Pacific Aloha abre con un impacto radiante de sandía acuática y sal. En cuestión de minutos despliega su faceta más elogiada: un corazón amaderado por la madera de deriva que evoca el verano más auténtico. Su evolución final en la piel es un secado tibio, dulce y profundamente pulcro, dejando un rastro flotante que transmite relax, juventud y un encanto natural irresistible.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Playa, piscina, salidas casuales, uso diario en verano, viajes o eventos donde busques destacar con un aroma moderno y diferente.",
-    "clima": "Cálido / Muy Cálido / Templado",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Notable (6h a 8h)",
-    "estela": "Moderada",
-    "color_liquido": "Cristalino",
-    "rango_edad_min": 18,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Unisex. Diseñado para personas dinámicas, que aman la vida al aire libre, los viajes y las fragancias con estilo niche relajado. Es la elección perfecta para quienes buscan un aroma de firma que proyecte frescura moderna, pulcritud y un toque de sofisticación vacacional.",
-    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif",
-    "inspirado_en_nombre": "Wavechild Room 1015 ",
-    "inspiraciones": [
-      {
-        "texto": "Réplica de alta fidelidad que rinde tributo a la fragancia más \"playera y juvenil\" del momento. Captura a la perfección ese ADN de \"sandía acuática, coco y sal marina\", ofreciendo una alternativa que se siente moderna, joven y, sobre todo, muy diferente a lo tradicional.",
-        "nombre": "Wavechild Room 1015",
-        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif"
-      }
-    ]
-  },
-  {
     "nombre_completo": "RAYHAAN - Dark Leather | EDP",
     "marca": "RAYHAAN",
     "genero": "Masculino",
@@ -18275,6 +18245,37 @@
         "texto": "Como una alternativa de fidelidad inquebrantable y concentración potenciada que rinde tributo al ADN más elogiado de la perfumería fresca y de alta gama. Captura a la perfección ese perfil inconfundible de \"salida aromática limpia combinada con un corazón especiado y un fondo amaderado-almizclado\"",
         "nombre": "Percival Parfums de Marly",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.51037.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "RAYHAAN - Pacific Aloha | EDP",
+    "marca": "RAYHAAN",
+    "genero": "Unisex",
+    "familia_olfativa": "Acuático, ozonico, Coco, Cítrico, Marino, Dulce, Afrutados, Aromático, Lactonico",
+    "inspirado_en": "Réplica de alta fidelidad que rinde tributo a la fragancia más \"playera y juvenil\" del momento. Captura a la perfección ese ADN de \"sandía acuática, coco y sal marina\", ofreciendo una alternativa que se siente moderna, joven y, sobre todo, muy diferente a lo tradicional.",
+    "notas_salida": "melon, naranja sanguina, limon",
+    "notas_corazon": "sandia, coco",
+    "notas_fondo": "notas marinas, amberwood, cacao",
+    "descripcion": "La definición en perfume de la libertad, la arena caliente y la brisa marina. Rayhaan Pacific Aloha abre con un impacto radiante de sandía acuática y sal. En cuestión de minutos despliega su faceta más elogiada: un corazón amaderado por la madera de deriva que evoca el verano más auténtico. Su evolución final en la piel es un secado tibio, dulce y profundamente pulcro, dejando un rastro flotante que transmite relax, juventud y un encanto natural irresistible.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Playa, piscina, salidas casuales, uso diario en verano, viajes o eventos donde busques destacar con un aroma moderno y diferente.",
+    "clima": "Cálido / Muy Cálido / Templado",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Notable (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino",
+    "rango_edad_min": 18,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Unisex. Diseñado para personas dinámicas, que aman la vida al aire libre, los viajes y las fragancias con estilo niche relajado. Es la elección perfecta para quienes buscan un aroma de firma que proyecte frescura moderna, pulcritud y un toque de sofisticación vacacional.",
+    "inspirado_en_imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif",
+    "inspirado_en_nombre": "Wavechild Room 1015 ",
+    "inspiraciones": [
+      {
+        "texto": "Réplica de alta fidelidad que rinde tributo a la fragancia más \"playera y juvenil\" del momento. Captura a la perfección ese ADN de \"sandía acuática, coco y sal marina\", ofreciendo una alternativa que se siente moderna, joven y, sobre todo, muy diferente a lo tradicional.",
+        "nombre": "Wavechild Room 1015",
+        "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.91364.2x.avif"
       }
     ]
   }

@@ -1021,7 +1021,7 @@
     "p": 100000,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2060_vvnnm0.jpg",
     "nt": "Salida Limón, piña, bergamota, romero Notas de corazón: Jazmín, cilantro Notas de fondo: trozos de madera a la deriva, almizcle",
     "p1": "$100.000"
@@ -1671,7 +1671,7 @@
     "p": 90000,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2110_pqmidb.jpg",
     "nt": "Salida Vainilla, leche, caramelo Notas de corazón: Flores blancas, heliotropo Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$90.000"
@@ -2282,7 +2282,7 @@
     "p": 55200,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2157_n1hlv7.jpg",
     "nt": "Salida Bergamota, pimienta, especias Notas de corazón: Caramelo, Especias, cedro Notas de fondo: Ámbar, maderas, almizcle, vainilla",
     "p1": "$55.200"
@@ -3010,7 +3010,7 @@
     "p": 65000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2213_jti401.jpg",
     "nt": "Salida Pomelo, canela, cardamomo, nuez moscada, lavanda, regaliz Notas de corazón: Sándalo, ámbar Notas de fondo: Vetiver, pachulí, ládano",
     "p1": "$65.000"
@@ -5974,7 +5974,7 @@
     "p": 128800,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2450_prd45d.jpg",
     "nt": "Salida Bergamota, notas verdes Notas de corazón: melon, notas dulces, ambar, piña, cedro Notas de fondo: mirra, resina, vainilla, almizcle, notas amaderadas",
     "p1": "$128.800"
@@ -7037,13 +7037,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Pacific Aloha | EDP",
     "s": "100ml",
-    "p": 90400,
+    "p": 90000,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2538_fglf9f.jpg",
     "nt": "Salida melon, naranja sanguina, limon Notas de corazón: sandia, coco Notas de fondo: notas marinas, amberwood, cacao",
-    "p1": "$90.400"
+    "p1": "$90.000"
   },
   {
     "id": 2539,
