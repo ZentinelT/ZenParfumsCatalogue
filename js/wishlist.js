@@ -42,7 +42,7 @@ function renderWish() {
     $("wdItems").style.display = "block";
     $("wdItems").innerHTML = items.map(function(p) {
       var nm = cleanName(p.n);
-      var priceTxt = p.st === "out" ? "Sin stock" : (p.p > 0 ? fmt(p.p) : esc(p.p1));
+      var priceTxt = p.st === "out" ? "Sin stock" : (p.p > 0 ? cmPriceHTML(p.p, fmt, "cdi-p-new") : esc(p.p1));
       var dis = p.st === "out" ? " disabled" : "";
       return "<div class=\"cdi\" onclick=\"openProductFromWish(" + p.id + ")\" style=\"cursor:pointer\">" +
         "<div class=\"cdi-ig\">" +

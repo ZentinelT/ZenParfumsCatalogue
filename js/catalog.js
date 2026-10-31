@@ -110,7 +110,7 @@ function _novedadesCardHTML(p, badgeLabel, badgeClass) {
   var dis  = p.st === "out" ? " disabled" : "";
   var priceHtml = p.st === "out"
     ? "<div><span class=\"pc-pr\" style=\"font-size:12px;letter-spacing:.08em;color:var(--gr);font-weight:600\">SIN STOCK</span></div>"
-    : "<div><span class=\"pc-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span></div>";
+    : "<div>" + (p.p > 0 ? cmPriceHTML(p.p, fmt, "pc-pr") : "<span class=\"pc-pr\">" + esc(p.p1) + "</span>") + "</div>";
   return "<article class=\"pc\" onclick=\"openProduct(" + p.id + ")\" style=\"cursor:pointer\">" +
     "<div class=\"pc-img\"><span class=\"pbadge-new " + badgeClass + "\">" + badgeLabel + "</span>" + imgH + "</div>" +
     "<div class=\"pc-bd\">" +
@@ -206,7 +206,7 @@ function renderProds() {
     }
     var priceHtml = p.st === "out"
       ? "<div><span class=\"pc-pr\" style=\"font-size:13px;letter-spacing:.08em;color:var(--gr);font-weight:600\">SIN STOCK</span></div>"
-      : "<div><span class=\"pc-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span></div>";
+      : "<div>" + (p.p > 0 ? cmPriceHTML(p.p, fmt, "pc-pr") : "<span class=\"pc-pr\">" + esc(p.p1) + "</span>") + "</div>";
     var fichaBtn = getFicha(p)
       ? "<button class=\"pc-seg-i\" title=\"Ficha t\u00E9cnica\" onclick=\"event.stopPropagation();openFicha(" + p.id + ")\"><svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><line x1=\"12\" y1=\"11\" x2=\"12\" y2=\"16\"/><circle cx=\"12\" cy=\"7.5\" r=\"0.6\" fill=\"currentColor\" stroke=\"none\"/></svg></button>"
       : "";
@@ -610,7 +610,7 @@ function simCardHTML(item) {
 
   var priceHtml = p.st === "out"
     ? "<span class=\"sim-oos\">Sin stock</span>"
-    : "<span class=\"sim-pr\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span>";
+    : (p.p > 0 ? cmPriceHTML(p.p, fmt, "sim-pr") : "<span class=\"sim-pr\">" + esc(p.p1) + "</span>");
 
   return (
     "<div class=\"scard\" onclick=\"openProduct(" + p.id + ")\">" +

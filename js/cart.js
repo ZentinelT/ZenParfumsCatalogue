@@ -39,7 +39,7 @@ function cartItems() {
 function renderCart() {
   var items = cartItems();
   var cnt = items.reduce(function(s,i){ return s+i.qty; }, 0);
-  var tot = items.reduce(function(s,i){ return s+i.p*i.qty; }, 0);
+  var tot = items.reduce(function(s,i){ return s+cmEffPrice(i.p)*i.qty; }, 0);
   var b = $("cbadge");
   b.textContent = cnt;
   b.style.display = cnt > 0 ? "flex" : "none";
@@ -68,7 +68,9 @@ function renderCart() {
             "<button class=\"qb\" onclick=\"event.stopPropagation();chgQty(" + i.id + ",1)\">+</button>" +
           "</div>" +
         "</div>" +
-        "<div class=\"cdi-p\">" + fmt(i.p * i.qty) + "</div>" +
+        "<div class=\"cdi-p\">" + (CYBER_MONDAY_MODE
+          ? "<span class=\"cm-old-sm\">" + fmt(i.p * i.qty) + "</span><span class=\"cm-new-sm\">" + fmt(cmEffPrice(i.p) * i.qty) + "</span>"
+          : fmt(i.p * i.qty)) + "</div>" +
       "</div>";
     }).join("");
   }
@@ -80,10 +82,11 @@ function checkoutWA() {
     var nm = i.n.indexOf("-") > -1 ? i.n.split("-").slice(1).join("-").split("|")[0].trim() : i.n.split("|")[0].trim();
     var pr = (typeof PRODS !== "undefined") ? PRODS.find(function(x){ return x.id === i.id; }) : null;
     var lk = (pr && typeof pzUrl === "function") ? "\n  " + pzUrl(pr) : "";
-    return "- " + i.b + " " + nm + " (" + i.s + ") x" + i.qty + " = " + fmt(i.p*i.qty) + lk;
+    return "- " + i.b + " " + nm + " (" + i.s + ") x" + i.qty + " = " + fmt(cmEffPrice(i.p)*i.qty) + lk;
   }).join("\n");
-  var tot = items.reduce(function(s,i){ return s+i.p*i.qty; }, 0);
-  var msg = "Hola! Quisiera hacer el siguiente pedido:\n\n" + lines + "\n\nTotal: " + fmt(tot) + "\n\n\xBFC\xF3mo procedo con el pago?";
+  var tot = items.reduce(function(s,i){ return s+cmEffPrice(i.p)*i.qty; }, 0);
+  var promoNote = CYBER_MONDAY_MODE ? " (precio con -40% Cyber Monday ya aplicado)" : "";
+  var msg = "Hola! Quisiera hacer el siguiente pedido:\n\n" + lines + "\n\nTotal: " + fmt(tot) + promoNote + "\n\n\xBFC\xF3mo procedo con el pago?";
   window.open("https://wa.me/" + WA + "?text=" + encodeURIComponent(msg), "_blank", "noopener");
 }
 function openCart()  { $("cartOv").classList.add("on"); $("cartD").classList.add("on"); lockScroll(); }

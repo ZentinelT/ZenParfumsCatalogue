@@ -64,6 +64,10 @@ h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clam
 .stk{display:inline-flex;align-items:center;gap:8px;font-size:12px;color:var(--mut);letter-spacing:.06em}
 .dot{width:7px;height:7px;border-radius:50%;background:#3bb273}.dot.low{background:#e08a2e}.dot.out{background:#c0392b}
 .price{font-family:"Cormorant Garamond",Georgia,serif;font-size:48px;color:var(--gold2);line-height:1;margin:6px 0 26px}
+.price .cm-wrap{display:inline-flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.price .cm-old{font-size:20px;font-family:Inter,sans-serif;color:var(--mut);text-decoration:line-through;font-weight:400}
+.price .cm-new{color:#e0693f}
+.price .cm-badge{font-family:Inter,sans-serif;font-size:12px;font-weight:700;letter-spacing:.04em;color:#17110a;background:#e6c987;padding:4px 10px;border-radius:4px;vertical-align:middle}
 .cta{display:flex;flex-wrap:wrap;gap:12px}
 .btn{display:inline-flex;align-items:center;justify-content:center;padding:16px 30px;font-size:12px;letter-spacing:.18em;text-transform:uppercase;border-radius:3px;transition:.3s;font-weight:500}
 .b1{background:linear-gradient(135deg,#e6c987,#b88f46);color:#17110a;box-shadow:0 10px 30px rgba(214,178,110,.28)}
@@ -196,6 +200,7 @@ for p in P:
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 <script>try{{if(localStorage.getItem("zp-theme")==="light")document.documentElement.setAttribute("data-theme","light")}}catch(e){{}}</script>
+<script defer src="/js/promo.js?v=1"></script>
 <style>{CSS}</style></head><body>
 <header class="top"><a class="logo" href="/">Zen Parfums</a><div class="tr"><a class="back" href="/?product={p['id']}">Ver en el catálogo</a><button class="tg" id="tg" type="button" aria-label="Cambiar tema">◐</button></div></header>
 <div class="rule"></div>
@@ -208,7 +213,7 @@ for p in P:
 <div class="orn"><i></i></div>
 <div class="tags">{tags}</div>
 <div class="stk"><span class="dot {p['st']}"></span>{stock}</div>
-{('<div class="price">' + esc(p['p1']) + '</div>') if precio else '<div style="height:26px"></div>'}
+{('<div class="price" data-pcm="' + str(precio) + '">' + esc(p['p1']) + '</div>') if precio else '<div style="height:26px"></div>'}
 <div class="cta"><a class="btn b1" href="{wa}">Consultar por WhatsApp</a><a class="btn b2" href="/?product={p['id']}">Ver en el catálogo</a></div>
 <div class="trust"><span>100% original</span><span>Envíos a todo el país</span><span>Atención personalizada</span></div>
 </div></div>

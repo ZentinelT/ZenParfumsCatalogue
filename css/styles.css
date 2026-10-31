@@ -634,3 +634,30 @@ body[data-theme="dark"] .mc-it.on .mc-n{color:var(--gl)}
 .fil-clear:hover{color:var(--bk)}
 @media(max-width:768px){.fil-row{flex:none;gap:10px}.fil-grp{gap:7px}.fil-row .chip{padding:8px 13px}}
 @media(min-width:769px){#precioSel{width:196px}}
+
+/* ============================================================
+   CYBER MONDAY — CAMPAÑA TEMPORAL
+   Bloque autocontenido: se puede eliminar completo al terminar
+   la campaña sin afectar ningún otro estilo del sitio.
+   ============================================================ */
+.cm-banner{background:linear-gradient(135deg,var(--bk) 0%,#2a2016 100%);border-bottom:1px solid var(--go)}
+.cm-banner-in{max-width:var(--mw);margin:0 auto;padding:13px 24px;display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;text-decoration:none;cursor:pointer}
+.cm-banner-tag{font-family:var(--fd);font-size:17px;font-weight:500;letter-spacing:.04em;color:#f3e6c6;text-transform:uppercase}
+.cm-banner-off{font-family:var(--fb);font-size:13px;font-weight:700;letter-spacing:.06em;color:var(--bk);background:var(--gl);padding:4px 11px;border-radius:100px}
+.cm-banner-cta{font-family:var(--fb);font-size:12px;font-weight:500;letter-spacing:.03em;color:#d8c6a0;text-decoration:underline;text-underline-offset:3px}
+body[data-theme="dark"] .cm-banner{background:linear-gradient(135deg,#0c0a07 0%,#1c160e 100%)}
+@media(max-width:600px){.cm-banner-in{padding:11px 18px;gap:9px}.cm-banner-tag{font-size:14px}.cm-banner-off{font-size:11px;padding:3px 9px}.cm-banner-cta{font-size:11px}}
+
+.cm-wrap{display:inline-flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+.cm-old{font-size:12px;color:var(--mg);text-decoration:line-through;font-weight:400}
+.cm-new{color:#b33a1f}
+body[data-theme="dark"] .cm-new{color:#e0693f}
+.cm-badge{font-size:9.5px;font-weight:700;letter-spacing:.04em;color:#fff;background:#b33a1f;padding:2px 6px;border-radius:4px;white-space:nowrap}
+.cm-old-sm{font-size:11px;color:var(--mg);text-decoration:line-through;display:block;font-weight:400}
+.cm-new-sm{font-size:15px;color:#b33a1f;font-weight:600}
+body[data-theme="dark"] .cm-badge{background:#8f2e18}
+body[data-theme="dark"] .cm-new-sm{color:#e0693f}
+/* Ficha estática /perfume/*: el precio ya trae su propia tipografía grande */
+.price .cm-old{font-size:17px}
+.price .cm-new{font-size:1em}
+.price .cm-badge{font-size:11px;padding:3px 8px;vertical-align:middle}

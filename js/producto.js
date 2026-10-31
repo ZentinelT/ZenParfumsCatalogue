@@ -97,7 +97,7 @@ function openProduct(id, goFicha) {
   }
 
   var imgH = p.i ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(nm) + "\" onerror=\"this.style.display='none'\">" : "";
-  var priceH = p.st === "out" ? "<span class=\"pz-price pz-nostock\">Sin stock</span>" : "<span class=\"pz-price\">" + (p.p > 0 ? fmt(p.p) : esc(p.p1)) + "</span>";
+  var priceH = p.st === "out" ? "<span class=\"pz-price pz-nostock\">Sin stock</span>" : (p.p > 0 ? cmPriceHTML(p.p, fmt, "pz-price") : "<span class=\"pz-price\">" + esc(p.p1) + "</span>");
   var badges = (getType(p.n) ? "<span class=\"type-badge\">" + esc(getType(p.n)) + "</span>" : "") +
     (p.s ? "<span class=\"size-badge\">" + esc(p.s) + "</span>" : "") +
     (f.genero ? "<span class=\"size-badge\">" + esc(f.genero) + "</span>" : "");
