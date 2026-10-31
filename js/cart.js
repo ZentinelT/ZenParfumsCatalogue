@@ -85,7 +85,7 @@ function checkoutWA() {
     return "- " + i.b + " " + nm + " (" + i.s + ") x" + i.qty + " = " + fmt(cmEffPrice(i.p)*i.qty) + lk;
   }).join("\n");
   var tot = items.reduce(function(s,i){ return s+cmEffPrice(i.p)*i.qty; }, 0);
-  var promoNote = CYBER_MONDAY_MODE ? " (precio con -40% Cyber Monday ya aplicado)" : "";
+  var promoNote = CYBER_MONDAY_MODE ? " (precio con -" + Math.round(CYBER_MONDAY_DISCOUNT * 100) + "% Cyber Monday ya aplicado)" : "";
   var msg = "Hola! Quisiera hacer el siguiente pedido:\n\n" + lines + "\n\nTotal: " + fmt(tot) + promoNote + "\n\n\xBFC\xF3mo procedo con el pago?";
   window.open("https://wa.me/" + WA + "?text=" + encodeURIComponent(msg), "_blank", "noopener");
 }
