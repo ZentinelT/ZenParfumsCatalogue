@@ -644,7 +644,7 @@
     "p": 108700,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2031_umywf4.jpg",
     "nt": "Salida Azafrán, jazmín Notas de corazón: Amberwood, ámbar gris Notas de fondo: Resina de abeto, cedro",
     "p1": "$108.700"
@@ -800,7 +800,7 @@
     "p": 78700,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2043_4kpg3u.jpg",
     "nt": "Salida Cardamomo, Mandarina, Neroli Notas de corazón: Flor de azahar del naranjo, rosa Notas de fondo: Vainilla, Sandalo, Ambar, Maderas",
     "p1": "$78.700"
@@ -1346,7 +1346,7 @@
     "p": 118800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2085_tlzakn.jpg",
     "nt": "Salida Piña, bergamota, manzana Notas de corazón: Abedul, musgo de roble, jazmín Notas de fondo: Ambroxan, almizcle, sándalo, ámbar gris",
     "p1": "$118.800"
@@ -2581,7 +2581,7 @@
     "p": 77800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2180_9aa8uc.jpg",
     "nt": "Salida Mandarina, cítricos Notas de corazón: Cedro, lavanda Notas de fondo: Sándalo, almizcle",
     "p1": "$77.800"
@@ -3764,7 +3764,7 @@
     "p": 45100,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1775050137886_jdpwuc.jpg",
     "nt": "Salida Cítricos, notas marinas Notas de fondo: Almizcle, maderas",
     "p1": "$45.100"
@@ -3868,7 +3868,7 @@
     "p": 51800,
     "c": "internacional",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1775050257695_uni5l0.jpg",
     "nt": "vainilla y cachemira",
     "p1": "$51.800"
@@ -6234,7 +6234,7 @@
     "p": 68200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2474_09h5e7.jpg",
     "nt": "Salida manzanilla, hojas de violeta Notas de corazón: coco, balsamo de abeto Notas de fondo: cachemira, sandalo, haba tonka",
     "p1": "$68.200"
@@ -6754,7 +6754,7 @@
     "p": 64300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2515_07j433.jpg",
     "nt": "Salida cedron, iris, limon Notas de corazón: hojas de violeta Notas de fondo: sandalo, ambar gris, cedro, cuero",
     "p1": "$64.300"
