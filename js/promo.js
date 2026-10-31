@@ -10,8 +10,8 @@
    estáticas de /perfume/.
    ============================================================ */
 var CYBER_MONDAY_MODE = true;
-var CYBER_MONDAY_DISCOUNT = 0.40;
-var CYBER_MONDAY_LABEL = "-40% CYBER MONDAY";
+var CYBER_MONDAY_DISCOUNT = 0.20;
+var CYBER_MONDAY_LABEL = "-20% CYBER MONDAY";
 
 function cmFmt(n) { return "$" + Math.round(n).toLocaleString("es-AR"); }
 function cmPrice(orig) { return Math.round(orig * (1 - CYBER_MONDAY_DISCOUNT)); }

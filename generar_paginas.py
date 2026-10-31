@@ -200,7 +200,7 @@ for p in P:
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 <script>try{{if(localStorage.getItem("zp-theme")==="light")document.documentElement.setAttribute("data-theme","light")}}catch(e){{}}</script>
-<script defer src="/js/promo.js?v=1"></script>
+<script defer src="/js/promo.js?v=2"></script>
 <style>{CSS}</style></head><body>
 <header class="top"><a class="logo" href="/">Zen Parfums</a><div class="tr"><a class="back" href="/?product={p['id']}">Ver en el catálogo</a><button class="tg" id="tg" type="button" aria-label="Cambiar tema">◐</button></div></header>
 <div class="rule"></div>
