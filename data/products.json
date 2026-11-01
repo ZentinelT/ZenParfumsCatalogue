@@ -4349,7 +4349,7 @@
     "p": 231600,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2317_lat1mi.jpg",
     "nt": "Salida Cardamomo, salvia, bergamota Notas de corazón: Castaña, heliotropo, lavanda Notas de fondo: Vainilla, ámbar, pachulí, cedro",
     "p1": "$231.600"
@@ -7066,7 +7066,7 @@
     "p": 118100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2540_gczqfb.jpg",
     "nt": "Salida naranja, menta, cidra, pomelo, grosellas negras, cilantro Notas de corazón: chabacano, albahaca, hojas de violeta, rosa Notas de fondo: higo, amberwood, almizcle, datiles",
     "p1": "$118.100"
@@ -7430,7 +7430,7 @@
     "p": 127200,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2569_ru8xfl.jpg",
     "nt": "Salida durazno, frutas amarillas, naranja Notas de corazón: frutas, maracuya, mango, agua Notas de fondo: almizcle, ambar, vainilla",
     "p1": "$127.200"
@@ -7586,7 +7586,7 @@
     "p": 151200,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2582_dl0jyp.jpg",
     "nt": "Salida menta verde, ralladura de limon, bergamota, toronja, nieve Notas de corazón: hielo, te, jengibre, salvia Notas de fondo: ambermax, peonia, cedro",
     "p1": "$151.200"
