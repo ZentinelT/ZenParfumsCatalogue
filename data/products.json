@@ -1463,7 +1463,7 @@
     "p": 89400,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2094_ahrkzy.jpg",
     "nt": "Salida jengibre, mandarina, pimienta rosa Notas de corazón: lavanda, praliné, cacao, jazmín Notas de fondo: vainilla, ámbar, almizcle",
     "p1": "$89.400"
@@ -1957,7 +1957,7 @@
     "p": 84600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2132_kyuu33.jpg",
     "nt": "Salida Bergamota, cítricos, romero Notas de corazón: Cedro, menta, notas marinas Notas de fondo: Almizcle, ámbar gris, maderas",
     "p1": "$84.600"
@@ -2854,7 +2854,7 @@
     "p": 91300,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2201_qsbr7w.jpg",
     "nt": "Salida Limón, menta, frutas Notas de corazón: Albaricoque, rosa Notas de fondo: Higo, albahaca, almizcle",
     "p1": "$91.300"
@@ -3205,7 +3205,7 @@
     "p": 87100,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2228_7c9h9g.jpg",
     "nt": "Salida Bergamota, limón, frutas Notas de corazón: Canela, flor de azahar, notas marinas, cardamomo Notas de fondo: Ámbar gris, sándalo, almizcle",
     "p1": "$87.100"
@@ -4076,7 +4076,7 @@
     "p": 105200,
     "c": "internacional",
     "g": "mujer",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2296_fag3xk.jpg",
     "nt": "Salida Jacinto, madreselva, bergamota Notas de corazón: Azucena, lirio de los valles, jazmín, ylang-ylang, rosa Notas de fondo: Musgo de roble, vetiver, almizcle, sándalo, Grosella negra",
     "p1": "$105.200"
@@ -4492,7 +4492,7 @@
     "p": 131600,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2328_wpv51q.jpg",
     "nt": "Salida Yuzu, bergamota, naranja, mandarina · Corazón Nuez moscada, flor de loto, cardamomo, canela, azafran Notas de fondo: Incienso, papiro de Egipto, ámbar gris, benjuí, ámbar",
     "p1": "$131.600"
@@ -4505,7 +4505,7 @@
     "p": 144800,
     "c": "internacional",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2329_7zkt4j.jpg",
     "nt": "Salida Bergamota, yuzu, cítricos, mandarina Notas de corazón: Madera de acuamarina, loto, salvia Notas de fondo: Madera de cedro, almizcle, ámbar, tabaco",
     "p1": "$144.800"
@@ -7066,7 +7066,7 @@
     "p": 121100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2540_gczqfb.jpg",
     "nt": "Salida naranja, menta, cidra, pomelo, grosellas negras, cilantro Notas de corazón: chabacano, albahaca, hojas de violeta, rosa Notas de fondo: higo, amberwood, almizcle, datiles",
     "p1": "$121.100"
@@ -7209,7 +7209,7 @@
     "p": 295100,
     "c": "internacional",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2551_rcbzzu.jpg",
     "nt": "Salida ciruela, canela, cardamomo, bergamota Notas de corazón: lavanda, davana, abrotano Notas de fondo: haba tonka, benjui, almizcle ambreta, pachuli, ladano",
     "p1": "$295.100"
@@ -7989,7 +7989,7 @@
     "p": 113200,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2631_b4ug4a.jpg",
     "nt": "Salida azucar, azafran, mandarina Notas de corazón: haba tonka, rosa, oud Notas de fondo: caramelo, amberwood, cedro",
     "p1": "$113.200"
@@ -8054,7 +8054,7 @@
     "p": 85800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2638_zm1v4l.jpg",
     "nt": "coco, manzana, peonia, limon, lirio de los valles, malvavisco, fresa, frambuesa, durazno, chabacano, flor de azahar del naranjo, queso mascarpone, vainilla, praline, almizcle, haba tonka, ambar",
     "p1": "$85.800"
