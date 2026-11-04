@@ -355,13 +355,13 @@
     "b": "AL WATANIAH",
     "n": "AL WATANIAH - Attar Al Wesal | EDP",
     "s": "100ml",
-    "p": 71500,
+    "p": 75600,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2009_rmg6ca.jpg",
     "nt": "Salida Lavanda, Pera, Menta, Bergamota, Limón Notas de corazón: Canela, Salvia esclarea, Comino Notas de fondo: Vaina de vainilla negra, Cedro, Ámbar, Pachulí",
-    "p1": "$71.500"
+    "p1": "$75.600"
   },
   {
     "id": 2010,
@@ -1525,13 +1525,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Asad Zanzibar | EDP",
     "s": "100ml",
-    "p": 67600,
+    "p": 86400,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2099_fiycib.jpg",
     "nt": "Salida Lavanda, pimienta negra Notas de corazón: Agua de coco, iris, sal Notas de fondo: Vainilla, incienso",
-    "p1": "$67.600"
+    "p1": "$86.400"
   },
   {
     "id": 2100,
@@ -2058,13 +2058,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Opulence Dubai | EDP",
     "s": "100ml",
-    "p": 75500,
+    "p": 88800,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2140_t547t0.jpg",
     "nt": "Salida Mango, bergamota Notas de corazón: Jazmín, nardos, rosa Notas de fondo: Ámbar, almizcle, sándalo",
-    "p1": "$75.500"
+    "p1": "$88.800"
   },
   {
     "id": 2141,
@@ -2279,13 +2279,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Qaed Al Fursan Untamed | EDP",
     "s": "90ml",
-    "p": 67600,
+    "p": 68400,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2157_n1hlv7.jpg",
     "nt": "Salida Bergamota, pimienta, especias Notas de corazón: Caramelo, Especias, cedro Notas de fondo: Ámbar, maderas, almizcle, vainilla",
-    "p1": "$67.600"
+    "p1": "$68.400"
   },
   {
     "id": 2158,
@@ -2383,13 +2383,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Sakeena | EDP",
     "s": "100ml",
-    "p": 77500,
+    "p": 82800,
     "c": "arabes",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2165_u67dnh.jpg",
     "nt": "Salida Maracuyá, frambuesa, bergamota Notas de corazón: Vainilla, flores, rosa Notas de fondo: Almizcle, ámbar, madera de cachemira",
-    "p1": "$77.500"
+    "p1": "$82.800"
   },
   {
     "id": 2166,
@@ -3114,7 +3114,7 @@
     "p": 67600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2221_cs37g9.jpg",
     "nt": "Salida haba tonka, canela Notas de corazón: vainilla, jazmin, elemi Notas de fondo: limon, manzana, cedro",
     "p1": "$67.600"
@@ -3244,7 +3244,7 @@
     "p": 104400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2231_wgeci5.jpg",
     "nt": "Salida Coco, cítricos Notas de corazón: Higo, frutas tropicales Notas de fondo: Tonka, almizcle, ámbar",
     "p1": "$104.400"
@@ -4541,26 +4541,26 @@
     "b": "JEAN PAUL GAULTIER",
     "n": "JEAN PAUL GAULTIER - Scandal Pour Homme | Parfum",
     "s": "100ml",
-    "p": 247800,
+    "p": 259200,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2332_8n9i5u.jpg",
     "nt": "Salida Bergamota, pimienta Notas de corazón: Flores blancas, salvia Notas de fondo: Tabaco, benjuí, musgo de roble",
-    "p1": "$247.800"
+    "p1": "$259.200"
   },
   {
     "id": 2333,
     "b": "LANCÔME",
     "n": "LANCÔME - La Vie est Belle | EDP",
     "s": "100ml",
-    "p": 273500,
+    "p": 297600,
     "c": "internacional",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2333_ack0xl.jpg",
     "nt": "Salida Grosella negra, pera Notas de corazón: Iris, flor de azahar, jazmín Notas de fondo: Pachulí, praliné, vainilla, haba tonka",
-    "p1": "$273.500"
+    "p1": "$297.600"
   },
   {
     "id": 2334,
@@ -5230,13 +5230,13 @@
     "b": "MOSCHINO",
     "n": "MOSCHINO - Toy 2 Bubble Gum | EDT",
     "s": "100ml",
-    "p": 144800,
+    "p": 157200,
     "c": "internacional",
     "g": "mujer",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2388_86qbtb.jpg",
     "nt": "Salida Frutas confitadas, Naranja, Limón Notas de corazón: Goma de mascar, Rosa de Bulgaria, Durazno, Moras, Flor del duraznero, Canela, Jengibre Notas de fondo: Almizcle, Ambroxan, Cedro",
-    "p1": "$144.800"
+    "p1": "$157.200"
   },
   {
     "id": 2391,
@@ -5256,13 +5256,13 @@
     "b": "MOSCHINO",
     "n": "MOSCHINO - Toy Boy | EDP",
     "s": "100ml",
-    "p": 154700,
+    "p": 160800,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2392_t4ch6e.jpg",
     "nt": "Salida Pimienta rosa, Pera, Nuez moscada, Elemi, Bergamota Notas de corazón: Rosa, Clavo de olor, Magnolia, Lino Notas de fondo: Vetiver de Haití, Cachemira, Sándalo, Ámbar, Sylkolide",
-    "p1": "$154.700"
+    "p1": "$160.800"
   },
   {
     "id": 2394,
@@ -5763,13 +5763,13 @@
     "b": "JEAN PAUL GAULTIER",
     "n": "JEAN PAUL GAULTIER - Le Beau Le Parfum Intense | Parfum",
     "s": "125ml",
-    "p": 241800,
+    "p": 262800,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2433_cv4fwz.jpg",
     "nt": "Salida piña, iris, jengibre, ciprés Notas de corazón: coco, Maderas Notas de fondo: haba tonka, sándalo, ámbar, ámbar gris",
-    "p1": "$241.800"
+    "p1": "$262.800"
   },
   {
     "id": 2434,
@@ -6153,13 +6153,13 @@
     "b": "JEAN PAUL GAULTIER",
     "n": "JEAN PAUL GAULTIER - Scandal Pour Homme Elixir Parfum | Elixir",
     "s": "100ml",
-    "p": 279500,
+    "p": 284400,
     "c": "internacional",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2468_v1mvp8.jpg",
     "nt": "Salida cereza negra, esclarea, bergamota, limon Notas de corazón: pachuli, lavanda, ron, geranio, menta Notas de fondo: haba tonka, vainilla, akigalawood",
-    "p1": "$279.500"
+    "p1": "$284.400"
   },
   {
     "id": 2469,
@@ -6179,13 +6179,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Victorioso | EDP",
     "s": "100ml",
-    "p": 71500,
+    "p": 75600,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2470_4vur3u.jpg",
     "nt": "Salida notas marinas, bergamota Notas de corazón: hoja de laurel, jazmin Notas de fondo: ambar gris, musgo de roble, madera de gaiac, pachuli",
-    "p1": "$71.500"
+    "p1": "$75.600"
   },
   {
     "id": 2471,
@@ -7063,13 +7063,13 @@
     "b": "AFNAN",
     "n": "AFNAN - Rare Reef | Extrait De Parfum",
     "s": "100ml",
-    "p": 121100,
+    "p": 120000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2540_gczqfb.jpg",
     "nt": "Salida naranja, menta, cidra, pomelo, grosellas negras, cilantro Notas de corazón: chabacano, albahaca, hojas de violeta, rosa Notas de fondo: higo, amberwood, almizcle, datiles",
-    "p1": "$121.100"
+    "p1": "$120.000"
   },
   {
     "id": 2541,
@@ -8041,7 +8041,7 @@
     "p": 170000,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2637_68yc3g.jpg",
     "nt": "cardamomo, lavanda, citricos, flor de azahar del naranjo, gaiac, rosa, vainilla, haba tonka, ambar, musgo de roble",
     "p1": "$170.000"
@@ -8080,7 +8080,7 @@
     "p": 87100,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2640_k00b4r.jpg",
     "nt": "canela, azafran, nuez moscada, cardamomo, pimienta rosa, jengibre, oud, datiles, mirra, incienso, caña de azucar, caramelo, amberwood, davana, haba tonka, ladano, pachuli, almizcle, yerba mate, cuero, vainilla, benjui, manteca de cacao",
     "p1": "$87.100"

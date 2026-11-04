@@ -2141,6 +2141,66 @@
     ]
   },
   {
+    "nombre_completo": "AFNAN - Rare Reef | Extrait De Parfum",
+    "marca": "AFNAN",
+    "genero": "Unisex",
+    "familia_olfativa": "Cítrico, Aromático, Verde, Fesco especiado, Afrutados, Dulce, Amaderado",
+    "inspirado_en": "Rare Reef sorprende porque no se queda en el típico aroma acuático; combina la acidez punzante y viva de la cidra y el pomelo con la dulzura carnosa y madura de los dátiles y el higo, logrando una versatilidad absoluta con un giro de distinción inigualable.",
+    "notas_salida": "naranja, menta, cidra, pomelo, grosellas negras, cilantro",
+    "notas_corazon": "chabacano, albahaca, hojas de violeta, rosa",
+    "notas_fondo": "higo, amberwood, almizcle, datiles",
+    "descripcion": "La definición en perfume de un oasis sofisticado al atardecer, donde la frescura punzante de los cítricos y la menta se funden lentamente con la calidez adictiva de los frutos secos y el higo. Afnan Rare Reef arranca con un impacto efervescente y vigoroso que despierta los sentidos. En cuestión de minutos, despliega su corazón verde y frutal muy elegante, para dar paso a un secado magnético donde los dátiles y el higo se funden con el Amberwood, dejando un rastro flotante exótico, limpio y sumamente seductor.",
+    "momento_dia": "Día / Tarde / Noche",
+    "estacion": "Primavera / Verano / Otoño",
+    "ocasion": "Uso profesional con estilo, salidas al aire libre, eventos sociales, reuniones o citas donde busques dejar una huella única y memorable.",
+    "clima": "Cálido / Templado / Fresco",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Sobresaliente (7h a 9h)",
+    "estela": "Moderada",
+    "color_liquido": "Cristalino a tono luminoso",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, amantes de la exclusividad, de los perfumes complejos que escapan de lo masivo y que buscan un sello personal versátil y elegante.",
+    "inspirado_en_nombre": "Perfumería de Nicho / Estilo \"Fruity-Citrus Complex\" de Alta Gama",
+    "inspiraciones": [
+      {
+        "texto": "Rare Reef sorprende porque no se queda en el típico aroma acuático; combina la acidez punzante y viva de la cidra y el pomelo con la dulzura carnosa y madura de los dátiles y el higo, logrando una versatilidad absoluta con un giro de distinción inigualable.",
+        "nombre": "Perfumería de Nicho / Estilo \"Fruity-Citrus Complex\" de Alta Gama"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Opulence Dubai | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Unisex",
+    "familia_olfativa": "Frutal Floral / Mango Jazmín",
+    "inspirado_en": "Composición propia",
+    "notas_salida": "Mango, bergamota",
+    "notas_corazon": "Jazmín, nardos, rosa",
+    "notas_fondo": "Ámbar, almizcle, sándalo",
+    "descripcion": "Mango tropical con jazmín y nardos. Exótico y floral. Unisex con tendencia femenina. Longevidad buena.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Salidas, eventos",
+    "clima": "Todo",
+    "proyeccion": "Moderada",
+    "duracion": "Larga",
+    "estela": "Moderada",
+    "color_liquido": "Dorado / ámbar",
+    "perfil_usuario": "Hombres y mujeres 20-45 años. Tropicales, florales.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Hombres y mujeres Tropicales, florales.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Composición propia",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "LATTAFA - Bade'e Al Oud For Glory | EDP",
     "marca": "Lattafa Perfumes — Dubai",
     "genero": "Masculino",
@@ -2200,36 +2260,6 @@
         "texto": "Réplica de altísima fidelidad que rinde tributo al perfume gourmand más famoso de los últimos años. Captura a la perfección ese ADN único de \"chocolate caliente cremoso, vainilla empolvada y un toque de bayas rojas\", ofreciendo una presentación de colección y un rendimiento muy superior al original a una fracción de su costo.",
         "nombre": "Eilish EDP (Eilish No. 1) de Billie Eilish",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.70052.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Opulence Dubai | EDP | 100 ml |",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Frutal Floral / Mango Jazmín",
-    "inspirado_en": "Composición propia",
-    "notas_salida": "Mango, bergamota",
-    "notas_corazon": "Jazmín, nardos, rosa",
-    "notas_fondo": "Ámbar, almizcle, sándalo",
-    "descripcion": "Mango tropical con jazmín y nardos. Exótico y floral. Unisex con tendencia femenina. Longevidad buena.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Salidas, eventos",
-    "clima": "Todo",
-    "proyeccion": "Moderada",
-    "duracion": "Larga",
-    "estela": "Moderada",
-    "color_liquido": "Dorado / ámbar",
-    "perfil_usuario": "Hombres y mujeres 20-45 años. Tropicales, florales.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres y mujeres Tropicales, florales.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Composición propia",
-        "nombre": "Composición propia",
-        "imagen_url": ""
       }
     ]
   },
@@ -5330,36 +5360,6 @@
     ]
   },
   {
-    "nombre_completo": "Lattafa - Asad Zanzibar  | EDP | 100ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Acuático Tropical / Marino Especiado",
-    "inspirado_en": "JPG Le Beau + DNA marino propio (NO es un Asad OG — es completamente diferente)",
-    "notas_salida": "Lavanda, pimienta negra",
-    "notas_corazon": "Agua de coco, iris, sal",
-    "notas_fondo": "Vainilla, incienso",
-    "descripcion": "Tropical-marino con coco y sal. Lavanda prominente con pimienta y un drydown suave de vainilla e incienso. Muy divisivo — \"amor u odio\". Requiere tiempo para apreciarlo. Longevidad 12h stellar.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Primavera / Verano",
-    "ocasion": "Casual, vacaciones, playa",
-    "clima": "Calor / Templado",
-    "proyeccion": "Moderada",
-    "duracion": "Muy larga (12h)",
-    "estela": "Moderada",
-    "color_liquido": "Azul marino",
-    "perfil_usuario": "Hombres y mujeres 18-40 años. Para amantes del DNA marino-tropical. NO es para quienes esperan el Asad original.",
-    "rango_edad_min": 18,
-    "rango_edad_max": 40,
-    "estilo_descripcion": "Hombres y mujeres Para amantes del DNA marino-tropical. NO es para quienes esperan el Asad original.",
-    "inspirado_en_nombre": "JPG Le Beau",
-    "inspiraciones": [
-      {
-        "texto": "JPG Le Beau + DNA marino propio (NO es un Asad OG — es completamente diferente)",
-        "nombre": "JPG Le Beau",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "JO MILANO PARIS - Game of Spades Full House | EDP",
     "marca": "JO MILANAO PARIS",
     "genero": "Masculino",
@@ -5418,6 +5418,37 @@
         "texto": "Réplica de alta fidelidad que rescata la esencia de uno de los perfumes orientales ambarados más aclamados, deseados y hoy difíciles de conseguir en el mercado internacional. Captura a la perfección ese adictivo ADN de \"tonka dulzona, cuero suave, cardamomo/azafrán especiado y ámbar envolvente\", sumándole un toque aterciopelado de durazno que lo vuelve totalmente unisex.",
         "nombre": "Armani Code Profumo de Giorgio Armani",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.34761.2x.avif"
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LATTAFA - Asad Zanzibar | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Acuático Tropical / Marino Especiado",
+    "inspirado_en": "JPG Le Beau + DNA marino propio (NO es un Asad OG — es completamente diferente)",
+    "notas_salida": "Lavanda, pimienta negra",
+    "notas_corazon": "Agua de coco, iris, sal",
+    "notas_fondo": "Vainilla, incienso",
+    "descripcion": "Tropical-marino con coco y sal. Lavanda prominente con pimienta y un drydown suave de vainilla e incienso. Muy divisivo — \"amor u odio\". Requiere tiempo para apreciarlo. Longevidad 12h stellar.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Primavera / Verano",
+    "ocasion": "Casual, vacaciones, playa",
+    "clima": "Calor / Templado",
+    "proyeccion": "Moderada",
+    "duracion": "Muy larga (12h)",
+    "estela": "Moderada",
+    "color_liquido": "Azul marino",
+    "perfil_usuario": "Hombres y mujeres 18-40 años. Para amantes del DNA marino-tropical. NO es para quienes esperan el Asad original.",
+    "rango_edad_min": 18,
+    "rango_edad_max": 40,
+    "estilo_descripcion": "Hombres y mujeres Para amantes del DNA marino-tropical. NO es para quienes esperan el Asad original.",
+    "inspirado_en_nombre": "JPG Le Beau",
+    "inspiraciones": [
+      {
+        "texto": "JPG Le Beau + DNA marino propio (NO es un Asad OG — es completamente diferente)",
+        "nombre": "JPG Le Beau",
+        "imagen_url": ""
       }
     ]
   },
@@ -11086,34 +11117,6 @@
     ]
   },
   {
-    "nombre_completo": "AFNAN - Rare Reef | Extrait De Parfum",
-    "genero": "Unisex",
-    "familia_olfativa": "Cítrico, Aromático, Verde, Fesco especiado, Afrutados, Dulce, Amaderado",
-    "inspirado_en": "Rare Reef sorprende porque no se queda en el típico aroma acuático; combina la acidez punzante y viva de la cidra y el pomelo con la dulzura carnosa y madura de los dátiles y el higo, logrando una versatilidad absoluta con un giro de distinción inigualable.",
-    "notas_salida": "naranja, menta, cidra, pomelo, grosellas negras, cilantro",
-    "notas_corazon": "chabacano, albahaca, hojas de violeta, rosa",
-    "notas_fondo": "higo, amberwood, almizcle, datiles",
-    "descripcion": "La definición en perfume de un oasis sofisticado al atardecer, donde la frescura punzante de los cítricos y la menta se funden lentamente con la calidez adictiva de los frutos secos y el higo. Afnan Rare Reef arranca con un impacto efervescente y vigoroso que despierta los sentidos. En cuestión de minutos, despliega su corazón verde y frutal muy elegante, para dar paso a un secado magnético donde los dátiles y el higo se funden con el Amberwood, dejando un rastro flotante exótico, limpio y sumamente seductor.",
-    "momento_dia": "Día / Tarde / Noche",
-    "estacion": "Primavera / Verano / Otoño",
-    "ocasion": "Uso profesional con estilo, salidas al aire libre, eventos sociales, reuniones o citas donde busques dejar una huella única y memorable.",
-    "clima": "Cálido / Templado / Fresco",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Sobresaliente (7h a 9h)",
-    "estela": "Moderada",
-    "color_liquido": "Cristalino a tono luminoso",
-    "rango_edad_min": 20,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "Unisex. Diseñado para personas seguras de sí mismas, amantes de la exclusividad, de los perfumes complejos que escapan de lo masivo y que buscan un sello personal versátil y elegante.",
-    "inspirado_en_nombre": "Perfumería de Nicho / Estilo \"Fruity-Citrus Complex\" de Alta Gama",
-    "inspiraciones": [
-      {
-        "texto": "Rare Reef sorprende porque no se queda en el típico aroma acuático; combina la acidez punzante y viva de la cidra y el pomelo con la dulzura carnosa y madura de los dátiles y el higo, logrando una versatilidad absoluta con un giro de distinción inigualable.",
-        "nombre": "Perfumería de Nicho / Estilo \"Fruity-Citrus Complex\" de Alta Gama"
-      }
-    ]
-  },
-  {
     "nombre_completo": "ARMAF - Odyssey Candee | EDP",
     "marca": "Armaf — India",
     "genero": "Femenino",
@@ -11844,6 +11847,37 @@
     ]
   },
   {
+    "nombre_completo": "LATTAFA - Qaed Al Fursan Untamed | EDP",
+    "marca": "Lattafa Perfumes — Dubai",
+    "genero": "Masculino",
+    "familia_olfativa": "Especiado / Caramelo Amaderado",
+    "inspirado_en": "Variante oscura de QAF con caramelo y especias",
+    "notas_salida": "Bergamota, pimienta, especias",
+    "notas_corazon": "Caramelo, Especias, cedro",
+    "notas_fondo": "Ámbar, maderas, almizcle, vainilla",
+    "descripcion": "Más oscuro y especiado que QAF original. Caramelo y especias con base amaderada. Para los días más fríos. Longevidad 7-8h consistente.",
+    "momento_dia": "Tarde / Noche",
+    "estacion": "Otoño / Invierno",
+    "ocasion": "Salidas, eventos",
+    "clima": "Frío / Templado",
+    "proyeccion": "Alta",
+    "duracion": "Larga (7-8h)",
+    "estela": "Intensa",
+    "color_liquido": "Marrón oscuro / ámbar",
+    "perfil_usuario": "Hombres 20-45 años. Para quien quiere QAF pero más oscuro y especiado.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Hombres Para quien quiere QAF pero más oscuro y especiado.",
+    "inspirado_en_nombre": "Composición propia",
+    "inspiraciones": [
+      {
+        "texto": "Variante oscura de QAF con caramelo y especias",
+        "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "SABRINA CARPENTER - Sweet Tooth Caramel Dream | EDP",
     "marca": "SABRINA CARPENTER",
     "genero": "Femenino",
@@ -11932,36 +11966,6 @@
         "texto": "Réplica espectacular de uno de los perfumes de ultra nicho más prestigiosos, misteriosos y costosos del mundo. Evoca las antiguas rutas de comercio de Turquía, cruzando un arranque de especias calientes y cítricos con el corazón de la mítica rosa negra de Halfeti. El agregado de la nota de leche le da un giro de cremosidad sedosa descomunal. Un aroma que grita opulencia, poder y misterio.",
         "nombre": "Penhaligon's Halfeti",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.31396.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "Lattafa - Qaed Al Fursan Untamed | EDP | 90ml",
-    "marca": "Lattafa Perfumes — Dubai",
-    "familia_olfativa": "Especiado / Caramelo Amaderado",
-    "inspirado_en": "Variante oscura de QAF con caramelo y especias",
-    "notas_salida": "Bergamota, pimienta, especias",
-    "notas_corazon": "Caramelo, Especias, cedro",
-    "notas_fondo": "Ámbar, maderas, almizcle, vainilla",
-    "descripcion": "Más oscuro y especiado que QAF original. Caramelo y especias con base amaderada. Para los días más fríos. Longevidad 7-8h consistente.",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "ocasion": "Salidas, eventos",
-    "clima": "Frío / Templado",
-    "proyeccion": "Alta",
-    "duracion": "Larga (7-8h)",
-    "estela": "Intensa",
-    "color_liquido": "Marrón oscuro / ámbar",
-    "perfil_usuario": "Hombres 20-45 años. Para quien quiere QAF pero más oscuro y especiado.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Hombres Para quien quiere QAF pero más oscuro y especiado.",
-    "inspirado_en_nombre": "Composición propia",
-    "inspiraciones": [
-      {
-        "texto": "Variante oscura de QAF con caramelo y especias",
-        "nombre": "Composición propia",
-        "imagen_url": ""
       }
     ]
   },
@@ -15357,33 +15361,6 @@
     ]
   },
   {
-    "nombre_completo": "Lancôme - La Vie est Belle | EDP | 100ml",
-    "marca": "Lancôme (L'Oréal) — Francia",
-    "familia_olfativa": "Floral Oriental / Iris Praliné",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Grosella negra, pera",
-    "notas_corazon": "Iris, flor de azahar, jazmín",
-    "notas_fondo": "Pachulí, praliné, vainilla, haba tonka",
-    "descripcion": "Iris elegante con praliné y vainilla. El perfume más vendido del mundo en su lanzamiento. Sofisticado, accesible y universalmente amado. Femenino sin ser empalagoso. El \"perfume de los 2010s.\"",
-    "momento_dia": "Tarde / Versátil",
-    "estacion": "Todo el año",
-    "ocasion": "Cualquier ocasión",
-    "clima": "Todo",
-    "proyeccion": "Moderada-alta",
-    "duracion": "Larga",
-    "estela": "Intensa",
-    "color_liquido": "Ámbar dorado / champagne",
-    "perfil_usuario": "Mujeres de todas las edades. El perfume más universalmente amado de la última década.",
-    "estilo_descripcion": "Mujeres de todas las edades. El perfume más universalmente amado de la última década.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "DIOR - Sauvage | EDT",
     "marca": "Dior",
     "anno": "2015",
@@ -15405,6 +15382,34 @@
     "color_liquido": "Transparente / azulado muy tenue",
     "perfil_usuario": "Hombres modernos que buscan una fragancia versátil, proyectable y con un sello de limpieza masculina y elegancia atemporal.",
     "estilo_descripcion": "Hombres modernos que buscan una fragancia versátil, proyectable y con un sello de limpieza masculina y elegancia atemporal.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "LANCÔME - La Vie est Belle | EDP",
+    "marca": "Lancôme (L'Oréal) — Francia",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral Oriental / Iris Praliné",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Grosella negra, pera",
+    "notas_corazon": "Iris, flor de azahar, jazmín",
+    "notas_fondo": "Pachulí, praliné, vainilla, haba tonka",
+    "descripcion": "Iris elegante con praliné y vainilla. El perfume más vendido del mundo en su lanzamiento. Sofisticado, accesible y universalmente amado. Femenino sin ser empalagoso. El \"perfume de los 2010s.\"",
+    "momento_dia": "Tarde / Versátil",
+    "estacion": "Todo el año",
+    "ocasion": "Cualquier ocasión",
+    "clima": "Todo",
+    "proyeccion": "Moderada-alta",
+    "duracion": "Larga",
+    "estela": "Intensa",
+    "color_liquido": "Ámbar dorado / champagne",
+    "perfil_usuario": "Mujeres de todas las edades. El perfume más universalmente amado de la última década.",
+    "estilo_descripcion": "Mujeres de todas las edades. El perfume más universalmente amado de la última década.",
     "inspiraciones": [
       {
         "texto": "Creación original",
@@ -15863,6 +15868,38 @@
     ]
   },
   {
+    "nombre_completo": "MOSCHINO - Toy Boy | EDP",
+    "marca": "Moschino",
+    "anno": "2019",
+    "concentracion": "EDP",
+    "genero": "Masculino",
+    "familia_olfativa": "Amaderada Especiada",
+    "inspirado_en": "Creación original",
+    "notas_salida": "Pimienta rosa, Pera, Nuez moscada, Elemi, Bergamota",
+    "notas_corazon": "Rosa, Clavo de olor, Magnolia, Lino",
+    "notas_fondo": "Vetiver de Haití, Cachemira, Sándalo, Ámbar, Sylkolide",
+    "descripcion": "Es una fragancia disruptiva, audaz y profundamente única. Rompe los esquemas de la perfumería masculina tradicional al presentar una rosa oscura y gótica rodeada de especias picantes y una pera jugosa. Su secado es amaderado y almizclado, ofreciendo un aroma sofisticado, algo excéntrico y con una personalidad artística muy marcada.",
+    "momento_dia": "Día / Noche",
+    "estacion": "Todo el año (especialmente Primavera y Otoño)",
+    "ocasion": "Eventos sociales, salidas nocturnas, citas románticas",
+    "clima": "Templado / Fresco",
+    "proyeccion": "Alta",
+    "duracion": "Larga duración (8-10h)",
+    "estela": "Intensa",
+    "color_liquido": "Transparente",
+    "perfil_usuario": "Está dirigido a un público Masculino con una edad de entre 20 a 45 años. Es ideal para hombres seguros de sí mismos, creativos y vanguardistas que buscan alejarse de los aromas comerciales típicos y prefieren una fragancia con carácter, elegancia y un toque irónico.",
+    "rango_edad_min": 20,
+    "rango_edad_max": 45,
+    "estilo_descripcion": "Está dirigido a un público Masculino con una edad de entre Es ideal para hombres seguros de sí mismos, creativos y vanguardistas que buscan alejarse de los aromas comerciales típicos y prefieren una fragancia con carácter, elegancia y un toque irónico.",
+    "inspiraciones": [
+      {
+        "texto": "Creación original",
+        "nombre": "",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
     "nombre_completo": "Gabriela Sabatini | EDT | 100 ml",
     "marca": "Gabriela Sabatini (Coty) — Argentina/Alemania",
     "familia_olfativa": "Floral Aldehydic / Clásico",
@@ -15979,38 +16016,6 @@
     ]
   },
   {
-    "nombre_completo": "Moschino - Toy Boy | EDP | 100ml",
-    "marca": "Moschino",
-    "anno": "2019",
-    "concentracion": "EDP",
-    "genero": "Masculino",
-    "familia_olfativa": "Amaderada Especiada",
-    "inspirado_en": "Creación original",
-    "notas_salida": "Pimienta rosa, Pera, Nuez moscada, Elemi, Bergamota",
-    "notas_corazon": "Rosa, Clavo de olor, Magnolia, Lino",
-    "notas_fondo": "Vetiver de Haití, Cachemira, Sándalo, Ámbar, Sylkolide",
-    "descripcion": "Es una fragancia disruptiva, audaz y profundamente única. Rompe los esquemas de la perfumería masculina tradicional al presentar una rosa oscura y gótica rodeada de especias picantes y una pera jugosa. Su secado es amaderado y almizclado, ofreciendo un aroma sofisticado, algo excéntrico y con una personalidad artística muy marcada.",
-    "momento_dia": "Día / Noche",
-    "estacion": "Todo el año (especialmente Primavera y Otoño)",
-    "ocasion": "Eventos sociales, salidas nocturnas, citas románticas",
-    "clima": "Templado / Fresco",
-    "proyeccion": "Alta",
-    "duracion": "Larga duración (8-10h)",
-    "estela": "Intensa",
-    "color_liquido": "Transparente",
-    "perfil_usuario": "Está dirigido a un público Masculino con una edad de entre 20 a 45 años. Es ideal para hombres seguros de sí mismos, creativos y vanguardistas que buscan alejarse de los aromas comerciales típicos y prefieren una fragancia con carácter, elegancia y un toque irónico.",
-    "rango_edad_min": 20,
-    "rango_edad_max": 45,
-    "estilo_descripcion": "Está dirigido a un público Masculino con una edad de entre Es ideal para hombres seguros de sí mismos, creativos y vanguardistas que buscan alejarse de los aromas comerciales típicos y prefieren una fragancia con carácter, elegancia y un toque irónico.",
-    "inspiraciones": [
-      {
-        "texto": "Creación original",
-        "nombre": "",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
     "nombre_completo": "EMPORIO ARMANI - Stronger with You Intensely | EDP",
     "marca": "Emporio Armani",
     "anno": "2019",
@@ -16073,7 +16078,7 @@
     ]
   },
   {
-    "nombre_completo": "Moschino - Toy 2 Bubble Gum | EDT | 100ml",
+    "nombre_completo": "MOSCHINO - Toy 2 Bubble Gum | EDT",
     "marca": "Moschino",
     "anno": "2021",
     "concentracion": "EDT",
