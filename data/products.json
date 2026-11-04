@@ -33,7 +33,7 @@
     "p": 88400,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1984_ok0z37.jpg",
     "nt": "Salida Manzana, canela, lavanda silvestre, bergamota Notas de corazón: Flor de azahar, lirio de los valles Notas de fondo: Vainilla, haba tonka, ámbar, pachulí",
     "p1": "$88.400"
@@ -6338,7 +6338,7 @@
     "p": 80900,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2482_exszog.jpg",
     "nt": "Salida canela, ron, azucar Notas de corazón: caramelo, cacao, cafe, musgo Notas de fondo: vainilla, haba tonka, cachemira, ladano",
     "p1": "$80.900"
@@ -6663,7 +6663,7 @@
     "p": 105200,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1784650557433_czj131.jpg",
     "nt": "Salida menta, limon, bergamota, tomillo Notas de corazón: romero, lavanda, jazmín, flor de moringa Notas de fondo: almizcle, cedro, ambar",
     "p1": "$105.200"
@@ -8002,7 +8002,7 @@
     "p": 146500,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2633_t8jght.jpg",
     "nt": "Salida pimienta, te verde, bergamota, manzana, pimienta rosa Notas de corazón: rosa, grosellas negras, geranio, Notas de fondo: vetiver, almizcle, cedro, ambar, cachemira",
     "p1": "$146.500"
