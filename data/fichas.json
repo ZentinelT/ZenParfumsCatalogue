@@ -2433,6 +2433,34 @@
     ]
   },
   {
+    "nombre_completo": "EMPORIO ARMANI - Acqua Di Gio | EDT",
+    "marca": "EMPORIO ARMANI",
+    "genero": "Masculino",
+    "familia_olfativa": "Cítrico, Aromático, Marino, Fesco especiado, Floral, Amaderado, Fresco",
+    "inspirado_en": "El indiscutido rey mundial de los perfumes frescos y acuáticos. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con cítricos mediterráneos jugosos y un fondo limpio de almizcle y maderas\", ofreciendo un rendimiento fresco y atemporal que sigue siendo el favorito absoluto en todo el planeta.",
+    "notas_salida": "lima, limon, bergamota, jazmin, naranja, mandarina, neroli",
+    "notas_corazon": "notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda",
+    "notas_fondo": "almizcle, cedro, musgo, pachuli, ambar",
+    "descripcion": "La definición en perfume de la libertad, la brisa marina y la elegancia fresca más natural del mundo. Giorgio Armani Acqua di Giò arranca con un impacto vibrante y cristalino de notas marinas y cítricos italianos. En cuestión de minutos despliega su faceta más icónica: un corazón aromático y floral con romero y jazmín. Su evolución final es un secado limpio y amaderado, dejando un rastro flotante pulcro, fresco y de una presencia inolvidable.",
+    "momento_dia": "Día / Tarde",
+    "estacion": "Verano / Primavera / Todo el año",
+    "ocasion": "Uso diario, oficina, actividades al aire libre, encuentros casuales o cuando el objetivo sea oler limpio, fresco y elegante sin estridencias.",
+    "proyeccion": "Moderada",
+    "duracion": "Excelente rendimiento para un perfume fresco (6h a 8h)",
+    "estela": "Moderada",
+    "color_liquido": "Transparente / Cristalino",
+    "rango_edad_min": 15,
+    "rango_edad_max": 60,
+    "estilo_descripcion": "Masculino. Diseñado para hombres dinámicos, elegantes, amantes de la libertad y de las fragancias frescas, versátiles y que proyectan una pulcritud impecable en cualquier situación.",
+    "inspirado_en_nombre": " Composición Propia",
+    "inspiraciones": [
+      {
+        "texto": "El indiscutido rey mundial de los perfumes frescos y acuáticos. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con cítricos mediterráneos jugosos y un fondo limpio de almizcle y maderas\", ofreciendo un rendimiento fresco y atemporal que sigue siendo el favorito absoluto en todo el planeta.",
+        "nombre": "Composición Propia"
+      }
+    ]
+  },
+  {
     "nombre_completo": "ARMAF - Infinity Gold | EDP",
     "genero": "Femenino",
     "familia_olfativa": "Dulce, Floral amarillo, Afrutados, Almizclado, Floral blanco, Avainillado, Musgoso, Amaderado, Atalcado, Lavanda",
@@ -2550,6 +2578,37 @@
       {
         "texto": "Composición propia",
         "nombre": "Composición propia",
+        "imagen_url": ""
+      }
+    ]
+  },
+  {
+    "nombre_completo": "BHARARA - Rose | EDP",
+    "marca": "Bharara",
+    "genero": "Femenino",
+    "familia_olfativa": "Floral, Avainillado, Dulce, Afrutados, Ámbar, Fresco especiado",
+    "inspirado_en": " Delina Exclusif de Parfums de Marly",
+    "notas_salida": "lichi, pera, bergamota",
+    "notas_corazon": "Rosa turca, incienso, oud",
+    "notas_fondo": "vainilla, ambar, Maderas",
+    "descripcion": "​Una fragancia floral oriental que es puro romance y sofisticación. Abre con notas frutales de pera y lichi que le dan una frescura jugosa, pero rápidamente se transforma en un corazón de rosa turca aterciopelada envuelta en incienso y oud suave. El cierre es una explosión cremosa de vainilla y ámbar que se siente como un abrazo lujoso. Es elegante, ultra femenina y muy potente.",
+    "momento_dia": "Día/Noche",
+    "estacion": "Todo el año",
+    "ocasion": "Eventos sociales, Bodas, Citas románticas, Salidas nocturnas",
+    "clima": "Templado/Fresco",
+    "proyeccion": "Beast mode",
+    "duracion": "Larga (10 a 12h)",
+    "estela": "Intensa",
+    "color_liquido": "Rosa pálido",
+    "perfil_usuario": "​Para mujeres que aman las fragancias florales intensas y quieren proyectar una imagen de elegancia moderna y sofisticada. Es ideal para alguien que no quiere pasar desapercibida y busca un perfume con \"clase\" pero con un toque dulce y moderno. De 20 a 55 años",
+    "rango_edad_min": 20,
+    "rango_edad_max": 55,
+    "estilo_descripcion": "​Para mujeres que aman las fragancias florales intensas y quieren proyectar una imagen de elegancia moderna y sofisticada. Es ideal para alguien que no quiere pasar desapercibida y busca un perfume con \"clase\" pero con un toque dulce y moderno. De",
+    "inspirado_en_nombre": "Parfums de Marly Delina Exclusif",
+    "inspiraciones": [
+      {
+        "texto": " Delina Exclusif de Parfums de Marly",
+        "nombre": "Parfums de Marly Delina Exclusif",
         "imagen_url": ""
       }
     ]
@@ -5818,33 +5877,6 @@
         "texto": "Réplica de precisión quirúrgica que rinde homenaje a una de las obras maestras más codiciadas, teatrales y costosas de la alta perfumería italiana. Captura a la perfección ese distinguido ADN de \"rosa turca aterciopelada y frutas oscuras contrapuestas a cuero fino, nuez moscada especiada y pachulí dramático\", entregando una alternativa accesible con un nivel de estatus y presencia superlativos.",
         "nombre": "Opera de Xerjoff",
         "imagen_url": "https://fimgs.net/mdimg/perfume-thumbs/dark-375x500.55162.2x.avif"
-      }
-    ]
-  },
-  {
-    "nombre_completo": "EMPORIO ARMANI - Acqua Di Gio | EDT",
-    "genero": "Masculino",
-    "familia_olfativa": "Cítrico, Aromático, Marino, Fesco especiado, Floral, Amaderado, Fresco",
-    "inspirado_en": "El indiscutido rey mundial de los perfumes frescos y acuáticos. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con cítricos mediterráneos jugosos y un fondo limpio de almizcle y maderas\", ofreciendo un rendimiento fresco y atemporal que sigue siendo el favorito absoluto en todo el planeta.",
-    "notas_salida": "lima, limon, bergamota, jazmin, naranja, mandarina, neroli",
-    "notas_corazon": "notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda",
-    "notas_fondo": "almizcle, cedro, musgo, pachuli, ambar",
-    "descripcion": "La definición en perfume de la libertad, la brisa marina y la elegancia fresca más natural del mundo. Giorgio Armani Acqua di Giò arranca con un impacto vibrante y cristalino de notas marinas y cítricos italianos. En cuestión de minutos despliega su faceta más icónica: un corazón aromático y floral con romero y jazmín. Su evolución final es un secado limpio y amaderado, dejando un rastro flotante pulcro, fresco y de una presencia inolvidable.",
-    "momento_dia": "Día / Tarde",
-    "estacion": "Verano / Primavera / Todo el año",
-    "ocasion": "Uso diario, oficina, actividades al aire libre, encuentros casuales o cuando el objetivo sea oler limpio, fresco y elegante sin estridencias.",
-    "proyeccion": "Moderada",
-    "duracion": "Excelente rendimiento para un perfume fresco (6h a 8h)",
-    "estela": "Moderada",
-    "color_liquido": "Transparente / Cristalino",
-    "rango_edad_min": 15,
-    "rango_edad_max": 60,
-    "estilo_descripcion": "Masculino. Diseñado para hombres dinámicos, elegantes, amantes de la libertad y de las fragancias frescas, versátiles y que proyectan una pulcritud impecable en cualquier situación.",
-    "inspirado_en_nombre": " Composición Propia",
-    "inspiraciones": [
-      {
-        "texto": "El indiscutido rey mundial de los perfumes frescos y acuáticos. Captura a la perfección ese ADN inconfundible de \"brisa marina salada combinada con cítricos mediterráneos jugosos y un fondo limpio de almizcle y maderas\", ofreciendo un rendimiento fresco y atemporal que sigue siendo el favorito absoluto en todo el planeta.",
-        "nombre": "Composición Propia"
       }
     ]
   },
@@ -11295,37 +11327,6 @@
       {
         "texto": "Clive Christian Blonde Amber",
         "nombre": "Clive Christian Blonde Amber",
-        "imagen_url": ""
-      }
-    ]
-  },
-  {
-    "nombre_completo": "BHARARA - Rose | EDP | 100ml",
-    "marca": "Bharara",
-    "genero": "Femenino",
-    "familia_olfativa": "Floral, Avainillado, Dulce, Afrutados, Ámbar, Fresco especiado",
-    "inspirado_en": " Delina Exclusif de Parfums de Marly",
-    "notas_salida": "lichi, pera, bergamota",
-    "notas_corazon": "Rosa turca, incienso, oud",
-    "notas_fondo": "vainilla, ambar, Maderas",
-    "descripcion": "​Una fragancia floral oriental que es puro romance y sofisticación. Abre con notas frutales de pera y lichi que le dan una frescura jugosa, pero rápidamente se transforma en un corazón de rosa turca aterciopelada envuelta en incienso y oud suave. El cierre es una explosión cremosa de vainilla y ámbar que se siente como un abrazo lujoso. Es elegante, ultra femenina y muy potente.",
-    "momento_dia": "Día/Noche",
-    "estacion": "Todo el año",
-    "ocasion": "Eventos sociales, Bodas, Citas románticas, Salidas nocturnas",
-    "clima": "Templado/Fresco",
-    "proyeccion": "Beast mode",
-    "duracion": "Larga (10 a 12h)",
-    "estela": "Intensa",
-    "color_liquido": "Rosa pálido",
-    "perfil_usuario": "​Para mujeres que aman las fragancias florales intensas y quieren proyectar una imagen de elegancia moderna y sofisticada. Es ideal para alguien que no quiere pasar desapercibida y busca un perfume con \"clase\" pero con un toque dulce y moderno. De 20 a 55 años",
-    "rango_edad_min": 20,
-    "rango_edad_max": 55,
-    "estilo_descripcion": "​Para mujeres que aman las fragancias florales intensas y quieren proyectar una imagen de elegancia moderna y sofisticada. Es ideal para alguien que no quiere pasar desapercibida y busca un perfume con \"clase\" pero con un toque dulce y moderno. De",
-    "inspirado_en_nombre": "Parfums de Marly Delina Exclusif",
-    "inspiraciones": [
-      {
-        "texto": " Delina Exclusif de Parfums de Marly",
-        "nombre": "Parfums de Marly Delina Exclusif",
         "imagen_url": ""
       }
     ]
