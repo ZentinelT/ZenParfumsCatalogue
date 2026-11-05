@@ -9,7 +9,7 @@
    originales guardados en data/products.json ni en las fichas
    estáticas de /perfume/.
    ============================================================ */
-var CYBER_MONDAY_MODE = true;
+var CYBER_MONDAY_MODE = false;
 var CYBER_MONDAY_DISCOUNT = 0.20;
 var CYBER_MONDAY_LABEL = "-20% CYBER MONDAY";
 
