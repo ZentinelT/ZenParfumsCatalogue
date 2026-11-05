@@ -7,7 +7,7 @@
     "p": 96200,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1982_rfpgt2.jpg",
     "nt": "Salida Mandarina, bergamota, pomelo Notas de corazón: Grosella negra, frambuesa Notas de fondo: Almizcle, ámbar, naranja",
     "p1": "$96.200"
@@ -345,7 +345,7 @@
     "p": 72600,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2008_ahnbz5.jpg",
     "nt": "Salida Almizcle, notas verdes, cítricos Notas de corazón: notas herbales, Maderas Notas de fondo: notas atalcadas, Especias",
     "p1": "$72.600"
@@ -449,7 +449,7 @@
     "p": 67600,
     "c": "arabes",
     "g": "mujer",
-    "st": "low",
+    "st": "ok",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2016_hqrbi4.jpg",
     "nt": "Salida durazno, peonia, osmanto, hojas de violeta, rosa, adehidos Notas de corazón: flor de azahar del naranjo, nardos, ciruela, rosa, heliotropo Notas de fondo: Almizcle, ambar, sandalo, musgo de roble",
     "p1": "$67.600"
@@ -631,7 +631,7 @@
     "p": 99500,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2030_d4hq87.jpg",
     "nt": "Salida Bergamota, limón, lima, grosella negra, hojas de violeta, jengibre Notas de corazón: Rosa, iris, jazmín Notas de fondo: Ambroxan, almizcle, sándalo, cedro",
     "p1": "$99.500"
@@ -1593,7 +1593,7 @@
     "p": 92300,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2104_jvifof.jpg",
     "nt": "Contiene 4 perfumes de 25ml | EDP |: Bade'e Al Oud For Glory Bade'e Al Oud Honor & Glory Bade'e Al Oud Noble Blush Bade'e Al Oud Sublime",
     "p1": "$92.300"
@@ -2750,7 +2750,7 @@
     "p": 72200,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2193_lxfeb2.jpg",
     "nt": "Salida pera, bergamota Notas de corazón: flores, cuero Notas de fondo: Vainilla, almizcle, ambar, vetiver",
     "p1": "$72.200"
@@ -3179,7 +3179,7 @@
     "p": 114400,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2226_ofb845.jpg",
     "nt": "Salida esclarea Notas de corazón: notas marinas, jazmin egipcio Notas de fondo: ambar, notas minerales, ambar gris",
     "p1": "$114.400"
@@ -3257,7 +3257,7 @@
     "p": 118100,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2232_hvvl1s.jpg",
     "nt": "Salida lima, manzana verde, romero Notas de corazón: cítricos, herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
     "p1": "$118.100"
@@ -3322,7 +3322,7 @@
     "p": 103200,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2237_9qxat8.jpg",
     "nt": "Salida Menta, bergamota Notas de corazón: Benjuí, lavanda Notas de fondo: Vainilla, haba tonka",
     "p1": "$103.200"
@@ -7079,7 +7079,7 @@
     "p": 113200,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2541_etjm03.jpg",
     "nt": "Salida lima, leche de coco, bergamota, mandarina Notas de corazón: caña de azucar, jazmin, hibisco, gardenia Notas de fondo: ron, almizcle, haba tonka, pachuli",
     "p1": "$113.200"
