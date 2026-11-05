@@ -38,6 +38,12 @@ function getList() {
     var q = cSrch;
     l = l.filter(function (p) { return (p.b + " " + p.n + " " + p.nt).toLowerCase().indexOf(q) > -1; });
   }
+  if (!cNotesMode) {
+    /* Orden por defecto: más nuevos primero (id descendente), en vez del
+       orden arbitrario en que Supabase devuelve los productos — así no
+       quedan perfumes enterrados 8 páginas adentro sin ningún criterio. */
+    l = l.slice().sort(function (a, b) { return b.id - a.id; });
+  }
   return l;
 }
 
