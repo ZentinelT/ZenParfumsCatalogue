@@ -641,13 +641,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Club de Nuit Untold | EDP",
     "s": "105ml",
-    "p": 92800,
+    "p": 95000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2031_umywf4.jpg",
     "nt": "Salida Azafrán, jazmín Notas de corazón: Amberwood, ámbar gris Notas de fondo: Resina de abeto, cedro",
-    "p1": "$92.800"
+    "p1": "$95.000"
   },
   {
     "id": 2032,
@@ -1343,13 +1343,13 @@
     "b": "FRENCH AVENUE",
     "n": "FRENCH AVENUE - Spectre Ghost | EDP",
     "s": "80ml",
-    "p": 101400,
+    "p": 98000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2085_tlzakn.jpg",
     "nt": "Salida Piña, bergamota, manzana Notas de corazón: Abedul, musgo de roble, jazmín Notas de fondo: Ambroxan, almizcle, sándalo, ámbar gris",
-    "p1": "$101.400"
+    "p1": "$98.000"
   },
   {
     "id": 2086,
@@ -5191,13 +5191,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Dunescape | EDP",
     "s": "100ml",
-    "p": 97600,
+    "p": 110000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_1781473213259_lvm199.jpg",
     "nt": "Salida Naranja, bergamota, mandarina, enebro, jengibre, limón, salvia Notas de corazón: Cachemira, geranio, manzana, rosa, Notas Ozónicas Notas de fondo: Sándalo, ámbar, almizcle",
-    "p1": "$97.600"
+    "p1": "$110.000"
   },
   {
     "id": 2386,
@@ -5480,7 +5480,7 @@
     "p": 69500,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2410_4rqa8r.jpg",
     "nt": "Salida bergamota, lavanda Notas de corazón: jengibre, Cardamomo Notas de fondo: vetiver, incienso, Almizcle, sandalo, ladano, madera de gaiac",
     "p1": "$69.500"
@@ -6179,13 +6179,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Victorioso | EDP",
     "s": "100ml",
-    "p": 63000,
+    "p": 65000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2470_4vur3u.jpg",
     "nt": "Salida notas marinas, bergamota Notas de corazón: hoja de laurel, jazmin Notas de fondo: ambar gris, musgo de roble, madera de gaiac, pachuli",
-    "p1": "$63.000"
+    "p1": "$65.000"
   },
   {
     "id": 2471,
@@ -6231,13 +6231,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Victorioso Heroic | EDP",
     "s": "100ml",
-    "p": 58000,
+    "p": 65000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2474_09h5e7.jpg",
     "nt": "Salida manzanilla, hojas de violeta Notas de corazón: coco, balsamo de abeto Notas de fondo: cachemira, sandalo, haba tonka",
-    "p1": "$58.000"
+    "p1": "$65.000"
   },
   {
     "id": 2475,
@@ -7583,13 +7583,13 @@
     "b": "RIIFFS",
     "n": "RIIFFS - Freeze | EDP",
     "s": "100ml",
-    "p": 129300,
+    "p": 110000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2582_dl0jyp.jpg",
     "nt": "Salida menta verde, ralladura de limon, bergamota, toronja, nieve Notas de corazón: hielo, te, jengibre, salvia Notas de fondo: ambermax, peonia, cedro",
-    "p1": "$129.300"
+    "p1": "$110.000"
   },
   {
     "id": 2583,
@@ -8288,7 +8288,7 @@
     "p": 65300,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2656_180ky4.jpg",
     "nt": "melon, melon cantalupo, sal, algas, pera, manzana verde, ciruela, notas acuaticas, nenufar, musgo de roble, incienso, almizcle, ambar, azucar, cedro",
     "p1": "$65.300"
