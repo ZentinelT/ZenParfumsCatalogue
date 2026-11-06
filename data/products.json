@@ -1554,7 +1554,7 @@
     "p": 69500,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2101_0fx89w.jpg",
     "nt": "Salida pimienta rosa, bergamota Notas de corazón: rosa turca, rosa de Bulgaria (rosa Damascena de Bulgaria), jazmín Notas de fondo: madera de oud, ámbar, vainilla",
     "p1": "$69.500"
@@ -4531,7 +4531,7 @@
     "p": 67100,
     "c": "internacional",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://syylbuvjuekkanxynpps.supabase.co/storage/v1/object/public/productos/productos_2331_5fo025.jpg",
     "nt": "Salida Bergamota, Especias Notas de corazón: Especias, maderas Notas de fondo: Ámbar, cedro, almizcle",
     "p1": "$67.100"
