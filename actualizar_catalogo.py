@@ -34,7 +34,9 @@ headers = {"apikey": API_KEY, "Authorization": f"Bearer {API_KEY}", "Range-Unit"
 params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med"}
 
 print("Descargando productos...")
-response = requests.get(API_URL, headers=headers, params=params)
+response = requests.get(API_URL, headers=headers, params=params, timeout=30)
+print("Status:", response.status_code)
+print("Primeros 500 chars:", response.text[:500])
 if response.status_code != 200:
     print("Error:", response.status_code, response.text)
     exit(1)
