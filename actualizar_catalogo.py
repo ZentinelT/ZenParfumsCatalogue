@@ -30,7 +30,7 @@ CAT_MAP = {
 }
 
 # ---------- 1. DESCARGAR DATOS ----------
-headers = {"apikey": API_KEY, "Authorization": f"Bearer {API_KEY}"}
+headers = {"apikey": API_KEY, "Authorization": f"Bearer {API_KEY}", "Range-Unit": "items", "Range": "0-9999"}
 params = {"select": "*"}
 
 print("Descargando productos...")
