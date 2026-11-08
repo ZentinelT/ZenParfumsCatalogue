@@ -31,7 +31,7 @@ CAT_MAP = {
 
 # ---------- 1. DESCARGAR DATOS ----------
 headers = {"apikey": API_KEY, "Authorization": f"Bearer {API_KEY}", "Range-Unit": "items", "Range": "0-9999"}
-params = {"select": "*"}
+params = {"select": "*", "limit": "10000"}
 
 print("Descargando productos...")
 response = requests.get(API_URL, headers=headers, params=params)
