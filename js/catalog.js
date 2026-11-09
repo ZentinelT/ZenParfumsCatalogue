@@ -136,13 +136,21 @@ function _renderNovedadesTira(secId, scrId, items, badgeLabel, badgeClass) {
   sec.hidden = false;
   scr.innerHTML = items.map(function(p){ return _novedadesCardHTML(p, badgeLabel, badgeClass); }).join("");
 }
-var NOVEDADES_ULTIMOS_N = 12;
-function _ultimosPorId(n, excluirIds) {
-  var excl = {};
-  (excluirIds || []).forEach(function(id){ excl[id] = true; });
-  var pool = PRODS.filter(function(p){ return p.c !== "accesorios" && !excl[p.id]; });
-  if (cOnlyStock) pool = pool.filter(function(p){ return p.st !== "out"; });
-  return pool.slice().sort(function(a,b){ return b.id - a.id; }).slice(0, n);
+var NOVEDADES_DIAS = 7;
+function _porIdsConFecha(items) {
+  var byId = {};
+  PRODS.forEach(function(p){ byId[p.id] = p; });
+  var hoy = new Date(); hoy.setHours(0,0,0,0);
+  var result = items
+    .filter(function(item){
+      if (!item || !item.fecha) return false;
+      var d = new Date(item.fecha + "T00:00:00");
+      return (hoy - d) / 864e5 <= NOVEDADES_DIAS;
+    })
+    .map(function(item){ return byId[item.id]; })
+    .filter(function(p){ return p && p.c !== "accesorios"; });
+  if (cOnlyStock) result = result.filter(function(p){ return p.st !== "out"; });
+  return result;
 }
 function _porIds(ids) {
   var byId = {};
@@ -153,10 +161,9 @@ function _porIds(ids) {
   return items;
 }
 function renderNovedades() {
-  /* Primera tira: SIEMPRE los últimos N por id (los agregados más
-     recientemente a Supabase), aunque NOVEDADES.nuevos esté vacío. */
+  /* Primera tira: productos nuevos detectados en los últimos 7 días. */
   _renderNovedadesTira("novedadesNuevosSec",  "novedadesNuevosScr",
-    _ultimosPorId(NOVEDADES_ULTIMOS_N, NOVEDADES.restock), "Nuevo", "pbadge-nuevo");
+    _porIdsConFecha(NOVEDADES.nuevos), "Nuevo", "pbadge-nuevo");
   /* Segunda tira: solo cuando el script detectó restocks reales. */
   _renderNovedadesTira("novedadesRestockSec", "novedadesRestockScr",
     _porIds(NOVEDADES.restock), "Volvió", "pbadge-restock");

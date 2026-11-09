@@ -274,21 +274,37 @@ if os.path.exists(prev_path):
     except Exception as e:
         print(f"No se pudo leer products.json anterior para comparar novedades: {e}")
 
-nuevos_ids = []
+from datetime import date
+HOY = date.today().isoformat()
+
+# Cargar novedades anteriores para preservar fechas ya registradas
+novedades_path = "data/novedades.json"
+prev_nuevos_fechas = {}
+if os.path.exists(novedades_path):
+    try:
+        with open(novedades_path, "r", encoding="utf-8") as f:
+            prev_nov = json.load(f)
+        for item in prev_nov.get("nuevos", []):
+            if isinstance(item, dict):
+                prev_nuevos_fechas[item["id"]] = item["fecha"]
+    except Exception:
+        pass
+
+nuevos_items = []
 restock_ids = []
 for r in registros:
     pid = r["id"]
     prev = prev_by_id.get(pid)
     if prev is None:
-        nuevos_ids.append(pid)
+        nuevos_items.append({"id": pid, "fecha": prev_nuevos_fechas.get(pid, HOY)})
     else:
         if prev.get("st") == "out" and r.get("st") in ("ok", "low"):
             restock_ids.append(pid)
 
-novedades = {"nuevos": nuevos_ids, "restock": restock_ids}
-with open("data/novedades.json", "w", encoding="utf-8") as f:
+novedades = {"nuevos": nuevos_items, "restock": restock_ids}
+with open(novedades_path, "w", encoding="utf-8") as f:
     json.dump(novedades, f, ensure_ascii=False, indent=2)
-print(f"Novedades detectadas: {len(nuevos_ids)} nuevos, {len(restock_ids)} restock")
+print(f"Novedades detectadas: {len(nuevos_items)} nuevos, {len(restock_ids)} restock")
 
 # ---------- 3b. LOGOS DE MARCAS (tabla "marcas" de Belle) ----------
 # Baja los logos (guardados como base64 en Supabase), los achica a 128px webp
