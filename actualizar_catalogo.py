@@ -350,21 +350,20 @@ if marcas_json:
 
 # ---------- 4. GUARDIA ANTI-BLOQUEO ----------
 MIN_PRODUCTOS = 200
-MIN_FICHAS = 100
 if len(registros) < MIN_PRODUCTOS:
     print(f"ERROR: solo se recibieron {len(registros)} productos (mínimo esperado: {MIN_PRODUCTOS}).")
     print("Posible bloqueo de IP o problema de conexión. Los JSONs existentes NO fueron modificados.")
     exit(1)
-if len(fichas_registros) < MIN_FICHAS:
-    print(f"ERROR: solo se recibieron {len(fichas_registros)} fichas (mínimo esperado: {MIN_FICHAS}).")
-    print("Posible bloqueo de IP o problema de conexión. Los JSONs existentes NO fueron modificados.")
-    exit(1)
+if len(fichas_registros) < 100:
+    print(f"AVISO: no se encontraron fichas ({len(fichas_registros)}). Se mantiene fichas.json existente sin modificar.")
+    fichas_registros = None  # señal para no sobrescribir
 
 # ---------- 5. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
     json.dump(registros, f, ensure_ascii=False, indent=2)
 
-with open("data/fichas.json", "w", encoding="utf-8") as f:
-    json.dump(fichas_registros, f, ensure_ascii=False, indent=2)
+if fichas_registros is not None:
+    with open("data/fichas.json", "w", encoding="utf-8") as f:
+        json.dump(fichas_registros, f, ensure_ascii=False, indent=2)
 
 print("Listo: data/products.json, data/fichas.json y data/novedades.json actualizados")
