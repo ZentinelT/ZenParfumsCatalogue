@@ -153,9 +153,13 @@ def calcular_stock(row):
 
 def genero_map(g):
     g = str(g or "").strip()
-    if "♀" in g:
+    if "♀" in g:   # cubre ♀ y ♀️ (con variation selector U+FE0F)
         return "mujer"
-    if "♂" in g:
+    if "♂" in g:   # cubre ♂ y ♂️
+        return "hombre"
+    if g.lower() in ("f", "femenino"):
+        return "mujer"
+    if g.lower() in ("m", "masculino"):
         return "hombre"
     return "unisex"
 
