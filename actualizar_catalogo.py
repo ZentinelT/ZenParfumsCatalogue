@@ -485,3 +485,70 @@ if fichas_registros is not None:
 
 print("Listo: data/products.json, data/fichas.json y data/novedades.json actualizados.")
 
+# ---------- 8. SINCRONIZAR PRODUCTOS A NUESTRO SUPABASE ----------
+# Upserta solo los registros que cambiaron respecto al estado anterior en Supabase.
+# Si MY_SUPABASE_URL/MY_SUPABASE_SERVICE_KEY están configurados, sincroniza.
+import subprocess as _sp
+
+if MY_URL and MY_KEY:
+    _PROD_URL = f"{MY_URL}/rest/v1/productos"
+    _HEADERS_MY = [
+        "-H", f"apikey: {MY_KEY}",
+        "-H", f"Authorization: Bearer {MY_KEY}",
+        "-H", "Content-Type: application/json",
+        "-H", "Prefer: resolution=merge-duplicates",
+    ]
+
+    # Columnas que existen en nuestra tabla (sin p1 — no existe en el schema)
+    _COLS = ["id", "b", "n", "s", "p", "c", "g", "st", "i", "nt"]
+
+    def _norm_prod(r):
+        row = {}
+        for col in _COLS:
+            v = r.get(col)
+            if v == "": v = None
+            row[col] = v
+        return row
+
+    # Bajar el estado actual de nuestra tabla para comparar
+    _res = _sp.run(
+        ["curl", "-s", _PROD_URL + "?select=id,st,p,g,nt,i",
+         "-H", f"apikey: {MY_KEY}", "-H", f"Authorization: Bearer {MY_KEY}"],
+        capture_output=True, text=True
+    )
+    try:
+        _current = {r["id"]: r for r in json.loads(_res.stdout)}
+    except Exception:
+        _current = {}
+
+    # Detectar cambios: stock, precio, género, notas, imagen
+    _changed = []
+    _new = []
+    for r in registros:
+        c = _current.get(r["id"])
+        if c is None:
+            _new.append(_norm_prod(r))
+        elif (c.get("st") != r.get("st") or c.get("p") != r.get("p") or
+              c.get("g") != r.get("g") or c.get("nt") != r.get("nt") or
+              c.get("i") != r.get("i")):
+            _changed.append(_norm_prod(r))
+
+    _to_sync = _new + _changed
+    if _to_sync:
+        _BATCH = 100
+        _synced = 0
+        for _i in range(0, len(_to_sync), _BATCH):
+            _batch = _to_sync[_i:_i+_BATCH]
+            _body = json.dumps(_batch, ensure_ascii=False)
+            _r = _sp.run(
+                ["curl", "-s", "-X", "POST", _PROD_URL] + _HEADERS_MY + ["-d", _body],
+                capture_output=True, text=True
+            )
+            if "error" in _r.stdout.lower():
+                print(f"  Supabase sync error: {_r.stdout[:200]}")
+                break
+            _synced += len(_batch)
+        print(f"Supabase sync: {len(_new)} nuevos, {len(_changed)} actualizados ({_synced} enviados)")
+    else:
+        print("Supabase sync: sin cambios")
+
