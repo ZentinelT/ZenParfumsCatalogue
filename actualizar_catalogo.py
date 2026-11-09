@@ -30,7 +30,15 @@ CAT_MAP = {
 }
 
 # ---------- 1. DESCARGAR DATOS ----------
-headers = {"apikey": API_KEY, "Authorization": f"Bearer {API_KEY}", "Range-Unit": "items", "Range": "0-9999"}
+headers = {
+    "apikey": API_KEY,
+    "Authorization": f"Bearer {API_KEY}",
+    "Range-Unit": "items",
+    "Range": "0-9999",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "Origin": "https://zenparfums.com",
+    "Referer": "https://zenparfums.com/",
+}
 params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med"}
 
 print("Descargando productos...")
