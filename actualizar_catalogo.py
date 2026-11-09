@@ -417,7 +417,37 @@ if MY_URL and MY_KEY:
 else:
     print("AVISO: MY_SUPABASE_URL/MY_SUPABASE_SERVICE_KEY no configurados, fotos no migradas.")
 
-# ---------- 6. ESCRIBIR LOS JSON DE DATOS ----------
+# ---------- 6. ENRIQUECER GÉNERO DESDE FICHAS ----------
+# Belle manda género como símbolo (♀/♂) pero en la práctica manda "unisex" para todo.
+# Las fichas tienen el género correcto en texto: Masculino/Femenino/Unisex.
+# Usamos las fichas (nuevas o las del archivo existente) para corregir el campo g.
+def _genero_de_ficha(g):
+    if not g: return None
+    g = str(g).lower()
+    if "masculino" in g: return "hombre"
+    if "femenino" in g: return "mujer"
+    if "unisex" in g: return "unisex"
+    return None
+
+fichas_fuente = fichas_registros if fichas_registros else []
+if not fichas_fuente:
+    try:
+        with open("data/fichas.json", encoding="utf-8") as _fj:
+            fichas_fuente = json.load(_fj)
+    except Exception:
+        pass
+
+ficha_genero_map = {fi["nombre_completo"]: _genero_de_ficha(fi.get("genero")) for fi in fichas_fuente if fi.get("nombre_completo")}
+genero_enriquecidos = 0
+for r in registros:
+    g_ficha = ficha_genero_map.get(r.get("n"))
+    if g_ficha and r.get("g") != g_ficha:
+        r["g"] = g_ficha
+        genero_enriquecidos += 1
+if genero_enriquecidos:
+    print(f"Géneros actualizados desde fichas: {genero_enriquecidos}")
+
+# ---------- 7. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
     json.dump(registros, f, ensure_ascii=False, indent=2)
 
@@ -425,4 +455,5 @@ if fichas_registros is not None:
     with open("data/fichas.json", "w", encoding="utf-8") as f:
         json.dump(fichas_registros, f, ensure_ascii=False, indent=2)
 
-print("Listo: data/products.json, data/fichas.json y data/novedades.json actualizados")
+print("Listo: data/products.json, data/fichas.json y data/novedades.json actualizados.")
+
