@@ -374,7 +374,50 @@ if len(fichas_registros) < 100:
     print(f"AVISO: no se encontraron fichas ({len(fichas_registros)}). Se mantiene fichas.json existente sin modificar.")
     fichas_registros = None  # señal para no sobrescribir
 
-# ---------- 5. ESCRIBIR LOS JSON DE DATOS ----------
+# ---------- 5. MIGRAR FOTOS NUEVAS A SUPABASE PROPIO ----------
+MY_URL = os.environ.get("MY_SUPABASE_URL", "")
+MY_KEY = os.environ.get("MY_SUPABASE_SERVICE_KEY", "")
+BELLE_HOST = "syylbuvjuekkanxynpps.supabase.co"
+BUCKET = "productos"
+
+if MY_URL and MY_KEY:
+    fotos_migradas = 0
+    for r in registros:
+        url = r.get("i", "")
+        if not url or BELLE_HOST not in url:
+            continue
+        fname = url.split("/")[-1]
+        new_url = f"{MY_URL}/storage/v1/object/public/{BUCKET}/{fname}"
+        # Verificar si ya existe
+        try:
+            check = requests.head(new_url, timeout=5)
+            if check.status_code == 200:
+                r["i"] = new_url
+                continue
+        except Exception:
+            pass
+        # Descargar y subir
+        try:
+            img = requests.get(url, timeout=15)
+            if img.status_code != 200:
+                continue
+            ct = img.headers.get("content-type", "image/jpeg")
+            up = requests.post(
+                f"{MY_URL}/storage/v1/object/{BUCKET}/{fname}",
+                headers={"apikey": MY_KEY, "Authorization": f"Bearer {MY_KEY}", "Content-Type": ct},
+                data=img.content, timeout=20
+            )
+            if up.status_code in (200, 201):
+                r["i"] = new_url
+                fotos_migradas += 1
+        except Exception as e:
+            print(f"  Error migrando foto {fname}: {e}")
+    if fotos_migradas:
+        print(f"Fotos nuevas migradas a Supabase propio: {fotos_migradas}")
+else:
+    print("AVISO: MY_SUPABASE_URL/MY_SUPABASE_SERVICE_KEY no configurados, fotos no migradas.")
+
+# ---------- 6. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
     json.dump(registros, f, ensure_ascii=False, indent=2)
 
