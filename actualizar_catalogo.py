@@ -340,7 +340,19 @@ if marcas_json:
     with open("data/marcas.json", "w", encoding="utf-8") as f:
         json.dump(marcas_json, f, ensure_ascii=False, indent=1)
 
-# ---------- 4. ESCRIBIR LOS JSON DE DATOS ----------
+# ---------- 4. GUARDIA ANTI-BLOQUEO ----------
+MIN_PRODUCTOS = 200
+MIN_FICHAS = 100
+if len(registros) < MIN_PRODUCTOS:
+    print(f"ERROR: solo se recibieron {len(registros)} productos (mínimo esperado: {MIN_PRODUCTOS}).")
+    print("Posible bloqueo de IP o problema de conexión. Los JSONs existentes NO fueron modificados.")
+    exit(1)
+if len(fichas_registros) < MIN_FICHAS:
+    print(f"ERROR: solo se recibieron {len(fichas_registros)} fichas (mínimo esperado: {MIN_FICHAS}).")
+    print("Posible bloqueo de IP o problema de conexión. Los JSONs existentes NO fueron modificados.")
+    exit(1)
+
+# ---------- 5. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
     json.dump(registros, f, ensure_ascii=False, indent=2)
 
