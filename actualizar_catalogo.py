@@ -451,6 +451,30 @@ for r in registros:
 if genero_enriquecidos:
     print(f"Géneros actualizados desde fichas: {genero_enriquecidos}")
 
+# ---------- 6b. ENRIQUECER NOTAS (Salida/Corazón/Fondo) DESDE FICHAS ----------
+# Para perfumes sin estructura de pirámide, reconstruir nt desde fichas.
+# KITs se excluyen — no tienen pirámide olfativa.
+def _tiene_piramide(nt):
+    if not nt or nt == "—": return False
+    return any(k in nt for k in ["alida", "orazón", "orazon", "ondo"])
+
+ficha_notas_map = {fi["nombre_completo"]: fi for fi in fichas_fuente if fi.get("nombre_completo")}
+notas_enriquecidas = 0
+for r in registros:
+    if _tiene_piramide(r.get("nt")): continue
+    if KIT_RE.search(r.get("n", "")): continue
+    fi = ficha_notas_map.get(r.get("n"))
+    if not fi or not fi.get("notas_salida"): continue
+    partes = []
+    if fi.get("notas_salida"):   partes.append("Salida: " + fi["notas_salida"])
+    if fi.get("notas_corazon"):  partes.append("Notas de corazón: " + fi["notas_corazon"])
+    if fi.get("notas_fondo"):    partes.append("Notas de fondo: " + fi["notas_fondo"])
+    if partes:
+        r["nt"] = " ".join(partes)
+        notas_enriquecidas += 1
+if notas_enriquecidas:
+    print(f"Notas estructuradas desde fichas: {notas_enriquecidas}")
+
 # ---------- 7. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
     json.dump(registros, f, ensure_ascii=False, indent=2)
