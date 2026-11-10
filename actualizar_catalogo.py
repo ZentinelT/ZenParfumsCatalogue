@@ -294,6 +294,7 @@ if os.path.exists(novedades_path):
     except Exception:
         pass
 
+DIAS_NOVEDAD = 5
 nuevos_items = []
 restock_ids = []
 for r in registros:
@@ -302,6 +303,16 @@ for r in registros:
     if prev is None:
         nuevos_items.append({"id": pid, "fecha": prev_nuevos_fechas.get(pid, HOY)})
     else:
+        if pid in prev_nuevos_fechas:
+            # Preservar como novedad si sigue dentro de la ventana de días
+            from datetime import date as _date
+            try:
+                dias = (date.today() - _date.fromisoformat(prev_nuevos_fechas[pid])).days
+                if dias <= DIAS_NOVEDAD:
+                    nuevos_items.append({"id": pid, "fecha": prev_nuevos_fechas[pid]})
+                    continue
+            except Exception:
+                pass
         if prev.get("st") == "out" and r.get("st") in ("ok", "low"):
             restock_ids.append(pid)
 

@@ -136,7 +136,7 @@ function _renderNovedadesTira(secId, scrId, items, badgeLabel, badgeClass) {
   sec.hidden = false;
   scr.innerHTML = items.map(function(p){ return _novedadesCardHTML(p, badgeLabel, badgeClass); }).join("");
 }
-var NOVEDADES_DIAS = 7;
+var NOVEDADES_DIAS = 5;
 function _porIdsConFecha(items) {
   var byId = {};
   PRODS.forEach(function(p){ byId[p.id] = p; });
@@ -148,8 +148,7 @@ function _porIdsConFecha(items) {
       return (hoy - d) / 864e5 <= NOVEDADES_DIAS;
     })
     .map(function(item){ return byId[item.id]; })
-    .filter(function(p){ return p && p.c !== "accesorios"; });
-  if (cOnlyStock) result = result.filter(function(p){ return p.st !== "out"; });
+    .filter(function(p){ return p && p.c !== "accesorios" && p.st !== "out"; });
   return result;
 }
 function _porIds(ids) {
@@ -161,10 +160,8 @@ function _porIds(ids) {
   return items;
 }
 function renderNovedades() {
-  /* Primera tira: productos nuevos detectados en los últimos 7 días. */
   _renderNovedadesTira("novedadesNuevosSec",  "novedadesNuevosScr",
     _porIdsConFecha(NOVEDADES.nuevos), "Nuevo", "pbadge-nuevo");
-  /* Segunda tira: solo cuando el script detectó restocks reales. */
   _renderNovedadesTira("novedadesRestockSec", "novedadesRestockScr",
     _porIds(NOVEDADES.restock), "Volvió", "pbadge-restock");
 }
