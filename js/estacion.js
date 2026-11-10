@@ -72,6 +72,9 @@ function setEstacion(v) {
     var _getList = window.getList;
     window.getList = function () {
       var l = _getList.apply(this, arguments);
+      var _novOutIds = {};
+      (window.NOVEDADES && window.NOVEDADES.nuevos || []).forEach(function(item){ if (item && item.id) _novOutIds[item.id] = true; });
+      l = l.filter(function(p){ return !(p.st === "out" && _novOutIds[p.id]); });
       if (!cEstacion) return l;
       l = l.filter(function (p) { return _estDe(p).c === cEstacion; });
       // Más típicos primero, salvo con rango de precio (ordena por precio) o buscador por notas
