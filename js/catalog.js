@@ -72,6 +72,10 @@ function getList() {
     l = PRODS.filter(function(p){ return p.c !== "accesorios"; });
   }
   if (cOnlyStock) l = l.filter(function(p){ return p.st !== "out"; });
+  // Nuevos sin stock: ocultos en la lista general hasta que tengan stock
+  var _nuevosOutIds = {};
+  (NOVEDADES.nuevos || []).forEach(function(item){ if (item && item.id) _nuevosOutIds[item.id] = true; });
+  l = l.filter(function(p){ return !(p.st === "out" && _nuevosOutIds[p.id]); });
   if (cFil === "hombre")       l = l.filter(function(p){ return p.g === "hombre"; });
   else if (cFil === "mujer")   l = l.filter(function(p){ return p.g === "mujer"; });
   else if (cFil === "unisex")  l = l.filter(function(p){ return p.g === "unisex"; });

@@ -14,9 +14,9 @@ hora_actual() {
   python3 -c "
 import plistlib
 with open('$PLIST','rb') as f: p=plistlib.load(f)
-h=p['StartCalendarInterval']['Hour']
-m=p['StartCalendarInterval']['Minute']
-print(f'{h:02d}:{m:02d}')
+s=p['StartCalendarInterval']
+entries=s if isinstance(s,list) else [s]
+print(' y '.join(f\"{e['Hour']:02d}:{e['Minute']:02d}\" for e in entries))
 "
 }
 
@@ -53,8 +53,10 @@ cambiar_hora() {
   python3 -c "
 import plistlib
 with open('$PLIST','rb') as f: p=plistlib.load(f)
-p['StartCalendarInterval']['Hour']=$h
-p['StartCalendarInterval']['Minute']=$m
+s=p['StartCalendarInterval']
+entries=s if isinstance(s,list) else [s]
+for e in entries: e['Hour']=$h; e['Minute']=$m
+p['StartCalendarInterval']=entries
 with open('$PLIST','wb') as f: plistlib.dump(p,f)
 "
   launchctl unload "$PLIST" 2>/dev/null
