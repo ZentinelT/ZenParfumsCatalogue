@@ -4,27 +4,10 @@ var PRODS = [];
 var FICHAS = {};
 var NOVEDADES = { nuevos: [], restock: [] };
 
-var _SB_URL = "https://rswveinshjizqbjdwnjy.supabase.co/rest/v1";
-var _SB_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzd3ZlaW5zaGppenFiamR3bmp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM2ODc5NDIsImV4cCI6MjA5OTI2Mzk0Mn0.0dNqpJmNDGwF-5prj47GCT-NvPjMsaiOpnyT_n9rouU";
-var _SB_HDR = { "apikey": _SB_KEY, "Authorization": "Bearer " + _SB_KEY };
-
-function _sbFetchAll(table, select) {
-  var PAGE = 1000;
-  function getPage(offset) {
-    return fetch(_SB_URL + "/" + table + "?select=" + select + "&limit=" + PAGE + "&offset=" + offset, { headers: _SB_HDR })
-      .then(function(r) { return r.json(); })
-      .then(function(rows) {
-        if (rows.length < PAGE) return rows;
-        return getPage(offset + PAGE).then(function(rest) { return rows.concat(rest); });
-      });
-  }
-  return getPage(0);
-}
-
 function loadCatalogData() {
   return Promise.all([
-    _sbFetchAll("productos", "*"),
-    _sbFetchAll("fichas", "*"),
+    fetch("data/products.json").then(function(r){ return r.json(); }),
+    fetch("data/fichas.json").then(function(r){ return r.json(); }).catch(function(){ return []; }),
     fetch("data/novedades.json")
       .then(function(r){ return r.ok ? r.json() : { nuevos: [], restock: [] }; })
       .catch(function(){ return { nuevos: [], restock: [] }; })
