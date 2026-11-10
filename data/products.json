@@ -3215,13 +3215,13 @@
     "b": "RASASI",
     "n": "RASASI - Hawas Ice | EDP",
     "s": "100ml",
-    "p": 92100,
+    "p": 92000,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2229_iatkkb.jpg",
     "nt": "Salida Manzana, limón, bergamota, Anís Notas de corazón: Ciruela, flor de azahar, cardamomo Notas de fondo: Almizcle, ámbar, driftwood, musgo",
-    "p1": "$92.100"
+    "p1": "$92.000"
   },
   {
     "id": 2230,
@@ -5828,13 +5828,13 @@
     "b": "MAISON ALHAMBRA",
     "n": "MAISON ALHAMBRA - Imperium | EDP",
     "s": "100ml",
-    "p": 59600,
+    "p": 60000,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2438_9n21nr.jpg",
     "nt": "Salida toronja, bergamota, limon, tomillo, galbano Notas de corazón: vetiver, bayas de enebro, Grosella Negra, manzana, pimienta rosa, cedro, cipriol, rosa, jazmin Notas de fondo: ambar gris, cuero, vainilla, benjui, ladano",
-    "p1": "$59.600"
+    "p1": "$60.000"
   },
   {
     "id": 2439,
@@ -6374,13 +6374,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Tharwah Silver | EDP",
     "s": "100ml",
-    "p": 105000,
+    "p": 104000,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2485_0iym6u.jpg",
     "nt": "Salida menta, bergamota Notas de corazón: esclarea, lavanda Notas de fondo: vetiver, almizcle, cedro",
-    "p1": "$105.000"
+    "p1": "$104.000"
   },
   {
     "id": 2486,
@@ -6777,13 +6777,13 @@
     "b": "DUMONT",
     "n": "DUMONT - Nitro Red Intensely | Extrait De Parfum",
     "s": "100ml",
-    "p": 103500,
+    "p": 101000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2518_u2mupn.jpg",
     "nt": "Salida melon, durazno, manzana, bergamota Notas de corazón: ambar, sal de mar, cedro, lirio de los valles Notas de fondo: ambar, sandalo, pachuli, musgo",
-    "p1": "$103.500"
+    "p1": "$101.000"
   },
   {
     "id": 2519,
@@ -7362,13 +7362,13 @@
     "b": "ARMANI",
     "n": "ARMANI - Acqua di Gio Profondo | EDP",
     "s": "100ml",
-    "p": 0,
+    "p": 219000,
     "c": "internacional",
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2564_plctfs.jpg",
     "nt": "Salida notas marinas, aquozone, bergamota, mandarina Notas de corazón: romero, lavanda, cipres, resina Notas de fondo: notas minerales, almizcle, pachuli, ambar",
-    "p1": "—"
+    "p1": "$219.000"
   },
   {
     "id": 2565,
@@ -8077,13 +8077,13 @@
     "b": "FRENCH AVENUE",
     "n": "FRENCH AVENUE - Cocoa Morado | EDP",
     "s": "100ml",
-    "p": 72600,
+    "p": 70000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2640_k00b4r.jpg",
     "nt": "Salida: canela, azafran, nuez moscada, cardamomo, pimienta rosa, jengibre Notas de corazón: oud, datiles, mirra, incienso, caña de azucar, caramelo, amberwood, davana Notas de fondo: haba tonka, ladano, pachuli, almizcle, yerba mate, cuero, vainilla, benjui, manteca de cacao",
-    "p1": "$72.600"
+    "p1": "$70.000"
   },
   {
     "id": 2641,
@@ -8305,5 +8305,96 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2657_l2o98z.jpg",
     "nt": "Salida: fresa, frambuesa, limon Notas de corazón: ambroxan, flor de azahar del naranjo Notas de fondo: malvavisco, almizcle",
     "p1": "$91.200"
+  },
+  {
+    "id": 2659,
+    "b": "LATTAFA",
+    "n": "LATTAFA - Teriaq Intense Kit | EDP",
+    "s": "",
+    "p": 85000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_779026-MLA118797643483_102026-F.webp",
+    "nt": "—",
+    "p1": "$85.000"
+  },
+  {
+    "id": 2662,
+    "b": "AL WATANIAH",
+    "n": "AL WATANIAH - al Layl | EDP",
+    "s": "100ml",
+    "p": 63000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_673886-MLA95147940668_102025-F.webp",
+    "nt": "frambuesa, cafe, lavanda, bergamota, jazmin, durazno, rosa, cachemira, almizcle, sandalo, pachuli",
+    "p1": "$63.000"
+  },
+  {
+    "id": 2664,
+    "b": "AZZARO",
+    "n": "AZZARO - Chrome | EDT",
+    "s": "100ml",
+    "p": 117000,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_763914-MLU72630162211_112023-F.webp",
+    "nt": "limon, romero, bergamota, neroli, piña, ciclamen, cilantro, jazmin, musgo de roble, almizcle, musgo de roble, cedro, sandalo, cardamomo, palo de rosa de brasil, haba tonka",
+    "p1": "$117.000"
+  },
+  {
+    "id": 2665,
+    "b": "AZZARO",
+    "n": "AZZARO - The Most Wanted | Parfum",
+    "s": "100ml",
+    "p": 195000,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_650363-MLA80478049994_112024-F.webp",
+    "nt": "jengibre, notas amaderadas, vainilla",
+    "p1": "$195.000"
+  },
+  {
+    "id": 2666,
+    "b": "BVLGARI",
+    "n": "BVLGARI - Man In Black | Parfum",
+    "s": "100ml",
+    "p": 255000,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_942884-MLU78068842588_082024-F.webp",
+    "nt": "especias, elemi, iris, nardos, notas amaderadas, benjui",
+    "p1": "$255.000"
+  },
+  {
+    "id": 2667,
+    "b": "CAROLINA HERRERA",
+    "n": "CAROLINA HERRERA - Bad Boy | Elixir",
+    "s": "100ml",
+    "p": 207000,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_652935-MLA110053025332_042026-F.webp",
+    "nt": "salvia, lavanda, cuero, iris, cedro, incienso",
+    "p1": "$207.000"
+  },
+  {
+    "id": 2668,
+    "b": "DIOR",
+    "n": "DIOR - Homme Intense | EDP",
+    "s": "100ml",
+    "p": 310000,
+    "c": "internacional",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_826793-MLA80115987309_102024-F.webp",
+    "nt": "iris, almizcle, cedro",
+    "p1": "$310.000"
   }
 ]
