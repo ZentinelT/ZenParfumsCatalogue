@@ -1,6 +1,6 @@
 (function(){
   var HERO_SRC = {
-    desktop: {dark:"img/hero-dark-desktop.webp?v=3", light:"img/hero-light-desktop-warm.webp?v=2"},
+    desktop: {dark:"img/hero-dark-desktop.webp?v=6", light:"img/hero-light-desktop-warm.webp?v=5"},
     mobile: {dark:"img/hero-dark-mobile.webp?v=3", light:"img/hero-light-mobile.webp?v=6"}
   };
   function updateHeroImage(theme){
