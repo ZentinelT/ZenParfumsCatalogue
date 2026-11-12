@@ -2,10 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "static-site",
+      "name": "catalogo",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8811"],
-      "port": 8811
+      "runtimeArgs": ["-m", "http.server", "8791"],
+      "port": 8791
     }
   ]
 }
