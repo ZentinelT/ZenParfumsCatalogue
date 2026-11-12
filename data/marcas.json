@@ -273,5 +273,30 @@
   "b": "ZIMAYA",
   "logo": "img/marcas/zimaya.webp",
   "n": 10
+ },
+ {
+  "b": "ARMANI",
+  "logo": "img/marcas/armani.webp",
+  "n": 6
+ },
+ {
+  "b": "RIIFFS",
+  "logo": "img/marcas/riiffs.webp",
+  "n": 3
+ },
+ {
+  "b": "ARABIYAT PRESTIGE",
+  "logo": "img/marcas/arabiyatprestige.webp",
+  "n": 1
+ },
+ {
+  "b": "ORIENTICA",
+  "logo": "img/marcas/orientica.webp",
+  "n": 1
+ },
+ {
+  "b": "BVLGARI",
+  "logo": "img/marcas/bvlgari.webp",
+  "n": 1
  }
 ]
