@@ -124,14 +124,22 @@
         <h3 class="novedades-tt">&#10022; Nuevos ingresos</h3>
         <span class="novedades-sub">reci&#233;n llegados al cat&#225;logo</span>
       </div>
-      <div class="novedades-scr" id="novedadesNuevosScr"></div>
+      <div class="novedades-wrap">
+        <button class="nov-arr nov-arr-l" aria-label="Anterior" onclick="novScroll('novedadesNuevosScr',-1)">&#8249;</button>
+        <div class="novedades-scr" id="novedadesNuevosScr"></div>
+        <button class="nov-arr nov-arr-r" aria-label="Siguiente" onclick="novScroll('novedadesNuevosScr',1)">&#8250;</button>
+      </div>
     </div>
     <div class="novedades novedades-restock rev" id="novedadesRestockSec" hidden>
       <div class="novedades-hd">
         <h3 class="novedades-tt">&#8635; Volvieron a stock</h3>
         <span class="novedades-sub">de nuevo disponibles</span>
       </div>
-      <div class="novedades-scr" id="novedadesRestockScr"></div>
+      <div class="novedades-wrap">
+        <button class="nov-arr nov-arr-l" aria-label="Anterior" onclick="novScroll('novedadesRestockScr',-1)">&#8249;</button>
+        <div class="novedades-scr" id="novedadesRestockScr"></div>
+        <button class="nov-arr nov-arr-r" aria-label="Siguiente" onclick="novScroll('novedadesRestockScr',1)">&#8250;</button>
+      </div>
     </div>
     <div class="ctrl-row">
       <div class="srch-wrap">
@@ -317,5 +325,12 @@
 <script src="js/marcas.js?v=4"></script>
 <script src="js/eventos.js?v=2"></script>
 <script src="js/app.js?v=6"></script>
+<script>
+function novScroll(id, dir) {
+  var el = document.getElementById(id);
+  if (!el) return;
+  el.scrollBy({ left: dir * (el.clientWidth * 0.75), behavior: "smooth" });
+}
+</script>
 </body>
 </html>

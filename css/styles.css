@@ -194,6 +194,12 @@ body:not([data-theme="dark"]) .cc:hover .cc-l{color:var(--go)}
 .pbadge-new{position:absolute;top:10px;left:10px;padding:3px 8px;font-size:9px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;border-radius:100px;color:#fff;z-index:2}
 .pbadge-new.pbadge-nuevo{background:var(--go)}
 .pbadge-new.pbadge-restock{background:#3a7a4a}
+.novedades-wrap{position:relative}
+.nov-arr{position:absolute;top:50%;transform:translateY(-60%);z-index:3;width:32px;height:32px;border-radius:50%;border:1px solid var(--lg);background:var(--ow);color:var(--bk);font-size:22px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;opacity:.85;transition:opacity .15s,background .15s;padding:0}
+.nov-arr:hover{opacity:1;background:var(--w)}
+.nov-arr-l{left:2px}
+.nov-arr-r{right:2px}
+@media(max-width:640px){.nov-arr{width:26px;height:26px;font-size:18px}}
 .novedades-restock{border-top:1px solid var(--lg);margin-top:-20px;padding-top:16px}
 @media (max-width:640px){
   .novedades-tt{font-size:18px}
