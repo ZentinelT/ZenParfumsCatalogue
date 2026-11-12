@@ -1398,7 +1398,7 @@
     "p": 98400,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2089_fledor.jpg",
     "nt": "Salida Mango, Limón, Jengibre, Ruibarbo Notas de corazón: Jazmín, Violeta, Praliné, Pimienta rosa Notas de fondo: Haba tonka, Cedro, Ámbar gris, Musgo",
     "p1": "$98.400"
@@ -1590,13 +1590,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Badee Al Oud Kit - 4x25ml | EDP",
     "s": "25ml",
-    "p": 76900,
+    "p": 76000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2104_jvifof.jpg",
     "nt": "Contiene 4 perfumes de 25ml | EDP |: Bade'e Al Oud For Glory Bade'e Al Oud Honor & Glory Bade'e Al Oud Noble Blush Bade'e Al Oud Sublime",
-    "p1": "$76.900"
+    "p1": "$76.000"
   },
   {
     "id": 2105,
@@ -1757,15 +1757,15 @@
   {
     "id": 2117,
     "b": "LATTAFA",
-    "n": "LATTAFA - Fakhar Platino Silver | EDP",
+    "n": "LATTAFA - Fakhar Platin Silver | EDP",
     "s": "100ml",
-    "p": 67900,
+    "p": 70000,
     "c": "arabes",
-    "g": "hombre",
+    "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2117_gr40q9.jpg",
     "nt": "Salida Guayaba, cítricos Notas de corazón: Incienso, palo santo Notas de fondo: Ámbar, maderas, almizcle",
-    "p1": "$67.900"
+    "p1": "$70.000"
   },
   {
     "id": 2118,
@@ -1941,13 +1941,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Maahir Black Edition | EDP",
     "s": "100ml",
-    "p": 69500,
+    "p": 70000,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2131_zqilbl.jpg",
     "nt": "Salida Pimienta negra, cardamomo, bergamota Notas de corazón: Cuero, madera de oud, pachulí Notas de fondo: Ámbar, benjuí, vainilla, almizcle",
-    "p1": "$69.500"
+    "p1": "$70.000"
   },
   {
     "id": 2132,
@@ -4099,13 +4099,13 @@
     "b": "CALVIN KLEIN",
     "n": "CALVIN KLEIN - CK Be | EDT",
     "s": "200ml",
-    "p": 84400,
+    "p": 85000,
     "c": "internacional",
     "g": "unisex",
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2298_7ytyx9.jpg",
     "nt": "Salida Lavanda, notas verdes, bergamota, menta, mandarina Notas de corazón: Hierba verde, durazno, jazmín, fresia, orquídea Notas de fondo: Almizcle, sándalo, cedro, vainilla, ámbar",
-    "p1": "$84.400"
+    "p1": "$85.000"
   },
   {
     "id": 2299,
@@ -4203,13 +4203,13 @@
     "b": "CALVIN KLEIN",
     "n": "CALVIN KLEIN - Eternity Moment | EDP",
     "s": "100ml",
-    "p": 64600,
+    "p": 91000,
     "c": "internacional",
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2306_20utkf.jpg",
     "nt": "Salida lichi, frambuesa, melón, guayaba Notas de corazón: peonía rosada de China, jazmín, nenúfar, flor de pasionaria · Fondo almizcle, palo de rosa de Brasil, cachemira, sándalo",
-    "p1": "$64.600"
+    "p1": "$91.000"
   },
   {
     "id": 2307,
@@ -4424,13 +4424,13 @@
     "b": "H. BOSS",
     "n": "HUGO BOSS - Bottled Infinite | EDP",
     "s": "100ml",
-    "p": 145400,
+    "p": 160000,
     "c": "internacional",
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2323_cwqt5m.jpg",
     "nt": "Salida Manzana, bergamota Notas de corazón: Nuez moscada, salvia, cardamomo Notas de fondo: Pétalos de Rosa, vetiver, sándalo",
-    "p1": "$145.400"
+    "p1": "$160.000"
   },
   {
     "id": 2324,
@@ -4502,13 +4502,13 @@
     "b": "ISSEY MIYAKE",
     "n": "ISSEY MIYAKE - L'eau D'issey Pour Homme | EDT",
     "s": "125ml",
-    "p": 120700,
+    "p": 130000,
     "c": "internacional",
     "g": "hombre",
     "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2329_7zkt4j.jpg",
     "nt": "Salida Bergamota, yuzu, cítricos, mandarina Notas de corazón: Madera de acuamarina, loto, salvia Notas de fondo: Madera de cedro, almizcle, ámbar, tabaco",
-    "p1": "$120.700"
+    "p1": "$130.000"
   },
   {
     "id": 2330,
@@ -4684,13 +4684,13 @@
     "b": "AL WATANIAH",
     "n": "AL WATANIAH - Roohi | EDP",
     "s": "85ml",
-    "p": 62900,
+    "p": 67000,
     "c": "arabes",
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2345_o33fwu.jpg",
     "nt": "Salida azafrán, grosellas negras, pimienta rosa, cardamomo Notas de corazón: rosa, cacao, vetiver · Fondo Maltol, ámbar, almizcle, pachuli",
-    "p1": "$62.900"
+    "p1": "$67.000"
   },
   {
     "id": 2346,
@@ -6660,13 +6660,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Maahir Honor | EDP",
     "s": "100ml",
-    "p": 87700,
+    "p": 85000,
     "c": "arabes",
     "g": "hombre",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1784650557433_czj131.jpg",
     "nt": "Salida menta, limon, bergamota, tomillo Notas de corazón: romero, lavanda, jazmín, flor de moringa Notas de fondo: almizcle, cedro, ambar",
-    "p1": "$87.700"
+    "p1": "$85.000"
   },
   {
     "id": 2509,
@@ -6816,13 +6816,13 @@
     "b": "CALVIN KLEIN",
     "n": "CALVIN KLEIN - CK Be | EDP",
     "s": "100ml",
-    "p": 67900,
+    "p": 70000,
     "c": "internacional",
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2521_uaham7.jpg",
     "nt": "Salida Lavanda, notas verdes, bergamota, menta, mandarina Notas de corazón: Hierba verde, durazno, jazmín, fresia, orquídea Notas de fondo: Almizcle, sándalo, cedro, vainilla, ámbar",
-    "p1": "$67.900"
+    "p1": "$70.000"
   },
   {
     "id": 2522,
@@ -7908,13 +7908,13 @@
     "b": "DOLCE & GABBANA",
     "n": "DOLCE & GABBANA - Light Blue | EDT",
     "s": "100ml",
-    "p": 137500,
+    "p": 161000,
     "c": "internacional",
     "g": "mujer",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2623_d12qzh.jpg",
     "nt": "Salida limon, manzana, cedro, campanilla Notas de corazón: bambu, jazmin, rosa blanca Notas de fondo: cedro, almizcle, ambar",
-    "p1": "$137.500"
+    "p1": "$161.000"
   },
   {
     "id": 2624,
@@ -8288,7 +8288,7 @@
     "p": 65300,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2656_180ky4.jpg",
     "nt": "Salida: melon, melon cantalupo, sal, algas, pera, manzana verde, ciruela Notas de corazón: notas acuaticas, nenufar, musgo de roble, incienso Notas de fondo: almizcle, ambar, azucar, cedro",
     "p1": "$65.300"
