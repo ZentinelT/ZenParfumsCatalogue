@@ -155,19 +155,11 @@ function _porIdsConFecha(items) {
     .filter(function(p){ return p && p.c !== "accesorios" && p.st !== "out"; });
   return result;
 }
-function _porIds(ids) {
-  var byId = {};
-  PRODS.forEach(function(p){ byId[p.id] = p; });
-  var items = ids.map(function(id){ return byId[id]; })
-                 .filter(function(p){ return p && p.c !== "accesorios"; });
-  if (cOnlyStock) items = items.filter(function(p){ return p.st !== "out"; });
-  return items;
-}
 function renderNovedades() {
   _renderNovedadesTira("novedadesNuevosSec",  "novedadesNuevosScr",
     _porIdsConFecha(NOVEDADES.nuevos), "Nuevo", "pbadge-nuevo");
   _renderNovedadesTira("novedadesRestockSec", "novedadesRestockScr",
-    _porIds(NOVEDADES.restock), "Volvió", "pbadge-restock");
+    _porIdsConFecha(NOVEDADES.restock), "Volvió", "pbadge-restock");
 }
 
 function renderProds() {

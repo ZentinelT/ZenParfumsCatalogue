@@ -284,6 +284,7 @@ HOY = date.today().isoformat()
 # Cargar novedades anteriores para preservar fechas ya registradas
 novedades_path = "data/novedades.json"
 prev_nuevos_fechas = {}
+prev_restock_fechas = {}
 if os.path.exists(novedades_path):
     try:
         with open(novedades_path, "r", encoding="utf-8") as f:
@@ -291,12 +292,23 @@ if os.path.exists(novedades_path):
         for item in prev_nov.get("nuevos", []):
             if isinstance(item, dict):
                 prev_nuevos_fechas[item["id"]] = item["fecha"]
+        for item in prev_nov.get("restock", []):
+            if isinstance(item, dict):
+                prev_restock_fechas[item["id"]] = item["fecha"]
     except Exception:
         pass
 
 DIAS_NOVEDAD = 5
+from datetime import date as _date
+
+def _dentro_ventana(fechas_dict, pid):
+    try:
+        return (_date.today() - _date.fromisoformat(fechas_dict[pid])).days <= DIAS_NOVEDAD
+    except Exception:
+        return False
+
 nuevos_items = []
-restock_ids = []
+restock_items = []
 for r in registros:
     pid = r["id"]
     prev = prev_by_id.get(pid)
@@ -304,22 +316,18 @@ for r in registros:
         nuevos_items.append({"id": pid, "fecha": prev_nuevos_fechas.get(pid, HOY)})
     else:
         if pid in prev_nuevos_fechas:
-            # Preservar como novedad si sigue dentro de la ventana de días
-            from datetime import date as _date
-            try:
-                dias = (date.today() - _date.fromisoformat(prev_nuevos_fechas[pid])).days
-                if dias <= DIAS_NOVEDAD:
-                    nuevos_items.append({"id": pid, "fecha": prev_nuevos_fechas[pid]})
-                    continue
-            except Exception:
-                pass
+            if _dentro_ventana(prev_nuevos_fechas, pid):
+                nuevos_items.append({"id": pid, "fecha": prev_nuevos_fechas[pid]})
+                continue
         if prev.get("st") == "out" and r.get("st") in ("ok", "low"):
-            restock_ids.append(pid)
+            restock_items.append({"id": pid, "fecha": HOY})
+        elif pid in prev_restock_fechas and _dentro_ventana(prev_restock_fechas, pid):
+            restock_items.append({"id": pid, "fecha": prev_restock_fechas[pid]})
 
-novedades = {"nuevos": nuevos_items, "restock": restock_ids}
+novedades = {"nuevos": nuevos_items, "restock": restock_items}
 with open(novedades_path, "w", encoding="utf-8") as f:
     json.dump(novedades, f, ensure_ascii=False, indent=2)
-print(f"Novedades detectadas: {len(nuevos_items)} nuevos, {len(restock_ids)} restock")
+print(f"Novedades detectadas: {len(nuevos_items)} nuevos, {len(restock_items)} restock")
 
 # ---------- 3b. LOGOS DE MARCAS (tabla "marcas" de Belle) ----------
 # Baja los logos (guardados como base64 en Supabase), los achica a 128px webp
