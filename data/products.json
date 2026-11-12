@@ -124,7 +124,7 @@
     "p": 145800,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1991_pd7n4q.jpg",
     "nt": "Salida Piña, bergamota, flores blancas, manzana Notas de corazón: Flor de azahar, abedul, ámbar Notas de fondo: Musgo de roble, almizcle, ámbar gris",
     "p1": "$145.800"
@@ -137,7 +137,7 @@
     "p": 96800,
     "c": "arabes",
     "g": "hombre",
-    "st": "ok",
+    "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1992_oskbq3.jpg",
     "nt": "Salida Grosella negra, bergamota, manzana Notas de corazón: Musgo de roble, pachulí, lavanda Notas de fondo: Ámbar gris, almizcle, azafrán",
     "p1": "$96.800"
@@ -3231,7 +3231,7 @@
     "p": 88100,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2230_km3tpo.jpg",
     "nt": "Salida Piña, naranja, pomelo Notas de corazón: Ámbar, iris, lavanda Notas de fondo: Haba tonka, almizcle, cachemira, pachulí",
     "p1": "$88.100"
@@ -3257,7 +3257,7 @@
     "p": 98400,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2232_hvvl1s.jpg",
     "nt": "Salida lima, manzana verde, romero Notas de corazón: cítricos, herbales Notas de fondo: Pachulí, Ámbar, Almizcle",
     "p1": "$98.400"
