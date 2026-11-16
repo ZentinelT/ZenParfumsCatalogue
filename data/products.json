@@ -930,7 +930,7 @@
     "p": 62900,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2053_fqxl9j.jpg",
     "nt": "Salida pimienta, bergamota, limón, menta Notas de corazón: lavanda, pimienta rosa, jengibre, vetiver Notas de fondo: cedro, pachuli, elemi, sandalo, almizcle, vetiver",
     "p1": "$62.900"
@@ -1970,7 +1970,7 @@
     "p": 58000,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2133_pv6j18.jpg",
     "nt": "Salida pimienta rosa, manzana Notas de corazón: tabaco, canela, datiles Notas de fondo: humo de oud, caramelo, vainilla, pachuli",
     "p1": "$58.000"
