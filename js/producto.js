@@ -112,6 +112,7 @@ function openProduct(id, goFicha) {
         "<div class=\"pz-br\">" + esc(f.marca || p.b) + "</div>" +
         "<h2 class=\"pz-nm\">" + esc(nm) + "</h2>" +
         "<div class=\"pz-badges\">" + badges + "<span class=\"pz-stk\"><span class=\"sdot " + sdot + "\"></span>" + stxt + "</span></div>" +
+        (p.ki ? "<p class=\"pz-kit\">" + esc(p.ki) + "</p>" : "") +
         (facts ? "<div class=\"pz-facts\">" + facts + "</div>" : "") +
         pzSec("", "Pirámide olfativa", piram) +
         pzSec("", "Descripción", f.descripcion ? "<p class=\"pz-p\">" + esc(f.descripcion) + "</p>" : "") +

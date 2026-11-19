@@ -60,6 +60,7 @@ h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clam
 .orn::before,.orn::after{content:"";height:1px;width:56px;background:var(--line)}
 .orn i{width:6px;height:6px;transform:rotate(45deg);background:var(--gold)}
 .tags{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:22px}
+.kitinc{font-size:13px;line-height:1.75;color:var(--txt);border-left:2px solid var(--line);padding:2px 0 2px 14px;margin:-8px 0 20px}
 .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold2);border:1px solid var(--line);padding:6px 14px;border-radius:100px}
 .stk{display:inline-flex;align-items:center;gap:8px;font-size:12px;color:var(--mut);letter-spacing:.06em}
 .dot{width:7px;height:7px;border-radius:50%;background:#3bb273}.dot.low{background:#e08a2e}.dot.out{background:#c0392b}
@@ -212,7 +213,7 @@ for p in P:
 <div class="brand">{esc(f.get('marca') or brand)}</div>
 <h1>{esc(nm)}</h1>
 <div class="orn"><i></i></div>
-<div class="tags">{tags}</div>
+<div class="tags">{tags}</div>{('<p class="kitinc">' + esc(p['ki']) + '</p>') if p.get('ki') else ''}
 <div class="stk"><span class="dot {p['st']}"></span>{stock}</div>
 {('<div class="price" data-pcm="' + str(precio) + '">' + esc(p['p1']) + '</div>') if precio else '<div style="height:26px"></div>'}
 <div class="cta"><a class="btn b1" href="{wa}">Consultar por WhatsApp</a><a class="btn b2" href="/?product={p['id']}">Ver en el catálogo</a></div>

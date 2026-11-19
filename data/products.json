@@ -50,7 +50,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1985_yin57s.jpg",
     "nt": "El set incluye: Afnan - 9PM Black | EDP | 100ml Shower Gel - 200ml Desodorante Spray Corporal - 250ml",
     "p1": "$79.400",
-    "fn": "AFNAN - 9pm Black | EDP"
+    "fn": "AFNAN - 9pm Black | EDP",
+    "ki": "El set incluye: 9pm Black 100ml · Desodorante (150ml) · Gel de Ducha (150ml)"
   },
   {
     "id": 1986,
@@ -298,7 +299,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2004_94gsrt.jpg",
     "nt": "Salida Azafrán, Almendra Notas de corazón: Cedro, jazmín egipcio Notas de fondo: Ámbar gris, Maderas, almizcle",
     "p1": "$115.700",
-    "fn": "AL HARAMAIN - Amber Oud Ruby Edition | EDP"
+    "fn": "AL HARAMAIN - Amber Oud Ruby Edition | EDP",
+    "ki": "El set incluye: Amber Oud Ruby Edition 120ml · Body Spash 250ml · Decan 30ml"
   },
   {
     "id": 2005,
@@ -6045,7 +6047,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2455_xwy43k.jpg",
     "nt": "Salida: Bergamota, lavanda, cítricos Notas de corazón: Sándalo, cedro, geranio Notas de fondo: Ámbar, almizcle, vetiver",
     "p1": "$85.200",
-    "fn": "LATTAFA - The Kingdom Men | EDP"
+    "fn": "LATTAFA - The Kingdom Men | EDP",
+    "ki": "El set incluye: The Kingdom Men 100ml · Decan 12ml · Gel de ducha 100ml"
   },
   {
     "id": 2456,
@@ -6111,7 +6114,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2460_wkr3s1.jpg",
     "nt": "Salida: Manzana verde, bergamota, jengibre, salvia Notas de corazón: Especias, sándalo Notas de fondo: Almizcle, ámbar, pachulí",
     "p1": "$76.800",
-    "fn": "LATTAFA - Fakhar Men Black | EDP"
+    "fn": "LATTAFA - Fakhar Men Black | EDP",
+    "ki": "El set incluye: Fakhar Men Black 100ml · Desodorante 200ml"
   },
   {
     "id": 2465,
@@ -6203,7 +6207,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2471_whb1gr.jpg",
     "nt": "Salida: lavanda, salvia, bergamota Notas de corazón: ciruela, palo santo, pimienta negra Notas de fondo: sándalo, oud",
     "p1": "$78.600",
-    "fn": "LATTAFA - Pride Vintage Radio | EDP"
+    "fn": "LATTAFA - Pride Vintage Radio | EDP",
+    "ki": "El set incluye: Pride Vintage Radio 100ml · Decan 20ml · Desodorante 200ml · Perfumero de viaje 5ml"
   },
   {
     "id": 2472,
@@ -6216,7 +6221,8 @@
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2472_fj44ud.jpg",
     "nt": "Salida Mandarina, especias Notas de corazón: Cuero Notas de fondo: Ámbar, miel",
-    "p1": "$68.700"
+    "p1": "$68.700",
+    "ki": "El set incluye: Fakhar Gold Extract 100ml · Desodorante 200ml"
   },
   {
     "id": 2473,
@@ -6230,7 +6236,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2473_zkmwrt.jpg",
     "nt": "Salida: Bergamota, rosa Notas de corazón: Rosa, pachulí, Especias Notas de fondo: Sándalo, almizcle, ámbar",
     "p1": "$76.100",
-    "fn": "LATTAFA - Hayaati Black | EDP"
+    "fn": "LATTAFA - Hayaati Black | EDP",
+    "ki": "El set incluye: Hayaati Black 100ml · Desodorante · Hair Mist"
   },
   {
     "id": 2474,
@@ -6543,7 +6550,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2497_hsf3hw.jpg",
     "nt": "Salida: Pimienta negra, cardamomo, bergamota Notas de corazón: Cuero, madera de oud, pachulí Notas de fondo: Ámbar, benjuí, vainilla, almizcle",
     "p1": "$81.000",
-    "fn": "LATTAFA - Maahir Black Edition | EDP"
+    "fn": "LATTAFA - Maahir Black Edition | EDP",
+    "ki": "El set incluye: Maahir Black Edition 100ml · Air Freshener 300ml · Desodante 200ml"
   },
   {
     "id": 2498,
@@ -6557,7 +6565,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2498_6druaj.jpg",
     "nt": "Salida: Azafrán Notas de corazón: Oud Notas de fondo: Ámbar, almizcle",
     "p1": "$77.700",
-    "fn": "LATTAFA - Pride Al Qiam Gold | EDP"
+    "fn": "LATTAFA - Pride Al Qiam Gold | EDP",
+    "ki": "El set incluye: Pride Al Qiam Gold 100ml · Decan 20ml · Desodorante 200ml · Perfumero de viaje 5ml"
   },
   {
     "id": 2499,
@@ -6583,7 +6592,8 @@
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2500_fo26ih.jpg",
     "nt": "Salida Frambuesa, bergamota Notas de corazón: Cedro, raiz de lirio, osmanto Notas de fondo: Cuero, pachulí, vainilla",
-    "p1": "$96.700"
+    "p1": "$96.700",
+    "ki": "El set incluye: King Of Arabia 100ml · Decan 20ml · Desodorante 200ml · Perfumero de viaje 5ml"
   },
   {
     "id": 2501,
@@ -6857,7 +6867,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2523_zbv1li.jpg",
     "nt": "Salida: Manzana Granny Smith, piña, mandarina Notas de corazón: Cedro, vainilla, musgo de roble Notas de fondo: Ámbar gris, almizcle, Madera Seca, caramelo",
     "p1": "$112.900",
-    "fn": "AFNAN - 9pm Rebel | EDP"
+    "fn": "AFNAN - 9pm Rebel | EDP",
+    "ki": "El set incluye: 9pm Rebel 100ml · Desodorante 150ml · Gel de baño 150ml"
   },
   {
     "id": 2524,
@@ -6871,7 +6882,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2524_3obyet.jpg",
     "nt": "Salida: Incienso de olíbano, mandarina, bergamota, manzana Notas de corazón: Cardamomo, flor de azahar del naranjo, rosa Notas de fondo: Vainilla, almizcle, ambroxan, madera de gaiac, cedro",
     "p1": "$99.200",
-    "fn": "LATTAFA - Pride Art Of Nature II | EDP"
+    "fn": "LATTAFA - Pride Art Of Nature II | EDP",
+    "ki": "El set incluye: Pride Art Of Nature II 100ml · Desodorante 200ml · Decan 30ml · Perfumero de viaje 5ml"
   },
   {
     "id": 2525,
@@ -7288,7 +7300,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1788817994911_evto7a.jpg",
     "nt": "Salida: Mandarina, naranja, azafran, salvia Notas de corazón: caramelo, haba tonka, cempasuchil Notas de fondo: ambroxan, cedro, vetiver",
     "p1": "$94.200",
-    "fn": "ARMAF - Odyssey Mandarin Sky For Men | EDP"
+    "fn": "ARMAF - Odyssey Mandarin Sky For Men | EDP",
+    "ki": "El set incluye: Odyssey Mandarin Sky For Men 100ml · Gel de ducha 100ml · Decan 10ml · Body Spray 200ml"
   },
   {
     "id": 2558,
@@ -7340,7 +7353,8 @@
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2561_ni26p5.png",
     "nt": "Salida lima, limon, bergamota, jazmin, naranja, mandarina, neroli Notas de corazón: notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda Notas de fondo: almizcle, cedro, musgo, pachuli, ambar",
-    "p1": "$181.700"
+    "p1": "$181.700",
+    "ki": "El set incluye: Acqua Di Gio 100ml · Toalla de Playa"
   },
   {
     "id": 2562,
@@ -7354,7 +7368,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1788987782412_fzj443.jpg",
     "nt": "Salida: Limón, grosella negra, manzana, piña, bergamota Notas de corazón: Abedul, jazmín, rosa Notas de fondo: Almizcle, ámbar gris, vainilla, pachulí",
     "p1": "$99.200",
-    "fn": "ARMAF - Club de Nuit Intense | EDT"
+    "fn": "ARMAF - Club de Nuit Intense | EDT",
+    "ki": "El set incluye: Club de Nuit Intense 105ml · Gel de ducha 100ml · Desodorante 200ml · Decan 10ml"
   },
   {
     "id": 2563,
@@ -7459,7 +7474,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2570_d78uvw.jpg",
     "nt": "Salida: Azafrán, bergamota, elemi Notas de corazón: Madera de oud, rosa de Bulgaria, lirio de los valles Notas de fondo: Haba tonka, ámbar, almizcle blanco, musgo de roble",
     "p1": "$115.700",
-    "fn": "AL HARAMAIN - Amber Oud Dubai Night | Extrait De Parfum"
+    "fn": "AL HARAMAIN - Amber Oud Dubai Night | Extrait De Parfum",
+    "ki": "El set incluye: Amber Oud Dubai Night 100ml · Amber Oud Dubai Night 30ml · Desodorante 250ml"
   },
   {
     "id": 2571,
@@ -7564,7 +7580,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2578_tpvahk.jpg",
     "nt": "Salida: Especias, coco, bergamota Notas de corazón: Flores blancas, sándalo Notas de fondo: Almizcle, ámbar, vainilla",
     "p1": "$128.400",
-    "fn": "LATTAFA - Musamam White Intense | EDP"
+    "fn": "LATTAFA - Musamam White Intense | EDP",
+    "ki": "El set incluye: Musamam White Intense 100ml · Decan 12ml · Fresh Hair Mist 50ml"
   },
   {
     "id": 2579,
@@ -7864,7 +7881,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2602_p1rp58.jpg",
     "nt": "Salida: Canela, nuez moscada, bergamota Notas de corazón: Dátiles, praliné, tuberosa, mahonial Notas de fondo: Vainilla, haba tonka, Amberwood, mirra, Benjuí, Akigalawood",
     "p1": "$79.900",
-    "fn": "LATTAFA - Khamrah | EDP"
+    "fn": "LATTAFA - Khamrah | EDP",
+    "ki": "El set incluye: Khamrah 100ml · Decan 12ml · Hair Mist 50ml"
   },
   {
     "id": 2603,
@@ -7956,7 +7974,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1791671393449_tlh9jq.jpg",
     "nt": "Salida: Naranja, pomelo, durazno, bergamota Notas de corazón: Rosa, geranio, jazmín, lichi Notas de fondo: Almizcle, pachulí, vainilla",
     "p1": "$105.500",
-    "fn": "ARMAF - Club de Nuit Woman | EDP"
+    "fn": "ARMAF - Club de Nuit Woman | EDP",
+    "ki": "El set incluye: Club de Nuit Woman 105ml · Body splash 250ml · Desodorante 50ml · Body lotion 100ml"
   },
   {
     "id": 2626,
@@ -7970,7 +7989,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2626_xr4adi.jpg",
     "nt": "Salida: Azafrán, bergamota Notas de corazón: Oud, rosa Notas de fondo: Ámbar, almizcle, maderas",
     "p1": "$82.000",
-    "fn": "LATTAFA - Bade'e Al Oud Sublime | EDP"
+    "fn": "LATTAFA - Bade'e Al Oud Sublime | EDP",
+    "ki": "El set incluye: Bade'e Al Oud Sublime 100ml · Decan 12ml · Hair mist 50"
   },
   {
     "id": 2627,
@@ -7997,7 +8017,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2630_l289ad.jpg",
     "nt": "Salida: Vainilla, leche, caramelo Notas de corazón: Flores blancas, heliotropo Notas de fondo: Vainilla, almizcle, ámbar",
     "p1": "$95.500",
-    "fn": "LATTAFA - Eclaire | EDP"
+    "fn": "LATTAFA - Eclaire | EDP",
+    "ki": "El set incluye: Eclaire 100ml · Desodorante 200ml"
   },
   {
     "id": 2631,
@@ -8349,7 +8370,8 @@
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2659_2w578l.jpg",
     "nt": "Salida: Azafrán, bergamota Notas de corazón: Licor, canela Notas de fondo: Ámbar, haba tonka, Benjuí",
     "p1": "$85.000",
-    "fn": "LATTAFA - Teriaq Intense | EDP"
+    "fn": "LATTAFA - Teriaq Intense | EDP",
+    "ki": "El set incluye: Teriaq Intense 100ml · Decan 12ml · Hair Mist 50ml"
   },
   {
     "id": 2660,

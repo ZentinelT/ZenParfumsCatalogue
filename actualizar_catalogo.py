@@ -39,7 +39,7 @@ headers = {
     "Origin": "https://zenparfums.com",
     "Referer": "https://zenparfums.com/",
 }
-params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med,kit_componentes"}
+params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med,kit_componentes,agregados"}
 
 print("Descargando productos...")
 response = requests.get(API_URL, headers=headers, params=params, timeout=30)
@@ -177,6 +177,12 @@ NOTA_KEYS = ["descripcion", "descripcion_olfativa", "descripcion_olf", "notas",
              "notas_olfativas", "notas_olf", "notes", "notes_olfativas"]
 NOTA_PLACEHOLDERS = {"nan", "none", "null", "n/a", "na", "undefined",
                      "sin datos", "sin notas", "no data"}
+
+def nombre_corto(nombre):
+    """'ARMAF - Odyssey Mandarin Sky For Men | EDP' -> 'Odyssey Mandarin Sky For Men'"""
+    s = nombre.split("-", 1)[1] if "-" in nombre else nombre
+    s = s.split("|")[0]
+    return re.sub(r"\s+", " ", s).strip()
 
 def texto_notas(row):
     """Primer campo con texto util entre los alias de descripcion/notas de Belle."""
@@ -559,6 +565,27 @@ for r in registros:
             if nt_comp != "—":
                 r["nt"] = nt_comp
                 heredo = True
+
+    # "El set incluye: <perfume> <ml> · <extra> · <extra>", mismo formato que usan los
+    # kits que Belle describe a mano. Sale de kit_componentes + agregados.
+    kit_row = PRODUCTOS_BELLE.get(r["id"], {})
+    extras = []
+    for x in (kit_row.get("agregados") or []):
+        # Belle los carga a mano: "Gel de ducha - 100 ml" -> "Gel de ducha 100ml"
+        x = re.sub(r"\s*-\s*(?=\d)", " ", str(x).strip())
+        x = re.sub(r"(\d)\s*ml\b", r"\1ml", x, flags=re.IGNORECASE)
+        x = re.sub(r"\s+", " ", x).strip()
+        if x:
+            extras.append(x)
+    if extras:
+        ml_comp = comp.get("ml") or kit_row.get("ml")
+        corto = nombre_corto(nombre_comp)
+        try:
+            cabeza = f"{corto} {int(ml_comp)}ml" if ml_comp else corto
+        except (TypeError, ValueError):
+            cabeza = corto
+        r["ki"] = "El set incluye: " + " · ".join([cabeza] + extras)
+        heredo = True
 
     if fi_comp:
         r["fn"] = nombre_comp
