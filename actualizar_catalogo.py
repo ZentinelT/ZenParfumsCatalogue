@@ -39,7 +39,7 @@ headers = {
     "Origin": "https://zenparfums.com",
     "Referer": "https://zenparfums.com/",
 }
-params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med"}
+params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med,kit_componentes"}
 
 print("Descargando productos...")
 response = requests.get(API_URL, headers=headers, params=params, timeout=30)
@@ -49,8 +49,18 @@ if response.status_code != 200:
     print("Error:", response.status_code, response.text)
     exit(1)
 
-df = pd.DataFrame(response.json())
+productos_belle_raw = response.json()
+df = pd.DataFrame(productos_belle_raw)
 print(f"Productos descargados: {len(df)}")
+
+# Catalogo completo por id, sin filtrar: los KITs necesitan poder mirar su componente
+# aunque ese perfume este oculto o en otra categoria.
+PRODUCTOS_BELLE = {}
+for _p in productos_belle_raw:
+    try:
+        PRODUCTOS_BELLE[int(_p["id"])] = _p
+    except (KeyError, TypeError, ValueError):
+        pass
 
 # Cotizacion del dolar que usa Belle para calcular sus precios
 COTIZ = 0.0
@@ -163,6 +173,27 @@ def genero_map(g):
         return "hombre"
     return "unisex"
 
+NOTA_KEYS = ["descripcion", "descripcion_olfativa", "descripcion_olf", "notas",
+             "notas_olfativas", "notas_olf", "notes", "notes_olfativas"]
+NOTA_PLACEHOLDERS = {"nan", "none", "null", "n/a", "na", "undefined",
+                     "sin datos", "sin notas", "no data"}
+
+def texto_notas(row):
+    """Primer campo con texto util entre los alias de descripcion/notas de Belle."""
+    for key in NOTA_KEYS:
+        val = row.get(key)
+        if val is None:
+            continue
+        try:
+            if pd.isna(val):
+                continue
+        except (TypeError, ValueError):
+            pass
+        texto = str(val).strip()
+        if texto and texto.lower() not in NOTA_PLACEHOLDERS:
+            return texto
+    return ""
+
 def parsear_notas(desc):
     if desc is None:
         return "—"
@@ -235,15 +266,7 @@ for _, row in df.iterrows():
 
     precio = calcular_precio(row)
 
-    nota_texto = ""
-    for key in ["descripcion", "descripcion_olfativa", "descripcion_olf", "notas", "notas_olfativas", "notas_olf", "notes", "notes_olfativas"]:
-        if key in df.columns:
-            val = row.get(key)
-            if val is not None and not pd.isna(val):
-                texto = str(val).strip()
-                if texto and texto.lower() not in {"nan", "none", "null", "n/a", "na", "undefined", "sin datos", "sin notas", "no data"}:
-                    nota_texto = texto
-                    break
+    nota_texto = texto_notas(row)
 
     registros.append({
         "id": pid,
@@ -493,6 +516,65 @@ for r in registros:
         notas_enriquecidas += 1
 if notas_enriquecidas:
     print(f"Notas estructuradas desde fichas: {notas_enriquecidas}")
+
+# ---------- 6c. KITS DE UN SOLO PERFUME: HEREDAR LA DESCRIPCION DEL COMPONENTE ----------
+# Belle deja descripcion/notas vacias en los kits y resuelve kit_componentes para mostrar
+# la ficha del perfume que traen. Hacemos lo mismo: si el kit trae un solo componente,
+# hereda sus notas y queda apuntado a su ficha (campo "fn", que usan el front y las
+# paginas estaticas cuando el nombre del kit no matchea ninguna ficha).
+# Los kits multiperfume (Pride Box, discovery sets) se dejan como estan: una sola ficha
+# de los 4 o 5 perfumes que traen seria enganosa.
+kits_heredados = 0
+for r in registros:
+    comps = PRODUCTOS_BELLE.get(r["id"], {}).get("kit_componentes") or []
+    if len(comps) != 1:
+        continue
+    try:
+        comp = PRODUCTOS_BELLE.get(int(comps[0]))
+    except (TypeError, ValueError):
+        comp = None
+    if not comp:
+        continue
+    nombre_comp = str(comp.get("nombre", "")).strip()
+    if not nombre_comp or nombre_comp == r.get("n"):
+        continue
+
+    fi_comp = ficha_notas_map.get(nombre_comp)
+    heredo = False
+    # Solo rellenamos kits vacios: si Belle ya le cargo texto propio al kit
+    # (p.ej. "El set incluye: ...") se respeta y no se pisa.
+    if r.get("nt") in (None, "", "—"):
+        partes = []
+        if fi_comp and fi_comp.get("notas_salida"):
+            partes.append("Salida: " + fi_comp["notas_salida"])
+            if fi_comp.get("notas_corazon"):
+                partes.append("Notas de corazón: " + fi_comp["notas_corazon"])
+            if fi_comp.get("notas_fondo"):
+                partes.append("Notas de fondo: " + fi_comp["notas_fondo"])
+        if partes:
+            r["nt"] = " ".join(partes)
+            heredo = True
+        else:
+            nt_comp = parsear_notas(texto_notas(comp))
+            if nt_comp != "—":
+                r["nt"] = nt_comp
+                heredo = True
+
+    if fi_comp:
+        r["fn"] = nombre_comp
+        heredo = True
+        # El paso 6 asigna el genero por el nombre del producto y el del kit no matchea
+        # ninguna ficha; lo tomamos de la ficha del perfume que trae, asi el filtro del
+        # catalogo coincide con lo que muestra la pagina. Si el kit tiene ficha propia
+        # esa manda y no se pisa.
+        if r.get("n") not in ficha_notas_map:
+            g_comp = _genero_de_ficha(fi_comp.get("genero"))
+            if g_comp:
+                r["g"] = g_comp
+    if heredo:
+        kits_heredados += 1
+if kits_heredados:
+    print(f"KITs de un componente con descripción heredada: {kits_heredados}")
 
 # ---------- 7. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:

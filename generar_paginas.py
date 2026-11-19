@@ -128,7 +128,8 @@ for p in P:
     title = f"{nm} — {brand}"
     slug = f"{p['id']}-{slugify(nm)}"
     url = f"{SITE}/perfume/{slug}/"
-    f = fi.get(norm(p["n"])) or {}
+    # "fn": nombre del perfume que trae un kit de un solo componente (ver paso 6c del sync)
+    f = fi.get(norm(p["n"])) or (fi.get(norm(p["fn"])) if p.get("fn") else None) or {}
     sal, cor, fon = f.get("notas_salida"), f.get("notas_corazon"), f.get("notas_fondo")
     notas_txt = " · ".join(f"{l}: {v}" for l, v in zip(("Salida", "Corazón", "Fondo"), (sal, cor, fon)) if v)
     if not notas_txt and p.get("nt") and p["nt"] != "—":

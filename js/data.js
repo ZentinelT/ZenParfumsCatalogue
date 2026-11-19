@@ -31,7 +31,10 @@ function normName(n) {
   }
   return s;
 }
-function getFicha(p) { return FICHAS[normName(p.n)] || null; }
+// "fn": los kits de un solo perfume apuntan a la ficha de ese perfume (lo pone el sync)
+function getFicha(p) {
+  return FICHAS[normName(p.n)] || (p.fn ? FICHAS[normName(p.fn)] : null) || null;
+}
 
 // --- Línea infantil (TUBBEES + Lattafa Kids): categoría propia, fuera del buscador por notas ---
 function isKids(p) {
