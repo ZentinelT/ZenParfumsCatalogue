@@ -6132,7 +6132,8 @@
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2465_9gitlg.jpg",
     "nt": "—",
-    "p1": "$94.200"
+    "p1": "$94.200",
+    "ki": "El set incluye: Asad Black 25ml · Asad Bourbon 25ml · Asad Elixir 25ml · Asad Zanzibar 25ml"
   },
   {
     "id": 2466,
@@ -6224,9 +6225,10 @@
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2472_fj44ud.jpg",
-    "nt": "Salida Mandarina, especias Notas de corazón: Cuero Notas de fondo: Ámbar, miel",
+    "nt": "Salida: Mandarina, especias Notas de corazón: Cuero Notas de fondo: Ámbar, miel",
     "p1": "$68.700",
-    "ki": "El set incluye: Fakhar Gold Extract 100ml · Desodorante 200ml"
+    "ki": "El set incluye: Fakhar Gold Extract 100ml · Desodorante 200ml",
+    "fn": "LATTAFA - Fakhar Gold Extract | EDP"
   },
   {
     "id": 2473,
@@ -6371,7 +6373,8 @@
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2483_6hyng2.jpg",
     "nt": "—",
-    "p1": "$72.800"
+    "p1": "$72.800",
+    "ki": "El set incluye: Pride Artisan Ethnique · Pride Natural Oud · Tharwah Silver · Pride Eternal Oud · Pride Ishq Al Shuyukh Gold"
   },
   {
     "id": 2484,
@@ -6449,7 +6452,8 @@
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2489_ns434x.jpg",
     "nt": "—",
-    "p1": "$74.400"
+    "p1": "$74.400",
+    "ki": "El set incluye: Pride Art of Arabia III · Pride Ajwaa · Pride Al Qiam Gold · Pride Masa · Pride Brioche Vanille"
   },
   {
     "id": 2490,
@@ -6540,7 +6544,8 @@
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2496_7y6x3t.jpg",
     "nt": "—",
-    "p1": "$74.400"
+    "p1": "$74.400",
+    "ki": "El set incluye: Pride Nebras · Pride Art Of Wood · Pride Art of Universe · Pride Ansaam Gold · Pride Kashan"
   },
   {
     "id": 2497,
@@ -6595,9 +6600,10 @@
     "g": "unisex",
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2500_fo26ih.jpg",
-    "nt": "Salida Frambuesa, bergamota Notas de corazón: Cedro, raiz de lirio, osmanto Notas de fondo: Cuero, pachulí, vainilla",
+    "nt": "Salida: Frambuesa, bergamota Notas de corazón: Cedro, raiz de lirio, osmanto Notas de fondo: Cuero, pachulí, vainilla",
     "p1": "$96.700",
-    "ki": "El set incluye: King Of Arabia 100ml · Decan 20ml · Desodorante 200ml · Perfumero de viaje 5ml"
+    "ki": "El set incluye: King Of Arabia 100ml · Decan 20ml · Desodorante 200ml · Perfumero de viaje 5ml",
+    "fn": "LATTAFA - King Of Arabia | EDP"
   },
   {
     "id": 2501,
@@ -7356,9 +7362,10 @@
     "g": "unisex",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2561_ni26p5.png",
-    "nt": "Salida lima, limon, bergamota, jazmin, naranja, mandarina, neroli Notas de corazón: notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda Notas de fondo: almizcle, cedro, musgo, pachuli, ambar",
+    "nt": "Salida: lima, limon, bergamota, jazmin, naranja, mandarina, neroli Notas de corazón: notas marinas, jazmin, calone, romero, durazno, fresia, jacinto, ciclamen, violeta, cilantro, rosa, nuez moscada, reseda Notas de fondo: almizcle, cedro, musgo, pachuli, ambar",
     "p1": "$181.700",
-    "ki": "El set incluye: Acqua Di Gio 100ml · Toalla de Playa"
+    "ki": "El set incluye: Acqua Di Gio 100ml · Toalla de Playa",
+    "fn": "ARMANI - Acqua Di Gio | EDT"
   },
   {
     "id": 2562,
@@ -7451,7 +7458,8 @@
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2568_0pbrfr.jpg",
     "nt": "—",
-    "p1": "$71.200"
+    "p1": "$71.200",
+    "ki": "El set incluye: Odyssey Candee 12ml · Odyssey Dubai Chocolat 12ml · Odyssey Limoni Fresh Edition 12ml · Odyssey Spectra 12ml"
   },
   {
     "id": 2569,
@@ -7858,7 +7866,8 @@
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2600_u3g6je.jpg",
     "nt": "Salida fresa, limon, flores blancas Notas de corazón: vainilla, chocolate, coco, malvavisco Notas de fondo: caramelo, azucar, ambar, almizcle blanco, maderas",
-    "p1": "$106.800"
+    "p1": "$106.800",
+    "ki": "El set incluye: Rome Yum Yum 100ml · Body Mist 250ml"
   },
   {
     "id": 2601,
@@ -8545,5 +8554,18 @@
     "i": "https://http2.mlstatic.com/D_Q_NP_881016-MLA107571273261_022026-F.webp",
     "nt": "nardos, flores blancas, cacao, notas amaderadas, notas dulces, citricos, pachuli",
     "p1": "$63.000"
+  },
+  {
+    "id": 2676,
+    "b": "ARMAF",
+    "n": "ARMAF - Ombre D´Or | EDP",
+    "s": "75ml",
+    "p": 75000,
+    "c": "arabes",
+    "g": "unisex",
+    "st": "out",
+    "i": "https://http2.mlstatic.com/D_Q_NP_851507-MLA101587199861_122025-F.webp",
+    "nt": "almizcle, lima, azafran, notas metalicas, iris, rosa, notas amaderadas, incienso, ambar",
+    "p1": "$75.000"
   }
 ]
