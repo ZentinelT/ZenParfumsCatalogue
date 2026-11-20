@@ -135,10 +135,15 @@ def clasificar_plana(plano):
         frac = i / max(1, n - 1)
         dest = "sal" if frac < 0.34 else ("cor" if frac < 0.67 else "fon")
         buckets[dest].append(it)
-    # si algún nivel quedó vacío, no forzamos una pirámide falsa
-    if not all(buckets.values()):
+    # mostramos los niveles que SÍ tienen notas (el front oculta los vacíos). Con 2
+    # o 3 niveles vale la pena dividir; si cae todo en uno solo, se deja plana para
+    # no mostrar una "pirámide" de un solo renglón. No se inventan niveles.
+    llenos = sum(1 for v in buckets.values() if v)
+    if llenos < 2:
         return None, None, None
-    return (", ".join(buckets["sal"]), ", ".join(buckets["cor"]), ", ".join(buckets["fon"]))
+    return (", ".join(buckets["sal"]) or None,
+            ", ".join(buckets["cor"]) or None,
+            ", ".join(buckets["fon"]) or None)
 
 
 def piramide_de_notas(notas):

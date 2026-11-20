@@ -20662,6 +20662,8 @@
   {
     "nombre_completo": "ARMAF - Match Point | EDP",
     "marca": "ARMAF",
+    "notas_salida": "Mandarina, Bergamota, Piña",
+    "notas_fondo": "Gamuza, Sándalo, Vainilla, Almizcle Blanco, Abedul, Ámbar Gris",
     "generada": true,
     "familia_olfativa": "Cálido especiado, Aromático, Fesco especiado, Amaderado, Pachulí, Almizclado, Lavanda, Cítrico, Canela, Dulce",
     "momento_dia": "Tarde / Noche",
@@ -20671,7 +20673,7 @@
     "duracion": "Excepcional (8h a 12h)",
     "estela": "Intensa",
     "proyeccion": "Muy alta",
-    "descripcion": "Un perfume cálido y amaderado, con piña, mandarina y bergamota. Deja una estela intensa y con carácter que perdura por horas.",
+    "descripcion": "Un perfume cálido y amaderado, con mandarina, gamuza y bergamota. Deja una estela intensa y con carácter que perdura por horas.",
     "estilo_descripcion": "Diseñado para una presencia fuerte y de carácter, con estela que deja huella."
   },
   {
@@ -21145,6 +21147,8 @@
   {
     "nombre_completo": "MAISON ASRAR - Milky Way | EDP",
     "marca": "MAISON ASRAR",
+    "notas_corazon": "ciruela, raiz de lirio, jazmin, ylang-ylang",
+    "notas_fondo": "leche, caramelo, cachemira, sandalo, vainilla, haba tonka",
     "generada": true,
     "familia_olfativa": "Amaderado, Atalcado, Avainillado, Dulce, Lactónico, Balsámico, Iris, Ámbar, Cálido especiado, Almizclado",
     "momento_dia": "Tarde / Noche",
@@ -21154,7 +21158,7 @@
     "duracion": "Prolongada (7h a 9h)",
     "estela": "Intensa",
     "proyeccion": "Alta",
-    "descripcion": "Un perfume dulce y envolvente, con leche, caramelo y ciruela. Deja una estela golosa y adictiva que invita a acercarse.",
+    "descripcion": "Un perfume dulce y envolvente, con ciruela, leche y raiz de lirio. Deja una estela golosa y adictiva que invita a acercarse.",
     "estilo_descripcion": "Para quienes disfrutan de fragancias dulces, envolventes y adictivas."
   },
   {
@@ -21250,6 +21254,8 @@
   {
     "nombre_completo": "AZZARO - The Most Wanted | Parfum",
     "marca": "AZZARO",
+    "notas_salida": "jengibre",
+    "notas_fondo": "notas amaderadas, vainilla",
     "generada": true,
     "familia_olfativa": "Avainillado, Amaderado, Fesco especiado, Atalcado, Fresco",
     "momento_dia": "Tarde / Noche",
@@ -21301,6 +21307,8 @@
   {
     "nombre_completo": "DIOR - Homme Intense | EDP",
     "marca": "DIOR",
+    "notas_corazon": "iris",
+    "notas_fondo": "almizcle, cedro",
     "generada": true,
     "familia_olfativa": "Iris, Amaderado, Atalcado, Violeta, Almizclado, Floral, Terrosos",
     "momento_dia": "Día / Tarde / Noche",
