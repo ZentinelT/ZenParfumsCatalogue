@@ -710,6 +710,15 @@ for r in registros:
     if fg:
         fichas_generadas.append(fg)
         nombres_con_ficha.add(nombre)
+        # Si la ficha generada partió la pirámide (notas que Belle mandaba planas),
+        # reescribimos el campo "nt" del producto con los rótulos para que la
+        # mini-pirámide de la tarjeta del catálogo coincida con la ficha.
+        _niv = [("Salida", fg.get("notas_salida")),
+                ("Corazón", fg.get("notas_corazon")),
+                ("Fondo", fg.get("notas_fondo"))]
+        _p = [f"{lab}: {val}" for lab, val in _niv if val]
+        if len(_p) >= 2:
+            r["nt"] = " · ".join(_p)
 
 if fichas_generadas:
     print(f"Fichas generadas automáticamente (sin ficha propia): {len(fichas_generadas)}")
