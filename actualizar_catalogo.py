@@ -523,6 +523,39 @@ for r in registros:
 if notas_enriquecidas:
     print(f"Notas estructuradas desde fichas: {notas_enriquecidas}")
 
+# ---------- 6b2. KITS MULTIPERFUME CON FICHA PROPIA: LISTAR QUE PERFUMES TRAEN ----------
+# Estos cuatro tenian la lista de perfumes cargada dentro de notas_salida en la ficha,
+# asi que salia disfrazada de piramide olfativa. Se limpio la ficha y la lista se arma
+# aca, en el campo "ki". El ml sale del kit, no del componente: el Badee 4x25 trae
+# miniaturas de 25ml pero sus componentes son los frascos de 100ml.
+# El resto de los kits multiperfume (Pride Box, Discovery Set, Asad 4x25) va sin linea.
+KITS_MULTI_CON_LISTA = [2098, 2104, 2178, 2179]
+
+multi_listados = 0
+for r in registros:
+    if r["id"] not in KITS_MULTI_CON_LISTA:
+        continue
+    kit_row = PRODUCTOS_BELLE.get(r["id"], {})
+    ml_kit = kit_row.get("ml")
+    partes = []
+    for cid in (kit_row.get("kit_componentes") or []):
+        comp = PRODUCTOS_BELLE.get(cid)
+        if not comp:
+            continue
+        corto = nombre_corto(str(comp.get("nombre", "")))
+        try:
+            partes.append(f"{corto} {int(ml_kit)}ml" if ml_kit else corto)
+        except (TypeError, ValueError):
+            partes.append(corto)
+    if len(partes) > 1:
+        r["ki"] = "El set incluye: " + " · ".join(partes)
+        # Belle manda la misma lista en "notas", y el front la pinta como piramide
+        # olfativa. Ya quedo en "ki", asi que se limpia para no duplicarla disfrazada.
+        r["nt"] = "—"
+        multi_listados += 1
+if multi_listados:
+    print(f"KITs multiperfume con lista de contenido: {multi_listados}")
+
 # ---------- 6c. KITS DE UN SOLO PERFUME: HEREDAR LA DESCRIPCION DEL COMPONENTE ----------
 # Belle deja descripcion/notas vacias en los kits y resuelve kit_componentes para mostrar
 # la ficha del perfume que traen. Hacemos lo mismo: si el kit trae un solo componente,

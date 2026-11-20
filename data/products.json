@@ -1521,8 +1521,9 @@
     "g": "hombre",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2098_m02glh.jpg",
-    "nt": "Contiene 2 perfumes de 100ml: Asad Black Asad Zanzibar",
-    "p1": "$79.400"
+    "nt": "—",
+    "p1": "$79.400",
+    "ki": "El set incluye: Asad Black 100ml · Asad Zanzibar 100ml"
   },
   {
     "id": 2099,
@@ -1599,8 +1600,9 @@
     "g": "unisex",
     "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2104_jvifof.jpg",
-    "nt": "Contiene 4 perfumes de 25ml | EDP |: Bade'e Al Oud For Glory Bade'e Al Oud Honor & Glory Bade'e Al Oud Noble Blush Bade'e Al Oud Sublime",
-    "p1": "$76.000"
+    "nt": "—",
+    "p1": "$76.000",
+    "ki": "El set incluye: Bade'e Al Oud For Glory 25ml · Bade'e Al Oud Honor & Glory 25ml · Bade'e Al Oud Sublime 25ml · Bade'e Al Oud Noble Blush 25ml"
   },
   {
     "id": 2105,
@@ -2561,8 +2563,9 @@
     "g": "mujer",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2178_hcajb8.jpg",
-    "nt": "Contiene 2 perfumes de 100ml: Yara Rosa Yara Candy",
-    "p1": "$87.600"
+    "nt": "—",
+    "p1": "$87.600",
+    "ki": "El set incluye: Yara Candy 100ml · Yara Rosa 100ml"
   },
   {
     "id": 2179,
@@ -2574,8 +2577,9 @@
     "g": "mujer",
     "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2179_kqqbok.jpg",
-    "nt": "Contiene 4 perfumes de 25ml: Yara Rosa Yara Moi Yara Tous Yara Candy",
-    "p1": "$76.100"
+    "nt": "—",
+    "p1": "$76.100",
+    "ki": "El set incluye: Yara Candy 25ml · Yara Rosa 25ml · Yara Moi 25ml · Yara Tous 25ml"
   },
   {
     "id": 2180,
