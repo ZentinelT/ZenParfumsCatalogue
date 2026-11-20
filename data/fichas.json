@@ -18502,6 +18502,9 @@
   {
     "nombre_completo": "BHARARA - Doble Bleu | EDP",
     "marca": "BHARARA",
+    "notas_salida": "Limón, bergamota, romero, cilantro, piña",
+    "notas_corazon": "Jazmín",
+    "notas_fondo": "trozos de madera a la deriva, almizcle",
     "generada": true,
     "familia_olfativa": "Cítrico, Aromático, Amaderado, Afrutados, Dulce, Fresco especiado, Fresco, Floral blanco, Tropical, Almizclado",
     "momento_dia": "Día / Tarde",
@@ -18511,7 +18514,7 @@
     "duracion": "Moderada (5h a 7h)",
     "estela": "Moderada",
     "proyeccion": "Media",
-    "descripcion": "Un perfume fresco y luminoso, con limón, piña y bergamota. Deja una estela limpia, fácil de llevar todos los días.",
+    "descripcion": "Un perfume fresco y luminoso, con limón, jazmín y trozos de madera a la deriva. Deja una estela limpia, fácil de llevar todos los días.",
     "estilo_descripcion": "Pensado para quienes buscan frescura limpia y versátil para todos los días."
   },
   {
@@ -20067,6 +20070,9 @@
   {
     "nombre_completo": "CACHAREL - Anais Anais | EDT",
     "marca": "CACHAREL",
+    "notas_salida": "bergamota, Grosella negra",
+    "notas_corazon": "Jacinto, madreselva, Azucena, lirio de los valles, jazmín, ylang-ylang, rosa",
+    "notas_fondo": "Musgo de roble, vetiver, almizcle, sándalo",
     "generada": true,
     "familia_olfativa": "Floral blanco, Verde, Florales, Terrosos, Amaderado, Musgoso, Fresco especiado, Rosas",
     "momento_dia": "Día / Tarde / Noche",
@@ -20076,7 +20082,7 @@
     "duracion": "Moderada (6h a 8h)",
     "estela": "Moderada",
     "proyeccion": "Media",
-    "descripcion": "Un perfume floral y elegante, con jacinto, madreselva y bergamota. Deja una estela delicada y versátil para cualquier momento.",
+    "descripcion": "Un perfume floral y elegante, con bergamota, jacinto y musgo de roble. Deja una estela delicada y versátil para cualquier momento.",
     "estilo_descripcion": "Para quienes buscan elegancia floral versátil, fácil de llevar a cualquier lado."
   },
   {
@@ -20671,6 +20677,9 @@
   {
     "nombre_completo": "BHARARA - Rose | EDP",
     "marca": "BHARARA",
+    "notas_salida": "azafran",
+    "notas_corazon": "rosa, jazmin, violeta",
+    "notas_fondo": "ambar, oud",
     "generada": true,
     "familia_olfativa": "Rosas, Floral blanco, Ámbar, Floral, Atalcado",
     "momento_dia": "Día / Tarde / Noche",
@@ -20680,7 +20689,7 @@
     "duracion": "Moderada (6h a 8h)",
     "estela": "Moderada",
     "proyeccion": "Media",
-    "descripcion": "Un perfume floral y elegante, con rosa, azafran y jazmin. Deja una estela delicada y versátil para cualquier momento.",
+    "descripcion": "Un perfume floral y elegante, con azafran, rosa y ambar. Deja una estela delicada y versátil para cualquier momento.",
     "estilo_descripcion": "Para quienes buscan elegancia floral versátil, fácil de llevar a cualquier lado."
   },
   {
@@ -21151,6 +21160,9 @@
   {
     "nombre_completo": "MAISON ASRAR - Vanilla Aura | EDP",
     "marca": "MAISON ASRAR",
+    "notas_salida": "bergamota, limon",
+    "notas_corazon": "lirio de los valles",
+    "notas_fondo": "vainilla, chocolate, caramelo, vainilla, ambar, sandalo, haba tonka",
     "generada": true,
     "familia_olfativa": "Avainillado, Ámbar, Atalcado, Dulce, Amaderado, Cálido especiado, Cítrico, Floral blanco, Aromático, Balsámico",
     "momento_dia": "Tarde / Noche",
@@ -21160,12 +21172,15 @@
     "duracion": "Excepcional (8h a 12h)",
     "estela": "Intensa",
     "proyeccion": "Muy alta",
-    "descripcion": "Un perfume cálido y amaderado, con lirio de los valles, bergamota y limon. Deja una estela intensa y con carácter que perdura por horas.",
+    "descripcion": "Un perfume cálido y amaderado, con bergamota, lirio de los valles y vainilla. Deja una estela intensa y con carácter que perdura por horas.",
     "estilo_descripcion": "Diseñado para una presencia fuerte y de carácter, con estela que deja huella."
   },
   {
     "nombre_completo": "MAISON ALHAMBRA - Reyna | EDP",
     "marca": "MAISON ALHAMBRA",
+    "notas_salida": "mandarina, bergamota, toronja, grosellas negras",
+    "notas_corazon": "frambuesa, flor de azahar del naranjo",
+    "notas_fondo": "malvavisco, crema batida, almizcle, almizcle ambreta",
     "generada": true,
     "familia_olfativa": "Dulce, Cítrico, Afrutados, Floral blanco, Atalcado, Almizclado, Avainillado",
     "momento_dia": "Tarde / Noche",
@@ -21175,12 +21190,15 @@
     "duracion": "Prolongada (7h a 9h)",
     "estela": "Intensa",
     "proyeccion": "Alta",
-    "descripcion": "Un perfume dulce y envolvente, con mandarina, bergamota y toronja. Deja una estela golosa y adictiva que invita a acercarse.",
+    "descripcion": "Un perfume dulce y envolvente, con mandarina, frambuesa y malvavisco. Deja una estela golosa y adictiva que invita a acercarse.",
     "estilo_descripcion": "Para quienes disfrutan de fragancias dulces, envolventes y adictivas."
   },
   {
     "nombre_completo": "AL WATANIAH - al Layl | EDP",
     "marca": "AL WATANIAH",
+    "notas_salida": "lavanda, bergamota",
+    "notas_corazon": "frambuesa, jazmin, durazno, rosa",
+    "notas_fondo": "cafe, cachemira, almizcle, sandalo, pachuli",
     "generada": true,
     "familia_olfativa": "Afrutado, Dulce, Amaderado, Floral blanco, Café, Atalcado, Cálido especiado, Almizclado, Rosas, Lavanda",
     "momento_dia": "Tarde / Noche",
@@ -21190,12 +21208,15 @@
     "duracion": "Prolongada (7h a 9h)",
     "estela": "Intensa",
     "proyeccion": "Alta",
-    "descripcion": "Un perfume dulce y envolvente, con frambuesa, cafe y lavanda. Deja una estela golosa y adictiva que invita a acercarse.",
+    "descripcion": "Un perfume dulce y envolvente, con lavanda, frambuesa y cafe. Deja una estela golosa y adictiva que invita a acercarse.",
     "estilo_descripcion": "Para quienes disfrutan de fragancias dulces, envolventes y adictivas."
   },
   {
     "nombre_completo": "ORIENTICA - Amber Rouge | EDP",
     "marca": "ORIENTICA",
+    "notas_salida": "azafran",
+    "notas_corazon": "jazmin",
+    "notas_fondo": "amberwood, ambar gris, cedro, resina de abeto",
     "generada": true,
     "familia_olfativa": "Ámbar, Amaderado, Cálido especiado, Metalico, Floral blanco, Animálico, Cuero, Tabaco",
     "momento_dia": "Tarde / Noche",
@@ -21211,6 +21232,9 @@
   {
     "nombre_completo": "AZZARO - Chrome | EDT",
     "marca": "AZZARO",
+    "notas_salida": "limon, romero, bergamota, neroli, ciclamen, cilantro, cardamomo, piña",
+    "notas_corazon": "jazmin",
+    "notas_fondo": "musgo de roble, almizcle, musgo de roble, cedro, sandalo, palo de rosa de brasil, haba tonka",
     "generada": true,
     "familia_olfativa": "Cítrico, Aromático, Amaderado, Fesco especiado, Floral blanco, Fresco, Floral, Dulce, Atalcado, Almizclado",
     "momento_dia": "Día / Tarde",
@@ -21220,7 +21244,7 @@
     "duracion": "Moderada (5h a 7h)",
     "estela": "Moderada",
     "proyeccion": "Media",
-    "descripcion": "Un perfume fresco y luminoso, con limon, romero y bergamota. Deja una estela limpia, fácil de llevar todos los días.",
+    "descripcion": "Un perfume fresco y luminoso, con limon, jazmin y musgo de roble. Deja una estela limpia, fácil de llevar todos los días.",
     "estilo_descripcion": "Pensado para quienes buscan frescura limpia y versátil para todos los días."
   },
   {
@@ -21241,6 +21265,9 @@
   {
     "nombre_completo": "BVLGARI - Man In Black | Parfum",
     "marca": "BVLGARI",
+    "notas_salida": "especias, elemi",
+    "notas_corazon": "iris, nardos",
+    "notas_fondo": "notas amaderadas, benjui",
     "generada": true,
     "familia_olfativa": "Cálido especiado, Amaderado, Ámbar, Iris, Aromático, Nardos, Balsámico, Atalcado, Floral blanco, Violeta",
     "momento_dia": "Tarde / Noche",
@@ -21250,12 +21277,15 @@
     "duracion": "Excepcional (8h a 12h)",
     "estela": "Intensa",
     "proyeccion": "Muy alta",
-    "descripcion": "Un perfume cálido y amaderado, con especias, elemi y iris. Deja una estela intensa y con carácter que perdura por horas.",
+    "descripcion": "Un perfume cálido y amaderado, con especias, iris y notas amaderadas. Deja una estela intensa y con carácter que perdura por horas.",
     "estilo_descripcion": "Diseñado para una presencia fuerte y de carácter, con estela que deja huella."
   },
   {
     "nombre_completo": "CAROLINA HERRERA - Bad Boy | Elixir",
     "marca": "CAROLINA HERRERA",
+    "notas_salida": "salvia, lavanda",
+    "notas_corazon": "iris",
+    "notas_fondo": "cuero, cedro, incienso",
     "generada": true,
     "familia_olfativa": "Cuero, Amaderado, Animálico, Aromático, Ahumado, Herbal",
     "momento_dia": "Tarde / Noche",
@@ -21265,7 +21295,7 @@
     "duracion": "Excepcional (8h a 12h)",
     "estela": "Intensa",
     "proyeccion": "Muy alta",
-    "descripcion": "Un perfume cálido y amaderado, con salvia, lavanda y cuero. Deja una estela intensa y con carácter que perdura por horas.",
+    "descripcion": "Un perfume cálido y amaderado, con salvia, iris y cuero. Deja una estela intensa y con carácter que perdura por horas.",
     "estilo_descripcion": "Diseñado para una presencia fuerte y de carácter, con estela que deja huella."
   },
   {
@@ -21286,11 +21316,17 @@
   {
     "nombre_completo": "MOSCHINO - Toy 2 Pearl | EDP",
     "marca": "MOSCHINO",
+    "notas_salida": "limon, oregano, arena",
+    "notas_corazon": "fresia, jazmin",
+    "notas_fondo": "almizcle, vetiver, cipres",
     "generada": true
   },
   {
     "nombre_completo": "ELIZABETH ARDEN - 5th Avenue NYC Limited Editon | EDP",
     "marca": "ELIZABETH ARDEN",
+    "notas_salida": "manzana, bergamota, grosellas negras",
+    "notas_corazon": "durazno, peonia, jazmin, flor del ciruelo",
+    "notas_fondo": "vainilla, haba tonka, almizcle, sandalo, ambar",
     "generada": true,
     "familia_olfativa": "Afrutados, Avainillado, Florales, Atalcado, Fresco, Dulce, Ámbar, Amaderado, Almizclado, Aromático",
     "momento_dia": "Tarde / Noche",
@@ -21300,12 +21336,15 @@
     "duracion": "Prolongada (7h a 9h)",
     "estela": "Intensa",
     "proyeccion": "Alta",
-    "descripcion": "Un perfume dulce y envolvente, con durazno, manzana y bergamota. Deja una estela golosa y adictiva que invita a acercarse.",
+    "descripcion": "Un perfume dulce y envolvente, con manzana, durazno y vainilla. Deja una estela golosa y adictiva que invita a acercarse.",
     "estilo_descripcion": "Para quienes disfrutan de fragancias dulces, envolventes y adictivas."
   },
   {
     "nombre_completo": "ARMAF - Club de Nuit Fuego Intenso | EDP",
     "marca": "ARMAF",
+    "notas_salida": "bergamota, mandarina, pomelo, grosellas negras, pimienta rosa, lavanda, piña chamuscada, terebinto",
+    "notas_corazon": "ciruela, geranio, flores solares",
+    "notas_fondo": "almizcle blanco, pachuli, haba tonka, cedro, vainilla, miel, ambrettolide",
     "generada": true,
     "familia_olfativa": "Cítrico, Afrutados, Aromático, Fesco especiado, Almizclado, Amaderado, Dulce, Especiado suave, Avainillado, Lavanda",
     "momento_dia": "Día / Tarde",
@@ -21315,12 +21354,15 @@
     "duracion": "Moderada (5h a 7h)",
     "estela": "Moderada",
     "proyeccion": "Media",
-    "descripcion": "Un perfume fresco y luminoso, con piña chamuscada, bergamota y mandarina. Deja una estela limpia, fácil de llevar todos los días.",
+    "descripcion": "Un perfume fresco y luminoso, con bergamota, ciruela y almizcle blanco. Deja una estela limpia, fácil de llevar todos los días.",
     "estilo_descripcion": "Pensado para quienes buscan frescura limpia y versátil para todos los días."
   },
   {
     "nombre_completo": "AL WATANIAH - Watani Pink | EDP",
     "marca": "AL WATANIAH",
+    "notas_salida": "citricos",
+    "notas_corazon": "nardos, flores blancas, notas dulces",
+    "notas_fondo": "cacao, notas amaderadas, pachuli",
     "generada": true,
     "familia_olfativa": "Floral blanco, Amaderado, Nardos, Pachulí, Cálido especiado, Animálico, Terrosos",
     "momento_dia": "Tarde / Noche",
@@ -21330,22 +21372,7 @@
     "duracion": "Excepcional (8h a 12h)",
     "estela": "Intensa",
     "proyeccion": "Muy alta",
-    "descripcion": "Un perfume cálido y amaderado, con nardos, flores blancas y cacao. Deja una estela intensa y con carácter que perdura por horas.",
-    "estilo_descripcion": "Diseñado para una presencia fuerte y de carácter, con estela que deja huella."
-  },
-  {
-    "nombre_completo": "ARMAF - Ombre D´Or | EDP",
-    "marca": "ARMAF",
-    "generada": true,
-    "familia_olfativa": "Metalico, Cálido especiado, Ámbar, Amaderado, Almizclado, Atalcado, Cuero, Ahumado, Cítrico, Tabaco",
-    "momento_dia": "Tarde / Noche",
-    "estacion": "Otoño / Invierno",
-    "clima": "Templado / Fresco / Frío",
-    "ocasion": "Eventos, salidas nocturnas y reuniones de alto nivel.",
-    "duracion": "Excepcional (8h a 12h)",
-    "estela": "Intensa",
-    "proyeccion": "Muy alta",
-    "descripcion": "Un perfume cálido y amaderado, con almizcle, lima y azafran. Deja una estela intensa y con carácter que perdura por horas.",
+    "descripcion": "Un perfume cálido y amaderado, con citricos, nardos y cacao. Deja una estela intensa y con carácter que perdura por horas.",
     "estilo_descripcion": "Diseñado para una presencia fuerte y de carácter, con estela que deja huella."
   }
 ]

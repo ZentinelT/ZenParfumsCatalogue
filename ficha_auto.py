@@ -68,9 +68,83 @@ def acordes_ordenados(acordes):
     return out
 
 
+# posición de cada nota en la pirámide (convención de perfumería), para partir
+# las listas que Belle manda planas. Clave = nota sin acentos, en minúscula.
+_SALIDA = {
+    "bergamota", "limon", "mandarina", "naranja", "toronja", "pomelo", "lima",
+    "kumquat", "cidra", "petit grain", "neroli", "citrico", "citricos", "piña",
+    "manzana", "pera", "pera nashi", "grosellas negras", "grosella negra",
+    "cassis", "grosellas", "bayas", "arandano", "lavanda", "romero", "menta",
+    "albahaca", "cilantro", "salvia", "aldehidos", "ozono", "notas marinas",
+    "notas acuaticas", "hojas verdes", "notas verdes", "galbano", "anis",
+    "pimienta rosa", "cardamomo", "jengibre", "azafran", "ciclamen", "hoja de violeta",
+    "champan", "absenta", "estragon", "eucalipto", "mentol", "hierbabuena",
+}
+_CORAZON = {
+    "jazmin", "rosa", "rosas", "iris", "raiz de lirio", "lirio", "lirio de los valles",
+    "muguete", "ylang-ylang", "ylang", "nardos", "nardo", "azucena", "jacinto",
+    "madreselva", "magnolia", "peonia", "gardenia", "tuberosa", "geranio", "violeta",
+    "flor de azahar", "flor de azahar del naranjo", "azahar", "freesia", "fresia",
+    "frambuesa", "durazno", "melocoton", "ciruela", "fresa", "maracuya", "litchi",
+    "frutas rojas", "flores blancas", "flores", "flor de loto", "loto", "osmanto",
+    "canela", "clavo", "nuez moscada", "pimienta", "comino", "cafe en flor",
+    "te verde", "te", "ciclamen",
+}
+_FONDO = {
+    "almizcle", "almizcle blanco", "almizcle ambreta", "musgo", "musgo de roble",
+    "vainilla", "haba tonka", "tonka", "sandalo", "cedro", "vetiver", "pachuli",
+    "ambar", "ambar gris", "ambarino", "amberwood", "cachemira", "cashmeran",
+    "oud", "agarwood", "incienso", "olibano", "mirra", "benjui", "labdano",
+    "cuero", "gamuza", "abedul", "tabaco", "caramelo", "chocolate", "cacao",
+    "cafe", "praline", "malvavisco", "crema batida", "crema", "leche", "coco",
+    "avellana", "nuez", "nueces", "almendra", "miel", "resina", "resina de abeto",
+    "notas amaderadas", "madera", "maderas", "maderas secas", "palo santo",
+    "palo de rosa", "palo de rosa de brasil", "guayaco", "oud blanco",
+    "trozos de madera a la deriva", "driftwood", "patchouli", "storax", "styrax",
+    "sandalo cremoso", "ambroxan", "musk", "castoreum", "civeta",
+}
+
+
+def _norm_nota(n):
+    return _sinac(re.sub(r"\([^)]*\)", "", n)).strip(" .").strip()
+
+
+def clasificar_plana(plano):
+    """Parte una lista plana de notas en (salida, corazón, fondo) por convención de
+    perfumería; las notas desconocidas se reparten por su orden en la lista (Belle
+    las manda de arriba hacia abajo). Devuelve 3 strings o None si queda muy pobre."""
+    items = [x.strip(" .").strip() for x in re.split(r"[,;·]", plano) if x.strip()]
+    items = [x for x in items if x]
+    if len(items) < 3:
+        return None, None, None
+    n = len(items)
+    buckets = {"sal": [], "cor": [], "fon": []}
+    desconocidas = []
+    for i, it in enumerate(items):
+        key = _norm_nota(it)
+        if key in _SALIDA:
+            buckets["sal"].append(it)
+        elif key in _CORAZON:
+            buckets["cor"].append(it)
+        elif key in _FONDO:
+            buckets["fon"].append(it)
+        else:
+            desconocidas.append((i, it))
+    # desconocidas: por su posición relativa en la lista original
+    for i, it in desconocidas:
+        frac = i / max(1, n - 1)
+        dest = "sal" if frac < 0.34 else ("cor" if frac < 0.67 else "fon")
+        buckets[dest].append(it)
+    # si algún nivel quedó vacío, no forzamos una pirámide falsa
+    if not all(buckets.values()):
+        return None, None, None
+    return (", ".join(buckets["sal"]), ", ".join(buckets["cor"]), ", ".join(buckets["fon"]))
+
+
 def piramide_de_notas(notas):
     """(salida, corazon, fondo, plano). Si trae los rótulos, parte la pirámide;
-    si no, devuelve el texto plano en el 4º valor."""
+    si viene plana, intenta clasificarla por convención; si no se puede, la deja
+    plana en el 4º valor."""
     if not notas:
         return None, None, None, None
     t = re.sub(r"\s+", " ", str(notas)).strip()
@@ -85,7 +159,12 @@ def piramide_de_notas(notas):
                 m[key] = val
     if m:
         return m.get("sal"), m.get("cor"), m.get("fon"), None
-    return None, None, None, t.strip(" .;:-")
+    # lista plana: intentar clasificar por convención
+    plano = t.strip(" .;:-")
+    sal, cor, fon = clasificar_plana(plano)
+    if sal or cor or fon:
+        return sal, cor, fon, None
+    return None, None, None, plano
 
 
 # ejes olfativos para deducir el perfil
