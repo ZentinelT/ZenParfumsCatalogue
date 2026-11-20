@@ -60,3 +60,4 @@ body[data-theme="dark"] .pz .pw.pz-ib.on{color:#ff6b5b}
 @media(max-width:900px) and (orientation:landscape){
   .pm.pz{height:96vh;grid-template-columns:36% 1fr}
 }
+.pz-estim{font-size:11px;line-height:1.5;color:var(--mg);font-weight:300;font-style:italic;margin:18px 0 4px;opacity:.85}

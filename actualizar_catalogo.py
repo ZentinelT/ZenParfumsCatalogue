@@ -39,7 +39,7 @@ headers = {
     "Origin": "https://zenparfums.com",
     "Referer": "https://zenparfums.com/",
 }
-params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med,kit_componentes,agregados"}
+params = {"select": "id,empresa,nombre,stock_actual,cat_catalogo,precio_may_ars,precio_med_ars,precio_min_ars,precio_ml,imagen_url,notas,acordes,activo,etiqueta,descripcion,ml,oculto,costo_ind,costo_log,gan_usd_may,gan_usd_med,kit_componentes,agregados"}
 
 print("Descargando productos...")
 response = requests.get(API_URL, headers=headers, params=params, timeout=30)
@@ -673,13 +673,61 @@ for r in registros:
 if kits_solo_extras:
     print(f"KITs sin componentes con extras: {kits_solo_extras}")
 
+# ---------- 6e. FICHAS GENERADAS PARA PRODUCTOS SIN FICHA PROPIA ----------
+# La tabla fichas_perfume de Belle dejó de devolvernos filas (nov/2026). Para que
+# los productos sin ficha no queden mudos, generamos una a partir de las notas +
+# acordes que Belle sí sigue mandando por producto. Quedan marcadas "generada" y
+# el front las rotula como estimadas. Si Belle vuelve a mandar la ficha real, esa
+# gana (sólo generamos para nombres que no están en las fichas reales).
+import ficha_auto
+
+if fichas_registros is not None:
+    fichas_base = [f for f in fichas_registros if not f.get("generada")]
+else:
+    # Belle no mandó fichas: partimos de las reales que ya hay en el archivo,
+    # descartando las generadas de corridas anteriores para rehacerlas limpias.
+    try:
+        with open("data/fichas.json", encoding="utf-8") as _fj:
+            fichas_base = [f for f in json.load(_fj) if not f.get("generada")]
+    except Exception:
+        fichas_base = []
+
+nombres_con_ficha = {(f.get("nombre_completo") or "").strip() for f in fichas_base}
+crudo_por_nombre = {}
+for _p in productos_belle_raw:
+    _nom = str(_p.get("nombre", "")).strip()
+    if _nom:
+        crudo_por_nombre[_nom] = _p
+
+fichas_generadas = []
+for r in registros:
+    nombre = (r.get("n") or "").strip()
+    # el kit de un componente ya hereda la ficha de su perfume (campo fn): no generar
+    if not nombre or nombre in nombres_con_ficha or r.get("fn"):
+        continue
+    crudo = crudo_por_nombre.get(nombre, {})
+    fg = ficha_auto.generar_ficha(nombre, r.get("b", ""), crudo.get("notas"), crudo.get("acordes"))
+    if fg:
+        fichas_generadas.append(fg)
+        nombres_con_ficha.add(nombre)
+
+if fichas_generadas:
+    print(f"Fichas generadas automáticamente (sin ficha propia): {len(fichas_generadas)}")
+
+# Archivo final = fichas reales + generadas. Se escribe siempre que la base real
+# tenga volumen razonable (guarda anti-vaciado: si Belle Y el archivo vinieron
+# vacíos, no tocamos nada).
+fichas_salida = fichas_base + fichas_generadas
+
 # ---------- 7. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
     json.dump(registros, f, ensure_ascii=False, indent=2)
 
-if fichas_registros is not None:
+if len(fichas_base) >= 100:
     with open("data/fichas.json", "w", encoding="utf-8") as f:
-        json.dump(fichas_registros, f, ensure_ascii=False, indent=2)
+        json.dump(fichas_salida, f, ensure_ascii=False, indent=2)
+else:
+    print(f"AVISO: base de fichas reales demasiado chica ({len(fichas_base)}). No se reescribe fichas.json.")
 
 print("Listo: data/products.json, data/fichas.json y data/novedades.json actualizados.")
 

@@ -119,6 +119,7 @@ function openProduct(id, goFicha) {
         pzSec("", "Para quién es", f.estilo_descripcion ? "<p class=\"pz-p\">" + esc(f.estilo_descripcion) + "</p>" : (f.perfil_usuario ? "<p class=\"pz-p\">" + esc(f.perfil_usuario) + "</p>" : "")) +
         pzSec("", "Inspirado en", insp) +
         pzSec("pzFicha", "Ficha técnica", more ? "<div class=\"pz-facts pz-facts2\">" + more + "</div>" : "") +
+        (f.generada ? "<p class=\"pz-estim\">✶ Perfil estimado a partir de las notas y los acordes del perfume.</p>" : "") +
         renderSimilarSection(p) +
       "</div>" +
       "<div class=\"pz-bar\">" + priceH +

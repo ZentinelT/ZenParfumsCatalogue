@@ -91,6 +91,7 @@ section.blk{margin-top:70px}
 .nl{font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);margin-bottom:4px}
 .nv{font-family:"Cormorant Garamond",Georgia,serif;font-size:25px;color:var(--ink);line-height:1.3}
 .txt{max-width:740px;font-size:16px;color:var(--txt)}
+.estim{max-width:740px;font-size:12px;font-style:italic;color:var(--mut);opacity:.85;margin-top:24px}
 .insp{display:flex;gap:18px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:12px;max-width:740px}
 .insp img{width:70px;height:94px;object-fit:cover;border-radius:6px;flex-shrink:0;background:#fff}
 .insp b{display:block;font-family:"Cormorant Garamond",Georgia,serif;font-size:22px;font-weight:500;color:var(--gold2);margin-bottom:4px}
@@ -224,6 +225,7 @@ for p in P:
 {sec('Descripción', ('<p class="txt">' + esc(desc_f) + '</p>') if desc_f else '')}
 {sec('Para quién es', ('<p class="txt">' + esc(estilo) + '</p>') if estilo else '')}
 {sec('Inspirado en', insp)}
+{'<p class="estim">✶ Perfil estimado a partir de las notas y los acordes del perfume.</p>' if f.get('generada') else ''}
 {sec('Más de ' + esc(brand), more)}
 </main>
 <footer><a class="logo" href="/">Zen Parfums</a>Perfumes originales · Córdoba, Argentina</footer>

@@ -4,3 +4,11 @@
 # Sistema
 .DS_Store
 .env
+
+# Python
+__pycache__/
+*.pyc
+
+# Local — no publicar
+logs/
+fotos_productos/
