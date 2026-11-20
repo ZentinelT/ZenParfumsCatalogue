@@ -184,6 +184,17 @@ def nombre_corto(nombre):
     s = s.split("|")[0]
     return re.sub(r"\s+", " ", s).strip()
 
+def extras_de(kit_row):
+    """Los 'agregados' de Belle, cargados a mano: 'Gel de ducha - 100 ml' -> 'Gel de ducha 100ml'."""
+    out = []
+    for x in (kit_row.get("agregados") or []):
+        x = re.sub(r"\s*-\s*(?=\d)", " ", str(x).strip())
+        x = re.sub(r"(\d)\s*ml\b", r"\1ml", x, flags=re.IGNORECASE)
+        x = re.sub(r"\s+", " ", x).strip()
+        if x:
+            out.append(x)
+    return out
+
 def texto_notas(row):
     """Primer campo con texto util entre los alias de descripcion/notas de Belle."""
     for key in NOTA_KEYS:
@@ -528,14 +539,15 @@ if notas_enriquecidas:
 # asi que salia disfrazada de piramide olfativa. Se limpio la ficha y la lista se arma
 # aca, en el campo "ki". El ml sale del kit, no del componente: el Badee 4x25 trae
 # miniaturas de 25ml pero sus componentes son los frascos de 100ml.
-# El resto de los kits multiperfume (Pride Box, Discovery Set, Asad 4x25) va sin linea.
-KITS_MULTI_CON_LISTA = [2098, 2104, 2178, 2179]
+# La lista se arma para cualquier kit de 2 o mas componentes. Estos cuatro ademas
+# traian la lista metida en notas_salida, asi que hay que limpiarles las notas.
+KITS_NOTAS_SUCIAS = [2098, 2104, 2178, 2179]
 
 multi_listados = 0
 for r in registros:
-    if r["id"] not in KITS_MULTI_CON_LISTA:
-        continue
     kit_row = PRODUCTOS_BELLE.get(r["id"], {})
+    if len(kit_row.get("kit_componentes") or []) < 2:
+        continue
     ml_kit = kit_row.get("ml")
     partes = []
     for cid in (kit_row.get("kit_componentes") or []):
@@ -547,11 +559,13 @@ for r in registros:
             partes.append(f"{corto} {int(ml_kit)}ml" if ml_kit else corto)
         except (TypeError, ValueError):
             partes.append(corto)
+    partes += extras_de(kit_row)
     if len(partes) > 1:
         r["ki"] = "El set incluye: " + " · ".join(partes)
-        # Belle manda la misma lista en "notas", y el front la pinta como piramide
-        # olfativa. Ya quedo en "ki", asi que se limpia para no duplicarla disfrazada.
-        r["nt"] = "—"
+        if r["id"] in KITS_NOTAS_SUCIAS:
+            # Belle manda la misma lista en "notas", y el front la pinta como piramide
+            # olfativa. Ya quedo en "ki", asi que se limpia para no duplicarla disfrazada.
+            r["nt"] = "—"
         multi_listados += 1
 if multi_listados:
     print(f"KITs multiperfume con lista de contenido: {multi_listados}")
@@ -602,14 +616,7 @@ for r in registros:
     # "El set incluye: <perfume> <ml> · <extra> · <extra>", mismo formato que usan los
     # kits que Belle describe a mano. Sale de kit_componentes + agregados.
     kit_row = PRODUCTOS_BELLE.get(r["id"], {})
-    extras = []
-    for x in (kit_row.get("agregados") or []):
-        # Belle los carga a mano: "Gel de ducha - 100 ml" -> "Gel de ducha 100ml"
-        x = re.sub(r"\s*-\s*(?=\d)", " ", str(x).strip())
-        x = re.sub(r"(\d)\s*ml\b", r"\1ml", x, flags=re.IGNORECASE)
-        x = re.sub(r"\s+", " ", x).strip()
-        if x:
-            extras.append(x)
+    extras = extras_de(kit_row)
     if extras:
         ml_comp = comp.get("ml") or kit_row.get("ml")
         corto = nombre_corto(nombre_comp)
@@ -635,6 +642,36 @@ for r in registros:
         kits_heredados += 1
 if kits_heredados:
     print(f"KITs de un componente con descripción heredada: {kits_heredados}")
+
+# ---------- 6d. KITS SIN COMPONENTES, SOLO CON EXTRAS ----------
+# Belle no les carga kit_componentes porque el perfume del kit no existe suelto en el
+# catalogo (p.ej. Rome Yum Yum). La cabeza de la linea sale del nombre del propio kit,
+# sin la palabra KIT, y el resto de los agregados.
+# Se pide "kit" en el nombre a proposito: hay productos normales con agregados
+# (Mandora con decan, los dos Raghba con desodorante) que no son sets y no deberian
+# decir "El set incluye".
+kits_solo_extras = 0
+for r in registros:
+    if r.get("ki") or not re.search(r"\bkits?\b", str(r.get("n", "")), flags=re.IGNORECASE):
+        continue
+    kit_row = PRODUCTOS_BELLE.get(r["id"], {})
+    if kit_row.get("kit_componentes"):
+        continue
+    extras = extras_de(kit_row)
+    if not extras:
+        continue
+    corto = re.sub(r"\s*\bkits?\b\s*$", "", nombre_corto(str(r.get("n", ""))), flags=re.IGNORECASE).strip()
+    if not corto:
+        continue
+    ml_kit = kit_row.get("ml")
+    try:
+        cabeza = f"{corto} {int(ml_kit)}ml" if ml_kit else corto
+    except (TypeError, ValueError):
+        cabeza = corto
+    r["ki"] = "El set incluye: " + " · ".join([cabeza] + extras)
+    kits_solo_extras += 1
+if kits_solo_extras:
+    print(f"KITs sin componentes con extras: {kits_solo_extras}")
 
 # ---------- 7. ESCRIBIR LOS JSON DE DATOS ----------
 with open("data/products.json", "w", encoding="utf-8") as f:
