@@ -1,7 +1,7 @@
 :root{
   --w:#dacbb1;--ow:#d2c1a3;--lg:#c7b191;--mg:#a58e72;
   --gr:#6e5f4d;--dg:#41372e;--bk:#1d1710;
-  --go:#5a4320;--gl:#d1b17b;--gp:#efe2c8;
+  --go:#5a4320;--gl:#d1b17b;--gp:#efe2c8;--photo-bg:#f4eee3;
   --fd:"Cormorant Garamond",Georgia,serif;
   --fb:"Inter",system-ui,sans-serif;
   --r4:4px;--r8:8px;--r16:16px;
@@ -16,7 +16,7 @@
 body[data-theme="dark"]{
   --w:#2a221b;--ow:#332a1e;--lg:#493925;--mg:#8c7c66;
   --gr:#bfb09a;--dg:#e5dccb;--bk:#f8f3e9;
-  --go:#c8a66a;--gl:#e0c089;--gp:#3f3223;
+  --go:#c8a66a;--gl:#e0c089;--gp:#3f3223;--photo-bg:#e8e0d1;
   --sh:0 2px 20px rgba(0,0,0,.28);
   --shh:0 10px 40px rgba(0,0,0,.36);
   --sho:0 6px 24px rgba(200,166,106,.18);
@@ -224,8 +224,10 @@ body:not([data-theme="dark"]) .cc:hover .cc-l{color:var(--go)}
 .pg{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
 /* CARD */
 .pc{background:var(--w);border-radius:var(--r8);overflow:hidden;box-shadow:var(--sh);transition:all var(--t) var(--e);position:relative;display:flex;flex-direction:column}
-.pc-img{position:relative;aspect-ratio:1;overflow:hidden;background:#111;display:flex;align-items:center;justify-content:center;flex-shrink:0}
-.pc-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform var(--ts) var(--e)}
+.pc-img{position:relative;aspect-ratio:1;overflow:hidden;background:var(--photo-bg);isolation:isolate;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+/* contain + multiply: el frasco entra entero y el fondo blanco de la foto
+   desaparece contra el panel crema (igual que en las placas para redes) */
+.pc-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:14px;mix-blend-mode:multiply;transition:transform var(--ts) var(--e)}
 .pc-svg{opacity:.4;z-index:0;pointer-events:none}
 .pbadge{position:absolute;top:12px;left:12px;padding:4px 10px;font-size:9px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;border-radius:100px;z-index:2}
 .b-s{background:#c0392b;color:#fff}.b-n{background:var(--bk);color:#fff}
@@ -536,8 +538,8 @@ body[data-theme="dark"] .stock-toggle-tk::after{background:var(--dg)}
 @media(max-width:640px){.sim-arrow{display:none}.sim-fade{width:28px}}
 .scard{flex:0 0 168px;scroll-snap-align:start;background:var(--w);border-radius:var(--r8);overflow:hidden;box-shadow:var(--sh);transition:transform var(--t) var(--e),box-shadow var(--t) var(--e);cursor:pointer;border:1px solid var(--lg);display:flex;flex-direction:column}
 .scard:hover{transform:translateY(-3px);box-shadow:var(--shh)}
-.scard-img{position:relative;aspect-ratio:1;background:#111;flex-shrink:0}
-.scard-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.scard-img{position:relative;aspect-ratio:1;background:var(--photo-bg);isolation:isolate;overflow:hidden;flex-shrink:0}
+.scard-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:8px;mix-blend-mode:multiply}
 .scard-match{position:absolute;top:8px;right:8px;background:rgba(20,16,10,.72);color:#f3e6c8;font-size:10px;font-weight:600;font-variant-numeric:tabular-nums;padding:4px 9px;border-radius:100px;white-space:nowrap}
 .scard-bd{padding:11px 12px 13px;display:flex;flex-direction:column;flex:1}
 .scard-br{font-size:9px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--go);margin-bottom:3px}

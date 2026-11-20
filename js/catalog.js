@@ -109,7 +109,7 @@ function _novedadesFiltroActivo() {
 function _novedadesCardHTML(p, badgeLabel, badgeClass) {
   var nm   = cleanName(p.n);
   var imgH = p.i
-    ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" loading=\"lazy\" onerror=\"this.style.display=&quot;none&quot;\">"
+    ? "<img src=\"" + p.i + "\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" loading=\"lazy\" onerror=\"this.style.display=&quot;none&quot;\">"
     : "";
   var dis  = p.st === "out" ? " disabled" : "";
   var priceHtml = p.st === "out"
@@ -185,7 +185,7 @@ function renderProds() {
     var nm   = cleanName(p.n);
     var dis  = p.st === "out" ? " disabled" : "";
     var imgH = p.i
-      ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" loading=\"lazy\" onerror=\"this.style.display=&quot;none&quot;\">"
+      ? "<img src=\"" + p.i + "\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" loading=\"lazy\" onerror=\"this.style.display=&quot;none&quot;\">"
       : "";
     var cardNotes = parseNotes(p.nt);
     var ntH = "";
@@ -275,7 +275,7 @@ function openProduct(id) {
   var nm   = cleanName(p.n);
   var dis  = p.st === "out" ? " disabled" : "";
   var imgH = p.i
-    ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" onerror=\"this.style.display='none'\">"
+    ? "<img src=\"" + p.i + "\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" onerror=\"this.style.display='none'\">"
     : "";
   var notesParsed = parseNotes(p.nt);
   var ntH = "";
@@ -584,7 +584,7 @@ function simCardHTML(item) {
   var p = item.product;
   var nm = cleanName(p.n);
   var imgH = p.i
-    ? "<img src=\"" + p.i + "\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" onerror=\"this.style.display='none'\">"
+    ? "<img src=\"" + p.i + "\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\" alt=\"" + esc(p.b) + "\" onerror=\"this.style.display='none'\">"
     : "";
 
   // Etiqueta puramente factual (qu\u00E9 coincide), sin opinar sobre cu\u00E1nto se parece el aroma.
