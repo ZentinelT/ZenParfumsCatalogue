@@ -20,7 +20,7 @@
     "p": 84900,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1983_4dqpze.jpg",
     "nt": "Salida Limón, menta, grosella negra, pimienta rosa Notas de corazón: Manzana verde, incienso, cedro Notas de fondo: Jengibre, sándalo, jazmín, pachulí",
     "p1": "$84.900"
@@ -33,7 +33,7 @@
     "p": 75100,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1984_ok0z37.jpg",
     "nt": "Salida Manzana, canela, lavanda silvestre, bergamota Notas de corazón: Flor de azahar, lirio de los valles Notas de fondo: Vainilla, haba tonka, ámbar, pachulí",
     "p1": "$75.100"
@@ -126,7 +126,7 @@
     "p": 142700,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1991_pd7n4q.jpg",
     "nt": "Salida Piña, bergamota, flores blancas, manzana Notas de corazón: Flor de azahar, abedul, ámbar Notas de fondo: Musgo de roble, almizcle, ámbar gris",
     "p1": "$142.700"
@@ -139,7 +139,7 @@
     "p": 113300,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1992_17oov1.webp",
     "nt": "Salida Grosella negra, bergamota, manzana Notas de corazón: Musgo de roble, pachulí, lavanda Notas de fondo: Ámbar gris, almizcle, azafrán",
     "p1": "$113.300"
@@ -178,7 +178,7 @@
     "p": 91000,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_1995_k12nwa.jpg",
     "nt": "Salida bergamota, pomelo rosado, pera, mandarina Notas de corazón: flor de azahar del naranjo, manzana, cedro Notas de fondo: vainilla, ámbar, almizcle",
     "p1": "$91.000"
@@ -375,7 +375,7 @@
     "p": 66700,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2010_fx16m2.jpg",
     "nt": "Salida Azafran, rosa, pimienta negra Notas de corazón: Oud, caramelo, pachulí, notas florales Notas de fondo: Incienso, ámbar, Maderas, almizcle",
     "p1": "$66.700"
@@ -427,7 +427,7 @@
     "p": 63400,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2014_oelr2i.jpg",
     "nt": "Salida Frambuesa, Moras azules, Grosellas negras, Cereza, Fresa Notas de corazón: Jazmín, Violeta Notas de fondo: Almizcle, Musgo de roble, Ámbar, Pétalos de rosas, Vainilla, Cachemira, Pachulí",
     "p1": "$63.400"
@@ -661,7 +661,7 @@
     "p": 96300,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2032_d8i39v.jpg",
     "nt": "Salida: Bergamota, pimienta rosa, flor de azahar, jazmín Notas de corazón: Lavanda, elemí, geranio, vetiver, azafrán Notas de fondo: Ambroxan, ámbar, pachulí, cedro, ládano",
     "p1": "$96.300"
@@ -788,13 +788,13 @@
     "b": "ARMAF",
     "n": "ARMAF - Odyssey Go Mango | EDP",
     "s": "100ml",
-    "p": 73500,
+    "p": 71800,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2042_8rt7ec.jpg",
     "nt": "Salida Limón, pimienta rosa, jengibre, flores blancas Notas de corazón: Mango, haba tonka, madera seca Notas de fondo: Ámbar, vainilla, madera de gaiac, almizcle, frutos secos",
-    "p1": "$73.500"
+    "p1": "$71.800"
   },
   {
     "id": 2043,
@@ -934,7 +934,7 @@
     "p": 66700,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2053_fqxl9j.jpg",
     "nt": "Salida pimienta, bergamota, limón, menta Notas de corazón: lavanda, pimienta rosa, jengibre, vetiver Notas de fondo: cedro, pachuli, elemi, sandalo, almizcle, vetiver",
     "p1": "$66.700"
@@ -1402,7 +1402,7 @@
     "p": 95300,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2089_fledor.jpg",
     "nt": "Salida Mango, Limón, Jengibre, Ruibarbo Notas de corazón: Jazmín, Violeta, Praliné, Pimienta rosa Notas de fondo: Haba tonka, Cedro, Ámbar gris, Musgo",
     "p1": "$95.300"
@@ -1530,13 +1530,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Asad Zanzibar | EDP",
     "s": "100ml",
-    "p": 75200,
+    "p": 71700,
     "c": "arabes",
     "g": "hombre",
     "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2099_fiycib.jpg",
     "nt": "Salida Lavanda, pimienta negra Notas de corazón: Agua de coco, iris, sal Notas de fondo: Vainilla, incienso",
-    "p1": "$75.200"
+    "p1": "$71.700"
   },
   {
     "id": 2100,
@@ -1556,13 +1556,13 @@
     "b": "LATTAFA",
     "n": "LATTAFA - Bade'e Al Oud Amethyst | EDP",
     "s": "100ml",
-    "p": 71900,
+    "p": 70200,
     "c": "arabes",
     "g": "unisex",
     "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2101_0fx89w.jpg",
     "nt": "Salida: pimienta rosa, bergamota Notas de corazón: rosa turca, rosa de Bulgaria (rosa Damascena de Bulgaria), jazmín Notas de fondo: madera de oud, ámbar, vainilla",
-    "p1": "$71.900"
+    "p1": "$70.200"
   },
   {
     "id": 2102,
@@ -1585,7 +1585,7 @@
     "p": 68800,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2103_vaecxa.jpg",
     "nt": "Salida piña, créme brulée Notas de Corazón: canela, cúrcuma, pimienta negra, benjui Notas de Fondo: sandalo, vainilla, cachemira, musgo",
     "p1": "$68.800"
@@ -1612,7 +1612,7 @@
     "p": 75200,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2105_4vhd6e.jpg",
     "nt": "Salida Leche de rosa (Rose Milk) Notas de corazón: Almendra, merengue Notas de fondo: Vainilla, sándalo, almizcle",
     "p1": "$75.200"
@@ -2015,7 +2015,7 @@
     "p": 67700,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2136_pgbx47.jpg",
     "nt": "Salida lichi, frambuesa, hojas de violeta Notas de corazón: rosa blanca, peonia, jazmin Notas de fondo: almizcle, vainilla",
     "p1": "$67.700"
@@ -2875,7 +2875,7 @@
     "p": 64800,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2202_k6jcxf.jpg",
     "nt": "Salida Pera, Bergamota Notas de corazón: nardos, flor de azahar del naranjo, jazmin sambac Notas de fondo: Pachulí, Ambroxan, Vainilla, Vetiver",
     "p1": "$64.800"
@@ -2914,7 +2914,7 @@
     "p": 70300,
     "c": "arabes",
     "g": "mujer",
-    "st": "ok",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2205_hnvc27.jpg",
     "nt": "Salida Flor de azahar del naranjo, Bergamota Notas de corazón: Tuberosa, Jazmín Notas de fondo: Vainilla, Almizcle, Cedro",
     "p1": "$70.300"
@@ -3122,7 +3122,7 @@
     "p": 65600,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2221_cs37g9.jpg",
     "nt": "Salida haba tonka, canela Notas de corazón: vainilla, jazmin, elemi Notas de fondo: limon, manzana, cedro",
     "p1": "$65.600"
@@ -3135,7 +3135,7 @@
     "p": 64500,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2222_x1phgm.jpg",
     "nt": "Salida Azafrán Notas de corazón: Castaña, Lavanda Notas de fondo: Sándalo, Cedro, Vainilla",
     "p1": "$64.500"
@@ -3148,7 +3148,7 @@
     "p": 102700,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2223_oflcv4.jpg",
     "nt": "Salida Frutas, cítricos Notas de corazón: Notas acuáticas, ámbar Notas de fondo: Almizcle, maderas",
     "p1": "$102.700"
@@ -3226,7 +3226,7 @@
     "p": 87900,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2229_iatkkb.jpg",
     "nt": "Salida Manzana, limón, bergamota, Anís Notas de corazón: Ciruela, flor de azahar, cardamomo Notas de fondo: Almizcle, ámbar, driftwood, musgo",
     "p1": "$87.900"
@@ -3239,7 +3239,7 @@
     "p": 83700,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2230_km3tpo.jpg",
     "nt": "Salida Piña, naranja, pomelo Notas de corazón: Ámbar, iris, lavanda Notas de fondo: Haba tonka, almizcle, cachemira, pachulí",
     "p1": "$83.700"
@@ -4942,7 +4942,7 @@
     "p": 119900,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2364_bwdabz.jpg",
     "nt": "Salida pitahaya, manzana, Coñac, bergamota Notas de corazón: Lavanda, cardamomo, suede Notas de fondo: Cedro, tonka, pachulí, Ambrofix, ámbar",
     "p1": "$119.900"
@@ -5875,13 +5875,13 @@
     "b": "RAYHAAN",
     "n": "RAYHAAN - Cordova | EDP",
     "s": "100ml",
-    "p": 84800,
+    "p": 79500,
     "c": "arabes",
     "g": "unisex",
     "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2441_uchw63.jpg",
     "nt": "Salida: cuero · Corazón: pachuli, cipres · Fondo: ambar, Maderas, vetiver",
-    "p1": "$84.800"
+    "p1": "$79.500"
   },
   {
     "id": 2442,
@@ -6821,7 +6821,7 @@
     "p": 62400,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2519_zku1pq.jpg",
     "nt": "Salida toronja, manzana verde, lila, fresia, moras azules Notas de corazón: te chino, nectarina, azucena, madreselva Notas de fondo: secuoya roja, orquidea, vainilla, ciruela, almizcle, enebro",
     "p1": "$62.400"
@@ -7202,7 +7202,7 @@
     "p": 56000,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2548_sy0zmv.jpg",
     "nt": "Salida azafran, bergamota, geranio Notas de corazón: cuero, rosa, lirio de los valles Notas de fondo: almizcle, maderas, oud",
     "p1": "$56.000"
@@ -7321,7 +7321,7 @@
     "p": 332900,
     "c": "internacional",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2558_fljp6y.jpg",
     "nt": "Salida naranja, bergamota, limon Notas de corazon: frutas Notas de fondo: almizcle, vainilla, ambar",
     "p1": "$332.900"
@@ -7998,7 +7998,7 @@
     "p": 86100,
     "c": "arabes",
     "g": "unisex",
-    "st": "ok",
+    "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2626_xr4adi.jpg",
     "nt": "Salida: Azafrán, bergamota Notas de corazón: Oud, rosa Notas de fondo: Ámbar, almizcle, maderas",
     "p1": "$86.100",
@@ -8106,7 +8106,7 @@
     "p": 69800,
     "c": "arabes",
     "g": "mujer",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2638_zm1v4l.jpg",
     "nt": "Salida: coco, manzana, peonia, limon, lirio de los valles Notas de corazón: malvavisco, fresa, frambuesa, durazno, chabacano, flor de azahar del naranjo Notas de fondo: queso mascarpone, vainilla, praline, almizcle, haba tonka, ambar",
     "p1": "$69.800"
@@ -8220,13 +8220,13 @@
     "b": "FRENCH AVENUE",
     "n": "FRENCH AVENUE - Royal Blend Sequoia | EDP",
     "s": "100ml",
-    "p": 99800,
+    "p": 96300,
     "c": "arabes",
     "g": "unisex",
-    "st": "low",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2647_iyzip9.jpg",
     "nt": "Salida: frambuesa, coñac, licor Notas de corazón: rosa, musgo Notas de fondo: praline, roble, sandalo",
-    "p1": "$99.800"
+    "p1": "$96.300"
   },
   {
     "id": 2648,
@@ -8249,7 +8249,7 @@
     "p": 56000,
     "c": "arabes",
     "g": "hombre",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2649_a2nieb.jpg",
     "nt": "Salida: manzana, notas afrutadas Notas de corazón: notas especiadas, nuez moscada Notas de fondo: ambar, notas amaderadas, almizcle",
     "p1": "$56.000"
@@ -8262,7 +8262,7 @@
     "p": 61600,
     "c": "arabes",
     "g": "hombre",
-    "st": "low",
+    "st": "out",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2650_o7iv9g.jpg",
     "nt": "Salida: bergamota, pimienta, limon Notas de corazón: lavanda, tabaco, geranio Notas de fondo: sandalo, vetiver, almizcle",
     "p1": "$61.600"
@@ -8340,7 +8340,7 @@
     "p": 65600,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2656_180ky4.jpg",
     "nt": "Salida: melon, melon cantalupo, sal, algas, pera, manzana verde, ciruela Notas de corazón: notas acuaticas, nenufar, musgo de roble, incienso Notas de fondo: almizcle, ambar, azucar, cedro",
     "p1": "$65.600"
@@ -8537,7 +8537,7 @@
     "p": 210900,
     "c": "internacional",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2672_41td3j.webp",
     "nt": "Salida: mandarina, albahaca, salvia, pepino, melon · Corazón: geranio · Fondo: gamuza, notas amaderadas, almizcle",
     "p1": "$210.900"
@@ -8550,7 +8550,7 @@
     "p": 99500,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "low",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2673_12b3sd.webp",
     "nt": "Salida: bergamota, elemi, bayas rojas · Corazón: frambuesa, notas aromaticas · Fondo: pachuli, vetiver, ambar, almizcle",
     "p1": "$99.500"
@@ -8576,7 +8576,7 @@
     "p": 65600,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2675_znqeul.webp",
     "nt": "Salida: citricos · Corazón: nardos, flores blancas, notas dulces · Fondo: cacao, notas amaderadas, pachuli",
     "p1": "$65.600"
@@ -8589,7 +8589,7 @@
     "p": 78300,
     "c": "arabes",
     "g": "unisex",
-    "st": "out",
+    "st": "ok",
     "i": "https://rswveinshjizqbjdwnjy.supabase.co/storage/v1/object/public/productos/productos_2676_l2u4i0.webp",
     "nt": "Salida: lima, azafran · Corazón: iris, rosa, notas metalicas · Fondo: almizcle, notas amaderadas, incienso, ambar",
     "p1": "$78.300"
